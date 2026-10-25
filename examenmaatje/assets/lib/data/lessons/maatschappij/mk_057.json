@@ -1,0 +1,544 @@
+{
+  "id": "mk_057",
+  "subject": "maatschappij",
+  "content_type": "practice_test",
+  "title": "Oefentoets – geïnspireerd op examen 2026-2",
+  "goal": "Je oefent met nieuwe examengerichte vragen over onderwerpen uit het examen maatschappijkunde vmbo-BB 2026-2.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Oefentoets examen 2026-2",
+      "text": "Dit zijn nieuwe oefenvragen, geïnspireerd op onderwerpen uit het examen maatschappijkunde vmbo-BB 2026-2. Lees elke vraag rustig en kies het antwoord dat het best past."
+    },
+    {
+      "type": "strategy",
+      "title": "Examentip",
+      "text": "Lees eerst de vraag, markeer belangrijke woorden en gebruik de informatie in de situatie. Denk na over welke instelling, taak, stroming of fase wordt bedoeld."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1 – Democratie en dictatuur",
+      "question": {
+        "id": "mk_057_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Democratie en dictatuur",
+        "skill": "kenmerken van democratische verkiezingen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een land mogen alleen kandidaten van de regeringspartij meedoen aan verkiezingen. Wat zegt dit over de verkiezingen?",
+        "answers": [
+          "Ze zijn niet vrij, omdat kiezers weinig keuze hebben.",
+          "Ze zijn altijd eerlijk, omdat er gestemd wordt.",
+          "Ze geven alle partijen dezelfde kans."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk of kiezers echt tussen verschillende kandidaten kunnen kiezen.",
+        "feedback_correct": "Goed! Bij vrije verkiezingen kunnen kiezers kiezen uit verschillende kandidaten of partijen.",
+        "feedback_wrong": "Als maar één partij kandidaten mag leveren, kunnen kiezers niet vrij kiezen. Verkiezingen houden betekent dus niet automatisch dat ze vrij zijn.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2 – Wetgeving",
+      "question": {
+        "id": "mk_057_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "wetgeving",
+        "skill": "stappen van wetgeving herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een voorstel voor een nieuwe wet is door de Tweede Kamer aangenomen. Welke instelling behandelt het voorstel daarna?",
+        "answers": [
+          "De gemeenteraad",
+          "De Eerste Kamer",
+          "Provinciale Staten"
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de volgende stap in het landelijke wetgevingsproces.",
+        "feedback_correct": "Goed! Na de Tweede Kamer behandelt de Eerste Kamer het wetsvoorstel.",
+        "feedback_wrong": "Na de Tweede Kamer behandelt de Eerste Kamer het wetsvoorstel. Provinciale Staten beslissen over provinciale zaken en de gemeenteraad over gemeentelijke zaken.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3 – Politieke stromingen",
+      "question": {
+        "id": "mk_057_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "politieke uitgangspunten vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een partij vindt dat de overheid armoede moet bestrijden en gelijke kansen moet bevorderen. Welke stroming sluit hier vaak bij aan?",
+        "answers": [
+          "Nationalistische stroming",
+          "Liberale stroming",
+          "Sociaaldemocratische stroming"
+        ],
+        "correct_answer": 2,
+        "hint": "Deze stroming wil verschillen tussen arm en rijk kleiner maken.",
+        "feedback_correct": "Goed! De sociaaldemocratische stroming vindt solidariteit en gelijke kansen belangrijk.",
+        "feedback_wrong": "De sociaaldemocratische stroming wil vaak dat de overheid helpt om armoede en grote verschillen kleiner te maken. De andere stromingen leggen andere accenten.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4 – Politieke invloed",
+      "question": {
+        "id": "mk_057_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "politieke invloed",
+        "skill": "invloed van burgers en organisaties herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een groep ouders stuurt een petitie naar de Tweede Kamer over veilig verkeer rond scholen. Wat proberen zij te bereiken?",
+        "answers": [
+          "Zelf een landelijke wet aannemen.",
+          "Een rechter opdracht geven om een wet te maken.",
+          "Aandacht vragen en proberen het beleid te veranderen."
+        ],
+        "correct_answer": 2,
+        "hint": "De groep vraagt de gekozen vertegenwoordigers om iets te doen.",
+        "feedback_correct": "Goed! Met een petitie vragen burgers aandacht voor een onderwerp en proberen ze besluitvormers te overtuigen.",
+        "feedback_wrong": "Een petitie kan aandacht vragen en druk zetten, maar de groep neemt niet zelf een wet aan en geeft rechters geen opdrachten.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5 – Parlement",
+      "question": {
+        "id": "mk_057_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Parlement",
+        "skill": "volksvertegenwoordiging herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bij welke groep horen de mensen die in de Tweede Kamer zitten?",
+        "answers": [
+          "Het dagelijks bestuur van een gemeente.",
+          "De gekozen volksvertegenwoordigers van het land.",
+          "De rechters die wetten toepassen."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de landelijke vergadering waarin wetten worden besproken.",
+        "feedback_correct": "Goed! Tweede Kamerleden worden gekozen en vertegenwoordigen inwoners op landelijk niveau.",
+        "feedback_wrong": "Tweede Kamerleden zijn landelijke volksvertegenwoordigers. Wethouders horen bij het gemeentebestuur en rechters spreken recht.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6 – Europese unie",
+      "question": {
+        "id": "mk_057_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Europese Unie",
+        "skill": "EU-instellingen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke instelling van de Europese Unie wordt rechtstreeks gekozen door inwoners van EU-landen?",
+        "answers": [
+          "De Raad van de Europese Unie.",
+          "Het Europees Parlement.",
+          "De Europese Commissie."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de verkiezingen waarbij burgers hun vertegenwoordigers in Europa kiezen.",
+        "feedback_correct": "Goed! Inwoners van EU-landen kiezen leden van het Europees Parlement.",
+        "feedback_wrong": "Burgers kiezen rechtstreeks het Europees Parlement. De Europese Commissie en de Raad van de EU worden niet op die manier rechtstreeks door burgers gekozen.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7 – Media en democratie",
+      "question": {
+        "id": "mk_057_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "media en democratie",
+        "skill": "persvrijheid herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een regering verbiedt kranten om kritiek op haar beleid te publiceren. Welk democratisch beginsel wordt hierdoor beperkt?",
+        "answers": [
+          "Persvrijheid",
+          "Recht op onderwijs",
+          "Actief kiesrecht"
+        ],
+        "correct_answer": 0,
+        "hint": "Kranten en journalisten moeten nieuws en kritiek kunnen publiceren.",
+        "feedback_correct": "Goed! Persvrijheid betekent dat journalisten nieuws en kritiek kunnen publiceren zonder dat de regering dit zomaar verbiedt.",
+        "feedback_wrong": "Het gaat hier om de vrijheid om nieuws te publiceren. Kiesrecht gaat over stemmen of verkiesbaar zijn; onderwijsrecht gaat over onderwijs.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8 – Verkiezingen",
+      "question": {
+        "id": "mk_057_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "stemrecht toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Noor wil zelf kandidaat worden bij de gemeenteraadsverkiezingen. Welk recht heeft zij daarvoor nodig?",
+        "answers": [
+          "Passief kiesrecht.",
+          "Actief kiesrecht.",
+          "Vrijheid van meningsuiting."
+        ],
+        "correct_answer": 0,
+        "hint": "Noor wil niet zelf stemmen, maar op het stembiljet staan als kandidaat. Welk recht hoort daarbij?",
+        "feedback_correct": "Goed! Passief kiesrecht is het recht om jezelf verkiesbaar te stellen.",
+        "feedback_wrong": "Actief kiesrecht is het recht om te stemmen. Als Noor zelf kandidaat wil worden, gaat het om passief kiesrecht.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9 – Belangengroepen",
+      "question": {
+        "id": "mk_057_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Belangengroepen",
+        "skill": "Belangenbehartiging herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een vereniging van kleine ondernemers vraagt om minder ingewikkelde regels. Waarom doet de vereniging dit?",
+        "answers": [
+          "Om zelf wetten aan te nemen.",
+          "Om uitspraken van rechters te vervangen.",
+          "Om op te komen voor de belangen van haar leden."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan de mensen voor wie de vereniging zich inzet.",
+        "feedback_correct": "Goed! Een belangengroep komt op voor de belangen van de mensen die zij vertegenwoordigt.",
+        "feedback_wrong": "Een belangengroep probeert de wensen van haar leden onder de aandacht te brengen. Zij maakt niet zelf wetten en vervangt geen rechter.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10 – Regering",
+      "question": {
+        "id": "mk_057_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Regering en kabinet",
+        "skill": "Prinsjesdag begrijpen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom spreekt de koning de Troonrede uit namens de regering?",
+        "answers": [
+          "Omdat de koning zelfstandig het regeringsbeleid bepaalt.",
+          "Omdat de koning de plannen van de regering bekendmaakt, maar niet zelf het beleid bepaalt.",
+          "Omdat de koning de plannen van de gemeenteraad uitvoert."
+        ],
+        "correct_answer": 1,
+        "hint": "Het is de jaarlijkse toespraak bij de opening van het parlementaire jaar.",
+        "feedback_correct": "Goed! In de Troonrede staan de belangrijkste plannen van de regering voor het komende jaar.",
+        "feedback_wrong": "De Troonrede is de jaarlijkse toespraak over de plannen van de regering. Een verkiezingsuitslag vertelt wie stemmen kreeg; een plaatselijke verordening is een gemeentelijke regel.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 11 – Gemeentebestuur",
+      "question": {
+        "id": "mk_057_q11",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Bestuur en overheid",
+        "skill": "gemeentelijke taken herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeente beslist waar in een wijk nieuwe woningen en een park mogen komen. Welke taak voert de gemeente uit?",
+        "answers": [
+          "Buitenlands beleid maken voor Nederland.",
+          "Rechtspreken in strafzaken.",
+          "Ruimtelijke ordening (plannen maken voor de inrichting van de grond)."
+        ],
+        "correct_answer": 2,
+        "hint": "Het gaat om waar woningen, parken en andere voorzieningen komen.",
+        "feedback_correct": "Goed! Bij ruimtelijke ordening wordt gepland hoe de grond wordt gebruikt, bijvoorbeeld voor woningen, parken of wegen.",
+        "feedback_wrong": "De gemeente kan plannen maken voor de inrichting van de eigen omgeving. Buitenlands beleid hoort bij het landelijke bestuur en rechtspreken is de taak van rechters.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 12 – Politieke besluitvorming",
+      "question": {
+        "id": "mk_057_q12",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Democratische besluitvorming",
+        "skill": "fasen van besluitvorming herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeente heeft besloten extra verkeersborden te plaatsen en laat die nu plaatsen. Wat gebeurt er in deze fase?",
+        "answers": [
+          "Het probleem wordt op de politieke agenda gezet.",
+          "Het probleem wordt voor het eerst ontdekt.",
+          "Het gekozen plan wordt uitgevoerd."
+        ],
+        "correct_answer": 2,
+        "hint": "Het besluit is al genomen; kijk wat er daarna gebeurt.",
+        "feedback_correct": "Goed! Het uitvoeren van het gekozen plan betekent dat het besluit in de praktijk wordt gebracht.",
+        "feedback_wrong": "Het probleem ontdekken en op de politieke agenda zetten gebeurt eerder. Hier is al een besluit genomen en wordt het plan uitgevoerd.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 13 – Democratie en dictatuur",
+      "question": {
+        "id": "mk_057_q13",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Democratie en dictatuur",
+        "skill": "oppositie herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een oppositiepartij bekritiseert de regering en doet mee aan verkiezingen. Welke uitspraak past hierbij?",
+        "answers": [
+          "Oppositie kan de regering controleren en een alternatief bieden.",
+          "Oppositie voert alle besluiten van de regering uit.",
+          "Oppositiepartijen mogen nooit kritiek geven."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan partijen die niet in het kabinet of bestuur zitten en kritisch kunnen meekijken.",
+        "feedback_correct": "Goed! Oppositiepartijen kunnen de regering controleren en laten zien welke andere keuzes mogelijk zijn.",
+        "feedback_wrong": "Oppositiepartijen zitten niet in de regering. Ze mogen kritiek geven en kunnen alternatieven voorstellen; ze hoeven niet alle regeringsbesluiten uit te voeren.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 14 – Media",
+      "question": {
+        "id": "mk_057_q14",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "media",
+        "skill": "informerende functie herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een nieuwsbericht legt uit wat er in de gemeenteraad is besloten en wat dat voor inwoners betekent. Welke mediafunctie past hier het best bij?",
+        "answers": [
+          "De commerciële functie.",
+          "De informerende functie.",
+          "De ontspanningsfunctie."
+        ],
+        "correct_answer": 1,
+        "hint": "De nadruk ligt op uitleg geven over wat er is gebeurd.",
+        "feedback_correct": "Goed! Met de informerende functie brengen media nieuws en uitleg naar het publiek.",
+        "feedback_wrong": "Het bericht geeft nieuws en uitleg. Ontspanning draait om vermaak; de commerciële functie draait vooral om geld verdienen.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 15 – Rechten en vrijheden",
+      "question": {
+        "id": "mk_057_q15",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "grondrechten herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een burger wil een mening over de regering delen in een online artikel. Welk recht is hierbij van belang?",
+        "answers": [
+          "Recht op huisvesting",
+          "Vrijheid van meningsuiting",
+          "Recht op een eerlijk proces"
+        ],
+        "correct_answer": 1,
+        "hint": "Het gaat om de vrijheid om je mening te geven, ook als die kritisch is.",
+        "feedback_correct": "Goed! Vrijheid van meningsuiting beschermt het uiten van ideeën en meningen binnen de grenzen van de wet.",
+        "feedback_wrong": "Het recht om je mening te geven past bij deze situatie. Een eerlijk proces gaat over een rechtszaak en huisvesting gaat over wonen.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 16 – Politieke partijen",
+      "question": {
+        "id": "mk_057_q16",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een partij vindt dat natuur en klimaat zwaar moeten meewegen bij economische keuzes. Welke stroming past het best?",
+        "answers": [
+          "Milieustroming (groene stroming).",
+          "Nationalistische stroming.",
+          "Liberale stroming."
+        ],
+        "correct_answer": 0,
+        "hint": "Deze stroming vindt bescherming van natuur en klimaat erg belangrijk.",
+        "feedback_correct": "Goed! De milieustroming, ook wel groene stroming genoemd, zet natuur en duurzaamheid centraal.",
+        "feedback_wrong": "De milieustroming legt veel nadruk op natuur en klimaat. De andere stromingen hebben andere hoofdpunten.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 17 – Maatschappelijke vraagstukken",
+      "question": {
+        "id": "mk_057_q17",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "maatregelen beoordelen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente wil verkeersongelukken rond scholen verminderen. Welke maatregel sluit het best aan bij het probleem?",
+        "answers": [
+          "Stoppen met onderzoeken waar ongelukken gebeuren.",
+          "Meldingen over ongelukken verwijderen.",
+          "Veilige oversteekplaatsen maken en de snelheid verlagen."
+        ],
+        "correct_answer": 2,
+        "hint": "Kies een maatregel die het verkeer rond de school veiliger maakt.",
+        "feedback_correct": "Goed! Een veilige oversteek en lagere snelheid kunnen de kans op ongelukken verkleinen.",
+        "feedback_wrong": "Een passende maatregel pakt het gevaar aan. Meldingen verwijderen of stoppen met onderzoek maakt de verkeerssituatie niet veiliger.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 18 – Europese unie",
+      "question": {
+        "id": "mk_057_q18",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Europese Unie",
+        "skill": "EU-instellingen onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een EU-land wil samen met andere EU-landen afspraken maken over landbouw. Waarom werken landen samen binnen de Europese Unie?",
+        "answers": [
+          "Om gemeenten in elk land te vervangen.",
+          "Om alle landelijke verkiezingen door één EU-instelling te laten organiseren.",
+          "Om gezamenlijke problemen en onderwerpen samen aan te pakken."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan onderwerpen waarbij landen voordeel hebben van gezamenlijke afspraken.",
+        "feedback_correct": "Goed! EU-landen werken samen om afspraken te maken over onderwerpen die meerdere landen raken.",
+        "feedback_wrong": "EU-samenwerking helpt landen gezamenlijke onderwerpen aan te pakken. De EU organiseert niet alle nationale verkiezingen en vervangt de gemeenten niet.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 19 – Politieke begrippen",
+      "question": {
+        "id": "mk_057_q19",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "politieke begrippen",
+        "skill": "Standpunten onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak is een feit en geen mening?",
+        "answers": [
+          "Openbaar vervoer is altijd beter dan autorijden.",
+          "Nederland heeft een Tweede Kamer.",
+          "De Tweede Kamer moet meer leden krijgen."
+        ],
+        "correct_answer": 1,
+        "hint": "Een feit kun je controleren; een mening zegt wat iemand vindt of wil.",
+        "feedback_correct": "Goed! Dat Nederland een Tweede Kamer heeft, is controleerbaar en dus een feit.",
+        "feedback_wrong": "Een feit kun je controleren. Uitspraken over wat er zou moeten gebeuren of wat beter is, zijn meningen of standpunten.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 20 – Bestuurslagen",
+      "question": {
+        "id": "mk_057_q20",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Bestuur en overheid",
+        "skill": "Bestuursniveaus onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een nieuwe regel moet gelden voor iedereen in Nederland, niet alleen voor één gemeente of provincie. Op welk bestuursniveau wordt zo’n landelijke wet gemaakt?",
+        "answers": [
+          "Op landelijk niveau: door het Rijk.",
+          "Op provinciaal niveau: door Provinciale Staten.",
+          "Op gemeentelijk niveau: door de gemeenteraad."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk welk bestuursniveau regels voor het hele land maakt.",
+        "feedback_correct": "Goed! Landelijke wetten worden op nationaal niveau gemaakt.",
+        "feedback_wrong": "Een landelijke wet geldt voor heel Nederland. De gemeenteraad maakt geen landelijke wetten en Provinciale Staten maken regels voor de provincie.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-2",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-2"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Klaar met oefenen",
+      "text": "Goed gewerkt! Bekijk bij fouten de feedback en oefen daarna eventueel opnieuw."
+    }
+  ]
+}

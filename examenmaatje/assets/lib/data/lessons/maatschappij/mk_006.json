@@ -1,0 +1,326 @@
+{
+  "id": "mk_006",
+  "subject": "maatschappij",
+  "title": "Les 6 - Informatie in een tabel of overzicht zetten",
+  "goal": "Je leert hoe je belangrijke informatie uit een tekst haalt en dit overzichtelijk in een eenvoudige tabel zet of afleest.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Introductie",
+      "text": "In de vorige lessen heb je geleerd hoe je informatie zoekt, teksten begrijpt en bronnen beoordeelt. In deze les leer je informatie ordenen. Als een tekst vol staat met getallen of groepen, kun je snel het overzicht kwijtraken. Door belangrijke gegevens in een eenvoudige tabel of schema te zetten, kun je informatie overzichtelijker bekijken en makkelijker vergelijken."
+    },
+    {
+      "type": "explanation",
+      "title": "Uitleg: Waarom is een tabel handig?",
+      "text": "Een tabel is een overzicht met vakjes. Het helpt je om informatie snel te vinden en met elkaar te vergelijken. Stel je voor dat je een tekst leest over het vervoer van leerlingen: Van de 200 leerlingen op een school reizen 80 leerlingen met de fiets, 60 met de bus, 40 worden met de auto gebracht en 20 lopen. In een tabel zie je dit in een oogopslag. Je zet het vervoermiddel in de ene kolom en het aantal leerlingen in de andere kolom. Let op: je hoeft nooit alle informatie uit een tekst in een tabel te zetten. Je gebruikt alleen de informatie die nodig is voor je vraag."
+    },
+    {
+      "type": "explanation",
+      "title": "Het stappenplan",
+      "text": "Als je informatie gaat ordenen, gebruik je dit stappenplan: Stap 1: Lees de vraag goed. Stap 2: Zoek in de tekst welke informatie je nodig hebt voor die vraag. Stap 3: Bedenk welke onderdelen of groepen bij elkaar horen. Stap 4: Zet de informatie overzichtelijk in een tabel of schema. Stap 5: Controleer of je niets hebt overgeslagen. Stap 6: Gebruik je overzicht om de examenvraag te beantwoorden."
+    },
+    {
+      "type": "example",
+      "title": "Voorbeeldsituatie",
+      "text": "Kijk naar deze vrijetijdsbesteding. De tekst: Een klas van 30 leerlingen praat over hun hobby na school. Er zijn 12 leerlingen die gamen. Een groep van 10 leerlingen zit op een sportclub. De overige 8 leerlingen chillen buiten met vrienden. Sommige leerlingen geven aan dat ze vaak buiten zijn. Die informatie hebben we voor deze tabel niet nodig. De tabel wordt: Kolom 1 (Hobby): Gamen, Sport, Chillen. Kolom 2 (Aantal): 12, 10, 8. Je leest direct af: Gamen is de grootste groep (12), chillen de kleinste (8)."
+    },
+    {
+      "type": "question",
+      "question": {
+        "id": "mk_006_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Informatie vinden en op de juiste plek zetten",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een winkelstraat werken jongeren. Bij de supermarkt werken 25 jongeren als vakkenvuller. De kledingwinkel heeft 10 jongeren in dienst. Bij de snackbar werken 15 jongeren als bezorger. Je maakt een tabel met de kolommen Werkplek en Aantal jongeren. Welk getal hoort achter Kledingwinkel te staan?",
+        "table_headers": ["Werkplek", "Aantal jongeren"],
+        "table_rows": [
+          ["Supermarkt", "25"],
+          ["Kledingwinkel", "10"],
+          ["Snackbar", "15"]
+        ],
+        "answers": [
+          "25",
+          "15",
+          "10"
+        ],
+        "correct_answer": 2,
+        "hint": "Zoek in de tekst naar het woord kledingwinkel en kijk welk getal daar vlakbij staat.",
+        "feedback_correct": "Goed gedaan. In de tekst staat dat de kledingwinkel 10 jongeren in dienst heeft.",
+        "feedback_wrong": "Dat klopt niet. Het getal dat je koos hoort bij een andere werkplek uit de tekst. Kijk nog eens goed naar het stukje over de kledingwinkel."
+      }
+    },
+    {
+      "type": "question",
+      "question": {
+        "id": "mk_006_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Ontbrekende informatie herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De school zamelt afval in. Er is 50 kilo oud papier opgehaald. Het plastic afval was goed voor 30 kilo. Ook is er 20 kilo restafval verzameld. De conciërge maakt een tabel: Oud papier (50 kilo), Plastic (nog leeg), Restafval (20 kilo). Welk getal moet op de lege plek bij plastic staan?",
+        "table_headers": ["Soort afval", "Aantal kilo"],
+        "table_rows": [
+          ["Oud papier", "50"],
+          ["Plastic", ""],
+          ["Restafval", "20"]
+        ],
+        "answers": [
+          "30",
+          "20",
+          "50"
+        ],
+        "correct_answer": 0,
+        "hint": "Lees de tekst nog eens en zoek naar de zin waarin het plastic afval wordt genoemd.",
+        "feedback_correct": "Goed gedaan. In de tekst staat dat het plastic afval goed was voor 30 kilo. Dat getal ontbrak nog.",
+        "feedback_wrong": "Dat klopt niet. Je hebt nu gekozen voor de kilo's van het restafval of oud papier. Kijk in de tekst naar plastic."
+      }
+    },
+    {
+      "type": "question",
+      "question": {
+        "id": "mk_006_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "De juiste categorie koppelen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Op de sportvelden staan jongeren te spelen. Op het voetbalveld stonden 40 jongeren. Op het basketbalveld waren 15 jongeren actief. Het skatepark trok die middag 22 jongeren. Welke namen horen er in de eerste kolom (Sportplek) te staan?",
+        "table_headers": ["Sportplek", "Aantal jongeren"],
+        "table_rows": [
+          ["", "40"],
+          ["", "15"],
+          ["", "22"]
+        ],
+        "answers": [
+          "Gemeente, Jongeren, Middag",
+          "40, 15, 22",
+          "Voetbalveld, Basketbalveld, Skatepark"
+        ],
+        "correct_answer": 2,
+        "hint": "In de eerste kolom zet je de namen van de locaties of groepen waarover de cijfers gaan. Wat zijn de locaties?",
+        "feedback_correct": "Goed gezien. De sportplekken zijn de categorieën waar we de cijfers bij gaan zetten.",
+        "feedback_wrong": "Niet juist. Een tabel sorteert getallen op basis van groepen of plekken. De cijfers zelf horen in de tweede kolom."
+      }
+    },
+    {
+      "type": "question",
+      "question": {
+        "id": "mk_006_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "De grootste categorie aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar deze tabel over nieuwsgebruik: TikTok (85 stemmen), Televisie (30 stemmen), Krant (5 stemmen). Welke manier om aan nieuws te komen is onder deze jongeren het meest populair?",
+        "table_headers": ["Nieuwsbron", "Aantal stemmen"],
+        "table_rows": [
+          ["TikTok", "85"],
+          ["Televisie", "30"],
+          ["Krant", "5"]
+        ],
+        "answers": [
+          "TikTok",
+          "Televisie",
+          "Krant"
+        ],
+        "correct_answer": 0,
+        "hint": "Zoek in de tabel naar het allerhoogste getal en kijk welke nieuwsbron daarnaast staat.",
+        "feedback_correct": "Goed gedaan. TikTok heeft met 85 stemmen het hoogste getal, dus dat is de grootste categorie.",
+        "feedback_wrong": "Niet correct. Je hebt gekozen voor een bron met minder stemmen. Zoek de rij met de hoogste waarde."
+      }
+    },
+    {
+      "type": "question",
+      "question": {
+        "id": "mk_006_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "De kleinste categorie aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar deze tabel over gezonde snacks in de kantine: Broodje gezond (60 verkocht), Appel (12 verkocht), Doosje rozijnen (4 verkocht). Welke snack is het minst verkocht?",
+        "table_headers": ["Snack", "Aantal verkocht"],
+        "table_rows": [
+          ["Broodje gezond", "60"],
+          ["Appel", "12"],
+          ["Doosje rozijnen", "4"]
+        ],
+        "answers": [
+          "Broodje gezond",
+          "Appel",
+          "Doosje rozijnen"
+        ],
+        "correct_answer": 2,
+        "hint": "Minst verkocht betekent dat je zoekt naar de rij met het allerlaagste getal.",
+        "feedback_correct": "Goed gedaan. Het doosje rozijnen heeft met het getal 4 de laagste waarde. Dit is de kleinste categorie.",
+        "feedback_wrong": "Helaas. De andere snacks hebben juist hogere getallen in het overzicht. Zoek naar het kleinste getal."
+      }
+    },
+    {
+      "type": "question",
+      "question": {
+        "id": "mk_006_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Informatie uit kolommen vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar deze tabel over scooters en boetes. Benzine-scooter: 50 gecontroleerd, 20 boetes. Elektrische scooter: 50 gecontroleerd, 5 boetes. Wat valt op als je de boetes met elkaar vergelijkt?",
+        "table_headers": ["Soort scooter", "Controle", "Boetes"],
+        "table_rows": [
+          ["Benzine-scooter", "50", "20"],
+          ["Elektrische scooter", "50", "5"]
+        ],
+        "answers": [
+          "Er zijn evenveel boetes uitgedeeld aan benzine-scooters als aan elektrische scooters.",
+          "Benzine-scooters hebben veel meer boetes gekregen dan elektrische scooters.",
+          "Elektrische scooters hebben de meeste boetes gekregen."
+        ],
+        "correct_answer": 1,
+        "hint": "Vergelijk de 20 boetes van de benzine-scooter met de 5 boetes van de elektrische scooter.",
+        "feedback_correct": "Goed gezien. Benzine-scooters hebben 20 boetes en elektrische scooters maar 5. Dat zijn er flink meer.",
+        "feedback_wrong": "Dat klopt niet. Kijk nog eens goed naar de cijfers. De getallen 20 en 5 zijn niet gelijk aan elkaar."
+      }
+    },
+    {
+      "type": "question",
+      "question": {
+        "id": "mk_006_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Overbodige informatie wegstrepen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Jongeren vertellen over vlogs kijken. Er kijken 15 jongeren minder dan 1 uur per dag. Er kijken 22 jongeren tussen 1 en 2 uur. Er kijken 8 jongeren meer dan 2 uur. De meeste jongeren kijken op hun telefoon lekker op hun bed. Je maakt een tabel van de kijktijd en aantallen. Welke informatie hoort NIET in de tabel?",
+        "table_headers": ["Kijktijd per dag", "Aantal jongeren"],
+        "table_rows": [
+          ["Minder dan 1 uur", "15"],
+          ["Tussen 1 en 2 uur", "22"],
+          ["Meer dan 2 uur", "8"]
+        ],
+        "answers": [
+          "Dat er 15 jongeren zijn die minder dan 1 uur kijken.",
+          "Dat de meeste jongeren op hun telefoon op hun bed liggen te kijken.",
+          "Dat er 8 jongeren zijn die meer dan 2 uur per dag kijken."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk goed naar wat je in de tabel wilt zetten: de kijktijd en de aantallen. Welke zin gaat daar niet over?",
+        "feedback_correct": "Goed gezien. Het liggen op bed is een detail, maar hoort niet thuis in een tabel over kijktijden.",
+        "feedback_wrong": "Helaas. De optie die je koos bevat juist belangrijke informatie voor de tabel. Zoek de zin die niet over de kijktijd of het aantal jongeren gaat."
+      }
+    },
+    {
+      "type": "question",
+      "question": {
+        "id": "mk_006_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Informatie in een tabel zetten",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In Gemeente A betalen inwoners 60 euro belasting voor een hond. In Gemeente B is dat 40 euro. In Gemeente C betalen ze 0 euro. Welk overzicht zet de informatie op de juiste manier in een tabel met de kolommen Gemeente en Bedrag?",
+        "answers": [
+          "Gemeente A | 60 euro; Gemeente B | 40 euro; Gemeente C | 0 euro",
+          "Gemeente A | 40 euro; Gemeente B | 60 euro; Gemeente C | 60 euro",
+          "Gemeente A | 0 euro; Gemeente B | 40 euro; Gemeente C | 40 euro"
+        ],
+        "correct_answer": 0,
+        "hint": "Controleer per gemeente welk bedrag erbij hoort. Begin bij Gemeente A en kijk daarna naar B en C.",
+        "feedback_correct": "Goed gedaan. Je hebt de gegevens per gemeente op de juiste plek gezet.",
+        "feedback_wrong": "Niet juist. In de optie die je koos zijn de bedragen verkeerd ingevuld of omgedraaid. Kijk nog eens naar de tekst en controleer elke gemeente."
+      }
+    },
+    {
+      "type": "question",
+      "question": {
+        "id": "mk_006_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar deze tabel met klachten over afval: Maandag (10 klachten), Dinsdag (25 klachten), Woensdag (12 klachten). Welke conclusie is juist als je puur naar deze tabel kijkt?",
+        "table_headers": ["Dag", "Aantal klachten"],
+        "table_rows": [
+          ["Maandag", "10"],
+          ["Dinsdag", "25"],
+          ["Woensdag", "12"]
+        ],
+        "answers": [
+          "Op dinsdag kwamen de meeste klachten binnen over afval.",
+          "Op dinsdag waren er de meeste klachten omdat het toen heel mooi weer was buiten.",
+          "Inwoners klagen nooit over afval op maandag."
+        ],
+        "correct_answer": 0,
+        "hint": "Een conclusie moet door de cijfers worden ondersteund. Kijk welke informatie je echt uit de tabel kunt halen.",
+        "feedback_correct": "Goed gedaan. Het getal 25 is het hoogst, dus op dinsdag kwamen de meeste klachten binnen. Dit kun je bewijzen met de tabel.",
+        "feedback_wrong": "Helaas. De gekozen conclusie wordt niet door de tabel ondersteund. Kijk alleen naar de dagen en de aantallen klachten."
+      }
+    },
+    {
+      "type": "question",
+      "question": {
+        "id": "mk_006_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Een onjuiste conclusie herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar de jeugdleden van clubs: Voetbalclub (150 leden), Tennisclub (40 leden), Turnclub (85 leden). Welke conclusie mag je NIET uit de tabel halen omdat het er niet in staat?",
+        "table_headers": ["Club", "Aantal jeugdleden"],
+        "table_rows": [
+          ["Voetbalclub", "150"],
+          ["Tennisclub", "40"],
+          ["Turnclub", "85"]
+        ],
+        "answers": [
+          "De voetbalclub heeft van deze drie clubs de meeste jeugdleden.",
+          "Jongeren vinden tennis een heel saaie sport om te zien op televisie.",
+          "De tennisclub heeft minder jeugdleden dan de turnclub."
+        ],
+        "correct_answer": 1,
+        "hint": "Welke uitspraak praat over televisie en meningen, terwijl de tabel alleen over het aantal leden gaat?",
+        "feedback_correct": "Goed gedaan. De tabel gaat alleen over het aantal leden, niet over wat jongeren op televisie kijken of van tennis vinden.",
+        "feedback_wrong": "Pas op. Je koos een conclusie die wel uit de cijfers volgt. De vraag zoekt naar de uitspraak die niet door de tabel wordt ondersteund."
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Les afgerond!",
+      "text": "Goed gedaan! Je hebt geleerd hoe je belangrijke informatie uit een tekst haalt en dit overzichtelijk in een eenvoudige tabel zet of afleest."
+    }
+  ]
+}

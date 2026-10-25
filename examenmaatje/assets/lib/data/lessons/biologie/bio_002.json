@@ -1,0 +1,335 @@
+{
+  "id": "bio_002",
+  "subject": "biologie",
+  "title": "Les 2 - Onderzoeken en hulpmiddelen gebruiken",
+  "goal": "Je leert waarnemen, hulpmiddelen kiezen en de stappen van een eenvoudig biologisch onderzoek herkennen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Biologen onderzoeken levende organismen en hun omgeving. Ze kijken goed, gebruiken hulpmiddelen en leggen vast wat ze ontdekken."
+    },
+    {
+      "type": "strategy",
+      "title": "Stappen bij onderzoek",
+      "text": "1. Bedenk wat je wilt onderzoeken.\n2. Maak een onderzoeksvraag.\n3. Bedenk wat je verwacht.\n4. Voer het onderzoek veilig uit en noteer waarnemingen.\n5. Vergelijk de resultaten met je verwachting.\n6. Trek een conclusie die past bij de resultaten.\n7. Kijk of het onderzoek goed is uitgevoerd."
+    },
+    {
+      "type": "explanation",
+      "title": "Waarnemen en meten",
+      "text": "Een waarneming beschrijft wat je ziet, hoort, ruikt of meet. Schrijf bijvoorbeeld: ‘De plant is 12 cm hoog.’ ‘De plant is mooi’ is een mening. Meet zo nauwkeurig mogelijk en noteer de eenheid."
+    },
+    {
+      "type": "explanation",
+      "title": "Hulpmiddelen kiezen",
+      "text": "Met een loep bekijk je kleine details. Met een microscoop bekijk je zeer kleine structuren, zoals cellen. Een indicator kan helpen om een stof aan te tonen. Een determineertabel of determineerkaart helpt om een organisme stap voor stap op naam te brengen."
+    },
+    {
+      "type": "explanation",
+      "title": "Vraag, verwachting en conclusie",
+      "text": "Een onderzoeksvraag zegt wat je wilt weten. Een verwachting is wat je denkt dat er zal gebeuren. De conclusie beschrijft wat de resultaten laten zien. Een conclusie mag niet meer beweren dan je hebt onderzocht."
+    },
+    {
+      "type": "explanation",
+      "title": "Veilig en zorgvuldig werken",
+      "text": "Volg de instructies, gebruik hulpmiddelen waarvoor ze bedoeld zijn en ruim materialen netjes op. Noteer resultaten direct. In een verslag staan bijvoorbeeld de onderzoeksvraag, werkwijze, resultaten en conclusie."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Goed onderzoek begint met een duidelijke vraag. Waarnemingen zijn controleerbaar, resultaten worden netjes genoteerd en de conclusie moet passen bij de resultaten."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_002_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "9",
+      "topic": "Waarnemen en meten",
+      "skill": "Waarneming beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke zin is een waarneming? ",
+      "answers": [
+        "Deze bloem is prachtig.",
+        "De bloem is 5 cm breed.",
+        "Deze bloem is de beste."
+      ],
+      "correct_answer": 1,
+      "hint": "Kijk of de zin iets meetbaars beschrijft of vooral een oordeel geeft.",
+      "feedback_correct": "De breedte van 5 cm kun je meten.",
+      "feedback_wrong": "Prachtig en de beste zijn meningen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_002_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "9",
+      "topic": "Loep en microscoop",
+      "skill": "Hulpmiddel kiezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk hulpmiddel gebruik je om cellen te bekijken?",
+      "answers": [
+        "Een microscoop",
+        "Een meetlint",
+        "Een determineerkaart"
+      ],
+      "correct_answer": 0,
+      "hint": "Cellen zijn meestal te klein om met alleen je ogen te zien.",
+      "feedback_correct": "Een microscoop vergroot heel kleine structuren.",
+      "feedback_wrong": "Een meetlint meet lengte; een determineerkaart helpt bij het herkennen van organismen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_002_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "9",
+      "topic": "Onderzoeksvraag",
+      "skill": "Onderzoeksvraag herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Je wilt weten of planten sneller groeien op een lichte plek. Welke zin is de onderzoeksvraag?",
+      "answers": [
+        "Planten groeien vast sneller in het licht.",
+        "De plant is 3 cm gegroeid.",
+        "Groeien planten sneller op een lichte plek?"
+      ],
+      "correct_answer": 2,
+      "hint": "Een onderzoeksvraag is meestal een vraag waarop je onderzoek kunt doen.",
+      "feedback_correct": "Deze vraag zegt precies wat je wilt onderzoeken.",
+      "feedback_wrong": "De andere zinnen zijn een verwachting en een resultaat.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_002_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "9",
+      "topic": "Verwachting",
+      "skill": "Verwachting herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is een verwachting bij onderzoek naar plantengroei?",
+      "answers": [
+        "De plant is na een week 2 cm gegroeid.",
+        "Ik verwacht dat de plant op een lichte plek sneller groeit.",
+        "De liniaal is 30 cm lang."
+      ],
+      "correct_answer": 1,
+      "hint": "Een verwachting vertelt wat je denkt dat er zal gebeuren.",
+      "feedback_correct": "De zin geeft vooraf aan wat je denkt te vinden.",
+      "feedback_wrong": "Een gemeten groei is een resultaat; de lengte van de liniaal is geen verwachting.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_002_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "9",
+      "topic": "Resultaten en conclusie",
+      "skill": "Conclusie baseren op resultaten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Twee planten kregen evenveel water. Plant A stond in het licht en groeide 4 cm. Plant B stond donker en groeide 1 cm. Wat laten de resultaten zien?",
+      "answers": [
+        "Plant A groeide in deze proef meer dan plant B.",
+        "Alle planten groeien altijd beter in licht.",
+        "Plant B groeide minder dan plant A."
+      ],
+      "correct_answer": 0,
+      "hint": "Vergelijk alleen de gemeten groei van deze twee planten.",
+      "feedback_correct": "In deze proef groeide plant A 3 cm meer.",
+      "feedback_wrong": "De resultaten laten zien dat plant A in deze proef 4 cm groeide en plant B 1 cm. Daaruit kun je niet concluderen dat dit voor alle planten altijd zo is.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_002_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "9",
+      "topic": "Indicatoren",
+      "skill": "Hulpmiddel kiezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarvoor kan een indicator worden gebruikt?",
+      "answers": [
+        "Om een plant langer te maken",
+        "Om de temperatuur altijd te verlagen",
+        "Om een bepaalde stof aan te tonen"
+      ],
+      "correct_answer": 2,
+      "hint": "Denk aan een hulpmiddel dat een bepaalde stof zichtbaar kan aantonen.",
+      "feedback_correct": "Een indicator helpt om een bepaalde stof aan te tonen. Jodium kan bijvoorbeeld zetmeel aantonen; kalkwater wordt troebel als er koolstofdioxide in zit.",
+      "feedback_wrong": "Een indicator helpt om een bepaalde stof aan te tonen. De reactie hangt af van de indicator en de stof.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_002_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "9",
+      "topic": "Determineertabel",
+      "skill": "Determineerhulpmiddel gebruiken",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat doe je met een determineertabel?",
+      "answers": [
+        "Je volgt keuzes stap voor stap om een organisme te herkennen.",
+        "Je meet hoeveel water een plant gebruikt.",
+        "Je berekent de leeftijd van ieder dier."
+      ],
+      "correct_answer": 0,
+      "hint": "Een determineertabel werkt met kenmerken en keuzes.",
+      "feedback_correct": "Je gebruikt kenmerken om uit te komen bij een naam of groep.",
+      "feedback_wrong": "De tabel is geen meetinstrument en geeft niet automatisch leeftijden.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_002_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "9",
+      "topic": "Zorgvuldig werken",
+      "skill": "Veilig werken",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is verstandig tijdens een biologisch onderzoek?",
+      "answers": [
+        "Alle resultaten pas dagen later proberen te onthouden",
+        "Materialen gebruiken volgens de instructie",
+        "Een onbekende stof proeven"
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan veiligheid en betrouwbare resultaten.",
+      "feedback_correct": "Instructies volgen is veilig en zorgvuldig.",
+      "feedback_wrong": "Resultaten direct noteren is betrouwbaarder; onbekende stoffen proef je nooit.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_002_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "9",
+      "topic": "Resultaten",
+      "skill": "Resultaten noteren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Je telt op maandag 6 pissebedden en op dinsdag 9. Wat is een juiste weergave van het resultaat?",
+      "answers": [
+        "Dinsdag was de leukste dag.",
+        "Er zijn vast overal meer pissebedden.",
+        "Dinsdag waren er 9 pissebedden."
+      ],
+      "correct_answer": 2,
+      "hint": "Noteer wat je daadwerkelijk hebt waargenomen.",
+      "feedback_correct": "Dit is een concreet resultaat uit de telling.",
+      "feedback_wrong": "De andere uitspraken zijn een mening of een niet-onderbouwde generalisatie.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_002_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "9",
+      "topic": "Evaluatie",
+      "skill": "Onderzoek evalueren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom kijk je na afloop of je onderzoek zorgvuldig is uitgevoerd?",
+      "answers": [
+        "Om te beoordelen of de resultaten betrouwbaar zijn",
+        "Om de uitkomst mooier te maken",
+        "Om een andere conclusie te kunnen kiezen"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk na of de werkwijze zorgvuldig was en of de resultaten daardoor bruikbaar zijn.",
+      "feedback_correct": "Evalueren helpt om te beoordelen hoe betrouwbaar het onderzoek was.",
+      "feedback_wrong": "Je verandert resultaten niet om ze mooier te maken en kiest geen conclusie los van de gegevens.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    }
+  ]
+}

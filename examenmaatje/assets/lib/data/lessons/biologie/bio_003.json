@@ -1,0 +1,330 @@
+{
+  "id": "bio_003",
+  "subject": "biologie",
+  "title": "Les 3 - Levenskenmerken en organisatieniveaus",
+  "goal": "Je leert levenskenmerken herkennen en de organisatieniveaus van cel tot organisme onderscheiden.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Je leert waaraan je kunt herkennen dat iets leeft en hoe onderdelen van een organisme samenhangen."
+    },
+    {
+      "type": "strategy",
+      "title": "Kijk naar kenmerken",
+      "text": "Let op levenskenmerken zoals groeien, ontwikkelen, voortplanten, reageren op prikkels, bewegen en stoffen opnemen en afgeven. Eén kenmerk op zichzelf is niet altijd genoeg om te bepalen of iets leeft."
+    },
+    {
+      "type": "explanation",
+      "title": "Levend, dood en levenloos",
+      "text": "Een levende plant groeit en neemt stoffen op. Een dood blad is afkomstig van een organisme dat heeft geleefd, maar het blad leeft niet meer. Een steen heeft nooit geleefd en is levenloos."
+    },
+    {
+      "type": "explanation",
+      "title": "Van klein naar groot",
+      "text": "Een cel is een bouwsteen van een organisme. Cellen met dezelfde taak kunnen samen een weefsel vormen. Verschillende weefsels vormen een orgaan. Organen die samenwerken vormen een orgaanstelsel. De orgaanstelsels werken samen in het organisme. Een ecosysteem bestaat uit organismen en hun omgeving."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld",
+      "text": "Spiercellen vormen spierweefsel. Spierweefsel zit bijvoorbeeld in een spier, een orgaan. Spieren werken samen met andere onderdelen van het spierstelsel. Dat stelsel hoort bij het hele organisme, bijvoorbeeld een mens."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "De volgorde is: cel → weefsel → orgaan → orgaanstelsel → organisme. Een levend organisme vertoont levenskenmerken."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_003_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "Levenskenmerken",
+      "skill": "Levenskenmerken herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk voorbeeld laat groei zien?",
+      "answers": [
+        "Een steen ligt op de grond.",
+        "Een glas staat op tafel.",
+        "Een plant wordt langer."
+      ],
+      "correct_answer": 2,
+      "hint": "Groei betekent dat een organisme groter wordt of zich ontwikkelt.",
+      "feedback_correct": "Een plant die langer wordt, groeit.",
+      "feedback_wrong": "De steen en het glas vertonen hiermee geen groei als organisme.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_003_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "Levend, dood en levenloos",
+      "skill": "Levend en levenloos onderscheiden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke uitspraak over een steen is juist?",
+      "answers": [
+        "Een steen is een levend organisme.",
+        "Een steen heeft nooit geleefd.",
+        "Een steen groeit doordat hij leeft."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk na of een steen ooit een organisme is geweest.",
+      "feedback_correct": "Een steen is levenloos: hij heeft nooit geleefd. Een dood blad is anders, want dat komt van een plant die heeft geleefd.",
+      "feedback_wrong": "Een steen heeft nooit geleefd en is daarom levenloos. Een dood blad komt van een organisme dat heeft geleefd.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_003_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "Levend, dood en levenloos",
+      "skill": "Dood onderscheiden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk voorbeeld komt van een organisme dat heeft geleefd, maar leeft zelf niet meer?",
+      "answers": [
+        "Een gevallen, droog blad",
+        "Een levende kamerplant",
+        "Een stuk glas"
+      ],
+      "correct_answer": 0,
+      "hint": "Kies iets dat afkomstig is van een plant of dier.",
+      "feedback_correct": "Een blad was onderdeel van een levende plant.",
+      "feedback_wrong": "De kamerplant leeft nog; glas heeft nooit geleefd.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_003_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "5",
+      "topic": "Organisatieniveaus",
+      "skill": "Organisatieniveaus herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk voorbeeld is een orgaan?",
+      "answers": [
+        "Een enkele cel",
+        "Een groep mensen",
+        "De maag"
+      ],
+      "correct_answer": 2,
+      "hint": "Een orgaan bestaat uit verschillende soorten weefsel die samenwerken.",
+      "feedback_correct": "De maag is een orgaan in het verteringsstelsel.",
+      "feedback_wrong": "Een cel is kleiner dan een orgaan; een groep mensen is geen orgaan.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_003_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "5",
+      "topic": "Organisatieniveaus",
+      "skill": "Organisatieniveaus op volgorde zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke organisatieniveaus komen direct na een cel, van klein naar groot?",
+      "answers": [
+        "Orgaanstelsel → weefsel",
+        "Weefsel → orgaan",
+        "Organisme → orgaan"
+      ],
+      "correct_answer": 1,
+      "hint": "Na een cel kunnen cellen met dezelfde taak samen een weefsel vormen.",
+      "feedback_correct": "Cellen met dezelfde taak vormen samen een weefsel; weefsels kunnen samen een orgaan vormen.",
+      "feedback_wrong": "De volgorde is cel → weefsel → orgaan → orgaanstelsel → organisme.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_003_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "5",
+      "topic": "Organisatieniveaus",
+      "skill": "Voorbeeld bij niveau plaatsen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een hart bestaat uit verschillende soorten weefsel. Wat is het hart?",
+      "answers": [
+        "Een orgaan",
+        "Een cel",
+        "Een organisme"
+      ],
+      "correct_answer": 0,
+      "hint": "Het hart bestaat uit verschillende soorten weefsel die samenwerken.",
+      "feedback_correct": "Het hart is een orgaan met een eigen functie.",
+      "feedback_wrong": "Een cel is veel kleiner; een organisme is een compleet levend wezen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_003_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "Levenskenmerken",
+      "skill": "Levenskenmerken herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een zonnebloem buigt naar het licht. Welk levenskenmerk zie je?",
+      "answers": [
+        "Voortplanten",
+        "Reageren op een prikkel",
+        "Voeding opnemen"
+      ],
+      "correct_answer": 1,
+      "hint": "De plant verandert van richting als reactie op iets uit de omgeving.",
+      "feedback_correct": "De plant reageert op licht.",
+      "feedback_wrong": "De situatie gaat niet over voortplanting of doodgaan.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_003_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "5",
+      "topic": "Organisatieniveaus",
+      "skill": "Organisatieniveaus herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke reeks loopt van klein naar groot?",
+      "answers": [
+        "Orgaan – cel – weefsel",
+        "Weefsel – organisme – cel",
+        "Cel – weefsel – orgaan"
+      ],
+      "correct_answer": 2,
+      "hint": "Begin bij het kleinste onderdeel en ga naar een groep cellen met dezelfde taak.",
+      "feedback_correct": "Cel, weefsel en orgaan staan in de juiste volgorde.",
+      "feedback_wrong": "De andere reeksen zetten kleinere en grotere niveaus door elkaar.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_003_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "5",
+      "topic": "Organisme",
+      "skill": "Organisme als geheel begrijpen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat wordt bedoeld met een organisme?",
+      "answers": [
+        "Een compleet levend wezen",
+        "Alleen een orgaan",
+        "Een ecosysteem met alleen levenloze onderdelen"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan één levend wezen, zoals een konijn of een boom.",
+      "feedback_correct": "Een organisme is een levend wezen.",
+      "feedback_wrong": "Een orgaan is een onderdeel van een organisme.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_003_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "Levenskenmerken",
+      "skill": "Levenskenmerken toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een konijn eet, groeit en reageert op geluid. Wat laten deze voorbeelden zien?",
+      "answers": [
+        "Het konijn is levenloos.",
+        "Het konijn is alleen een orgaan.",
+        "Het konijn vertoont levenskenmerken."
+      ],
+      "correct_answer": 2,
+      "hint": "Kijk naar de verschillende dingen die het konijn doet.",
+      "feedback_correct": "Het konijn eet (voeding), groeit en reageert op geluid (een prikkel). Dit zijn voorbeelden van levenskenmerken.",
+      "feedback_wrong": "Een konijn is een levend organisme, geen levenloos voorwerp of orgaan.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    }
+  ]
+}

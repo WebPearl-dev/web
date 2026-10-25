@@ -1,0 +1,303 @@
+{
+  "id": "mk_010",
+  "subject": "maatschappij",
+  "title": "Les 10 – Een standpunt en argumenten herkennen",
+  "goal": "Je leert wat een standpunt en een argument zijn, wat het verschil is tussen deze twee en hoe je standpunten en argumenten in informatie over een maatschappelijk vraagstuk kunt herkennen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Je mening uitleggen",
+      "text": "In de vorige lessen heb je gezien dat mensen op verschillende manieren naar een maatschappelijk vraagstuk kijken. Omdat mensen verschillende belangen en situaties hebben, kunnen er verschillende meningen ontstaan.\n\nHet is belangrijk om te kunnen herkennen wat iemand vindt en waarom iemand dat vindt.\n\nIn deze les leer je hoe je standpunten en argumenten herkent."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een standpunt?",
+      "text": "Een standpunt is een duidelijke mening over een onderwerp of stelling.\n\nHet is het antwoord op de vragen: Wat vind jij ervan? Ben je voor of tegen?\n\nSignaalwoorden die bij een standpunt kunnen horen zijn bijvoorbeeld: Ik vind dat..., Volgens mij..., Mijn standpunt is... en Ik ben van mening dat..."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een argument?",
+      "text": "Een argument is de uitleg of reden waarom iemand iets vindt.\n\nHet is het antwoord op de vraag: Waarom vind je dat?\n\nSignaalwoorden die vaak bij een argument horen zijn bijvoorbeeld: omdat, want, namelijk en de reden hiervoor is."
+    },
+    {
+      "type": "explanation",
+      "title": "Het verschil",
+      "text": "Een standpunt is de mening zelf. Een argument is de reden voor die mening.\n\nVoorbeeld:\n\nStandpunt: Ik vind dat telefoons in de pauze verboden moeten worden.\n\nArgument: Omdat leerlingen dan meer met elkaar praten in plaats van alleen naar hun scherm te kijken.\n\nMensen kunnen over hetzelfde vraagstuk een ander standpunt hebben en daarbij verschillende argumenten gebruiken."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld: veiligheid in de buurt",
+      "text": "Standpunt: De gemeente moet meer lantaarnpalen plaatsen in het park.\n\nArgument: Want 's avonds is het er donker en voelen buurtbewoners zich niet veilig."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld: vervoer",
+      "text": "Standpunt: Ik ben tegen het duurder maken van treinkaartjes.\n\nArgument: Omdat jongeren met een klein bijbaantje de trein dan moeilijk kunnen betalen."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_010_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Standpunten en argumenten",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Iemand zegt: \"Ik vind dat de zomervakantie twee weken langer moet duren.\" Wat is de juiste omschrijving van deze uitspraak?",
+        "answers": [
+          "Dit is een standpunt.",
+          "Dit is een argument.",
+          "Dit is een feit.",
+          "Dit is een voorbeeld."
+        ],
+        "correct_answer": 0,
+        "hint": "Lees de uitspraak en bedenk of iemand een mening geeft of een reden noemt.",
+        "feedback_correct": "Goed! De persoon geeft aan wat hij of zij vindt. Dat is een standpunt.",
+        "feedback_wrong": "Kijk of de uitspraak vertelt wat iemand vindt of waarom iemand dat vindt."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_010_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Standpunten en argumenten",
+        "skill": "Argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Iemand zegt: \"Ik vind dat de zomervakantie twee weken langer moet duren, want na een zwaar schooljaar hebben we extra rust nodig.\" Welk deel is het argument?",
+        "answers": [
+          "Ik vind dat de zomervakantie twee weken langer moet duren.",
+          "Na een zwaar schooljaar hebben we extra rust nodig.",
+          "De zomervakantie duurt twee weken.",
+          "Een schooljaar duurt lang."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek naar het deel dat uitlegt waarom de persoon dit vindt.",
+        "feedback_correct": "Juist. Dit deel geeft de reden voor het standpunt.",
+        "feedback_wrong": "Kijk welk deel uitlegt waarom de persoon de zomervakantie langer wil."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_010_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Standpunten en argumenten",
+        "skill": "Argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeente wil scooters vanaf een bepaalde leeftijd niet meer op het fietspad laten rijden. Een scooterrijder zegt: \"Ik ben hier fel op tegen, omdat ik dan tussen de auto's op de rijbaan moet rijden.\" Wat is het argument?",
+        "answers": [
+          "Ik ben hier fel op tegen.",
+          "Omdat ik dan tussen de auto's op de rijbaan moet rijden.",
+          "Scooters mogen op het fietspad rijden.",
+          "De gemeente wil een nieuwe regel."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek naar de reden die de scooterrijder geeft voor zijn mening.",
+        "feedback_correct": "Goed gezien. Dit is de reden voor zijn standpunt.",
+        "feedback_wrong": "Zoek naar het deel dat uitlegt waarom hij tegen het plan is."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_010_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Standpunten en argumenten",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeente wil in een park na 22.00 uur geen bezoekers meer toelaten. Een buurtbewoner zegt: \"Ik ben voor dit plan, omdat het dan 's avonds rustiger wordt.\" Wat is het standpunt van de buurtbewoner?",
+        "answers": [
+          "Het wordt 's avonds rustiger.",
+          "De gemeente moet het park na 22.00 uur sluiten.",
+          "De buurtbewoner is voor het plan.",
+          "De buurtbewoner woont in de buurt van het park."
+        ],
+        "correct_answer": 2,
+        "hint": "Zoek naar wat de buurtbewoner van het plan vindt.",
+        "feedback_correct": "Goed! De buurtbewoner is voor het plan. Dat is het standpunt.",
+        "feedback_wrong": "Kijk naar de mening over het plan. De reden staat erna."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_010_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Standpunten en argumenten",
+        "skill": "Verschillende standpunten herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Inwoner 1 zegt: \"Ik vind dat er een snackbarverbod moet komen in het park, want bezoekers gooien verpakkingen op het gras.\" Inwoner 2 zegt: \"Ik ben tegen een snackbarverbod, want wandelaars willen ook gewoon iets kunnen kopen.\" Wat kun je zeggen over hun standpunten?",
+        "answers": [
+          "Ze hebben geen standpunt.",
+          "Ze hebben verschillende standpunten.",
+          "Ze hebben hetzelfde standpunt.",
+          "Ze geven alleen feiten."
+        ],
+        "correct_answer": 1,
+        "hint": "Lees beide uitspraken en vergelijk wat de twee inwoners van het verbod vinden.",
+        "feedback_correct": "Juist. De ene inwoner is voor het verbod en de andere is tegen.",
+        "feedback_wrong": "Vergelijk de mening van beide inwoners over het snackbarverbod."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_010_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Standpunten en argumenten",
+        "skill": "Argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een sportclub wil jongeren onder de 16 jaar vanaf 21.00 uur niet meer laten trainen. Welke uitspraak is een argument voor dit plan?",
+        "answers": [
+          "Ik ben voor dit plan.",
+          "Jongeren kunnen dan op tijd naar bed.",
+          "De sportclub moet een nieuwe regel maken.",
+          "Het plan gaat over jongeren."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek naar een uitspraak die uitlegt waarom iemand voor het plan kan zijn.",
+        "feedback_correct": "Goed! Deze uitspraak geeft een reden die bij het standpunt kan passen.",
+        "feedback_wrong": "Een argument geeft een reden voor of tegen een standpunt."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_010_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Standpunten en argumenten",
+        "skill": "Een signaalwoord van een argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politicus zegt: \"Ik ben voor het plan om meer sportplekken voor jongeren aan te leggen, omdat jongeren dan meer kunnen bewegen.\" Welk woord leidt het argument in?",
+        "answers": [
+          "omdat",
+          "sportplekken",
+          "jongeren",
+          "bewegen"
+        ],
+        "correct_answer": 0,
+        "hint": "Let op het woord dat de reden voor het standpunt inleidt.",
+        "feedback_correct": "Juist. Na dit woord volgt de reden voor het standpunt.",
+        "feedback_wrong": "Zoek naar het woord dat de reden inleidt."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_010_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Standpunten en argumenten",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een jongerenwerker zegt: \"Ik ben tegen het afsluiten van het plein, want dan verplaats je het probleem alleen maar naar een andere straat.\" Wat is zijn standpunt?",
+        "answers": [
+          "Hij wil dat er een nieuwe straat komt.",
+          "Hij vindt dat het probleem naar een andere straat moet.",
+          "Hij is tegen het afsluiten van het plein.",
+          "Hij werkt als jongerenwerker."
+        ],
+        "correct_answer": 2,
+        "hint": "Kijk eerst naar wat de jongerenwerker van het plan vindt. Kijk daarna pas naar de reden.",
+        "feedback_correct": "Goed! Hij is tegen het afsluiten van het plein. Dat is zijn standpunt.",
+        "feedback_wrong": "Zoek naar zijn mening over het plan. De reden begint daarna."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_010_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Standpunten en argumenten",
+        "skill": "Argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente wil een plein 's avonds afsluiten. Een jongerenwerker is daartegen. Welk argument past bij zijn standpunt?",
+        "answers": [
+          "Het plein ligt midden in de wijk.",
+          "Het probleem kan zich daardoor naar een andere straat verplaatsen.",
+          "De gemeente heeft een plein.",
+          "De jongerenwerker werkt in de wijk."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek de reden die uitlegt waarom iemand tegen het plan kan zijn.",
+        "feedback_correct": "Goed! Dit argument past bij iemand die tegen het afsluiten van het plein is.",
+        "feedback_wrong": "Kijk welke uitspraak een reden geeft om tegen het plan te zijn."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_010_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Standpunten en argumenten",
+        "skill": "Argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een docent zegt: \"Ik ben voor gratis fruit op school, want gezonde leerlingen kunnen zich beter op hun schoolwerk concentreren.\" Welke uitspraak past het best bij deze zin?",
+        "answers": [
+          "Het standpunt is: gratis fruit is niet nodig.",
+          "Het argument is: gezonde leerlingen kunnen zich beter op hun schoolwerk concentreren.",
+          "Het argument is: de docent werkt op een school.",
+          "Het standpunt is: gezonde leerlingen moeten meer fruit eten."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk welke uitspraak de reden voor het standpunt geeft.",
+        "feedback_correct": "Goed gedaan! Dit is de reden die de docent geeft voor het standpunt.",
+        "feedback_wrong": "Zoek naar de uitspraak die uitlegt waarom de docent voor gratis fruit is."
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Samenvatting",
+      "text": "Een standpunt is een mening. Een argument is de reden voor die mening.\n\nJe herkent argumenten vaak aan woorden zoals want, omdat en namelijk.\n\nBij maatschappelijke vraagstukken hebben mensen vaak verschillende standpunten en gebruiken ze argumenten om hun mening uit te leggen.\n\nAls je een vraag over een maatschappelijk vraagstuk krijgt, is het belangrijk dat je kunt herkennen wat iemand vindt en welk argument daarvoor wordt gegeven."
+    }
+  ]
+}

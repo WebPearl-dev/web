@@ -1,0 +1,330 @@
+{
+  "id": "bio_005",
+  "subject": "biologie",
+  "title": "Les 5 - Organismen en hun aanpassing",
+  "goal": "Je leert verbanden leggen tussen de bouw, leefwijze en leefomgeving van organismen en eenvoudige determineerhulpmiddelen gebruiken.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Organismen hebben kenmerken die passen bij hun leefwijze en omgeving. Je leert voorbeelden herkennen en met kenmerken organismen vergelijken."
+    },
+    {
+      "type": "explanation",
+      "title": "Bouw en functie",
+      "text": "De vorm of bouw van een lichaamsdeel kan helpen bij een bepaalde taak. Een brede voet kan bijvoorbeeld helpen om niet diep in zachte grond te zakken. Een dikke vacht kan warmte vasthouden."
+    },
+    {
+      "type": "explanation",
+      "title": "Aanpassing aan de omgeving",
+      "text": "Organismen leven in verschillende omstandigheden. Planten in droge gebieden kunnen kenmerken hebben die waterverlies beperken. Organismen in natte gebieden kunnen kenmerken hebben die helpen bij leven in of rond water. Een kenmerk is een aanpassing als het helpt bij het leven in die omgeving."
+    },
+    {
+      "type": "explanation",
+      "title": "Warmte en kou",
+      "text": "In koude omstandigheden kan isolatie, zoals een dikke vacht of vetlaag, warmteverlies beperken. In warme omstandigheden kunnen kenmerken helpen om warmte kwijt te raken of waterverlies te beperken. Kijk steeds naar het verband tussen kenmerk en functie."
+    },
+    {
+      "type": "explanation",
+      "title": "Kenmerken gebruiken om te herkennen",
+      "text": "Bij het herkennen van organismen kijk je naar duidelijke kenmerken, bijvoorbeeld bladeren, poten, vacht of lichaamsvorm. Een determineertabel geeft keuzes. Lees elke keuze goed en volg de verwijzing naar de volgende stap."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Leg steeds uit hoe een kenmerk helpt in de leefomgeving. Gebruik bij determineren alleen de kenmerken die je kunt waarnemen en volg de stappen in de juiste volgorde."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_005_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "2",
+      "topic": "Bouw en functie",
+      "skill": "Bouw aan functie koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een eend heeft zwemvliezen tussen de tenen. Waar helpen die vooral bij?",
+      "answers": [
+        "Graven in harde grond",
+        "Vliegen zonder vleugels",
+        "Zwemmen"
+      ],
+      "correct_answer": 2,
+      "hint": "De huid tussen de tenen vergroot het oppervlak waarmee de vogel tegen het water duwt.",
+      "feedback_correct": "Zwemvliezen vergroten het oppervlak waarmee de eend water wegduwt.",
+      "feedback_wrong": "Zwemvliezen zijn vooral geschikt om beter te zwemmen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_005_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "2",
+      "topic": "Aanpassing aan droogte",
+      "skill": "Aanpassing verklaren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke eigenschap kan een plant in een droog gebied helpen om minder water te verliezen?",
+      "answers": [
+        "Kleine bladeren",
+        "Heel grote, dunne bladeren",
+        "Veel open huidmondjes op elk moment"
+      ],
+      "correct_answer": 0,
+      "hint": "Minder oppervlak kan helpen om minder water te verliezen.",
+      "feedback_correct": "Kleine bladeren kunnen helpen om waterverlies te beperken.",
+      "feedback_wrong": "Grote bladeren en voortdurend open huidmondjes kunnen juist veel waterverlies geven.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_005_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "2",
+      "topic": "Aanpassing aan kou",
+      "skill": "Aanpassing verklaren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom kan een dikke vacht helpen in een koude omgeving?",
+      "answers": [
+        "De vacht maakt voedsel aan.",
+        "De vacht houdt een laagje lucht vast en beperkt warmteverlies.",
+        "De vacht zorgt ervoor dat het dier geen zuurstof nodig heeft."
+      ],
+      "correct_answer": 1,
+      "hint": "Een isolerende laag beperkt het verlies van lichaamswarmte.",
+      "feedback_correct": "Een dikke vacht helpt warmte vast te houden.",
+      "feedback_wrong": "Vacht maakt geen voedsel en vervangt de ademhaling niet.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_005_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "2",
+      "topic": "Aanpassing aan water",
+      "skill": "Bouw aan functie koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke lichaamsvorm helpt veel waterdieren om makkelijker door water te bewegen?",
+      "answers": [
+        "Een heel breed, plat lichaam dat veel weerstand geeft",
+        "Een dikke vacht die water opneemt",
+        "Een lichaamsvorm die aan beide uiteinden smaller is"
+      ],
+      "correct_answer": 2,
+      "hint": "Denk aan een vorm die het water makkelijker opzij laat gaan.",
+      "feedback_correct": "Een gestroomlijnde lichaamsvorm helpt veel waterdieren om makkelijker door water te bewegen.",
+      "feedback_wrong": "Een gestroomlijnde lichaamsvorm geeft vaak minder weerstand in het water. De precieze vorm verschilt per dier.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_005_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "2",
+      "topic": "Kenmerken vergelijken",
+      "skill": "Organismen vergelijken",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Plant A heeft dikke, vlezige bladeren. Plant B heeft dunne, grote bladeren. Welke plant kan daardoor beter aangepast zijn aan droogte?",
+      "answers": [
+        "Plant A",
+        "Plant B",
+        "Dat is altijd precies hetzelfde"
+      ],
+      "correct_answer": 0,
+      "hint": "Vergelijk de bladeren met de omstandigheden in een droge omgeving.",
+      "feedback_correct": "Dikke, vlezige bladeren kunnen helpen water op te slaan.",
+      "feedback_wrong": "Dunne, grote bladeren slaan doorgaans minder water op; het blijft een voorbeeld en geen regel voor elke soort.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_005_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "Determineertabel",
+      "skill": "Determineerhulpmiddel gebruiken",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat moet je doen als je een determineertabel gebruikt?",
+      "answers": [
+        "Een willekeurige naam kiezen",
+        "De kenmerken vergelijken en de aangegeven stap volgen",
+        "Een stap overslaan als je twijfelt"
+      ],
+      "correct_answer": 1,
+      "hint": "Volg de aanwijzingen één voor één en vergelijk ze met het organisme.",
+      "feedback_correct": "Een determineertabel werkt stap voor stap met kenmerken.",
+      "feedback_wrong": "Willekeurig kiezen of stappen overslaan kan tot een verkeerde herkenning leiden.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_005_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "2",
+      "topic": "Bouw en functie",
+      "skill": "Bouw aan functie koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom hebben steltlopers vaak lange poten en soms gedeeltelijke zwemvliezen?",
+      "answers": [
+        "Om sneller te graven in harde grond.",
+        "Om hun lichaam warm te houden.",
+        "Om in ondiep water te lopen en zich daarin voort te bewegen."
+      ],
+      "correct_answer": 2,
+      "hint": "Denk aan de plek waar steltlopers vaak voedsel zoeken.",
+      "feedback_correct": "Lange poten helpen steltlopers door ondiep water te lopen; gedeeltelijke zwemvliezen kunnen helpen bij het bewegen in water.",
+      "feedback_wrong": "Steltlopers zoeken vaak voedsel in ondiep water. Lange poten en gedeeltelijke zwemvliezen passen bij die leefomgeving.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_005_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "2",
+      "topic": "Aanpassing aan warmte",
+      "skill": "Aanpassing verklaren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke functie kan grote oren bij sommige dieren in warme gebieden hebben?",
+      "answers": [
+        "Helpen warmte af te geven",
+        "Voedsel verteren",
+        "Zuurstof maken"
+      ],
+      "correct_answer": 0,
+      "hint": "Bij sommige dieren kan een groter ooroppervlak helpen om warmte kwijt te raken.",
+      "feedback_correct": "Grote oren kunnen helpen warmte kwijt te raken.",
+      "feedback_wrong": "Oren verteren geen voedsel en maken geen zuurstof.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_005_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "2",
+      "topic": "Kenmerken gebruiken",
+      "skill": "Conclusie uit kenmerken trekken",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een onbekende plant heeft kleine bladeren en een dikke stengel die water kan opslaan. Welke conclusie past het best?",
+      "answers": [
+        "De plant leeft zeker alleen onder water.",
+        "De kenmerken kunnen helpen in een droge omgeving.",
+        "De plant heeft geen water nodig."
+      ],
+      "correct_answer": 1,
+      "hint": "Trek alleen een conclusie die past bij de kenmerken die in de vraag staan.",
+      "feedback_correct": "Kleine bladeren en wateropslag passen bij een mogelijke aanpassing aan droogte.",
+      "feedback_wrong": "De plant heeft nog steeds water nodig en de kenmerken bewijzen niet dat hij onder water leeft.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_005_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "Determineertabel",
+      "skill": "Kenmerken stap voor stap toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een determineertabel vraagt eerst: ‘Heeft het dier veren?’ Het dier heeft veren. Welke keuze maak je?",
+      "answers": [
+        "Kies meteen een willekeurige soort.",
+        "Begin opnieuw zonder de vraag te beantwoorden.",
+        "Volg de route voor ‘ja’."
+      ],
+      "correct_answer": 2,
+      "hint": "Kies de route die hoort bij het antwoord op de eerste vraag.",
+      "feedback_correct": "Je volgt de route die bij ‘ja’ hoort.",
+      "feedback_wrong": "Een determineertabel moet op basis van waargenomen kenmerken worden gevolgd.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    }
+  ]
+}

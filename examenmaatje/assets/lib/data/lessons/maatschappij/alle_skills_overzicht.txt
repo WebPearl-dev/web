@@ -1,0 +1,1617 @@
+OVERZICHT ALLE VAARDIGHEDEN — MAATSCHAPPIJKUNDE MAATJE
+=================================================================
+Map: C:\ontwikkeling\maatschappij_maatje\lib\data\lessons\maatschappij
+Aantal JSON-bestanden: 57
+Aantal gevonden vragen: 623
+JSON-bestanden zijn alleen gelezen, niet gewijzigd.
+
+-----------------------------------------------------------------
+VAARDIGHEID: Aandacht van de media herkennen (1 vragen)
+  mk_008.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Actief en passief kiesrecht onderscheiden (2 vragen)
+  mk_017.json: 1 vragen
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Algemene Beschouwingen begrijpen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Argument beoordelen (1 vragen)
+  mk_038.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Argument en doel herkennen (1 vragen)
+  mk_041.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Argument herkennen (20 vragen)
+  mk_010.json: 5 vragen
+  mk_014.json: 1 vragen
+  mk_018.json: 1 vragen
+  mk_020.json: 1 vragen
+  mk_021.json: 1 vragen
+  mk_022.json: 1 vragen
+  mk_023.json: 1 vragen
+  mk_026.json: 1 vragen
+  mk_032.json: 1 vragen
+  mk_034.json: 1 vragen
+  mk_035.json: 1 vragen
+  mk_036.json: 1 vragen
+  mk_037.json: 1 vragen
+  mk_039.json: 1 vragen
+  mk_045.json: 1 vragen
+  mk_051.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Begrijpen (12 vragen)
+  mk_042.json: 5 vragen
+  mk_043.json: 1 vragen
+  mk_044.json: 1 vragen
+  mk_045.json: 1 vragen
+  mk_047.json: 4 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Begrijpen van het doel en de beperking van preventie (1 vragen)
+  mk_048.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Begrijpen waarom verschillende belangen belangrijk zijn (1 vragen)
+  mk_009.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Begrijpen waarom verschillende maatregelen kunnen worden gebruikt (1 vragen)
+  mk_048.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Begrip evenredige vertegenwoordiging herkennen (1 vragen)
+  mk_017.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Begrip parlement herkennen (1 vragen)
+  mk_018.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Begrip politieke partij herkennen (1 vragen)
+  mk_017.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Begrip zetel herkennen (1 vragen)
+  mk_017.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Begrippen combineren (1 vragen)
+  mk_031.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Begrippen herkennen (16 vragen)
+  mk_014.json: 1 vragen
+  mk_026.json: 1 vragen
+  mk_029.json: 1 vragen
+  mk_031.json: 2 vragen
+  mk_032.json: 1 vragen
+  mk_034.json: 4 vragen
+  mk_037.json: 3 vragen
+  mk_039.json: 1 vragen
+  mk_040.json: 1 vragen
+  mk_041.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Begrippen onderscheiden (1 vragen)
+  mk_031.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Belang herkennen (3 vragen)
+  mk_011.json: 1 vragen
+  mk_029.json: 1 vragen
+  mk_041.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Belang van parlementaire controle uitleggen (1 vragen)
+  mk_019.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Belangen afwegen herkennen (1 vragen)
+  mk_023.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Belangen bij een politiek besluit herkennen (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Belangen herkennen in een situatie (1 vragen)
+  mk_009.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Belangenbehartiging herkennen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Belangengroepen en lobby herkennen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Belangengroepen herkennen (2 vragen)
+  mk_053.json: 1 vragen
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Belangengroepen invloed laten uitoefenen (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Belangrijke informatie herkennen (1 vragen)
+  mk_002.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Beleid en uitvoering onderscheiden (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Beleid evalueren herkennen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Beleid herkennen (1 vragen)
+  mk_011.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Beleidsuitvoering en controle onderscheiden (1 vragen)
+  mk_027.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Beleidsuitvoering herkennen (2 vragen)
+  mk_023.json: 1 vragen
+  mk_027.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Beschrijven (2 vragen)
+  mk_028.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Bestuurslaag herkennen (1 vragen)
+  mk_049.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Bestuurslagen onderscheiden (2 vragen)
+  mk_013.json: 1 vragen
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Bestuursniveaus onderscheiden (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Betrouwbaarheid van informatie beoordelen (3 vragen)
+  mk_004.json: 1 vragen
+  mk_038.json: 1 vragen
+  mk_049.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Botsende belangen herkennen (2 vragen)
+  mk_011.json: 1 vragen
+  mk_035.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Bronnen beoordelen (3 vragen)
+  mk_004.json: 1 vragen
+  mk_025.json: 1 vragen
+  mk_038.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Bronnen vergelijken (4 vragen)
+  mk_004.json: 2 vragen
+  mk_005.json: 1 vragen
+  mk_025.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Budgetrecht herkennen (1 vragen)
+  mk_021.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Censuur herkennen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Ceremoniële en vertegenwoordigende taak herkennen (1 vragen)
+  mk_022.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Compromis herkennen (1 vragen)
+  mk_049.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Conclusie beoordelen (1 vragen)
+  mk_038.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Conclusie trekken (25 vragen)
+  mk_001.json: 1 vragen
+  mk_002.json: 2 vragen
+  mk_003.json: 1 vragen
+  mk_005.json: 2 vragen
+  mk_006.json: 1 vragen
+  mk_007.json: 1 vragen
+  mk_011.json: 1 vragen
+  mk_014.json: 1 vragen
+  mk_028.json: 1 vragen
+  mk_036.json: 1 vragen
+  mk_037.json: 3 vragen
+  mk_040.json: 1 vragen
+  mk_043.json: 1 vragen
+  mk_044.json: 1 vragen
+  mk_045.json: 1 vragen
+  mk_046.json: 1 vragen
+  mk_047.json: 1 vragen
+  mk_050.json: 1 vragen
+  mk_051.json: 2 vragen
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Conclusies trekken (2 vragen)
+  mk_001.json: 1 vragen
+  mk_050.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Constitutionele monarchie herkennen (1 vragen)
+  mk_022.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Controlerende taak herkennen (5 vragen)
+  mk_018.json: 1 vragen
+  mk_019.json: 1 vragen
+  mk_049.json: 1 vragen
+  mk_054.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: De actualiteit van een bron beoordelen (1 vragen)
+  mk_004.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: De gevolgen van een overheidsbesluit herkennen (1 vragen)
+  mk_011.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: De grootste categorie aflezen (1 vragen)
+  mk_006.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: De hoogste waarde herkennen (1 vragen)
+  mk_007.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: De horizontale kant van een grafiek herkennen (1 vragen)
+  mk_007.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: De juiste categorie koppelen (1 vragen)
+  mk_006.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: De juiste informatie uit een bron kiezen (1 vragen)
+  mk_007.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: De kleinste categorie aflezen (1 vragen)
+  mk_006.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: De laagste waarde herkennen (1 vragen)
+  mk_007.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: De rol van belangengroepen herkennen (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: De rol van de rechter herkennen (1 vragen)
+  mk_015.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Democratische besluitvorming herkennen (1 vragen)
+  mk_023.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Democratische besluitvorming toepassen (1 vragen)
+  mk_023.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Democratische kenmerken beoordelen (1 vragen)
+  mk_014.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Democratische kenmerken herkennen (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Democratische vertegenwoordiging uitleggen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Democratische waarden herkennen (1 vragen)
+  mk_031.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Demonstratierecht toepassen (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Doel en maatregel onderscheiden (1 vragen)
+  mk_027.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Doel van belangengroepen uitleggen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Doel van beleid herkennen (1 vragen)
+  mk_041.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Doel van informatie herkennen (2 vragen)
+  mk_001.json: 1 vragen
+  mk_004.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een aanpak beoordelen (1 vragen)
+  mk_041.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een bestuursvorm herkennen (2 vragen)
+  mk_014.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een democratisch principe toepassen (1 vragen)
+  mk_014.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een democratische aanpak herkennen (1 vragen)
+  mk_014.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een gemeentelijke bevoegdheid herkennen (1 vragen)
+  mk_013.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een gemeentelijke taak herkennen (1 vragen)
+  mk_013.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een grondrecht herkennen (1 vragen)
+  mk_015.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een grondrecht toepassen (1 vragen)
+  mk_015.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een kenmerk van de rechtsstaat herkennen (1 vragen)
+  mk_015.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een landelijke overheidstaak herkennen (1 vragen)
+  mk_013.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een lokale overheidstaak herkennen (1 vragen)
+  mk_013.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een maatregel herkennen (1 vragen)
+  mk_011.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een onjuiste conclusie herkennen (1 vragen)
+  mk_006.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een onjuiste redenering herkennen (1 vragen)
+  mk_033.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een oplossing voor een maatschappelijk vraagstuk herkennen (1 vragen)
+  mk_008.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een persoonlijk probleem herkennen (1 vragen)
+  mk_008.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een persoonlijk probleem onderscheiden van een maatschappelijk vraagstuk (1 vragen)
+  mk_008.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een politieke beslissing herkennen (1 vragen)
+  mk_011.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een provinciale taak herkennen (2 vragen)
+  mk_013.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een rechtsstaat herkennen (1 vragen)
+  mk_015.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een signaalwoord van een argument herkennen (1 vragen)
+  mk_010.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een stemuitslag interpreteren (1 vragen)
+  mk_014.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een verschil uitleggen (1 vragen)
+  mk_015.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een voorbeeld indelen (1 vragen)
+  mk_033.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een vorm van Politieke invloed herkennen (1 vragen)
+  mk_014.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een vraag over belangen herkennen (1 vragen)
+  mk_009.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Een waarde bij een categorie aflezen (1 vragen)
+  mk_007.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: EU-besluitvorming herkennen (2 vragen)
+  mk_055.json: 1 vragen
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: EU-instellingen herkennen (3 vragen)
+  mk_054.json: 1 vragen
+  mk_055.json: 1 vragen
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: EU-instellingen onderscheiden (2 vragen)
+  mk_056.json: 1 vragen
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Europese besluitvorming begrijpen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Extremisme herkennen (1 vragen)
+  mk_031.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: fasen van besluitvorming herkennen (2 vragen)
+  mk_053.json: 1 vragen
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Fasen van politieke besluitvorming herkennen (4 vragen)
+  mk_023.json: 2 vragen
+  mk_027.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Fasen van politieke besluitvorming onderscheiden (1 vragen)
+  mk_027.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: fasen van wetgeving herkennen (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Feit en mening herkennen door bronnen te vergelijken (1 vragen)
+  mk_005.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Feit en mening onderscheiden (14 vragen)
+  mk_003.json: 8 vragen
+  mk_011.json: 1 vragen
+  mk_029.json: 1 vragen
+  mk_038.json: 2 vragen
+  mk_051.json: 1 vragen
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Feit over een mening herkennen (1 vragen)
+  mk_003.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Functie van een actie herkennen (1 vragen)
+  mk_026.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Functie van een bestuurder herkennen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Functie van een minister herkennen (1 vragen)
+  mk_020.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Functie van een staatssecretaris herkennen (1 vragen)
+  mk_020.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: functies van media herkennen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: functies van politieke partijen herkennen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gegevens aflezen (19 vragen)
+  mk_007.json: 1 vragen
+  mk_017.json: 1 vragen
+  mk_019.json: 1 vragen
+  mk_021.json: 1 vragen
+  mk_022.json: 1 vragen
+  mk_023.json: 1 vragen
+  mk_025.json: 1 vragen
+  mk_026.json: 2 vragen
+  mk_029.json: 2 vragen
+  mk_030.json: 1 vragen
+  mk_031.json: 1 vragen
+  mk_032.json: 1 vragen
+  mk_041.json: 1 vragen
+  mk_048.json: 1 vragen
+  mk_049.json: 1 vragen
+  mk_052.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gegevens interpreteren (2 vragen)
+  mk_034.json: 1 vragen
+  mk_035.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gegevens uit een overzicht gebruiken en vergelijken (1 vragen)
+  mk_001.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gegevens vergelijken (4 vragen)
+  mk_007.json: 1 vragen
+  mk_032.json: 1 vragen
+  mk_040.json: 1 vragen
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gegevens vergelijken en een conclusie trekken (2 vragen)
+  mk_001.json: 1 vragen
+  mk_039.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: geheime verkiezingen uitleggen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: gemeente en provincie onderscheiden (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: gemeentelijke taken herkennen (2 vragen)
+  mk_056.json: 1 vragen
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Geschikte bron selecteren (2 vragen)
+  mk_004.json: 1 vragen
+  mk_005.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolg van afkeuring door de Eerste Kamer herkennen (1 vragen)
+  mk_018.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolg van een rechtsregel herkennen (1 vragen)
+  mk_040.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolgen herkennen (4 vragen)
+  mk_024.json: 1 vragen
+  mk_025.json: 1 vragen
+  mk_026.json: 1 vragen
+  mk_036.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolgen onderscheiden (1 vragen)
+  mk_035.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolgen uit een situatie afleiden (1 vragen)
+  mk_036.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: gevolgen van criminaliteit herkennen (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolgen van een aanpak herkennen (1 vragen)
+  mk_041.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolgen van Europese afspraken herkennen (1 vragen)
+  mk_049.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolgen van Europese besluiten herkennen (1 vragen)
+  mk_029.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolgen van kiesstelsels vergelijken (1 vragen)
+  mk_017.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolgen van nieuwsselectie herkennen (1 vragen)
+  mk_038.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolgen van samenwerking herkennen (1 vragen)
+  mk_029.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolgen vergelijken (1 vragen)
+  mk_036.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Gevolgen voor de omgeving herkennen (1 vragen)
+  mk_036.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Grafiek lezen en conclusie trekken (1 vragen)
+  mk_038.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: grondrechten herkennen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Grondrechten herkennen in een praktijksituatie (1 vragen)
+  mk_051.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: grondrechten toepassen (2 vragen)
+  mk_053.json: 1 vragen
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Handhaving en politieke controle onderscheiden (1 vragen)
+  mk_023.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen dat mensen vanuit verschillende belangen naar een vraagstuk kunnen kijken (1 vragen)
+  mk_009.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen en omschrijven (1 vragen)
+  mk_024.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen en toepassen (2 vragen)
+  mk_024.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen en toepassen van het legaliteitsbeginsel (1 vragen)
+  mk_046.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: herkennen hoe een onderwerp op de politieke agenda komt (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen van de rol van burgers (1 vragen)
+  mk_048.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen van de rol van de reclassering (1 vragen)
+  mk_048.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen van de taak van de rechter (1 vragen)
+  mk_046.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen van opsporing (1 vragen)
+  mk_048.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen van opsporingsactiviteiten (1 vragen)
+  mk_048.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen van preventieve maatregelen (1 vragen)
+  mk_048.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen van rechten van een verdachte (1 vragen)
+  mk_046.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen van rechtsmiddelen (1 vragen)
+  mk_046.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen van rollen in de strafrechtspraak (1 vragen)
+  mk_046.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen van voorlichting als preventie (1 vragen)
+  mk_048.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen waarom de overheid keuzes moet maken (1 vragen)
+  mk_011.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Herkennen welke conclusie niet door de gegevens wordt ondersteund (1 vragen)
+  mk_007.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Het belang van verschillende groepen herkennen (1 vragen)
+  mk_009.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Het doel van een bron herkennen en informatie controleren (1 vragen)
+  mk_004.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Het doel van rechterlijke controle herkennen (1 vragen)
+  mk_015.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Het gelijkheidsbeginsel toepassen (1 vragen)
+  mk_015.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Het grootste verschil tussen waarden herkennen (1 vragen)
+  mk_007.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Het landelijke bestuursniveau herkennen (1 vragen)
+  mk_013.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: het vermoeden van onschuld toepassen (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Hoofdzaak en bijzaak onderscheiden (2 vragen)
+  mk_002.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Indirecte gevolgen herkennen (2 vragen)
+  mk_035.json: 1 vragen
+  mk_036.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatie controleren (2 vragen)
+  mk_004.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatie in de juiste volgorde herkennen (1 vragen)
+  mk_001.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatie in een tabel zetten (1 vragen)
+  mk_006.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatie toepassen (1 vragen)
+  mk_037.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatie uit cijfers begrijpen (1 vragen)
+  mk_002.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatie uit de uitvoering interpreteren (1 vragen)
+  mk_027.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatie uit een tekst begrijpen (1 vragen)
+  mk_002.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatie uit een tekst halen (3 vragen)
+  mk_001.json: 2 vragen
+  mk_026.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatie uit kolommen vergelijken (1 vragen)
+  mk_006.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatie uit verschillende zinnen combineren (1 vragen)
+  mk_001.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatie vinden en op de juiste plek zetten (1 vragen)
+  mk_006.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Informatieplicht en verantwoordingsplicht herkennen (1 vragen)
+  mk_021.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: informerende functie herkennen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Interpreteren (1 vragen)
+  mk_024.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: invloed van burgers en organisaties herkennen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: invloed van burgers herkennen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Jeugdstrafrecht herkennen (2 vragen)
+  mk_050.json: 1 vragen
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Juridische begrippen onderscheiden (1 vragen)
+  mk_050.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Juridische status herkennen (1 vragen)
+  mk_040.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Kabinet en parlement onderscheiden (2 vragen)
+  mk_019.json: 1 vragen
+  mk_049.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Kabinet herkennen (1 vragen)
+  mk_020.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Kamervragen herkennen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Kenmerken van beide Kamers vergelijken (1 vragen)
+  mk_018.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Kenmerken van de Eerste Kamer herkennen (1 vragen)
+  mk_018.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: kenmerken van democratische verkiezingen herkennen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: kenmerken van een democratie herkennen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: kenmerken van een dictatuur herkennen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Kenmerken van een maatschappelijk vraagstuk herkennen (6 vragen)
+  mk_008.json: 4 vragen
+  mk_011.json: 1 vragen
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Kenmerken van vrije verkiezingen herkennen (1 vragen)
+  mk_017.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Kennen en herkennen (35 vragen)
+  mk_024.json: 1 vragen
+  mk_025.json: 3 vragen
+  mk_028.json: 7 vragen
+  mk_042.json: 1 vragen
+  mk_043.json: 7 vragen
+  mk_044.json: 6 vragen
+  mk_045.json: 6 vragen
+  mk_047.json: 4 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Kosten herkennen (1 vragen)
+  mk_036.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Kritisch beoordelen (1 vragen)
+  mk_025.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Leeftijd herkennen (1 vragen)
+  mk_041.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Leeftijdsgrenzen toepassen (2 vragen)
+  mk_041.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: liberale uitgangspunten herkennen (2 vragen)
+  mk_055.json: 1 vragen
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: maatregelen beoordelen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: maatregelen bij een maatschappelijk probleem beoordelen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: maatregelen tegen criminaliteit herkennen (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Maatschappelijk probleem herkennen (2 vragen)
+  mk_035.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Machten en taken herkennen (1 vragen)
+  mk_016.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Machten en taken onderscheiden (2 vragen)
+  mk_016.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Machten herkennen (3 vragen)
+  mk_016.json: 3 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: manieren herkennen waarop burgers invloed uitoefenen (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: manieren om beleid te beïnvloeden herkennen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Materiële en immateriële schade herkennen (1 vragen)
+  mk_036.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Medewetgevende taak herkennen (1 vragen)
+  mk_019.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Mediafuncties herkennen (3 vragen)
+  mk_054.json: 1 vragen
+  mk_055.json: 1 vragen
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: meerderheden berekenen en interpreteren (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Meerderheidsstelsel herkennen (1 vragen)
+  mk_017.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Misdrijf herkennen (1 vragen)
+  mk_033.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: mogelijkheden van maatschappelijke organisaties herkennen (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: moment van coalitievorming herkennen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Monarchie en republiek onderscheiden (1 vragen)
+  mk_022.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: nationalisme herkennen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Nieuwswaarde herkennen (1 vragen)
+  mk_038.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Nuance herkennen (1 vragen)
+  mk_035.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Nuanceren (2 vragen)
+  mk_030.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Onafhankelijke rechtspraak herkennen (2 vragen)
+  mk_046.json: 1 vragen
+  mk_049.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Onafhankelijkheid van de rechter uitleggen (1 vragen)
+  mk_016.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: ondertekening van wetten herkennen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Onderwerp bepalen (1 vragen)
+  mk_002.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Ontbrekende informatie herkennen (1 vragen)
+  mk_006.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Oorzaak en gevolg herkennen (1 vragen)
+  mk_026.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: oorzaak en samenhang onderscheiden (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Oorzaak herkennen (1 vragen)
+  mk_037.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: oppositie herkennen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: opsporing en preventie onderscheiden (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Overbodige informatie wegstrepen (1 vragen)
+  mk_006.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Overeenkomst herkennen (1 vragen)
+  mk_033.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Overeenkomsten herkennen tussen bronnen (1 vragen)
+  mk_005.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Overtreding herkennen (1 vragen)
+  mk_033.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Overtredingen en misdrijven onderscheiden (1 vragen)
+  mk_032.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Parlement en regering onderscheiden (1 vragen)
+  mk_019.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: partijstandpunten herkennen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: persvrijheid herkennen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: politieke besluitvorming herkennen (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: politieke gebeurtenissen koppelen aan instellingen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Politieke invloed herkennen (2 vragen)
+  mk_049.json: 1 vragen
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: politieke standpunten herkennen (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: politieke standpunten koppelen aan een onderwerp (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Politieke standpunten vergelijken (1 vragen)
+  mk_051.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Politieke stijl herkennen (1 vragen)
+  mk_031.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Politieke stroming herkennen (2 vragen)
+  mk_049.json: 1 vragen
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: politieke stromingen vergelijken (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: politieke uitgangspunten vergelijken (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Politieke verantwoordelijkheid herkennen (2 vragen)
+  mk_020.json: 1 vragen
+  mk_022.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Politieke waarden herkennen (1 vragen)
+  mk_030.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: preventie en repressie onderscheiden (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Prinsjesdag begrijpen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: probleem signaleren herkennen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: provinciale bestuursorganen herkennen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Recht van amendement herkennen (2 vragen)
+  mk_018.json: 1 vragen
+  mk_019.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rechten van de Eerste Kamer herkennen (1 vragen)
+  mk_018.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: rechten van verdachten herkennen (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rechterlijke controle herkennen (1 vragen)
+  mk_016.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rechtsbescherming herkennen (2 vragen)
+  mk_015.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rechtsregel herkennen (1 vragen)
+  mk_040.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rechtsregel toepassen (1 vragen)
+  mk_040.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rechtsstaat toepassen (2 vragen)
+  mk_039.json: 1 vragen
+  mk_046.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rechtstreekse en indirecte verkiezingen onderscheiden (1 vragen)
+  mk_018.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Redenen voor verschillende informatie begrijpen (1 vragen)
+  mk_005.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: regelgevende taak herkennen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Regels van de rechtsstaat toepassen (1 vragen)
+  mk_032.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Regering en kabinet onderscheiden (1 vragen)
+  mk_020.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Regering herkennen (1 vragen)
+  mk_020.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: regeringsplannen herkennen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Relatie tussen kabinet en parlement herkennen (1 vragen)
+  mk_020.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Relevante informatie selecteren (2 vragen)
+  mk_001.json: 1 vragen
+  mk_005.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rol van ambtenaren herkennen (1 vragen)
+  mk_027.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rol van de koning bij de Troonrede herkennen (1 vragen)
+  mk_022.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rol van de koning bij wetgeving herkennen (1 vragen)
+  mk_022.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: rol van de koning herkennen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rol van de Tweede Kamer bij wetgeving herkennen (1 vragen)
+  mk_020.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rol van de wet herkennen (1 vragen)
+  mk_033.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rol van het parlement bij wetgeving herkennen (1 vragen)
+  mk_019.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rol van Nederland herkennen (1 vragen)
+  mk_029.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rollen bij beleidsuitvoering onderscheiden (1 vragen)
+  mk_027.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: rollen bij wetgeving herkennen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: rollen rond Prinsjesdag herkennen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: rollen van Eerste en Tweede Kamer onderscheiden (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rollen van kabinet en parlement herkennen (1 vragen)
+  mk_021.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Rollen van koning en minister onderscheiden (1 vragen)
+  mk_022.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Samenwerking en controle herkennen (1 vragen)
+  mk_016.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Samenwerking herkennen (1 vragen)
+  mk_035.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Schadevergoeding herkennen (1 vragen)
+  mk_050.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Schadevergoedingsmaatregel herkennen (1 vragen)
+  mk_051.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Scheiding van machten uitleggen (1 vragen)
+  mk_016.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Schriftelijke vragen herkennen (1 vragen)
+  mk_019.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Sensationele berichtgeving herkennen (1 vragen)
+  mk_038.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Soort informatie herkennen in bronnen (1 vragen)
+  mk_005.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: soorten verkiezingen herkennen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Standpunt en argument herkennen (1 vragen)
+  mk_031.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Standpunt herkennen (19 vragen)
+  mk_010.json: 3 vragen
+  mk_018.json: 1 vragen
+  mk_020.json: 1 vragen
+  mk_021.json: 1 vragen
+  mk_022.json: 1 vragen
+  mk_023.json: 1 vragen
+  mk_026.json: 1 vragen
+  mk_029.json: 1 vragen
+  mk_030.json: 2 vragen
+  mk_032.json: 1 vragen
+  mk_034.json: 1 vragen
+  mk_035.json: 1 vragen
+  mk_036.json: 1 vragen
+  mk_037.json: 1 vragen
+  mk_039.json: 1 vragen
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: standpunten aan begrippen koppelen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Standpunten onderscheiden (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: standpunten over wonen koppelen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: standpunten van politieke partijen vergelijken (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Standpunten vergelijken (6 vragen)
+  mk_030.json: 4 vragen
+  mk_031.json: 1 vragen
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: stappen van beleidsvorming herkennen (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: stappen van wetgeving herkennen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: stemrecht onderscheiden (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: stemrecht toepassen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: stemwijzers en politieke voorkeur begrijpen (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Strafbaar en niet-strafbaar gedrag onderscheiden (2 vragen)
+  mk_032.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Strafbaar gedrag herkennen (1 vragen)
+  mk_032.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Strafbeschikking herkennen (1 vragen)
+  mk_050.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Taak herkennen (1 vragen)
+  mk_040.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Taak van de Eerste Kamer herkennen (1 vragen)
+  mk_019.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: taakverdeling binnen het strafrecht toepassen (1 vragen)
+  mk_051.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Taakverdeling herkennen (2 vragen)
+  mk_039.json: 1 vragen
+  mk_040.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Taakverdeling toepassen (1 vragen)
+  mk_039.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: taken en functies van bestuurders onderscheiden (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: taken en organen van de provincie herkennen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: taken van bestuurslagen herkennen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Taken van bestuurslagen vergelijken (2 vragen)
+  mk_013.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: taken van de gemeenteraad herkennen (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Taken van de politie herkennen (1 vragen)
+  mk_050.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Taken van een BOA toepassen (1 vragen)
+  mk_050.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: taken van EU-instellingen herkennen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Taken van kabinet en parlement onderscheiden (1 vragen)
+  mk_021.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: taken van politie, OM en rechter onderscheiden (1 vragen)
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Terugkoppeling herkennen (1 vragen)
+  mk_027.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Toepassen (19 vragen)
+  mk_024.json: 3 vragen
+  mk_025.json: 2 vragen
+  mk_034.json: 2 vragen
+  mk_039.json: 3 vragen
+  mk_040.json: 1 vragen
+  mk_042.json: 4 vragen
+  mk_043.json: 1 vragen
+  mk_044.json: 1 vragen
+  mk_045.json: 1 vragen
+  mk_047.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Toepassen van het begrip vrijspraak (1 vragen)
+  mk_046.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: toepassen van kennis over de medewetgevende taak van de Tweede Kamer (1 vragen)
+  mk_051.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Troonrede en Prinsjesdag begrijpen (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Twee situaties vergelijken (2 vragen)
+  mk_033.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: uitgangspunten herkennen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: uitgangspunten toepassen (1 vragen)
+  mk_053.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Uitleg toepassen (1 vragen)
+  mk_033.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Uitslag van verkiezingen interpreteren (1 vragen)
+  mk_017.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: uitspraken over Kamerleden beoordelen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Verantwoordelijkheden onderscheiden (1 vragen)
+  mk_029.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Verantwoordingsplicht herkennen (1 vragen)
+  mk_021.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Verband leggen tussen stemmen en zetels (2 vragen)
+  mk_017.json: 1 vragen
+  mk_052.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Verbanden herkennen (1 vragen)
+  mk_026.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Vergelijken (1 vragen)
+  mk_044.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Verhouding tussen kabinet en parlement herkennen (1 vragen)
+  mk_021.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Vermoeden van onschuld herkennen (1 vragen)
+  mk_050.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Verschil herkennen tussen preventie en aanpak na een strafbaar feit (1 vragen)
+  mk_048.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Verschil herkennen tussen straf en maatregel (1 vragen)
+  mk_046.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Verschillen herkennen (2 vragen)
+  mk_024.json: 1 vragen
+  mk_034.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Verschillende belangen herkennen (5 vragen)
+  mk_009.json: 5 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Verschillende meningen over een oplossing herkennen (2 vragen)
+  mk_008.json: 2 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Verschillende standpunten herkennen (2 vragen)
+  mk_005.json: 1 vragen
+  mk_010.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Vertrouwensregel herkennen (1 vragen)
+  mk_021.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: volksvertegenwoordigers herkennen (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: volksvertegenwoordiging herkennen (1 vragen)
+  mk_057.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Voorbeeld uit de Wegenverkeerswet herkennen (1 vragen)
+  mk_033.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: vrijheid van oppositie herkennen (1 vragen)
+  mk_056.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: wetgevende macht herkennen (1 vragen)
+  mk_054.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: zwevende kiezers herkennen (1 vragen)
+  mk_055.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Zwijgrecht herkennen (1 vragen)
+  mk_050.json: 1 vragen
+
+-----------------------------------------------------------------
+VAARDIGHEID: Zwijgrecht toepassen (1 vragen)
+  mk_051.json: 1 vragen

@@ -1,0 +1,344 @@
+{
+  "id": "mk_030",
+  "subject": "maatschappij",
+  "title": "Les 30 – Politieke stromingen: links en rechts",
+  "goal": "Je leert wat links en rechts betekenen in de politiek en je leert politieke standpunten met elkaar vergelijken.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Links en rechts",
+      "text": "Links en rechts zijn politieke begrippen waarmee je standpunten van politieke partijen kunt vergelijken. Veel linkse partijen leggen vaak nadruk op gelijkheid, sociale voorzieningen en een actieve overheid. Veel rechtse partijen leggen vaak nadruk op vrijheid, eigen verantwoordelijkheid en minder overheidsbemoeienis. Links en rechts zijn geen goede of slechte keuzes. Het zijn verschillende ideeën over hoe je een land kunt besturen."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat betekent links?",
+      "text": "Veel linkse partijen vinden het belangrijk dat verschillen tussen mensen kleiner worden. Zij vinden vaak dat de overheid actief mag helpen om mensen gelijke kansen te geven. Daarom vinden zij sociale voorzieningen belangrijk. Sociale voorzieningen zijn hulp en voorzieningen van de overheid, bijvoorbeeld uitkeringen en bepaalde vormen van zorg."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat betekent rechts?",
+      "text": "Veel rechtse partijen leggen meer nadruk op vrijheid en eigen verantwoordelijkheid. Zij vinden vaak dat mensen eerst zelf verantwoordelijkheid dragen en dat de overheid zich minder met het dagelijks leven moet bemoeien. Rechtse partijen willen vaak lagere belastingen en minder overheidsuitgaven. Ook vinden zij vaak dat bedrijven veel ruimte moeten krijgen om zelf keuzes te maken."
+    },
+    {
+      "type": "chart",
+      "title": "Links en rechts vergelijken",
+      "headers": [
+        "Onderwerp",
+        "Links",
+        "Rechts"
+      ],
+      "rows": [
+        [
+          "Rol van de overheid",
+          "De overheid mag actief regelen, sturen en helpen.",
+          "De overheid moet zich vaak minder bemoeien."
+        ],
+        [
+          "Belastingen",
+          "Veel linkse partijen vinden dat mensen met hogere inkomens meer mogen bijdragen.",
+          "Veel rechtse partijen willen vaak lagere belastingen en minder overheidsuitgaven."
+        ],
+        [
+          "Zorg en uitkeringen",
+          "De overheid zorgt vaak voor sterke en goed toegankelijke sociale voorzieningen.",
+          "Mensen hebben meer eigen verantwoordelijkheid en overheidssteun is vaker beperkter of gerichter."
+        ]
+      ]
+    },
+    {
+      "type": "explanation",
+      "title": "Een voorbeeld: de energierekening",
+      "text": "Stel dat de energierekening voor veel mensen hoog wordt. Een linkse partij kan voorstellen om mensen met een laag inkomen extra geld te geven. Een rechtse partij kan voorstellen om de energiebelasting voor iedereen te verlagen. Beide partijen willen iets doen aan de hoge kosten, maar kiezen een andere aanpak."
+    },
+    {
+      "type": "explanation",
+      "title": "Een voorbeeld: openbaar vervoer",
+      "text": "Stel dat een buslijn weinig reizigers heeft en verlies maakt. Een linkse partij kan vinden dat de overheid subsidie moet geven, zodat de buslijn toch kan blijven rijden. Een subsidie is geld van de overheid om iets mogelijk te maken of te ondersteunen. Een rechtse politicus kan vinden dat de overheid het verlies niet financieel moet steunen en dat het bedrijf zelf financieel gezond moet blijven."
+    },
+    {
+      "type": "explanation",
+      "title": "Een voorbeeld: werk en loon",
+      "text": "Een linkse partij kan voor een hoger minimumloon zijn. Het minimumloon is het laagste loon dat een werkgever volgens de wet mag betalen. Een rechtse partij kan zich zorgen maken dat hogere loonkosten het voor werkgevers moeilijker maken om jongeren in dienst te nemen. Ook hier kijken partijen naar hetzelfde onderwerp, maar leggen zij andere accenten."
+    },
+    {
+      "type": "strategy",
+      "title": "Onthoud dit",
+      "text": "Denk bij links vaak aan: gelijkheid, sociale voorzieningen en een actieve overheid. Denk bij rechts vaak aan: vrijheid, eigen verantwoordelijkheid, lagere belastingen en minder overheidsbemoeienis. Let op: een politieke partij is niet altijd helemaal links of rechts. Een partij kan bijvoorbeeld op economisch gebied rechtse standpunten hebben en op een ander onderwerp meer linkse standpunten."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_030_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Standpunten vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een partij wil dat mensen met hogere inkomens meer belasting betalen. Met dat geld wil de partij sociale voorzieningen ondersteunen. Bij welke politieke stroming past dit standpunt het best?",
+        "context": "",
+        "answers": [
+          "Rechts",
+          "Links",
+          "Het heeft niets met links of rechts te maken"
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan gelijkheid en de rol van de overheid.",
+        "feedback_correct": "Goed! Dit standpunt past bij de nadruk die veel linkse partijen leggen op gelijkheid en sociale voorzieningen.",
+        "feedback_wrong": "Denk aan de nadruk op gelijkheid en de rol van de overheid.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_030_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Standpunten vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een partij wil de belastingen verlagen, zodat burgers en bedrijven meer geld zelf kunnen besteden. Bij welke politieke stroming past dit standpunt het best?",
+        "context": "",
+        "answers": [
+          "Links",
+          "Rechts",
+          "De rechterlijke macht"
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan lagere belastingen en meer ruimte voor burgers en bedrijven.",
+        "feedback_correct": "Goed! Lagere belastingen en meer ruimte voor burgers en bedrijven passen vaak bij rechtse standpunten.",
+        "feedback_wrong": "Denk aan de nadruk op vrijheid, belastingen en eigen verantwoordelijkheid.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_030_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Standpunten vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Partij 1 vindt dat de overheid mensen met weinig inkomen moet helpen. Partij 2 vindt dat mensen vooral zelf verantwoordelijk zijn voor hun inkomen. Welke combinatie past het best?",
+        "context": "",
+        "answers": [
+          "Partij 1 is rechts en Partij 2 is links.",
+          "Partij 1 en Partij 2 zijn allebei links.",
+          "Partij 1 is links en Partij 2 is rechts."
+        ],
+        "correct_answer": 2,
+        "hint": "Vergelijk wie volgens elke partij de grootste verantwoordelijkheid draagt: de overheid of de burger.",
+        "feedback_correct": "Goed! Partij 1 legt meer nadruk op hulp van de overheid. Partij 2 legt meer nadruk op eigen verantwoordelijkheid.",
+        "feedback_wrong": "Vergelijk de rol die beide partijen geven aan de overheid en aan de eigen verantwoordelijkheid.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_030_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Nuanceren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politieke partij is voor lage belastingen, maar wil ook dat de overheid veel geld uitgeeft aan het beschermen van het milieu. Wat laat dit voorbeeld zien?",
+        "context": "",
+        "answers": [
+          "Een partij moet altijd volledig links of volledig rechts zijn.",
+          "Een partij kan per onderwerp verschillende standpunten hebben.",
+          "Een partij mag geen standpunt over het milieu hebben."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan het feit dat politieke partijen over veel verschillende onderwerpen een standpunt hebben.",
+        "feedback_correct": "Goed! Een partij kan op het ene onderwerp meer rechtse en op een ander onderwerp meer linkse kenmerken hebben.",
+        "feedback_wrong": "Denk aan het verschil tussen verschillende onderwerpen waarover een partij een standpunt inneemt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_030_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Politieke waarden herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De overheid betaalt een groot deel van de zorgkosten, zodat zorg voor alle burgers betaalbaar blijft. Welke maatschappelijke waarde staat hierbij vooral centraal?",
+        "context": "",
+        "answers": [
+          "Gelijkheid en toegankelijkheid voor alle burgers",
+          "Vrijheid om alle zorg zelf te regelen",
+          "Minder regels voor bedrijven"
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan het doel dat zorg voor iedereen bereikbaar en betaalbaar blijft.",
+        "feedback_correct": "Goed! Het uitgangspunt is dat alle burgers toegang moeten kunnen hebben tot betaalbare zorg.",
+        "feedback_wrong": "Kijk naar het doel van de maatregel: voor wie moet de voorziening toegankelijk zijn?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_030_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politicus vindt dat ouders zelf verantwoordelijk zijn voor het ontbijt van hun kinderen. De overheid hoeft volgens deze politicus geen gratis ontbijt op school te regelen. Welke gedachte past hier het best bij?",
+        "context": "",
+        "answers": [
+          "De overheid moet alle problemen oplossen.",
+          "Iedereen moet precies hetzelfde krijgen.",
+          "Mensen dragen in de eerste plaats zelf verantwoordelijkheid."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan eigen verantwoordelijkheid en de rol van de overheid.",
+        "feedback_correct": "Goed! De politicus legt hier de nadruk op eigen verantwoordelijkheid.",
+        "feedback_wrong": "Denk aan wie volgens deze politicus in de eerste plaats verantwoordelijk is.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_030_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Standpunten vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Partij X wil dat de overheid meer betaalbare huurwoningen laat bouwen en de huren sterker reguleert. Partij Y vindt dat verhuurders en huurders meer vrijheid moeten hebben om zelf afspraken te maken. Welke combinatie past het best?",
+        "context": "",
+        "answers": [
+          "Partij X past meer bij links en Partij Y meer bij rechts.",
+          "Partij X past meer bij rechts en Partij Y meer bij links.",
+          "Beide partijen passen duidelijk bij dezelfde politieke stroming."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar de rol van de overheid en de vrijheid om zelf afspraken te maken.",
+        "feedback_correct": "Goed! Partij X geeft de overheid een actievere rol. Partij Y legt meer nadruk op vrijheid.",
+        "feedback_wrong": "Vergelijk de rol van de overheid met de vrijheid van burgers en bedrijven.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_030_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een burger zegt: 'Ik vind dat de overheid minder moet regelen. Mensen moeten meer zelf kunnen beslissen over hun eigen leven.' Bij welke politieke stroming past dit standpunt het best?",
+        "context": "",
+        "answers": [
+          "Links",
+          "Rechts",
+          "Het standpunt heeft niets met politiek te maken."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan vrijheid en minder overheidsbemoeienis.",
+        "feedback_correct": "Goed! Minder overheidsbemoeienis en meer vrijheid passen vaak bij rechtse standpunten.",
+        "feedback_wrong": "Denk aan de rol van de overheid en de vrijheid van mensen om zelf keuzes te maken.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_030_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Nuanceren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een burger zegt: 'Een partij kan economisch gezien rechtse standpunten hebben, maar op het gebied van milieu juist veel overheidsmaatregelen willen.' Welke uitspraak past het best bij deze mening?",
+        "context": "",
+        "answers": [
+          "Een partij kan per onderwerp andere politieke standpunten hebben.",
+          "Een partij moet op ieder onderwerp dezelfde politieke stroming volgen.",
+          "Politieke partijen hebben geen standpunten over verschillende onderwerpen."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan het verschil tussen economische onderwerpen en andere onderwerpen.",
+        "feedback_correct": "Goed! Een partij kan per onderwerp verschillende standpunten innemen.",
+        "feedback_wrong": "Denk aan de mogelijkheid dat partijen over verschillende onderwerpen verschillende keuzes maken.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_030_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een fictief parlement zijn 150 zetels verdeeld. Een linkse groep heeft 55 zetels, een rechtse groep heeft 60 zetels en een groep in het midden heeft 35 zetels. Welke conclusie over een mogelijke samenwerking kun je rechtstreeks uit deze zetelverdeling trekken?",
+        "context": "Voor een meerderheid zijn 76 zetels nodig.",
+        "answers": [
+          "De linkse groep kan alleen een meerderheid vormen.",
+          "De rechtse groep kan alleen een meerderheid vormen.",
+          "Geen van beide groepen heeft alleen 76 zetels. Voor een meerderheid zijn dus partijen uit verschillende groepen nodig."
+        ],
+        "correct_answer": 2,
+        "hint": "Vergelijk het aantal zetels van iedere groep met de 76 zetels die nodig zijn voor een meerderheid.",
+        "feedback_correct": "Goed! 55 en 60 zijn allebei minder dan 76. Wie een meerderheid wil vormen, heeft samenwerking met andere partijen nodig.",
+        "feedback_wrong": "Vergelijk de zetelaantallen met het aantal zetels dat nodig is voor een meerderheid.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Dit moet je onthouden",
+      "text": "Links en rechts zijn politieke begrippen waarmee je standpunten kunt vergelijken. Veel linkse partijen leggen vaak nadruk op gelijkheid, sociale voorzieningen en een actieve overheid. Veel rechtse partijen leggen vaak nadruk op vrijheid, eigen verantwoordelijkheid en minder overheidsbemoeienis. Geen enkele partij is helemaal links of helemaal rechts. Een partij kan per onderwerp een ander standpunt hebben. Links en rechts zijn verschillende ideeën over hoe je een land kunt besturen."
+    }
+  ]
+}

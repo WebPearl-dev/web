@@ -1,0 +1,736 @@
+{
+  "id": "mk_052",
+  "subject": "maatschappij",
+  "content_type": "practice_test",
+  "title": "Oefentoets – geïnspireerd op het examen van 2023",
+  "goal": "Je oefent met nieuwe examengerichte vragen over politiek, beleid, maatschappelijke vraagstukken, criminaliteit en de rechtsstaat.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Oefentoets maken",
+      "text": "Deze oefentoets bevat nieuwe, zelf geformuleerde vragen die inhoudelijk zijn geïnspireerd op het examen Maatschappijkunde vmbo-BB van 2023. Lees iedere vraag rustig. Gebruik de informatie in de situatie en kies het antwoord dat het best wordt ondersteund."
+    },
+    {
+      "type": "strategy",
+      "title": "Examentip",
+      "text": "Lees eerst precies wat de vraag vraagt. Zoek daarna de belangrijke informatie in de situatie, tabel of cijfers. Trek niet meer conclusies dan de informatie toelaat. Denk bij politiek na over wie beslist en welke belangen meespelen. Denk bij criminaliteit aan het verschil tussen voorkomen, opsporen en straffen."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1 – Stemmen en zetels",
+      "question": {
+        "id": "mk_052_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Verband leggen tussen stemmen en zetels",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bij de gemeenteraadsverkiezingen krijgt Partij Samen 3.200 stemmen. Partij Vooruit krijgt 1.600 stemmen. Welke partij krijgt bij evenredige vertegenwoordiging meer zetels?",
+        "answers": [
+          "Beide partijen evenveel zetels.",
+          "Partij Samen.",
+          "Partij Vooruit."
+        ],
+        "correct_answer": 1,
+        "hint": "Vergelijk het aantal stemmen en denk aan de verdeling van zetels.",
+        "feedback_correct": "Goed! Partij Samen kreeg meer stemmen en krijgt daarom ook meer zetels.",
+        "feedback_wrong": "Bij evenredige vertegenwoordiging krijgt een partij met meer stemmen ook meer zetels.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2 – Verschillende standpunten",
+      "question": {
+        "id": "mk_052_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "standpunten van politieke partijen vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Partij A wil meer geld voor sportvelden. Partij B wil meer geld voor fietspaden. Wat laat dit zien?",
+        "answers": [
+          "De gemeenteraad mag maar over één onderwerp praten.",
+          "Alle politieke partijen moeten precies dezelfde plannen hebben.",
+          "Politieke partijen kunnen verschillende plannen en standpunten hebben."
+        ],
+        "correct_answer": 2,
+        "hint": "Vergelijk de plannen. Vinden de partijen hetzelfde belangrijk?",
+        "feedback_correct": "Juist! Partijen kunnen andere onderwerpen belangrijk vinden. Kiezers kunnen kiezen welke plannen bij hen passen.",
+        "feedback_wrong": "De plannen leggen de nadruk op verschillende onderwerpen. Dat is een verschil in politieke standpunten.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3 – Invloed buiten verkiezingen",
+      "question": {
+        "id": "mk_052_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Invloed van burgers",
+        "skill": "manieren herkennen waarop burgers invloed uitoefenen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bewoners verzamelen handtekeningen voor veiligere fietspaden en sturen die naar de gemeenteraad. Welke manier van invloed gebruiken zij?",
+        "answers": [
+          "Een straf opleggen.",
+          "Een petitie aanbieden.",
+          "Een wet aannemen."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan een manier waarop burgers samen aandacht vragen voor een onderwerp.",
+        "feedback_correct": "Goed! Met een petitie vragen burgers bestuurders om aandacht voor een onderwerp of om een besluit te nemen.",
+        "feedback_wrong": "De bewoners vragen aandacht en steun voor hun voorstel. Ze nemen zelf geen wet aan en doen geen rechterlijke uitspraak.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4 – Op de politieke agenda",
+      "question": {
+        "id": "mk_052_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Media en politieke agenda",
+        "skill": "herkennen hoe een onderwerp op de politieke agenda komt",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Na ongelukken vragen bewoners en lokale media aandacht voor een gevaarlijk kruispunt. De gemeenteraad bespreekt het tijdens een vergadering. Wat is er gebeurd?",
+        "answers": [
+          "Het onderwerp is op de politieke agenda gekomen.",
+          "De gemeenteraad moet meteen precies doen wat de bewoners vragen.",
+          "De politie bepaalt nu hoe het kruispunt wordt ingericht."
+        ],
+        "correct_answer": 0,
+        "hint": "De politieke agenda bestaat uit onderwerpen waar politici en bestuurders aandacht aan besteden.",
+        "feedback_correct": "Dat klopt. Door aandacht van bewoners en media is het onderwerp besproken door de gemeenteraad en op de politieke agenda gekomen.",
+        "feedback_wrong": "Dat de raad een onderwerp bespreekt, betekent dat het politieke aandacht krijgt. Het betekent niet dat bewoners automatisch hun zin krijgen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5 – Van probleem naar maatregel",
+      "question": {
+        "id": "mk_052_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Beleidsvorming",
+        "skill": "stappen van beleidsvorming herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente onderzoekt gevaarlijke verkeerssituaties bij een school. De raad bespreekt daarna mogelijke oplossingen, zoals een zebrapad of een lagere snelheid. Wat is een logische volgende stap?",
+        "answers": [
+          "De rechter kiest welke verkeersmaatregel de gemeente moet nemen.",
+          "De gemeente doet alsof het probleem niet bestaat.",
+          "De gemeente kiest een maatregel en voert die uit."
+        ],
+        "correct_answer": 2,
+        "hint": "Na het onderzoeken van een probleem bekijken bestuurders welke oplossingen mogelijk zijn.",
+        "feedback_correct": "Goed! Na het bespreken van oplossingen kan de gemeente een maatregel kiezen en uitvoeren.",
+        "feedback_wrong": "Na het bespreken van oplossingen kiest het bestuur welke maatregel wordt genomen. Daarna kan die maatregel worden uitgevoerd.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6 – De gemeenteraad",
+      "question": {
+        "id": "mk_052_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Bestuur en overheid",
+        "skill": "taken van de gemeenteraad herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeenteraad bespreekt of er geld komt voor een nieuwe bibliotheek. Welke taak voert de raad vooral uit?",
+        "answers": [
+          "Besluiten nemen over de plannen en het geld van de gemeente.",
+          "Beslissen of iemand schuldig is aan een misdrijf.",
+          "Zelf alle gemeentelijke werkzaamheden uitvoeren."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de rol van gekozen raadsleden bij plannen en gemeentegeld.",
+        "feedback_correct": "Goed! De gemeenteraad beslist over belangrijke plannen en over hoe het geld van de gemeente wordt verdeeld.",
+        "feedback_wrong": "De gemeenteraad neemt besluiten over plannen en geld. De rechter behandelt strafzaken; de dagelijkse uitvoering ligt bij het college en de gemeentelijke organisatie.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7 – Een belangengroep",
+      "question": {
+        "id": "mk_052_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Belangengroepen",
+        "skill": "De rol van belangengroepen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een vereniging van winkeliers overlegt met raadsleden over de openingstijden van het winkelgebied. Wat is een belangrijk doel van de vereniging?",
+        "answers": [
+          "Bepalen dat alle inwoners lid moeten worden.",
+          "Opkomen voor de belangen van de winkeliers die lid zijn.",
+          "Straf opleggen aan winkeliers die regels overtreden."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk na over wie de vereniging vertegenwoordigt.",
+        "feedback_correct": "Juist! Een belangengroep komt op voor wat de aangesloten winkeliers belangrijk vinden.",
+        "feedback_wrong": "De vereniging probeert invloed uit te oefenen namens de winkeliers. Zij legt geen straffen op en kan mensen niet verplicht lid maken.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8 – Een maatschappelijk vraagstuk",
+      "question": {
+        "id": "mk_052_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Kenmerken van een maatschappelijk vraagstuk herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een stad is woningnood. Jongeren vinden moeilijk een betaalbare woning. Bewoners, verhuurders en de gemeente verschillen van mening over oplossingen. Waarom is dit een maatschappelijk vraagstuk?",
+        "answers": [
+          "Er is al één oplossing waar iedereen het mee eens is.",
+          "Het is alleen een persoonlijke keuze van één bewoner.",
+          "Het raakt veel mensen en er zijn verschillende meningen en belangen."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan de omvang van het probleem en de verschillende belangen.",
+        "feedback_correct": "Goed! Een maatschappelijk vraagstuk raakt meerdere mensen en er bestaan verschillende meningen of belangen over de aanpak.",
+        "feedback_wrong": "Een maatschappelijk vraagstuk gaat verder dan één persoonlijke situatie en leidt vaak tot discussie over oplossingen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9 – Feit of mening",
+      "question": {
+        "id": "mk_052_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "3.1",
+        "topic": "Feit en mening",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een buurtkrant staat: “Vorige maand zijn twaalf fietsen gestolen. De gemeente doet veel te weinig tegen fietsendiefstal.” Welke uitspraak is een mening?",
+        "answers": [
+          "Vorige maand zijn twaalf fietsen gestolen.",
+          "De buurtkrant verschijnt iedere week.",
+          "De gemeente doet veel te weinig tegen fietsendiefstal."
+        ],
+        "correct_answer": 2,
+        "hint": "Vraag jezelf af welke uitspraak een oordeel bevat en welke uitspraak je kunt controleren.",
+        "feedback_correct": "Goed! “De gemeente doet veel te weinig” is een oordeel. Daarom is het een mening.",
+        "feedback_wrong": "Een mening bevat een oordeel. De uitspraak over wat de gemeente te weinig doet, is niet alleen een controleerbaar feit.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10 – Een verkiezingsuitslag lezen",
+      "question": {
+        "id": "mk_052_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bekijk de tabel met het aantal stemmen. Welke partij kreeg de meeste stemmen?",
+        "answers": [
+          "Partij Midden.",
+          "Partij Zuid.",
+          "Partij Noord."
+        ],
+        "correct_answer": 0,
+        "hint": "Vergelijk de aantallen in de tabel en zoek het hoogste getal.",
+        "feedback_correct": "Goed! Partij Midden kreeg 3.100 stemmen, het hoogste aantal.",
+        "feedback_wrong": "Kijk naar de aantallen in de tabel. Partij Midden heeft met 3.100 het hoogste aantal stemmen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "tableHeaders": [
+          "Partij",
+          "Aantal stemmen"
+        ],
+        "tableRows": [
+          [
+            "Partij Noord",
+            "2.450"
+          ],
+          [
+            "Partij Midden",
+            "3.100"
+          ],
+          [
+            "Partij Zuid",
+            "1.850"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 11 – Een besluit uitvoeren",
+      "question": {
+        "id": "mk_052_q11",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Bestuur en overheid",
+        "skill": "Beleid en uitvoering onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeenteraad besluit dat er extra straatverlichting moet komen. Welke situatie is een voorbeeld van de uitvoering van dit besluit?",
+        "answers": [
+          "De raad bespreekt of er extra verlichting nodig is.",
+          "De gemeente laat de nieuwe lampen plaatsen.",
+          "Bewoners sturen een brief waarin zij om verlichting vragen."
+        ],
+        "correct_answer": 1,
+        "hint": "Uitvoering betekent dat een gekozen maatregel in de praktijk wordt uitgevoerd.",
+        "feedback_correct": "Juist! Als de gemeente de lampen laat plaatsen, voert zij het besluit uit.",
+        "feedback_wrong": "Een brief of bespreking kan voorafgaan aan het besluit. Uitvoering betekent dat de gekozen maatregel in de praktijk wordt gedaan.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 12 – Verschillende belangen",
+      "question": {
+        "id": "mk_052_q12",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Democratische besluitvorming",
+        "skill": "Belangen bij een politiek besluit herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeente wil een plein autovrij maken. Ouders vinden dit veiliger; winkeliers vrezen dat klanten moeilijker kunnen komen. Wat laat dit zien?",
+        "answers": [
+          "Alleen de grootste groep mag meepraten.",
+          "Alle betrokken groepen willen altijd precies hetzelfde.",
+          "Bij een politiek besluit kunnen groepen verschillende belangen hebben."
+        ],
+        "correct_answer": 2,
+        "hint": "Vergelijk wat ouders belangrijk vinden met wat winkeliers belangrijk vinden.",
+        "feedback_correct": "Goed! Bij politieke keuzes kunnen belangen botsen. Bestuurders moeten die belangen afwegen.",
+        "feedback_wrong": "De groepen noemen verschillende gevolgen van hetzelfde plan. Dat laat zien dat belangen tegen elkaar kunnen worden afgewogen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 13 – Een politiek standpunt",
+      "question": {
+        "id": "mk_052_q13",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "politieke standpunten koppelen aan een onderwerp",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een wijk is veel overlast. Partij A wil meer geld voor jongerenwerk. Partij B wil extra geld besteden aan cameratoezicht. Waarover verschillen de partijen vooral?",
+        "answers": [
+          "Over de taak van een rechter in een strafzaak.",
+          "Over de vraag of gemeenten verkiezingen mogen houden.",
+          "Over de beste manier om de overlast aan te pakken."
+        ],
+        "correct_answer": 2,
+        "hint": "Welk onderwerp proberen beide partijen op hun eigen manier aan te pakken?",
+        "feedback_correct": "Juist! Beide partijen willen de overlast aanpakken, maar stellen een andere maatregel voor.",
+        "feedback_wrong": "De voorstellen gaan over twee manieren om de overlast aan te pakken, niet over verkiezingsregels of de taak van een rechter.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 14 – Waar gaat de meeste aandacht naartoe?",
+      "question": {
+        "id": "mk_052_q14",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Media en politieke agenda",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bekijk de tabel. Over welk onderwerp heeft de gemeenteraad de meeste vergaderuren besteed?",
+        "answers": [
+          "Woningbouw.",
+          "Sportvoorzieningen.",
+          "Afval."
+        ],
+        "correct_answer": 0,
+        "hint": "Gebruik alleen wat de aantallen vergaderuren laten zien.",
+        "feedback_correct": "Goed! De raad besteedde 24 uur aan woningbouw. Dat is meer dan aan de andere onderwerpen.",
+        "feedback_wrong": "Vergelijk de vergaderuren in de tabel. Woningbouw heeft met 24 uur het hoogste aantal.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "tableHeaders": [
+          "Onderwerp",
+          "Vergaderuren"
+        ],
+        "tableRows": [
+          [
+            "Woningbouw",
+            "24"
+          ],
+          [
+            "Afval",
+            "11"
+          ],
+          [
+            "Sportvoorzieningen",
+            "5"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 15 – Geregistreerde diefstallen",
+      "question": {
+        "id": "mk_052_q15",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1",
+        "topic": "Aangifte en criminaliteitscijfers",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Het aantal geregistreerde winkeldiefstallen stijgt van 80 naar 120. In dezelfde periode doet een winkelketen vaker aangifte. Welke conclusie is het meest voorzichtig?",
+        "answers": [
+          "Er zijn precies 40 extra diefstallen gepleegd.",
+          "Het aantal geregistreerde diefstallen is met 40 gestegen; de oorzaak is niet zeker.",
+          "De politie heeft alle extra diefstallen opgelost."
+        ],
+        "correct_answer": 1,
+        "hint": "De cijfers gaan over geregistreerde diefstallen. Wat kun je daar wel en niet uit afleiden?",
+        "feedback_correct": "Goed! Het aantal registraties steeg met 40. Dat bewijst niet precies hoeveel diefstallen werkelijk zijn gepleegd of waarom de registratie steeg.",
+        "feedback_wrong": "De cijfers laten zien dat er 40 meer diefstallen zijn geregistreerd. Ze bewijzen niet hoeveel diefstallen werkelijk zijn gepleegd of hoeveel zaken zijn opgelost.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 16 – Een grafiek lezen",
+      "question": {
+        "id": "mk_052_q16",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1",
+        "topic": "Aangifte en criminaliteitscijfers",
+        "skill": "Gegevens vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bekijk de tabel met het aantal geregistreerde slachtoffers van straatroof. Welke conclusie past bij de gegevens?",
+        "answers": [
+          "In het laatste jaar kwam straatroof niet meer voor.",
+          "Het aantal daalde van 900 naar 610.",
+          "De cijfers laten zien waardoor het aantal daalde."
+        ],
+        "correct_answer": 1,
+        "hint": "Vergelijk het aantal in het eerste jaar met het aantal in het laatste jaar.",
+        "feedback_correct": "Goed! Het aantal daalde van 900 naar 610. De tabel laat niet zien waarom dat gebeurde.",
+        "feedback_wrong": "De tabel laat een daling zien, maar niet dat straatroof verdwenen is of waardoor het aantal daalde.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "tableHeaders": [
+          "Jaar",
+          "Geregistreerde slachtoffers"
+        ],
+        "tableRows": [
+          [
+            "Jaar 1",
+            "900"
+          ],
+          [
+            "Jaar 2",
+            "820"
+          ],
+          [
+            "Jaar 3",
+            "760"
+          ],
+          [
+            "Jaar 4",
+            "690"
+          ],
+          [
+            "Jaar 5",
+            "610"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 17 – Criminaliteit voorkomen",
+      "question": {
+        "id": "mk_052_q17",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1",
+        "topic": "preventie",
+        "skill": "maatregelen tegen criminaliteit herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een fietsenstalling plaatst betere verlichting en stevige rekken zodat fietsendieven minder makkelijk kunnen toeslaan. Hoe noem je zo’n maatregel?",
+        "answers": [
+          "Preventie.",
+          "Veroordeling.",
+          "Vervolging."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan maatregelen die worden genomen voordat een strafbaar feit plaatsvindt.",
+        "feedback_correct": "Goed! Preventie betekent dat je probeert te voorkomen dat criminaliteit plaatsvindt.",
+        "feedback_wrong": "De maatregel is bedoeld om diefstal te voorkomen, niet om een verdachte te vervolgen of te veroordelen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 18 – Een strafbaar feit onderzoeken",
+      "question": {
+        "id": "mk_052_q18",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2",
+        "topic": "Politie en opsporing",
+        "skill": "opsporing en preventie onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Na een straatroof bekijkt de politie camerabeelden en spreekt met getuigen om de mogelijke dader te vinden. Welke taak voert de politie uit?",
+        "answers": [
+          "Preventie.",
+          "Opsporing.",
+          "Het opleggen van een gevangenisstraf."
+        ],
+        "correct_answer": 1,
+        "hint": "Het strafbare feit is al gebeurd. De politie probeert te achterhalen wie erbij betrokken was.",
+        "feedback_correct": "Juist! Bij opsporing onderzoekt de politie een mogelijk strafbaar feit en verzamelt zij aanwijzingen.",
+        "feedback_wrong": "Omdat het feit al heeft plaatsgevonden en de politie de mogelijke dader zoekt, gaat het om opsporing.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 19 – Wie spreekt de straf uit?",
+      "question": {
+        "id": "mk_052_q19",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2",
+        "topic": "Politie, OM en rechter",
+        "skill": "taken van politie, OM en rechter onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De politie heeft een strafbaar feit onderzocht. Een officier van justitie beoordeelt of de zaak aan de rechter wordt voorgelegd en vertegenwoordigt het OM in de rechtszaak. Welke taak hoort bij de officier van justitie?",
+        "answers": [
+          "De verdachte namens het OM vervolgen.",
+          "De verdachte opsporen en getuigen verhoren.",
+          "Zelf de rechterlijke straf opleggen."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de taak van het Openbaar Ministerie in een strafzaak.",
+        "feedback_correct": "Goed! De officier van justitie werkt voor het OM en kan een verdachte vervolgen. De rechter beslist over schuld en straf.",
+        "feedback_wrong": "De politie spoort op. Het OM vervolgt verdachten. De rechter beslist over schuld en straf.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 20 – Nog geen veroordeling",
+      "question": {
+        "id": "mk_052_q20",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2",
+        "topic": "Verdachten en hun rechten",
+        "skill": "het vermoeden van onschuld toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een vrouw wordt aangehouden omdat zij wordt verdacht van vernieling. Er is nog geen rechtszaak geweest. Een buurtbewoner zegt: “Ze is aangehouden, dus ze is schuldig.” Welke belangrijke rechtsregel past niet bij die uitspraak?",
+        "answers": [
+          "Het recht op vrije meningsuiting.",
+          "Het vermoeden van onschuld.",
+          "Het recht om te stemmen."
+        ],
+        "correct_answer": 1,
+        "hint": "Een verdachte is niet automatisch schuldig. De schuld moet volgens de regels worden vastgesteld.",
+        "feedback_correct": "Goed! Iemand geldt als onschuldig totdat schuld volgens de wet is vastgesteld.",
+        "feedback_wrong": "Een aanhouding betekent niet dat iemand schuldig is. Het vermoeden van onschuld beschermt verdachten tegen een oordeel voordat schuld is vastgesteld.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 21 – Vragen tijdens een verhoor",
+      "question": {
+        "id": "mk_052_q21",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2",
+        "topic": "Verdachten en hun rechten",
+        "skill": "rechten van verdachten herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De politie verhoort een verdachte over een mogelijke inbraak. De verdachte besluit geen antwoord te geven op vragen over de inbraak. Van welk recht maakt de verdachte gebruik?",
+        "answers": [
+          "Het recht om de rechter te kiezen.",
+          "Het recht om zelf een straf op te leggen.",
+          "Het zwijgrecht."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan wat een verdachte tijdens een verhoor niet verplicht is te doen.",
+        "feedback_correct": "Goed! Een verdachte heeft het recht om te zwijgen en hoeft niet mee te werken aan de eigen veroordeling.",
+        "feedback_wrong": "Het gaat om het recht van een verdachte tijdens een verhoor: het zwijgrecht.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 22 – Een jonge verdachte",
+      "question": {
+        "id": "mk_052_q22",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2",
+        "topic": "strafrecht",
+        "skill": "Jeugdstrafrecht herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een jongen van 15 jaar wordt verdacht van het beschadigen van een bushokje. Welke vorm van strafrecht geldt normaal gesproken voor hem?",
+        "answers": [
+          "Het jeugdstrafrecht.",
+          "Het burgerlijk recht, omdat er schade is.",
+          "Het volwassenenstrafrecht."
+        ],
+        "correct_answer": 0,
+        "hint": "Let op de leeftijd van de verdachte en welk strafrecht voor jongeren is bedoeld.",
+        "feedback_correct": "Goed! Voor een verdachte van 15 jaar geldt normaal gesproken het jeugdstrafrecht.",
+        "feedback_wrong": "Omdat de verdachte 15 jaar is, geldt normaal gesproken het jeugdstrafrecht. Het burgerlijk recht gaat over geschillen, bijvoorbeeld over schadevergoeding.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 23 – Wat bewijzen cijfers?",
+      "question": {
+        "id": "mk_052_q23",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1",
+        "topic": "Aangifte en criminaliteitscijfers",
+        "skill": "oorzaak en samenhang onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Na het plaatsen van extra straatlampen daalt het aantal geregistreerde inbraken. Welke uitspraak is op basis van alleen deze informatie het best?",
+        "answers": [
+          "De lampen hebben de daling zeker veroorzaakt.",
+          "Het aantal geregistreerde inbraken daalde na het plaatsen van de lampen.",
+          "Er zijn na het plaatsen van de lampen geen inbraken meer geweest."
+        ],
+        "correct_answer": 1,
+        "hint": "Een gebeurtenis die na een maatregel plaatsvindt, bewijst niet automatisch dat de maatregel de oorzaak is.",
+        "feedback_correct": "Juist! De cijfers laten zien dat de daling na het plaatsen van de lampen plaatsvond. Ze bewijzen niet dat de lampen de oorzaak waren.",
+        "feedback_wrong": "De cijfers laten een daling na het plaatsen van de lampen zien. Ze bewijzen niet waardoor de daling kwam en ook niet dat alle inbraken zijn gestopt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 24 – Gevolgen voor slachtoffers",
+      "question": {
+        "id": "mk_052_q24",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1",
+        "topic": "criminaliteit",
+        "skill": "gevolgen van criminaliteit herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Na een woninginbraak voelt een bewoner zich wekenlang onveilig en durft diegene ’s avonds niet alleen thuis te zijn. Wat voor gevolg van criminaliteit is dit vooral?",
+        "answers": [
+          "Psychische schade, zoals angst.",
+          "Materiële schade, zoals een kapot raam.",
+          "Lichamelijk letsel door de inbraak."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de gevoelens en het veiligheidsgevoel van het slachtoffer.",
+        "feedback_correct": "Goed! Angst en je onveilig voelen zijn psychische gevolgen van criminaliteit.",
+        "feedback_wrong": "De situatie gaat over angst en een onveilig gevoel. Dat is psychische schade, niet schade aan spullen of lichamelijk letsel.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 25 – Voorkomen of bestraffen?",
+      "question": {
+        "id": "mk_052_q25",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1",
+        "topic": "criminaliteit",
+        "skill": "preventie en repressie onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente geeft voorlichting op scholen om online oplichting te voorkomen. Een rechter straft iemand die is veroordeeld voor oplichting. Welke uitspraak is juist?",
+        "answers": [
+          "Beide maatregelen worden genomen voordat een misdrijf plaatsvindt.",
+          "Voorlichting is een straf; een straf probeert misdrijven te voorkomen.",
+          "Voorlichting probeert criminaliteit te voorkomen; een straf is een reactie op een misdrijf."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan het verschil tussen voorkomen dat een misdrijf gebeurt en straffen nadat iemand is veroordeeld.",
+        "feedback_correct": "Goed! Voorlichting kan criminaliteit helpen voorkomen. Een straf volgt nadat iemand voor een misdrijf is veroordeeld.",
+        "feedback_wrong": "Voorlichting is bedoeld om misdrijven te voorkomen. Een straf wordt opgelegd nadat iemand is veroordeeld.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Goed gedaan!",
+      "text": "Je hebt de oefentoets afgerond. Bekijk vooral de vragen die lastig waren en lees de feedback. Probeer te bedenken welke informatie je nodig had om het juiste antwoord te kiezen."
+    }
+  ]
+}

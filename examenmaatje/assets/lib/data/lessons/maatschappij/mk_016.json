@@ -1,0 +1,338 @@
+{
+  "id": "mk_016",
+  "subject": "maatschappij",
+  "title": "Les 16 – De scheiding van de machten (Trias Politica)",
+  "goal": "Je leert wat de scheiding van de machten betekent, waarom macht wordt verdeeld en welke taken de wetgevende, uitvoerende en rechterlijke macht hebben. Je leert ook waarom rechters onafhankelijk moeten zijn.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Waarom wordt macht verdeeld?",
+      "text": "Nederland is een rechtsstaat. Dat betekent onder andere dat de overheid zich aan de wet moet houden en dat burgers rechten hebben. Om te voorkomen dat te veel macht bij één persoon of groep ligt, is de macht verdeeld over verschillende onderdelen. Dit noemen we de scheiding van de machten, of de Trias Politica.\n\nDe drie machten hebben ieder hun eigen taak. Ze zijn niet helemaal van elkaar gescheiden. Ze werken soms samen en controleren elkaar. In Nederland zijn de drie machten niet volledig gescheiden, maar de macht is wel verdeeld."
+    },
+    {
+      "type": "explanation",
+      "title": "Waarom wordt de macht verdeeld?",
+      "text": "Als één persoon of groep alle macht heeft, kan die macht worden misbruikt. Daarom wordt de macht verdeeld over verschillende onderdelen.\n\nDe drie machten zijn:\n\n• de wetgevende macht: op landelijk niveau zijn de regering en het parlement samen betrokken bij het maken van wetten en regels;\n• de uitvoerende macht: bestuurders en organisaties die wetten en beleid uitvoeren;\n• de rechterlijke macht: beoordeelt conflicten en strafzaken en spreekt recht.\n\nDoor de macht te verdelen, kunnen de verschillende machten elkaar controleren."
+    },
+    {
+      "type": "explanation",
+      "title": "De wetgevende macht",
+      "text": "De wetgevende macht houdt zich bezig met het maken van wetten en regels.\n\nOp landelijk niveau zijn de regering en het parlement betrokken bij het maken van wetten. Het parlement bestaat uit de Tweede Kamer en de Eerste Kamer. De regering bestaat uit de koning en de ministers.\n\nDe regering doet vaak een voorstel voor een nieuwe wet. De Tweede en Eerste Kamer bespreken en beoordelen het voorstel. Een voorstel wordt pas een wet als de juiste stappen zijn doorlopen.\n\nDe volksvertegenwoordiging controleert ook of de regering haar werk goed doet.\n\nOp lokaal niveau maakt de gemeenteraad regels voor de gemeente."
+    },
+    {
+      "type": "explanation",
+      "title": "De uitvoerende macht",
+      "text": "De uitvoerende macht bestaat uit bestuurders en organisaties die wetten, regels en beleid uitvoeren.\n\nVoorbeelden zijn ministers en ambtenaren die beleid uitvoeren. Ook de politie, de Belastingdienst, gemeenten en burgemeesters voeren regels en beleid uit.\n\nDe uitvoerende macht zorgt er dus voor dat regels in de praktijk worden uitgevoerd en gehandhaafd."
+    },
+    {
+      "type": "explanation",
+      "title": "De rechterlijke macht",
+      "text": "De rechterlijke macht bestaat uit rechters.\n\nRechters beoordelen bijvoorbeeld conflicten tussen mensen of organisaties. Ook behandelen zij strafzaken. Een rechter kijkt naar de wet en beslist wat volgens de wet moet gebeuren.\n\nRechters moeten onafhankelijk en onpartijdig zijn. Zij mogen niet worden gedwongen om een bepaalde uitspraak te doen door de regering of het parlement."
+    },
+    {
+      "type": "explanation",
+      "title": "De machten controleren elkaar",
+      "text": "De drie machten zijn niet volledig van elkaar gescheiden. Ze werken soms samen en controleren elkaar.\n\nMinisters kunnen bijvoorbeeld voorstellen doen voor nieuwe wetten. Het parlement bespreekt deze voorstellen en controleert de regering.\n\nDe uitvoerende macht voert wetten en beleid uit.\n\nDe rechterlijke macht is onafhankelijk van de politiek. Een rechter moet zelf kunnen bepalen hoe een zaak volgens de wet wordt beoordeeld."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo herken je de drie machten",
+      "text": "Gebruik deze stappen:\n\n1. Lees goed wat er gebeurt.\n2. Kijk naar de belangrijkste taak.\n   • Een nieuwe wet of regel maken? → wetgevende macht.\n   • Een bestaande wet of regel uitvoeren of handhaven? → uitvoerende macht.\n   • Een conflict of strafzaak beoordelen? → rechterlijke macht.\n3. Kijk wie de taak uitvoert.\n4. Kijk of een macht een andere macht controleert."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld 1",
+      "text": "De Tweede Kamer bespreekt een voorstel om de kosten van de zorg anders te regelen. Na verdere wettelijke stappen wordt het voorstel een wet.\n\nHier gaat het om de wetgevende macht, omdat er een nieuwe wet wordt gemaakt."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld 2",
+      "text": "Een jongere wordt ervan verdacht een ruit van een bushokje te hebben vernield. De zaak komt voor de rechter. De rechter bepaalt welke straf volgens de wet passend is.\n\nHier gaat het om de rechterlijke macht."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld 3",
+      "text": "Een minister laat verkeersinspecteurs controleren of matrixborden langs de snelweg goed worden gebruikt.\n\nHier gaat het om de uitvoerende macht, omdat een bestaande regel in de praktijk wordt uitgevoerd en gecontroleerd."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld 4",
+      "text": "Stel dat een president rechters ontslaat omdat zij politiek een andere mening hebben. Daarna bepaalt de president zelf of mensen schuldig zijn.\n\nDat past niet bij de scheiding van de machten. Rechters moeten onafhankelijk zijn van de politiek."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1 – De wetgevende macht herkennen",
+      "question": {
+        "id": "mk_016_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Machten herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De Tweede Kamer bespreekt een voorstel om de kosten van de zorg anders te regelen. Na verdere wettelijke stappen wordt het voorstel een wet. Welke macht is hierbij vooral betrokken?",
+        "answers": [
+          "De wetgevende macht.",
+          "De uitvoerende macht.",
+          "De rechterlijke macht.",
+          "De gemeentelijke uitvoeringsdienst."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar wat er met het voorstel gebeurt. Welke taak hoort daarbij?",
+        "feedback_correct": "Goed gedaan! De wetgevende macht houdt zich bezig met het maken en bespreken van wetten.",
+        "feedback_wrong": "Niet helemaal. Kijk naar wat er gebeurt: er wordt een voorstel voor een nieuwe wet besproken.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2 – De rechterlijke macht herkennen",
+      "question": {
+        "id": "mk_016_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Machten herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een jongere wordt ervan verdacht een ruit van een bushokje te hebben vernield. De zaak komt voor de rechter. De rechter bepaalt welke straf volgens de wet passend is. Welke macht is hierbij betrokken?",
+        "answers": [
+          "De wetgevende macht.",
+          "De uitvoerende macht.",
+          "De rechterlijke macht.",
+          "De macht die verkiezingen organiseert."
+        ],
+        "correct_answer": 2,
+        "hint": "Kijk naar de taak die de rechter in deze situatie uitvoert.",
+        "feedback_correct": "Goed! De rechterlijke macht behandelt rechtszaken en spreekt recht.",
+        "feedback_wrong": "Niet juist. Het gaat hier om een rechter die een zaak beoordeelt.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3 – De uitvoerende macht herkennen",
+      "question": {
+        "id": "mk_016_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Machten herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een minister stuurt verkeersinspecteurs naar verschillende wegen om te controleren of matrixborden goed worden gebruikt. Welke macht voert hier een taak uit?",
+        "answers": [
+          "De wetgevende macht.",
+          "De uitvoerende macht.",
+          "De rechterlijke macht.",
+          "De macht die verkiezingen organiseert."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk goed naar wat de verkeersinspecteurs in deze situatie doen.",
+        "feedback_correct": "Goed! De uitvoerende macht voert beleid en regels in de praktijk uit.",
+        "feedback_wrong": "Niet juist. Er wordt hier geen nieuwe wet gemaakt en er is geen rechtszaak.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4 – Onafhankelijke rechters",
+      "question": {
+        "id": "mk_016_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Scheiding van machten uitleggen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Stel dat een president rechters ontslaat omdat zij politiek een andere mening hebben. Daarna bepaalt de president zelf of mensen schuldig zijn. Wat gaat er mis met de scheiding van de machten in deze situatie?",
+        "answers": [
+          "De wetgevende macht maakt geen nieuwe wetten meer.",
+          "De rechterlijke macht is niet meer onafhankelijk van de politiek.",
+          "De uitvoerende macht voert geen regels meer uit.",
+          "De rechterlijke macht krijgt de taak om verkiezingen te organiseren."
+        ],
+        "correct_answer": 1,
+        "hint": "Een rechter moet onafhankelijk kunnen beslissen.",
+        "feedback_correct": "Goed! Rechters moeten onafhankelijk zijn van de politiek. Een president mag niet bepalen hoe rechters hun zaken beoordelen.",
+        "feedback_wrong": "Niet juist. Het probleem is dat de rechterlijke macht niet meer onafhankelijk zou zijn.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5 – De gemeenteraad",
+      "question": {
+        "id": "mk_016_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Machten en taken herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeenteraad maakt een regel dat er na 20.00 uur geen alcohol meer mag worden gedronken in een bepaald park. Welke taak voert de gemeenteraad hier uit?",
+        "answers": [
+          "Een rechtszaak beoordelen.",
+          "Een bestaande regel handhaven.",
+          "Een regel voor de gemeente vaststellen.",
+          "Een straf opleggen aan iemand die de regel overtreedt."
+        ],
+        "correct_answer": 2,
+        "hint": "De gemeenteraad maakt een nieuwe regel.",
+        "feedback_correct": "Goed! De gemeenteraad stelt regels vast voor de gemeente. Dat is een wetgevende taak op lokaal niveau.",
+        "feedback_wrong": "Niet juist. Kijk naar wat de gemeenteraad doet: er wordt een nieuwe regel vastgesteld.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6 – Welke macht?",
+      "question": {
+        "id": "mk_016_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Machten en taken onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Groep X bestaat uit ministers en ambtenaren die beleid en regels in de praktijk uitvoeren. Groep Y bestaat uit onafhankelijke rechters. Welke uitspraak klopt?",
+        "answers": [
+          "Groep X hoort bij de uitvoerende macht en groep Y bij de rechterlijke macht.",
+          "Groep X hoort bij de rechterlijke macht en groep Y bij de wetgevende macht.",
+          "Groep X hoort bij de wetgevende macht en groep Y bij de uitvoerende macht.",
+          "Beide groepen horen bij de wetgevende macht."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar de taak van beide groepen.",
+        "feedback_correct": "Goed! Ministers en ambtenaren voeren beleid en regels uit. Rechters spreken onafhankelijk recht.",
+        "feedback_wrong": "Niet juist. Kijk nog eens naar de taken van de twee groepen.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7 – Waarom moet een rechter onafhankelijk zijn?",
+      "question": {
+        "id": "mk_016_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Onafhankelijkheid van de rechter uitleggen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een burger heeft een conflict met de Belastingdienst en gaat naar de rechter. Waarom is het belangrijk dat de rechter onafhankelijk is?",
+        "answers": [
+          "Omdat de rechter dan zelf nieuwe wetten kan maken.",
+          "Omdat de rechter de zaak eerlijk en zonder politieke druk moet kunnen beoordelen.",
+          "Omdat de rechter bepaalt welke regels de regering moet maken.",
+          "Omdat de rechter altijd de overheid gelijk moet geven."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan eerlijk en onafhankelijk rechtspreken.",
+        "feedback_correct": "Goed! Een onafhankelijke rechter moet een zaak eerlijk kunnen beoordelen zonder druk van de politiek.",
+        "feedback_wrong": "Niet juist. Onafhankelijkheid betekent dat een rechter zonder politieke druk over een zaak moet kunnen beslissen.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8 – Samenwerken en controleren",
+      "question": {
+        "id": "mk_016_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Samenwerking en controle herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak over de scheiding van machten klopt?",
+        "answers": [
+          "De drie machten mogen nooit met elkaar samenwerken.",
+          "De machten hebben verschillende taken, maar kunnen wel samenwerken en elkaar controleren.",
+          "De rechterlijke macht moet altijd doen wat de regering zegt.",
+          "De regering mag zelf bepalen welke uitspraak een rechter moet doen."
+        ],
+        "correct_answer": 1,
+        "hint": "De machten zijn verdeeld, maar niet volledig van elkaar afgesloten.",
+        "feedback_correct": "Goed! De machten hebben verschillende taken, maar werken soms samen en controleren elkaar.",
+        "feedback_wrong": "Niet juist. De machten zijn wel verdeeld, maar werken soms samen en controleren elkaar.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9 – Regels maken en handhaven",
+      "question": {
+        "id": "mk_016_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Machten en taken onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De politie controleert scooters op een weg. De politie kijkt of bestuurders zich houden aan de landelijke verkeersregels. Welke twee machten zijn hierbij na elkaar betrokken?",
+        "answers": [
+          "Eerst de rechterlijke macht en daarna de wetgevende macht.",
+          "Eerst de wetgevende macht, die de regels heeft gemaakt, en daarna de uitvoerende macht, die de regels handhaaft.",
+          "Eerst de uitvoerende macht en daarna de rechterlijke macht.",
+          "Alleen de rechterlijke macht, omdat verkeersregels bij rechtszaken horen."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk eerst aan wie de regels maakt en daarna aan wie ze uitvoert en handhaaft.",
+        "feedback_correct": "Goed! De wetgevende macht is betrokken bij het maken van regels. Daarna voert de politie als onderdeel van de uitvoerende macht deze regels uit en handhaaft zij ze.",
+        "feedback_wrong": "Niet juist. Denk aan de volgorde: eerst worden regels gemaakt en daarna worden ze uitgevoerd en gehandhaafd.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10 – De rechter controleert een besluit",
+      "question": {
+        "id": "mk_016_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Rechterlijke controle herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een inwoner vindt dat de gemeente een regel verkeerd heeft toegepast. Hij gaat volgens de geldende procedure naar de rechter. De rechter onderzoekt de zaak en stelt vast dat de gemeente de regel verkeerd heeft toegepast. Wat kan de rechter doen?",
+        "answers": [
+          "De rechter beoordeelt de zaak en kan een beslissing nemen die past binnen zijn wettelijke bevoegdheden.",
+          "De rechter maakt zelf een nieuwe gemeentelijke regel.",
+          "De rechter neemt de taak van de gemeenteraad over.",
+          "De rechter mag nooit beoordelen of de overheid zich aan de wet houdt."
+        ],
+        "correct_answer": 0,
+        "hint": "De rechter beoordeelt of de overheid zich aan de regels houdt, binnen de bevoegdheden die de wet geeft.",
+        "feedback_correct": "Goed! Een rechter kan beoordelen of de overheid de regels juist heeft toegepast en kan binnen zijn wettelijke bevoegdheden ingrijpen.",
+        "feedback_wrong": "Niet juist. De rechter maakt geen nieuwe regels voor de gemeente en neemt de taak van de gemeenteraad niet over. De rechter beoordeelt de zaak binnen zijn wettelijke bevoegdheden.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Samenvatting",
+      "text": "Goed gedaan! Je hebt geleerd wat de Trias Politica betekent.\n\nOnthoud:\n\n• De wetgevende macht houdt zich bezig met het maken van wetten en regels. Op landelijk niveau zijn de regering en het parlement samen betrokken bij wetgeving.\n• De uitvoerende macht voert wetten, regels en beleid uit en handhaaft regels.\n• De rechterlijke macht spreekt recht en beoordeelt conflicten en strafzaken.\n• De machten hebben verschillende taken, maar kunnen samenwerken en elkaar controleren.\n• Rechters moeten onafhankelijk en onpartijdig zijn."
+    }
+  ]
+}

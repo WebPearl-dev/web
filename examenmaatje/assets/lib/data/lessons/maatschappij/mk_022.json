@@ -1,0 +1,325 @@
+{
+  "id": "mk_022",
+  "subject": "maatschappij",
+  "title": "Les 22 – De koning en de monarchie",
+  "goal": "Je leert wat een monarchie en een constitutionele monarchie zijn. Ook leer je welke rol de koning in Nederland heeft en waarom de ministers politiek verantwoordelijk zijn.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "De koning en de monarchie",
+      "text": "In Les 20 heb je geleerd dat de regering bestaat uit de koning en de ministers.\n\nJe ziet de koning bijvoorbeeld op Prinsjesdag of tijdens een staatsbezoek aan een ander land. Maar wat doet de koning eigenlijk? En hoeveel politieke macht heeft de koning in Nederland?\n\nIn Nederland bepaalt de Grondwet welke rol de koning heeft. De koning is het staatshoofd, maar bepaalt niet zelfstandig het beleid van het land."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een monarchie?",
+      "text": "Een monarchie is een land met een koning of koningin als staatshoofd. Het koningschap is erfelijk. Dat betekent dat het koningschap volgens vaste regels overgaat op een opvolger uit de koninklijke familie.\n\nVaak is dat een kind van de koning, maar de regels voor erfopvolging zijn uitgebreider dan alleen 'het oudste kind'.\n\nHet tegenovergestelde van een monarchie is een republiek. In een republiek is er geen koning of koningin als staatshoofd. Vaak is er een president als staatshoofd."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een constitutionele monarchie?",
+      "text": "Nederland is een constitutionele monarchie. Dat is een moeilijk begrip, maar het is goed te onthouden.\n\nConstitutioneel betekent dat de rol van de koning is vastgelegd in de Grondwet. De koning mag dus niet zelf bepalen wat hij wil. De Grondwet en andere regels bepalen welke taken de koning heeft.\n\nDe koning heeft formeel geen zelfstandige politieke macht. Hij bepaalt niet zelf het beleid van Nederland. Dat doen de ministers."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat doet de koning?",
+      "text": "De koning is het staatshoofd van Nederland. Hij heeft verschillende officiële taken.\n\nEen deel van die taken is ceremonieel. Ceremonieel betekent dat de koning een officiële taak uitvoert, bijvoorbeeld bij een belangrijke gebeurtenis.\n\nDe koning heeft ook een vertegenwoordigende rol. Dat betekent dat hij Nederland vertegenwoordigt, bijvoorbeeld tijdens een staatsbezoek.\n\nBelangrijke taken van de koning zijn:\n\n1. Staatshoofd zijn: de koning vertegenwoordigt Nederland bij officiële gebeurtenissen en ontvangt buitenlandse gasten.\n\n2. Wetten ondertekenen: nadat een wetsvoorstel volgens de regels is goedgekeurd, ondertekenen de koning en een minister de wet. De koning bepaalt niet zelfstandig wat er in de wet staat.\n\n3. De Troonrede voorlezen: op Prinsjesdag leest de koning de Troonrede voor in Den Haag. Daarin staan de belangrijkste plannen van de regering voor het komende parlementaire jaar.\n\n4. Beëdigen: de koning beëdigt ministers, staatssecretarissen en sommige andere hoge functionarissen. Beëdigen betekent dat iemand officieel zijn functie aanvaardt en een eed of belofte aflegt."
+    },
+    {
+      "type": "explanation",
+      "title": "De koning is onschendbaar",
+      "text": "In de Grondwet staat dat de koning onschendbaar is. Dat betekent dat de koning niet zelf politiek ter verantwoording wordt geroepen in het parlement.\n\nDe ministers zijn politiek verantwoordelijk. Zij moeten in het parlement uitleg geven over het beleid van de regering en ook over wat de koning in het openbaar zegt en doet.\n\nDit noemen we ministeriële verantwoordelijkheid. Dat betekent eenvoudig gezegd: de ministers leggen hierover verantwoording af aan het parlement."
+    },
+    {
+      "type": "explanation",
+      "title": "De Troonrede",
+      "text": "Op Prinsjesdag leest de koning de Troonrede voor in Den Haag.\n\nIn de Troonrede staan de belangrijkste plannen van de regering voor het komende parlementaire jaar. De koning bedenkt deze plannen niet zelf. De tekst wordt namens de regering opgesteld en de koning leest deze voor."
+    },
+    {
+      "type": "strategy",
+      "title": "Het stappenplan",
+      "text": "Gebruik bij vragen over de koning deze stappen:\n\n1. Vraag jezelf af: gaat het over de staatsvorm?\n   - Koning of koningin als staatshoofd = monarchie.\n   - Gekozen president als staatshoofd = republiek.\n\n2. Vraag jezelf af: gaat het over Nederland?\n   - Nederland is een constitutionele monarchie.\n   - De rol van de koning is vastgelegd in de Grondwet.\n\n3. Vraag jezelf af: wat doet de koning?\n   - Officiële en ceremoniële taken.\n   - Nederland vertegenwoordigen.\n   - Wetten ondertekenen.\n   - De Troonrede voorlezen.\n   - Ministers en staatssecretarissen beëdigen.\n\n4. Vraag jezelf af: wie legt politieke verantwoording af?\n   - Niet de koning.\n   - De ministers zijn politiek verantwoordelijk."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeldsituatie – Een wet ondertekenen",
+      "text": "De Tweede en Eerste Kamer hebben een wetsvoorstel goedgekeurd. Daarna ondertekenen de koning en een minister de wet.\n\nDe koning bepaalt niet zelf wat er in de wet staat. Zijn handtekening is onderdeel van de officiële procedure."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeldsituatie – Een staatsbezoek",
+      "text": "De koning reist naar een ander land en spreekt daar met de president. Ook ontmoet hij Nederlandse ondernemers die mee zijn met het bezoek.\n\nDe koning vertegenwoordigt Nederland. Dit is een vertegenwoordigende en ceremoniële taak."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1 – Constitutionele monarchie",
+      "question": {
+        "id": "mk_022_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.10",
+        "topic": "Politiek en bestuur",
+        "skill": "Constitutionele monarchie herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Nederland is een constitutionele monarchie. Wat betekent dat?",
+        "answers": [
+          "De koning heeft alle politieke macht.",
+          "De rol en bevoegdheden van de koning zijn vastgelegd in de Grondwet.",
+          "Nederland heeft geen koning, maar een gekozen president."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar het woord constitutioneel. Dat heeft te maken met de Grondwet.",
+        "feedback_correct": "Juist! In een constitutionele monarchie is de rol van de koning vastgelegd in de Grondwet. De koning heeft geen zelfstandige politieke macht.",
+        "feedback_wrong": "Kijk nog eens naar de uitleg over de Grondwet. Welke rol heeft de Grondwet bij de macht van de koning?",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2 – De taak van de koning",
+      "question": {
+        "id": "mk_022_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.11",
+        "topic": "Politiek en bestuur",
+        "skill": "Ceremoniële en vertegenwoordigende taak herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De koning reist naar een ander land en spreekt daar met de president over de samenwerking tussen beide landen. Welke taak van de koning zie je hier?",
+        "answers": [
+          "Een wetgevende taak.",
+          "Een controlerende taak.",
+          "Een vertegenwoordigende en ceremoniële taak."
+        ],
+        "correct_answer": 2,
+        "hint": "De koning vertegenwoordigt Nederland tijdens een officieel bezoek.",
+        "feedback_correct": "Juist. De koning vertegenwoordigt Nederland tijdens officiële bezoeken en bijeenkomsten. Dat is een vertegenwoordigende en ceremoniële taak.",
+        "feedback_wrong": "Kijk naar de situatie. De koning vertegenwoordigt Nederland tijdens een officieel bezoek. Welke taak past daarbij?",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3 – Monarchie of republiek?",
+      "question": {
+        "id": "mk_022_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.10",
+        "topic": "Politiek en bestuur",
+        "skill": "Monarchie en republiek onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Land X heeft een koning als staatshoofd. Land Y heeft een president als staatshoofd. In Land Y wordt de president gekozen. Hoe noemen we de staatsvorm van Land Y?",
+        "answers": [
+          "Een monarchie.",
+          "Een republiek.",
+          "Een bestuurslaag."
+        ],
+        "correct_answer": 1,
+        "hint": "Een land met een koning als staatshoofd is een monarchie. Hoe noem je een land met een president als staatshoofd?",
+        "feedback_correct": "Goed! Land Y is een republiek. In een republiek is het staatshoofd geen koning of koningin, maar bijvoorbeeld een president.",
+        "feedback_wrong": "Kijk nog eens naar het verschil tussen een monarchie en een republiek. Wie is het staatshoofd in Land Y?",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4 – De koning en wetten",
+      "question": {
+        "id": "mk_022_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.11",
+        "topic": "Politiek en bestuur",
+        "skill": "Rol van de koning bij wetgeving herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat laat de rol van de koning bij het ondertekenen van een wet zien?",
+        "context": "De Tweede en Eerste Kamer hebben een wetsvoorstel volgens de regels goedgekeurd. Daarna ondertekenen de koning en een minister de wet.",
+        "answers": [
+          "De koning bepaalt zelf wat er in de wet staat.",
+          "De koning heeft geen zelfstandige politieke macht en ondertekent de wet samen met een minister.",
+          "De koning kan de wet zelfstandig veranderen voordat hij deze ondertekent."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de uitleg over de constitutionele monarchie. Bepaalt de koning zelf het beleid?",
+        "feedback_correct": "Juist. De koning bepaalt niet zelfstandig wat er in een wet staat. De ministers zijn politiek verantwoordelijk voor de ondertekening.",
+        "feedback_wrong": "Kijk naar de taakverdeling. De koning ondertekent de wet, maar wie is politiek verantwoordelijk?",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5 – Ministeriële verantwoordelijkheid",
+      "question": {
+        "id": "mk_022_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.10",
+        "topic": "Politieke controle en verantwoordelijkheid",
+        "skill": "Politieke verantwoordelijkheid herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom vraagt het parlement de minister-president om uitleg als de koning tijdens een openbaar interview een politieke uitspraak doet?",
+        "context": "Stel dat de koning tijdens een openbaar interview een uitspraak doet over een politiek onderwerp. Het parlement vraagt de minister-president om uitleg.",
+        "answers": [
+          "Omdat de minister-president verantwoordelijk is voor het salaris van journalisten.",
+          "Omdat ministers politiek verantwoordelijk zijn voor wat de koning in het openbaar zegt en doet.",
+          "Omdat de koning volgens de wet nooit in het openbaar mag spreken."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de regel: de koning is onschendbaar en de ministers zijn politiek verantwoordelijk.",
+        "feedback_correct": "Juist. De ministers zijn politiek verantwoordelijk voor wat de koning in het openbaar zegt en doet. Daarom leggen zij hierover verantwoording af aan het parlement.",
+        "feedback_wrong": "Kijk nog eens naar het begrip ministeriële verantwoordelijkheid. Wie legt politieke verantwoording af aan het parlement?",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6 – De Troonrede",
+      "question": {
+        "id": "mk_022_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.11",
+        "topic": "Politiek en bestuur",
+        "skill": "Rol van de koning bij de Troonrede herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wie maakt de plannen waarover de koning tijdens de Troonrede voorleest?",
+        "context": "Op Prinsjesdag leest de koning de Troonrede voor in Den Haag. In de Troonrede staan de belangrijkste plannen van de regering voor het komende parlementaire jaar.",
+        "answers": [
+          "De koning bedenkt de plannen zelf.",
+          "De regering stelt de plannen op en de Troonrede wordt namens de regering opgesteld.",
+          "Een commercieel bedrijf bedenkt de plannen voor de regering."
+        ],
+        "correct_answer": 1,
+        "hint": "De koning leest de Troonrede voor. Maar wie maakt het beleid van de regering?",
+        "feedback_correct": "Juist. De Troonrede gaat over de plannen van de regering. De koning leest de tekst voor, maar maakt niet zelf het regeringsbeleid.",
+        "feedback_wrong": "Kijk naar de uitleg over de Troonrede. De koning leest de tekst voor, maar wie maakt de plannen van de regering?",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7 – Koning of minister?",
+      "question": {
+        "id": "mk_022_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.10",
+        "topic": "Regering en kabinet",
+        "skill": "Rollen van koning en minister onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke functies horen bij Persoon X en Persoon Y?",
+        "context": "Persoon X is het staatshoofd. Hij ondertekent wetten en leest officiële toespraken voor. Persoon Y bestuurt een ministerie, maakt beleid en legt daarover verantwoording af aan de Kamer.",
+        "answers": [
+          "Persoon X is een minister, Persoon Y is de koning.",
+          "Persoon X is de koning, Persoon Y is een minister.",
+          "Beide personen zijn rechters."
+        ],
+        "correct_answer": 1,
+        "hint": "Wie is het staatshoofd en wie bestuurt een ministerie en legt daarover verantwoording af aan de Kamer?",
+        "feedback_correct": "Juist. De koning is het staatshoofd. Een minister bestuurt een ministerie en legt daarover verantwoording af aan de Kamer.",
+        "feedback_wrong": "Kijk naar de taakverdeling. Wie is het staatshoofd en wie bestuurt een ministerie?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8 – Standpunt over de monarchie",
+      "question": {
+        "id": "mk_022_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Politiek en bestuur",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat is het standpunt van deze burger over de monarchie?",
+        "context": "Een burger zegt in een interview: \"Ik vind dat we de monarchie direct moeten afschaffen. Ik vind het niet goed dat een opvolger uit de koninklijke familie volgens vaste regels koning of koningin wordt zonder dat burgers daarvoor kunnen stemmen.\"",
+        "answers": [
+          "De burger vindt het erfelijk koningschap een goed systeem.",
+          "De burger is tegen de monarchie en wil dat het koningschap wordt afgeschaft.",
+          "De burger vindt dat de koning meer politieke macht moet krijgen."
+        ],
+        "correct_answer": 1,
+        "hint": "Let op de woorden 'afschaffen' en 'niet goed'. Wat vindt de burger van de monarchie?",
+        "feedback_correct": "Goed. De burger is tegen de monarchie en wil dat het koningschap wordt afgeschaft.",
+        "feedback_wrong": "Lees de uitspraak nog eens. Let vooral op wat de burger wil veranderen aan de monarchie.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9 – Argument herkennen",
+      "question": {
+        "id": "mk_022_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Politiek en bestuur",
+        "skill": "Argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welk argument gebruikt de burger om zijn mening over de monarchie te ondersteunen?",
+        "context": "De burger zegt: \"Ik vind dat we de monarchie moeten afschaffen, omdat burgers niet kunnen stemmen op de persoon die koning of koningin wordt.\"",
+        "answers": [
+          "Dat de koning te weinig naar het buitenland reist.",
+          "Dat burgers niet kunnen stemmen op de persoon die koning of koningin wordt.",
+          "Dat ministers weigeren om wetten te ondertekenen."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek naar de reden na het woord 'omdat'.",
+        "feedback_correct": "Juist. De burger gebruikt als argument dat burgers niet kunnen stemmen op de persoon die koning of koningin wordt.",
+        "feedback_wrong": "Kijk nog eens naar de zin. Welke reden geeft de burger na het woord 'omdat'?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10 – Een meerderheid herkennen",
+      "question": {
+        "id": "mk_022_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Politiek en bestuur",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke conclusie kun je rechtstreeks uit deze voorbeeldpeiling trekken?",
+        "context": "In een voorbeeldpeiling zeggen 65 van de 100 ondervraagde burgers dat zij het koningschap willen behouden. 25 burgers willen liever een republiek. 10 burgers hebben geen mening.",
+        "answers": [
+          "Een meerderheid van de burgers in deze voorbeeldpeiling wil het koningschap behouden.",
+          "Bijna alle burgers willen zo snel mogelijk een republiek.",
+          "De burgers vinden de koning negatief omdat 10 burgers geen mening hebben."
+        ],
+        "correct_answer": 0,
+        "hint": "65 van de 100 is meer dan de helft. Welke groep is dus groter?",
+        "feedback_correct": "Juist. In deze voorbeeldpeiling wil 65 procent het koningschap behouden. Dat is meer dan de helft.",
+        "feedback_wrong": "Kijk nog eens naar de aantallen. Welke groep is groter dan de helft van de ondervraagde burgers?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Les afgerond!",
+      "text": "Goed gedaan! Je hebt geleerd wat een monarchie en een constitutionele monarchie zijn.\n\nOnthoud vooral:\n1. Een monarchie heeft een koning of koningin als staatshoofd. Het koningschap is erfelijk.\n2. Nederland is een constitutionele monarchie. De rol van de koning is vastgelegd in de Grondwet.\n3. De koning is het staatshoofd en heeft officiële, ceremoniële en vertegenwoordigende taken.\n4. De koning ondertekent wetten samen met een minister, leest de Troonrede voor en beëdigt ministers en staatssecretarissen.\n5. De koning is onschendbaar. De ministers zijn politiek verantwoordelijk voor wat de koning in het openbaar zegt en doet.\n6. De koning bepaalt niet zelfstandig het beleid. Dat doen de ministers."
+    }
+  ]
+}

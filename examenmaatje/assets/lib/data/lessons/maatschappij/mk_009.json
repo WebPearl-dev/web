@@ -1,0 +1,308 @@
+{
+  "id": "mk_009",
+  "subject": "maatschappij",
+  "title": "Les 9 – Op verschillende manieren naar een vraagstuk kijken",
+  "goal": "Je leert dat mensen vanuit verschillende belangen en situaties naar hetzelfde maatschappelijke vraagstuk kunnen kijken en daardoor anders over een oplossing kunnen denken.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Iedereen kijkt anders",
+      "text": "Mensen kunnen naar hetzelfde maatschappelijke vraagstuk kijken, maar toch iets anders belangrijk vinden. Dat komt bijvoorbeeld doordat mensen andere belangen hebben of in een andere situatie zitten."
+    },
+    {
+      "type": "explanation",
+      "title": "Situatie en belang",
+      "text": "Je situatie kan invloed hebben op hoe je naar een vraagstuk kijkt. Ook je belang speelt een rol. Een belang is iets wat voor jou of voor een groep belangrijk is.\n\nBijvoorbeeld: bij een skatepark kunnen jongeren vooral een plek willen om te sporten en elkaar te ontmoeten. Omwonenden kunnen vooral rust belangrijk vinden."
+    },
+    {
+      "type": "explanation",
+      "title": "Verschillende belangen",
+      "text": "Bij een maatschappelijk vraagstuk kunnen verschillende groepen verschillende belangen hebben. Denk bijvoorbeeld aan veiligheid, geld, vrijheid, rust, werkgelegenheid of een schoon milieu.\n\nDit betekent niet dat één groep altijd gelijk heeft. Mensen kunnen vanuit hun eigen situatie en belangen anders naar hetzelfde vraagstuk kijken."
+    },
+    {
+      "type": "explanation",
+      "title": "De sociaaleconomische benaderingswijze",
+      "text": "Bij de sociaaleconomische benaderingswijze kijk je onder andere naar de belangen van verschillende groepen. Je kunt bijvoorbeeld kijken naar wie ergens voordeel of nadeel van heeft en welke gevolgen een oplossing voor verschillende groepen kan hebben."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld: een schoolregel",
+      "text": "Een school wil een nieuwe regel maken over het gebruik van telefoons tijdens de les. Leerlingen kunnen het belangrijk vinden dat ze hun telefoon soms kunnen gebruiken. Leraren kunnen vooral rust in de les belangrijk vinden.\n\nDe leerlingen en leraren kijken dus vanuit hun eigen situatie en belangen naar dezelfde regel."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld: verkeersveiligheid",
+      "text": "Een gemeente wil een straat veiliger maken. Een fietser kan graag een vrijliggend fietspad willen. Een automobilist kan vooral willen dat de straat goed bereikbaar blijft.\n\nBeide groepen vinden verkeersveiligheid belangrijk, maar kunnen anders denken over de beste oplossing."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld: afval",
+      "text": "Bij afval kunnen verschillende belangen een rol spelen. Bewoners kunnen een schone buurt belangrijk vinden. De gemeente kan ook letten op de kosten van het ophalen en verwerken van afval.\n\nOok bij plastic tassen kunnen verschillende belangen bestaan. Een landelijke regel bepaalt dat winkels niet zomaar gratis plastic draagtassen mogen meegeven. Mensen kunnen daar verschillende meningen over hebben, bijvoorbeeld omdat ze het milieu belangrijk vinden of omdat ze het lastig vinden om altijd een tas mee te nemen."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_009_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Herkennen dat mensen vanuit verschillende belangen naar een vraagstuk kunnen kijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom kunnen mensen verschillend kijken naar hetzelfde maatschappelijke vraagstuk?",
+        "answers": [
+          "Omdat mensen altijd verschillende oplossingen moeten kiezen.",
+          "Omdat mensen andere belangen of situaties kunnen hebben.",
+          "Omdat maar één groep bij een maatschappelijk vraagstuk betrokken is.",
+          "Omdat mensen nooit dezelfde mening mogen hebben."
+        ],
+        "correct_answer": 1,
+        "feedback_correct": "Goed! Een andere situatie of een ander belang kan ervoor zorgen dat mensen anders naar hetzelfde vraagstuk kijken.",
+        "feedback_wrong": "Denk aan wat voor verschillende mensen belangrijk kan zijn.",
+        "hint": "Denk aan verschillen tussen mensen en groepen."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_009_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Verschillende belangen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bij een skatepark willen jongeren graag een plek om te sporten. Omwonenden vinden rust in hun buurt belangrijk. Wat is hier het verschil?",
+        "answers": [
+          "De groepen hebben precies hetzelfde belang.",
+          "Alleen de jongeren hebben een belang.",
+          "De groepen hebben verschillende belangen.",
+          "De omwonenden hebben niets met het vraagstuk te maken."
+        ],
+        "correct_answer": 2,
+        "feedback_correct": "Goed! Jongeren en omwonenden kunnen verschillende belangen hebben.",
+        "feedback_wrong": "Kijk naar wat de jongeren belangrijk vinden en wat de omwonenden belangrijk vinden.",
+        "hint": "Wat vinden de twee groepen belangrijk?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_009_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Belangen herkennen in een situatie",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een sportleraar vindt het belangrijk dat leerlingen tijdens de les voldoende bewegen. Een andere leraar vindt het belangrijk dat leerlingen rustig kunnen werken. Waarom kunnen zij anders denken over een schoolregel?",
+        "answers": [
+          "Omdat ze nooit dezelfde leerlingen lesgeven.",
+          "Omdat ze vanuit hun eigen belangen naar de regel kunnen kijken.",
+          "Omdat schoolregels voor leraren niet gelden.",
+          "Omdat één van de leraren geen mening mag hebben."
+        ],
+        "correct_answer": 1,
+        "feedback_correct": "Goed! Hun eigen belangen kunnen invloed hebben op hoe zij naar de regel kijken.",
+        "feedback_wrong": "Denk aan wat voor iedere leraar belangrijk is.",
+        "hint": "Wat vinden de twee leraren belangrijk?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_009_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Verschillende belangen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente wil een drukke straat veiliger maken. Een fietser wil vooral een veilig fietspad. Een automobilist vindt het belangrijk dat de straat goed bereikbaar blijft. Wat laat dit voorbeeld zien?",
+        "answers": [
+          "Dat verschillende groepen verschillende belangen kunnen hebben.",
+          "Dat alleen fietsers bij verkeersveiligheid betrokken zijn.",
+          "Dat verkeersveiligheid voor iedereen precies hetzelfde betekent.",
+          "Dat er geen oplossingen voor verkeersproblemen zijn."
+        ],
+        "correct_answer": 0,
+        "feedback_correct": "Goed! De fietser en automobilist kunnen allebei verkeersveiligheid belangrijk vinden, maar ook een ander belang hebben.",
+        "feedback_wrong": "Kijk naar wat de fietser belangrijk vindt en wat de automobilist belangrijk vindt.",
+        "hint": "Vergelijk de belangen van de twee groepen."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_009_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Het belang van verschillende groepen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente wil de verkeersveiligheid in een straat verbeteren. Waarom kan het belangrijk zijn om naar verschillende groepen te kijken?",
+        "answers": [
+          "Omdat iedere groep altijd dezelfde oplossing wil.",
+          "Omdat verschillende groepen andere belangen kunnen hebben.",
+          "Omdat alleen de gemeente een belang heeft.",
+          "Omdat een oplossing nooit gevolgen heeft voor andere mensen."
+        ],
+        "correct_answer": 1,
+        "feedback_correct": "Goed! Verschillende groepen kunnen andere belangen hebben en daardoor anders naar een oplossing kijken.",
+        "feedback_wrong": "Denk aan de verschillende mensen die met de maatregel te maken krijgen.",
+        "hint": "Hebben alle groepen dezelfde belangen?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_009_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Verschillende belangen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente wil een plein veiliger maken. Ouders vinden extra verlichting belangrijk. Jongeren willen vooral dat er een plek blijft waar ze elkaar kunnen ontmoeten. Wat kunnen we hieruit afleiden?",
+        "answers": [
+          "Dat ouders en jongeren altijd hetzelfde belang hebben.",
+          "Dat jongeren geen belang hebben bij het plein.",
+          "Dat verschillende groepen vanuit hun eigen belangen naar het plein kijken.",
+          "Dat de gemeente niets met deze verschillende belangen kan doen."
+        ],
+        "correct_answer": 2,
+        "feedback_correct": "Goed! Ouders en jongeren kunnen vanuit hun eigen belangen anders naar hetzelfde plein kijken.",
+        "feedback_wrong": "Vergelijk wat ouders belangrijk vinden met wat jongeren belangrijk vinden.",
+        "hint": "Kijk naar de verschillende wensen van de twee groepen."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_009_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Een vraag over belangen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente onderzoekt of er meer ruimte moet komen voor fietsers. Welke vraag past het best bij het kijken naar verschillende belangen?",
+        "answers": [
+          "Welke kleur moeten de nieuwe verkeersborden krijgen?",
+          "Welke groep kan voordeel of nadeel hebben van de maatregel?",
+          "Hoe lang duurt het om één verkeersbord te plaatsen?",
+          "Hoeveel fietsen staan er vandaag bij het gemeentehuis?"
+        ],
+        "correct_answer": 1,
+        "feedback_correct": "Goed! Bij verschillende belangen kijk je onder andere naar welke groepen voordeel of nadeel kunnen hebben.",
+        "feedback_wrong": "Denk aan de groepen die met de maatregel te maken krijgen.",
+        "hint": "Welke vraag gaat over gevolgen voor verschillende groepen?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_009_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Verschillende belangen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bij afval in een buurt zijn verschillende belangen. Welke combinatie past daarbij?",
+        "answers": [
+          "Bewoners willen een schone buurt en de gemeente let ook op de kosten.",
+          "Iedereen wil precies hetzelfde en er zijn geen verschillen.",
+          "Alleen de bewoners hebben een belang.",
+          "Afval heeft nooit gevolgen voor verschillende groepen."
+        ],
+        "correct_answer": 0,
+        "feedback_correct": "Goed! Bewoners en gemeente kunnen verschillende belangen hebben bij de manier waarop afval wordt aangepakt.",
+        "feedback_wrong": "Kijk welke keuze twee verschillende belangen noemt.",
+        "hint": "Zoek naar een antwoord waarin verschillende groepen en belangen voorkomen."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_009_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Verschillende belangen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak past bij het kijken naar een maatschappelijk vraagstuk vanuit verschillende belangen?",
+        "answers": [
+          "Je kijkt alleen naar wat jij zelf belangrijk vindt.",
+          "Je kijkt naar wat verschillende groepen belangrijk vinden.",
+          "Je zoekt altijd naar één groep die gelijk heeft.",
+          "Je kijkt alleen naar de mening van de overheid."
+        ],
+        "correct_answer": 1,
+        "feedback_correct": "Goed! Je kijkt naar de belangen van verschillende groepen.",
+        "feedback_wrong": "Denk aan het verschil tussen alleen je eigen mening bekijken en meerdere groepen meenemen.",
+        "hint": "Welke keuze neemt meerdere groepen mee?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_009_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Begrijpen waarom verschillende belangen belangrijk zijn",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom is het bij een maatschappelijk vraagstuk nuttig om naar verschillende belangen te kijken?",
+        "answers": [
+          "Omdat je dan kunt zien waarom groepen anders over een oplossing kunnen denken.",
+          "Omdat je dan weet dat iedereen dezelfde oplossing wil.",
+          "Omdat je dan geen rekening meer hoeft te houden met andere groepen.",
+          "Omdat je dan altijd kunt bepalen welke groep gelijk heeft."
+        ],
+        "correct_answer": 0,
+        "feedback_correct": "Goed! Door verschillende belangen te bekijken, begrijp je beter waarom mensen anders over een oplossing kunnen denken.",
+        "feedback_wrong": "Denk aan het doel van het bekijken van verschillende belangen.",
+        "hint": "Helpt het bekijken van belangen je begrijpen waarom mensen verschillend kunnen denken?"
+      }
+    },
+    {
+      "type": "summary",
+      "title": "Samenvatting",
+      "text": "Mensen kunnen vanuit verschillende situaties en belangen naar hetzelfde maatschappelijke vraagstuk kijken. Daardoor kunnen zij anders denken over mogelijke oplossingen.\n\nEen belang is iets wat voor een persoon of groep belangrijk is. Bij een maatschappelijk vraagstuk kunnen verschillende groepen bijvoorbeeld andere belangen hebben op het gebied van veiligheid, geld, vrijheid, rust of het milieu.\n\nBij de sociaaleconomische benaderingswijze kijk je onder andere naar de belangen van verschillende groepen en naar de gevolgen die een keuze voor deze groepen kan hebben."
+    }
+  ]
+}

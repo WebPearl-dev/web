@@ -1,0 +1,378 @@
+{
+  "id": "bio_001",
+  "subject": "biologie",
+  "title": "Les 1 - Informatie lezen en rekenen",
+  "goal": "Je leert biologische informatie uit teksten en tabellen halen, feiten en meningen onderscheiden, eenheden herkennen en eenvoudige berekeningen maken.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Bij biologie lees je teksten en tabellen, vergelijk je gegevens en maak je soms een berekening. Je leert hoe je rustig en stap voor stap een vraag aanpakt."
+    },
+    {
+      "type": "strategy",
+      "title": "Een vraag aanpakken",
+      "text": "1. Lees de vraag goed.\n2. Onderstreep belangrijke woorden.\n3. Zoek de informatie in de tekst of tabel.\n4. Bepaal of je moet aflezen, vergelijken of rekenen.\n5. Geef antwoord op de vraag.\n6. Controleer of je antwoord en eventuele eenheid kloppen."
+    },
+    {
+      "type": "explanation",
+      "title": "Informatie uit een tekst halen",
+      "text": "Lees de vraag en zoek daarna gericht in de tekst. In een tekst staat: ‘Op maandag kiemden 12 tuinkerszaden. Op dinsdag kiemden 18 zaden.’ Vraag: hoeveel zaden kiemden op dinsdag? Het antwoord is 18."
+    },
+    {
+      "type": "explanation",
+      "title": "Feiten en meningen",
+      "text": "Een feit kun je controleren of meten. ‘De bloem is 5 cm breed’ is een meetbaar feit. ‘Deze bloem is de mooiste’ is een mening, omdat het een persoonlijke beoordeling is."
+    },
+    {
+      "type": "explanation",
+      "title": "Een tabel lezen",
+      "text": "In een tabel staan gegevens overzichtelijk bij elkaar. Lees eerst de kopjes en zoek daarna de juiste rij of kolom. Bijvoorbeeld: maandag 5 lieveheersbeestjes, dinsdag 8 en woensdag 6. Op dinsdag zijn er het meest geteld."
+    },
+    {
+      "type": "explanation",
+      "title": "Eenheden bij metingen",
+      "text": "Een eenheid vertelt wat een getal betekent. Lengte noteer je bijvoorbeeld in centimeter (cm) of meter (m), inhoud in milliliter (ml) of liter (l), en tijd in seconden (s) of minuten (min)."
+    },
+    {
+      "type": "explanation",
+      "title": "Schatten en rekenen",
+      "text": "Schat eerst of een uitkomst logisch is. Drie zakjes met elk 21 zaden bevatten samen 3 × 21 = 63 zaden. Een schatting is ongeveer 60 zaden."
+    },
+    {
+      "type": "explanation",
+      "title": "Handig rekenen en een verhoudingstabel",
+      "text": "Als 5 schaaltjes elk 4 slakken bevatten, zijn dat 5 × 4 = 20 slakken. In een verhoudingstabel kun je een vaste verhouding uitbreiden: 1 proefje gebruikt 3 blaadjes, 2 proefjes 6, 3 proefjes 9 en 4 proefjes 12."
+    },
+    {
+      "type": "explanation",
+      "title": "Controleer je antwoord",
+      "text": "Controleer of je de juiste gegevens hebt gebruikt, de vraag hebt beantwoord en goed hebt gerekend. Kijk ook of je antwoord logisch is en of een eenheid nodig is."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Zoek informatie gericht op, lees tabelkopjes, onderscheid feiten en meningen, gebruik de juiste eenheden en controleer je berekening."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_001_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Informatie uit een tekst halen",
+      "skill": "Informatie vinden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In een tekst staat: ‘Op vrijdag kiemden 20 bonenzaden.’ Hoeveel zaden kiemden op vrijdag?",
+      "answers": [
+        "14",
+        "20",
+        "34"
+      ],
+      "correct_answer": 1,
+      "hint": "Zoek het getal dat bij vrijdag hoort.",
+      "feedback_correct": "In de tekst staat dat 20 zaden kiemden.",
+      "feedback_wrong": "14 en 34 staan niet in de tekst.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_001_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Feiten en meningen",
+      "skill": "Feit en mening onderscheiden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke zin is een mening?",
+      "answers": [
+        "De bloem is 5 cm breed.",
+        "Deze bloem is de mooiste bloem.",
+        "Er staan 3 planten op tafel."
+      ],
+      "correct_answer": 1,
+      "hint": "Een mening is een persoonlijke beoordeling.",
+      "feedback_correct": "‘De mooiste’ is een persoonlijke mening.",
+      "feedback_wrong": "Breedte en aantal kun je meten of tellen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_001_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Gegevens uit tabellen lezen",
+      "skill": "Tabel aflezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Hoeveel lieveheersbeestjes zijn er op dinsdag geteld?",
+      "context": "Aantal lieveheersbeestjes per dag.",
+      "answers": [
+        "5",
+        "8",
+        "6"
+      ],
+      "correct_answer": 1,
+      "hint": "Zoek de rij of kolom voor dinsdag.",
+      "feedback_correct": "Bij dinsdag hoort het aantal 8.",
+      "feedback_wrong": "5 hoort bij maandag en 6 bij woensdag.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "table_headers": [
+        "Dag",
+        "Aantal"
+      ],
+      "table_rows": [
+        [
+          "Maandag",
+          "5"
+        ],
+        [
+          "Dinsdag",
+          "8"
+        ],
+        [
+          "Woensdag",
+          "6"
+        ]
+      ]
+    },
+    {
+      "id": "bio_001_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Meeteenheden",
+      "skill": "Eenheid herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een plant is 7 cm lang. Welke aanduiding is de eenheid?",
+      "answers": [
+        "7",
+        "cm",
+        "plant"
+      ],
+      "correct_answer": 1,
+      "hint": "De eenheid vertelt waarin de lengte is gemeten.",
+      "feedback_correct": "cm betekent centimeter en is de eenheid.",
+      "feedback_wrong": "7 is het getal en plant is het gemeten voorwerp.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_001_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Schatten en rekenen",
+      "skill": "Uitkomst schatten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Er zitten 21 zaden in elk zakje. Je hebt 3 zakjes. Wat is een goede schatting van het totaal?",
+      "answers": [
+        "Ongeveer 60",
+        "Ongeveer 10",
+        "Ongeveer 100"
+      ],
+      "correct_answer": 0,
+      "hint": "Rond 21 af naar ongeveer 20 en reken 3 × 20.",
+      "feedback_correct": "Drie keer ongeveer 20 is ongeveer 60.",
+      "feedback_wrong": "10 is te laag en 100 is te hoog voor deze schatting.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_001_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Vermenigvuldigen",
+      "skill": "Eenvoudig rekenen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In 5 schaaltjes zitten elk 4 slakken. Hoeveel slakken zijn dat samen?",
+      "answers": [
+        "9",
+        "20",
+        "25"
+      ],
+      "correct_answer": 1,
+      "hint": "Je kunt 5 groepen van 4 optellen of vermenigvuldigen.",
+      "feedback_correct": "5 × 4 = 20 slakken.",
+      "feedback_wrong": "9 en 25 zijn niet de uitkomst van 5 × 4.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_001_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Verhoudingstabel",
+      "skill": "Verhouding toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Voor één proefje zijn 3 blaadjes nodig. Hoeveel blaadjes zijn nodig voor 3 proefjes?",
+      "answers": [
+        "6",
+        "8",
+        "9"
+      ],
+      "correct_answer": 2,
+      "hint": "De hoeveelheid per proefje blijft gelijk.",
+      "feedback_correct": "3 proefjes × 3 blaadjes = 9 blaadjes.",
+      "feedback_wrong": "6 en 8 passen niet bij 3 blaadjes per proefje.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_001_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Waarneming en conclusie",
+      "skill": "Onderbouwde uitspraak kiezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een slak bewoog in 2 minuten 4 cm. Welke uitspraak is een waarneming uit deze meting?",
+      "answers": [
+        "Deze slak bewoog 4 cm in 2 minuten.",
+        "Slakken zijn de leukste dieren.",
+        "Alle slakken bewegen altijd precies 4 cm in 2 minuten."
+      ],
+      "correct_answer": 0,
+      "hint": "Kies de uitspraak die alleen beschrijft wat is gemeten.",
+      "feedback_correct": "De zin geeft de meting van deze slak weer.",
+      "feedback_wrong": "De tweede zin is een mening; de derde generaliseert zonder genoeg bewijs.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_001_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Gegevens uit tabellen vergelijken",
+      "skill": "Gegevens vergelijken",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke plant is het langst?",
+      "context": "Lengte van drie planten.",
+      "answers": [
+        "Plant A: 9 cm",
+        "Plant B: 12 cm",
+        "Plant C: 7 cm"
+      ],
+      "correct_answer": 1,
+      "hint": "Vergelijk de drie lengtes.",
+      "feedback_correct": "12 cm is de grootste lengte.",
+      "feedback_wrong": "9 cm en 7 cm zijn korter.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "table_headers": [
+        "Plant",
+        "Lengte"
+      ],
+      "table_rows": [
+        [
+          "A",
+          "9 cm"
+        ],
+        [
+          "B",
+          "12 cm"
+        ],
+        [
+          "C",
+          "7 cm"
+        ]
+      ]
+    },
+    {
+      "id": "bio_001_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Vermenigvuldigen",
+      "skill": "Berekening controleren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In 6 potten staan elk 4 planten. Hoeveel planten zijn dat samen?",
+      "answers": [
+        "10",
+        "24",
+        "46"
+      ],
+      "correct_answer": 1,
+      "hint": "Reken 6 groepen van 4 uit.",
+      "feedback_correct": "6 × 4 = 24 planten.",
+      "feedback_wrong": "10 en 46 zijn geen uitkomst van 6 × 4.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    }
+  ]
+}

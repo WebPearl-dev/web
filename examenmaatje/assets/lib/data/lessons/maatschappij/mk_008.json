@@ -1,0 +1,313 @@
+{
+  "id": "mk_008",
+  "subject": "maatschappij",
+  "title": "Les 8 – Wat is een maatschappelijk vraagstuk?",
+  "goal": "Je leert wat een maatschappelijk vraagstuk is en hoe je kunt herkennen of een probleem een maatschappelijk vraagstuk is.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Een probleem voor meer mensen",
+      "text": "Iedereen heeft weleens een probleem. Je kunt bijvoorbeeld je fietssleutel kwijtraken. Dat is vooral jouw eigen probleem. Maar sommige problemen vinden veel mensen onwenselijk en hebben te maken met de samenleving. Dan spreken we van een maatschappelijk vraagstuk."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een maatschappelijk vraagstuk?",
+      "text": "Een maatschappelijk vraagstuk gaat over een situatie die veel mensen onwenselijk vinden. Mensen kunnen verschillende meningen hebben over de oplossing. Het probleem krijgt vaak aandacht van de media. Ook kan het probleem door gezamenlijke actie of door de overheid worden aangepakt."
+    },
+    {
+      "type": "explanation",
+      "title": "Hoe herken je een maatschappelijk vraagstuk?",
+      "text": "Je kunt op vier kenmerken letten:\n\n1. Veel mensen vinden de situatie onwenselijk.\n2. Er bestaan verschillende meningen over de oplossing.\n3. Het probleem krijgt aandacht van de media.\n4. Het probleem kan door gezamenlijke actie of door de overheid worden aangepakt.\n\nHoe meer van deze kenmerken je herkent, hoe duidelijker het is dat je met een maatschappelijk vraagstuk te maken hebt."
+    },
+    {
+      "type": "explanation",
+      "title": "Een voorbeeld",
+      "text": "In een gebied met meerdere dorpen rijden weinig bussen. Veel mensen vinden het vervelend dat zij daardoor moeilijk naar school, werk of winkels kunnen reizen. Er zijn verschillende ideeën over wat er moet gebeuren, bijvoorbeeld meer bussen laten rijden.\n\nAls veel mensen hierover praten en het onderwerp aandacht krijgt in de media, kan het een maatschappelijk vraagstuk worden. De overheid kan bijvoorbeeld besluiten om het openbaar vervoer te verbeteren."
+    },
+    {
+      "type": "explanation",
+      "title": "Niet ieder probleem is maatschappelijk",
+      "text": "Een persoonlijk probleem raakt vooral één persoon. Bijvoorbeeld: Jayden vergeet zijn verjaardagscadeau voor zijn neef en kan daardoor niet op tijd naar het feestje. Dat is vervelend, maar het is geen maatschappelijk vraagstuk."
+    },
+    {
+      "type": "explanation",
+      "title": "Verschillende meningen",
+      "text": "Bij een maatschappelijk vraagstuk kunnen mensen verschillend denken over wat er moet gebeuren. Bijvoorbeeld bij overlast door afval op straat. De ene persoon vindt dat er meer afvalbakken moeten komen. Een ander vindt dat mensen vooral beter moeten worden aangesproken op hun gedrag."
+    },
+    {
+      "type": "explanation",
+      "title": "Aandacht van de media",
+      "text": "Een maatschappelijk vraagstuk krijgt vaak aandacht van de media. Bijvoorbeeld: een krant, nieuwssite, televisieprogramma of nieuwswebsite besteedt aandacht aan een probleem.\n\nDaardoor kunnen veel mensen van het probleem horen en erover gaan nadenken of praten."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeelden van maatschappelijke vraagstukken",
+      "text": "Voorbeelden zijn verkeersveiligheid, afval op straat, overlast in een buurt, criminaliteit, woningtekort en problemen rond het gebruik van sociale media.\n\nBij deze onderwerpen vinden veel mensen de situatie onwenselijk. Er kunnen verschillende meningen over de oplossing zijn en het onderwerp kan aandacht krijgen in de media. Ook kunnen mensen samen of via de overheid proberen het probleem aan te pakken."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_008_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Kenmerken van een maatschappelijk vraagstuk herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat is een belangrijk kenmerk van een maatschappelijk vraagstuk?",
+        "answers": [
+          "De situatie vinden veel mensen onwenselijk.",
+          "Het probleem gaat altijd maar over één persoon.",
+          "Het probleem heeft altijd maar één oplossing.",
+          "Het probleem kan nooit door de overheid worden aangepakt."
+        ],
+        "correct_answer": 0,
+        "feedback_correct": "Goed! Bij een maatschappelijk vraagstuk vinden veel mensen de situatie onwenselijk.",
+        "feedback_wrong": "Denk aan het verschil tussen een persoonlijk probleem en een situatie die veel mensen onwenselijk vinden.",
+        "hint": "Vraag jezelf af of veel mensen de situatie vervelend of onwenselijk vinden."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_008_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Een persoonlijk probleem herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke situatie is vooral een persoonlijk probleem?",
+        "answers": [
+          "Er is veel afval op straat in een wijk.",
+          "Veel jongeren kunnen moeilijk met de bus naar school.",
+          "Sofia vergeet haar gymtas mee te nemen.",
+          "Er zijn vaak files op een drukke weg."
+        ],
+        "correct_answer": 2,
+        "feedback_correct": "Goed! Het vergeten van een gymtas is vooral een probleem voor Sofia zelf.",
+        "feedback_wrong": "Kijk welke situatie vooral één persoon raakt en niet een grotere maatschappelijke situatie is.",
+        "hint": "Welke situatie gaat vooral over één persoon?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_008_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Verschillende meningen over een oplossing herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom kunnen verschillende meningen belangrijk zijn bij een maatschappelijk vraagstuk?",
+        "answers": [
+          "Omdat iedereen altijd dezelfde oplossing kiest.",
+          "Omdat mensen verschillend kunnen denken over wat er moet gebeuren.",
+          "Omdat een maatschappelijk vraagstuk geen oplossing heeft.",
+          "Omdat alleen de overheid een mening mag hebben."
+        ],
+        "correct_answer": 1,
+        "feedback_correct": "Goed! Mensen kunnen verschillende ideeën hebben over het probleem en over de beste oplossing.",
+        "feedback_wrong": "Denk aan situaties waarin mensen het niet eens zijn over wat er moet gebeuren.",
+        "hint": "Mensen hoeven het niet met elkaar eens te zijn."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_008_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Kenmerken van een maatschappelijk vraagstuk herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een wijk ligt veel afval op straat. Bewoners vinden dat er iets moet gebeuren. De ene bewoner wil meer afvalbakken. Een andere bewoner wil strengere controles. Waarom past dit bij een maatschappelijk vraagstuk?",
+        "answers": [
+          "Omdat maar één persoon last heeft van het afval.",
+          "Omdat veel mensen de situatie onwenselijk vinden en er verschillende ideeën over de oplossing zijn.",
+          "Omdat er altijd maar één goede oplossing is.",
+          "Omdat bewoners niets aan het probleem kunnen doen."
+        ],
+        "correct_answer": 1,
+        "feedback_correct": "Goed! De bewoners vinden de situatie onwenselijk en denken verschillend over de oplossing.",
+        "feedback_wrong": "Kijk naar wat de bewoners van de situatie vinden en naar de verschillende ideeën over de oplossing.",
+        "hint": "Vinden bewoners de situatie onwenselijk? En denken ze hetzelfde over de oplossing?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_008_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Een oplossing voor een maatschappelijk vraagstuk herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een gebied met meerdere dorpen rijden weinig bussen. Welke aanpak kan helpen om dit probleem aan te pakken?",
+        "answers": [
+          "Meer openbaar vervoer laten rijden.",
+          "Alle bushaltes verwijderen.",
+          "Mensen verbieden om naar een ander dorp te reizen.",
+          "Het probleem negeren."
+        ],
+        "correct_answer": 0,
+        "feedback_correct": "Goed! Meer openbaar vervoer kan ervoor zorgen dat mensen zich makkelijker kunnen verplaatsen.",
+        "feedback_wrong": "Denk aan een aanpak waardoor mensen makkelijker met het openbaar vervoer kunnen reizen.",
+        "hint": "Welke keuze helpt mensen die afhankelijk zijn van de bus?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_008_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Een persoonlijk probleem onderscheiden van een maatschappelijk vraagstuk",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke situatie is geen maatschappelijk vraagstuk?",
+        "answers": [
+          "Er is veel verkeersoverlast in een drukke wijk.",
+          "Veel mensen hebben moeite om een betaalbare woning te vinden.",
+          "Jayden vergeet het cadeau voor zijn neef thuis en kan daardoor niet op tijd naar het feestje.",
+          "Bewoners maken zich zorgen over criminaliteit in hun buurt."
+        ],
+        "correct_answer": 2,
+        "feedback_correct": "Goed! Dit probleem gaat vooral over Jayden zelf.",
+        "feedback_wrong": "Kijk welke situatie vooral één persoon raakt.",
+        "hint": "Welke situatie heeft geen grotere groep mensen als betrokkenen?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_008_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Aandacht van de media herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een probleem in een wijk krijgt veel aandacht in de krant, op nieuwssites en op televisie. Welk kenmerk van een maatschappelijk vraagstuk zie je hier?",
+        "answers": [
+          "Het probleem krijgt aandacht van de media.",
+          "Het probleem raakt maar één persoon.",
+          "Iedereen is het over de oplossing eens.",
+          "Het probleem kan niet worden aangepakt."
+        ],
+        "correct_answer": 0,
+        "feedback_correct": "Goed! De krant, nieuwssites en televisie zijn voorbeelden van media.",
+        "feedback_wrong": "Kijk naar de krant, nieuwssites en televisie. Welke rol hebben die bij dit probleem?",
+        "hint": "Denk aan nieuws in kranten, op websites en op televisie."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_008_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Kenmerken van een maatschappelijk vraagstuk herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke situatie past het duidelijkst bij een maatschappelijk vraagstuk?",
+        "answers": [
+          "Noah is zijn telefoonoplader kwijt.",
+          "Een school heeft één kapotte stoel.",
+          "In een wijk ervaren veel bewoners overlast door harde muziek. Het onderwerp krijgt ook aandacht in het lokale nieuws.",
+          "Lisa is haar fietssleutel vergeten."
+        ],
+        "correct_answer": 2,
+        "feedback_correct": "Goed! Veel bewoners hebben met de overlast te maken en het onderwerp krijgt aandacht van de media.",
+        "feedback_wrong": "Kijk welke situatie meerdere mensen raakt en ook aandacht krijgt buiten de directe betrokkenen.",
+        "hint": "Welke situatie raakt veel mensen én krijgt aandacht in het nieuws?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_008_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Verschillende meningen over een oplossing herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom kunnen mensen verschillende oplossingen bedenken voor een maatschappelijk vraagstuk?",
+        "answers": [
+          "Omdat mensen verschillende ideeën en belangen kunnen hebben.",
+          "Omdat een maatschappelijk vraagstuk altijd eenvoudig is.",
+          "Omdat iedereen precies hetzelfde denkt.",
+          "Omdat alleen jongeren over oplossingen mogen nadenken."
+        ],
+        "correct_answer": 0,
+        "feedback_correct": "Goed! Mensen kunnen verschillende ideeën en belangen hebben.",
+        "feedback_wrong": "Denk aan het feit dat mensen niet altijd dezelfde wensen en belangen hebben.",
+        "hint": "Denk aan verschillende ideeën en belangen."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_008_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Kenmerken van een maatschappelijk vraagstuk herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke vier kenmerken helpen je om een maatschappelijk vraagstuk te herkennen?",
+        "answers": [
+          "Veel mensen vinden de situatie onwenselijk, er zijn verschillende meningen over de oplossing, het probleem krijgt aandacht van de media en het kan gezamenlijk of door de overheid worden aangepakt.",
+          "Het raakt één persoon, iedereen is het eens en er is één oplossing.",
+          "Het probleem is klein, persoonlijk en snel opgelost.",
+          "Alleen de overheid is betrokken en bepaalt de oplossing."
+        ],
+        "correct_answer": 0,
+        "feedback_correct": "Goed! Dit zijn de vier kenmerken van een maatschappelijk vraagstuk.",
+        "feedback_wrong": "Denk terug aan de vier kenmerken: onwenselijk, verschillende meningen, media-aandacht en gezamenlijk of door de overheid aanpakken.",
+        "hint": "Denk aan wat veel mensen onwenselijk vinden, verschillende meningen, media-aandacht en het aanpakken van het probleem."
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Samenvatting",
+      "text": "Een maatschappelijk vraagstuk gaat over een situatie die veel mensen onwenselijk vinden. Er bestaan verschillende meningen over de oplossing. Het probleem krijgt aandacht van de media. Ook kan het probleem door gezamenlijke actie of door de overheid worden aangepakt.\n\nAls je een maatschappelijk vraagstuk moet herkennen, kijk je dus naar deze vier kenmerken."
+    }
+  ]
+}

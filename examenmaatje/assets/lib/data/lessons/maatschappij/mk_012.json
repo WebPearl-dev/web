@@ -1,0 +1,338 @@
+{
+  "id": "mk_012",
+  "subject": "maatschappij",
+  "title": "Wat doet de overheid?",
+  "goal": "Je leert wat de overheid is, waarom de overheid belangrijke taken heeft in ons land en welke soorten taken de overheid uitvoert om de samenleving goed te laten werken.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat doet de overheid?",
+      "text": "In de vorige les heb je geleerd dat politiek gaat over het maken van keuzes voor de samenleving. Maar wie voert die keuzes eigenlijk uit? Wie zorgt ervoor dat regels en plannen ook echt worden uitgevoerd? Dat doet de overheid.\n\nElke dag maak je gebruik van dingen die door de overheid zijn geregeld. Als je over een fietspad rijdt, als er onderwijs wordt gegeven of als je veilig over straat kunt lopen omdat er politie aanwezig is, zie je werkzaamheden van de overheid terug.\n\nDe overheid helpt ervoor te zorgen dat de samenleving goed blijft functioneren. In deze les kijken we naar wat de overheid precies doet."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is de overheid?",
+      "text": "De overheid bestaat uit verschillende bestuursorganen en bestuurders die wetten en regels maken, besluiten uitvoeren en zorgen voor belangrijke voorzieningen en veiligheid.\n\nDe overheid:\n\n• maakt wetten en regels;\n• zorgt voor orde en veiligheid;\n• helpt bij het aanpakken van maatschappelijke problemen;\n• zorgt voor of ondersteunt belangrijke voorzieningen."
+    },
+    {
+      "type": "explanation",
+      "title": "Waarom heeft de overheid taken?",
+      "text": "Sommige zaken zijn belangrijk voor veel mensen en kunnen niet gemakkelijk door één persoon worden geregeld.\n\nDenk bijvoorbeeld aan:\n\n• wegen;\n• politie;\n• onderwijs;\n• gezondheidszorg.\n\nDe overheid maakt hiervoor regels, voert beleid uit en zorgt voor of ondersteunt voorzieningen.\n\nVeel overheidstaken worden betaald uit geld dat de overheid ontvangt, bijvoorbeeld uit belastingen en premies."
+    },
+    {
+      "type": "explanation",
+      "title": "De drie bestuurslagen",
+      "text": "De overheid bestaat in Nederland uit drie belangrijke bestuurslagen: het Rijk, de provincie en de gemeente.\n\nHet Rijk regelt zaken die voor heel Nederland belangrijk zijn, zoals landelijke wetten en regels.\n\nDe provincie regelt zaken op provinciaal niveau, zoals provinciale wegen en het landelijk gebied.\n\nDe gemeente regelt vooral zaken die binnen de eigen gemeente belangrijk zijn, zoals lokale wegen, fietsroutes en afvalinzameling.\n\nDe bestuurslagen hebben hun eigen taken, maar kunnen ook samenwerken."
+    },
+    {
+      "type": "explanation",
+      "title": "Het Rijk",
+      "text": "Het Rijk houdt zich bezig met zaken die voor heel Nederland belangrijk zijn. Het Rijk maakt bijvoorbeeld landelijke wetten en regels."
+    },
+    {
+      "type": "explanation",
+      "title": "De provincie",
+      "text": "De provincie houdt zich bezig met zaken op provinciaal niveau. Een provincie kan bijvoorbeeld verantwoordelijk zijn voor provinciale wegen en voor het landelijk gebied."
+    },
+    {
+      "type": "explanation",
+      "title": "De gemeente",
+      "text": "De gemeente regelt zaken die vooral binnen de eigen gemeente belangrijk zijn. Denk bijvoorbeeld aan lokale wegen, fietsroutes en afvalinzameling."
+    },
+    {
+      "type": "explanation",
+      "title": "Een handige indeling van overheidstaken",
+      "text": "Je kunt de taken van de overheid in drie groepen verdelen. Deze indeling helpt je om voorbeelden van overheidstaken te herkennen.\n\n1. Openbare orde en veiligheid\nDe overheid beschermt mensen en zorgt voor veiligheid.\nVoorbeelden zijn politie, brandweer, verkeersveiligheid en defensie.\n\n2. Goede voorzieningen\nDe overheid zorgt voor of ondersteunt voorzieningen die belangrijk zijn voor de samenleving.\nVoorbeelden zijn wegen, fietspaden en onderwijs.\n\n3. Inkomen en zorg\nDe overheid ondersteunt mensen die inkomen of zorg nodig hebben.\nVoorbeelden zijn uitkeringen, zorg en ondersteuning van ouderen."
+    },
+    {
+      "type": "explanation",
+      "title": "AOW en inkomen",
+      "text": "De AOW is een basisinkomen van de overheid voor mensen die de AOW-leeftijd hebben bereikt. Je kunt AOW ontvangen als je de AOW-leeftijd hebt bereikt, ook als je daarnaast nog werkt.\n\nNaast de AOW bestaan er andere regelingen voor inkomen en ondersteuning."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeelden van overheidstaken",
+      "text": "In een wijk rijden auto's veel te hard langs een kinderspeelplaats. De overheid kan maatregelen nemen voor de verkeersveiligheid.\n\nDe provincie kan zorgen voor het onderhoud van een provinciale weg.\n\nDe gemeente kan zorgen voor afvalinzameling en lokale fietsroutes.\n\nHet Rijk kan landelijke wetten en regels maken."
+    },
+    {
+      "type": "explanation",
+      "title": "Het stappenplan",
+      "text": "Als je een vraag krijgt over het werk van de overheid:\n\nStap 1: Lees goed wat de overheid doet.\n\nStap 2: Kijk bij welke taak of bestuurslaag dit past.\n\nStap 3: Kijk naar belangrijke woorden in de vraag.\n\nStap 4: Kies het antwoord dat het beste bij de situatie past."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_012_q01",
+        "subject": "maatschappij",
+        "text": "De overheid geeft geld uit aan basisscholen en middelbare scholen.\n\nBij welke groep overheidstaken hoort onderwijs?",
+        "answers": [
+          "Openbare orde en veiligheid.",
+          "Goede voorzieningen.",
+          "Inkomen en zorg.",
+          "Alleen taken van de provincie."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar de drie groepen overheidstaken uit de uitleg.",
+        "feedback_correct": "Juist. Onderwijs hoort bij de voorzieningen.",
+        "feedback_wrong": "Nog niet. Vergelijk de situatie met de drie groepen overheidstaken uit de uitleg.",
+        "topic": "Politiek en bestuur",
+        "skill": "Een voorbeeld van een overheidstaak indelen",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "level": "BB",
+        "type": "multiple_choice",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_012_q02",
+        "subject": "maatschappij",
+        "text": "Tijdens een voetbalwedstrijd ontstaan rellen. De politie grijpt in.\n\nWelke overheidstaak zie je hier?",
+        "answers": [
+          "Openbare orde en veiligheid.",
+          "Goede voorzieningen.",
+          "Inkomen en zorg.",
+          "Onderwijs."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk welke overheidstaak past bij de situatie.",
+        "feedback_correct": "Juist. De overheid zorgt hier voor openbare orde en veiligheid.",
+        "feedback_wrong": "Nog niet. Vergelijk de situatie met de drie groepen overheidstaken uit de uitleg.",
+        "topic": "Bestuur en overheid",
+        "skill": "Een voorbeeld van een overheidstaak herkennen",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "level": "BB",
+        "type": "multiple_choice",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_012_q03",
+        "subject": "maatschappij",
+        "text": "Een inwoner heeft de AOW-leeftijd bereikt en ontvangt AOW.\n\nWat is AOW?",
+        "answers": [
+          "Een vergoeding voor mensen die een nieuwe baan zoeken.",
+          "Een bedrag dat alleen mensen met een eigen bedrijf ontvangen.",
+          "Een basisinkomen van de overheid voor mensen die de AOW-leeftijd hebben bereikt.",
+          "Een subsidie voor het bouwen van een huis."
+        ],
+        "correct_answer": 2,
+        "hint": "Kijk bij de uitleg over AOW en inkomen.",
+        "feedback_correct": "Juist. AOW is een basisinkomen van de overheid voor mensen die de AOW-leeftijd hebben bereikt.",
+        "feedback_wrong": "Nog niet. Lees het stukje over AOW en inkomen nog eens.",
+        "topic": "Bestuur en overheid",
+        "skill": "Een overheidsregeling herkennen",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "level": "BB",
+        "type": "multiple_choice",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_012_q04",
+        "subject": "maatschappij",
+        "text": "Een provincie onderhoudt een provinciale weg.\n\nWelke bestuurslaag is hiervoor verantwoordelijk?",
+        "answers": [
+          "De provincie.",
+          "De gemeente.",
+          "Het Rijk.",
+          "Een schoolbestuur."
+        ],
+        "correct_answer": 0,
+        "hint": "Let goed op het woord dat vóór 'weg' staat.",
+        "feedback_correct": "Juist. Een provinciale weg hoort bij de provincie.",
+        "feedback_wrong": "Nog niet. Kijk welke bestuurslaag in de situatie wordt genoemd.",
+        "topic": "Bestuur en overheid",
+        "skill": "Een taak aan de juiste bestuurslaag koppelen",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "level": "BB",
+        "type": "multiple_choice",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_012_q05",
+        "subject": "maatschappij",
+        "text": "Een gemeente wil de afvalinzameling in een wijk verbeteren.\n\nWelke bestuurslaag past het beste bij deze taak?",
+        "answers": [
+          "Het Rijk.",
+          "De provincie.",
+          "De gemeente.",
+          "De Europese Unie."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan zaken die vooral binnen één gemeente worden geregeld.",
+        "feedback_correct": "Juist. Afvalinzameling is een voorbeeld van een lokale taak.",
+        "feedback_wrong": "Nog niet. Vergelijk de situatie met de drie bestuurslagen uit de uitleg.",
+        "topic": "Bestuur en overheid",
+        "skill": "Een lokale overheidstaak herkennen",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "level": "BB",
+        "type": "multiple_choice",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_012_q06",
+        "subject": "maatschappij",
+        "text": "De Nederlandse overheid maakt een nieuwe wet waarin regels staan voor verkeersveiligheid op Nederlandse wegen.\n\nWat gebruikt de overheid in deze situatie?",
+        "answers": [
+          "Een provinciale voorziening.",
+          "Een landelijke wet.",
+          "Een gemeentelijke afvalregeling.",
+          "Een Europees sportprogramma."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar het niveau waarop de nieuwe wet geldt.",
+        "feedback_correct": "Juist. Het gaat om een landelijke wet van de Nederlandse overheid.",
+        "feedback_wrong": "Nog niet. Let op wie de wet maakt en voor welk gebied deze geldt.",
+        "topic": "Politiek en bestuur",
+        "skill": "Een landelijke overheidstaak herkennen",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "level": "BB",
+        "type": "multiple_choice",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_012_q07",
+        "subject": "maatschappij",
+        "text": "Voorbeeldcijfers van overheidsuitgaven:\n\n• Zorg: 90 miljard euro\n• Onderwijs: 45 miljard euro\n• Politie en veiligheid: 15 miljard euro\n\nWelke conclusie kun je rechtstreeks uit deze voorbeeldcijfers trekken?",
+        "answers": [
+          "Er gaat twee keer zoveel geld naar zorg als naar onderwijs.",
+          "Er gaat van deze drie posten het meeste geld naar politie en veiligheid.",
+          "De overheid vindt onderwijs niet belangrijk.",
+          "Alle uitgaven aan zorg worden door de gemeente betaald."
+        ],
+        "correct_answer": 0,
+        "hint": "Vergelijk de bedragen voor zorg en onderwijs.",
+        "feedback_correct": "Correct. 90 miljard is twee keer 45 miljard.",
+        "feedback_wrong": "Nog niet. Kijk alleen naar wat je rechtstreeks uit de cijfers kunt aflezen.",
+        "topic": "Bestuur en overheid",
+        "skill": "Een conclusie uit cijfers trekken",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "level": "BB",
+        "type": "multiple_choice",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_012_q08",
+        "subject": "maatschappij",
+        "text": "De overheid legt een fietspad aan tussen twee dorpen zodat inwoners veiliger kunnen fietsen.\n\nWelke groep overheidstaken past hierbij?",
+        "answers": [
+          "Inkomen en zorg.",
+          "Openbare orde en veiligheid.",
+          "Goede voorzieningen.",
+          "Alleen buitenlandse zaken."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan de drie groepen overheidstaken uit de uitleg.",
+        "feedback_correct": "Juist. Een fietspad is een voorziening waar mensen gebruik van kunnen maken.",
+        "feedback_wrong": "Nog niet. Vergelijk het fietspad met de voorbeelden bij de drie groepen overheidstaken.",
+        "topic": "Bestuur en overheid",
+        "skill": "Een voorziening als overheidstaak herkennen",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "level": "BB",
+        "type": "multiple_choice",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_012_q09",
+        "subject": "maatschappij",
+        "text": "Een burger zegt over een bestaande treinverbinding: \"Niemand zit op deze treinen te wachten.\"\n\nUit cijfers blijkt dat dagelijks 20.000 reizigers gebruikmaken van dezelfde treinverbinding.\n\nWat kun je over de uitspraak van de burger zeggen?",
+        "answers": [
+          "De uitspraak wordt volledig door de cijfers bevestigd.",
+          "De uitspraak past niet bij de cijfers over het aantal reizigers.",
+          "De cijfers bewijzen dat iedereen tevreden is over de treinverbinding.",
+          "De cijfers zeggen niets over het aantal reizigers."
+        ],
+        "correct_answer": 1,
+        "hint": "Vergelijk het woord 'niemand' met het aantal reizigers in de cijfers.",
+        "feedback_correct": "Juist. De cijfers laten zien dat veel mensen gebruikmaken van de treinverbinding.",
+        "feedback_wrong": "Nog niet. Vergelijk de uitspraak van de burger rechtstreeks met het aantal reizigers.",
+        "topic": "Standpunten en argumenten",
+        "skill": "Een uitspraak vergelijken met cijfers",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "level": "BB",
+        "type": "multiple_choice",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_012_q10",
+        "subject": "maatschappij",
+        "text": "De overheid wil inwoners gezonder laten leven.\n\nEr worden twee maatregelen voorgesteld:\n\n• lagere belasting op groente en fruit;\n• een verbod op reclames voor ongezond fastfood.\n\nWat laat deze situatie zien?",
+        "answers": [
+          "De overheid kan verschillende maatregelen gebruiken om een doel te bereiken.",
+          "De overheid kan alleen maatregelen nemen die mensen geld kosten.",
+          "De overheid mag zich nooit met gezondheid bezighouden.",
+          "De overheid hoeft geen keuzes te maken tussen maatregelen."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar de twee verschillende maatregelen die worden voorgesteld.",
+        "feedback_correct": "Klopt. De overheid kan verschillende maatregelen gebruiken om een doel te bereiken.",
+        "feedback_wrong": "Nog niet. Vergelijk de twee voorgestelde maatregelen met de uitleg over het werk van de overheid.",
+        "topic": "Politiek en bestuur",
+        "skill": "Verschillende overheidsmaatregelen herkennen",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "level": "BB",
+        "type": "multiple_choice",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "summary",
+      "title": "Samenvatting",
+      "text": "Wat moet je onthouden?\n\n• De overheid maakt en voert wetten, regels en beleid uit en zorgt voor belangrijke zaken in de samenleving.\n• Nederland heeft drie belangrijke bestuurslagen: het Rijk, de provincie en de gemeente.\n• De bestuurslagen hebben verschillende taken en kunnen samenwerken.\n• Je kunt de taken van de overheid in drie groepen verdelen: openbare orde en veiligheid, goede voorzieningen en inkomen en zorg.\n• De overheid kan verschillende maatregelen gebruiken om maatschappelijke problemen aan te pakken."
+    }
+  ]
+}

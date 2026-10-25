@@ -1,0 +1,428 @@
+{
+  "id": "mk_007",
+  "subject": "maatschappij",
+  "title": "Les 7 - Informatie uit een grafiek lezen",
+  "goal": "Je leert hoe je informatie uit een eenvoudige grafiek afleest, gegevens met elkaar vergelijkt en hoe je op basis van de grafiek een juiste conclusie trekt.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Inleiding",
+      "text": "In de vorige les heb je geleerd hoe je informatie overzichtelijk in een tabel zet. Een tabel bestaat uit kolommen en rijen met tekst en getallen. Soms gebruikt een examen of een website een andere manier om gegevens te laten zien: een grafiek.\n\nEen grafiek laat cijfers of andere gegevens overzichtelijk zien. Daardoor kun je vaak snel verschillen zien, zonder dat je eerst een lange lijst met getallen hoeft te bekijken. In deze les leer je hoe je een grafiek stap voor stap leest, zodat je weet wat de grafiek wel en niet laat zien."
+    },
+    {
+      "type": "explanation",
+      "title": "Hoe lees je een grafiek?",
+      "text": "Een grafiek laat informatie overzichtelijk zien. Daardoor kun je gegevens vaak snel vergelijken. Als je een grafiek voor je krijgt, kijk je eerst naar de belangrijkste onderdelen.\n\nJe let op:\n\n• De titel: de titel staat bovenaan de grafiek. Hierin lees je waar de grafiek over gaat.\n\n• De onderkant (horizontale kant): hier zie je meestal de groepen of categorieën staan. Bijvoorbeeld de dagen van de week, namen van sporten of soorten vervoermiddelen.\n\n• De zijkant (verticale kant): hier zie je de getallen of waarden staan. Dit laat zien hoeveel er van iets is. De getallen lopen meestal met gelijke stappen omhoog, bijvoorbeeld van 0, 10, 20 naar 30.\n\nBelangrijk: een grafiek laat gegevens zien, maar niet altijd de reden waarom iets gebeurt. Je mag bij het trekken van een conclusie dus nooit zelf een reden of oorzaak verzinnen die niet in de grafiek staat."
+    },
+    {
+      "type": "explanation",
+      "title": "Stappenplan",
+      "text": "Gebruik dit eenvoudige stappenplan bij het beantwoorden van een grafiekvraag:\n\nStap 1: Lees de titel van de grafiek.\n\nStap 2: Kijk waar de categorieën aan de onderkant over gaan.\n\nStap 3: Kijk naar de getallen aan de zijkant.\n\nStap 4: Zoek de informatie of de categorie die bij de vraag hoort.\n\nStap 5: Vergelijk de gegevens als dat in de vraag wordt gevraagd.\n\nStap 6: Trek alleen een conclusie die echt uit de grafiek blijkt."
+    },
+    {
+      "type": "chart",
+      "title": "Voorbeeld: Hoe komen leerlingen naar school?",
+      "chart_type": "bar",
+      "categories": [
+        "Fiets",
+        "Bus",
+        "Auto",
+        "Lopend"
+      ],
+      "values": [
+        80,
+        50,
+        30,
+        20
+      ]
+    },
+    {
+      "type": "explanation",
+      "title": "Wat kun je uit de grafiek halen?",
+      "text": "In de grafiek zie je dat 80 leerlingen met de fiets naar school komen. Dat is de hoogste waarde. Je kunt dus zeggen: \"De fiets wordt in deze groep het meest gebruikt.\"\n\nJe kunt niet zeggen: \"Leerlingen kiezen massaal voor de fiets omdat fietsen goedkoper is dan de bus.\" De reden waarom leerlingen fietsen staat niet in de grafiek.\n\nOnthoud daarom: kijk goed naar de gegevens en trek alleen een conclusie die je met de grafiek kunt bewijzen."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_007_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke activiteit hoort bij de waarde van 20 bezoekers?",
+        "context": "Een jongerenwerker houdt bij welke activiteiten jongeren bezoeken in het buurthuis.",
+        "chart_type": "bar",
+        "categories": [
+          "Gamen",
+          "Koken",
+          "Huiswerkhulp",
+          "Tafeltennis"
+        ],
+        "values": [
+          35,
+          12,
+          8,
+          20
+        ],
+        "answers": [
+          "Gamen",
+          "Koken",
+          "Tafeltennis"
+        ],
+        "correct_answer": 2,
+        "hint": "Zoek het getal 20 op. Kijk daarna welke activiteit bij dit aantal hoort.",
+        "feedback_correct": "Dat klopt. Tafeltennis heeft 20 bezoekers.",
+        "feedback_wrong": "Niet juist. Kijk nog eens naar het getal 20 en zoek welke activiteit daarbij hoort."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_007_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Een waarde bij een categorie aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Hoeveel leerlingen lezen de schoolkrant op papier?",
+        "context": "Een school onderzoekt hoe leerlingen de schoolkrant lezen.",
+        "chart_type": "bar",
+        "categories": [
+          "Website",
+          "School-app",
+          "Op papier"
+        ],
+        "values": [
+          45,
+          130,
+          15
+        ],
+        "answers": [
+          "15 leerlingen",
+          "45 leerlingen",
+          "130 leerlingen"
+        ],
+        "correct_answer": 0,
+        "hint": "Zoek de categorie Op papier. Kijk daarna naar het aantal dat bij deze categorie hoort.",
+        "feedback_correct": "Goed gekeken. Op papier lezen 15 leerlingen de schoolkrant.",
+        "feedback_wrong": "Dat klopt niet. Kijk nog eens goed naar de categorie Op papier en het aantal dat daarbij hoort."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_007_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "De horizontale kant van een grafiek herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke informatie vind je aan de onderkant van deze grafiek?",
+        "context": "De politie in een gemeente bekijkt het aantal meldingen van geluidsoverlast per dag aan het einde van de week.",
+        "chart_type": "bar",
+        "categories": [
+          "Vrijdag",
+          "Zaterdag",
+          "Zondag"
+        ],
+        "values": [
+          25,
+          45,
+          10
+        ],
+        "answers": [
+          "Het aantal meldingen dat de politie heeft gekregen.",
+          "De dagen van het weekend waarop is gemeten.",
+          "De redenen waarom mensen geluidsoverlast veroorzaken."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar de woorden die helemaal onderaan de grafiek staan. Zijn dat getallen, dagen of redenen?",
+        "feedback_correct": "Juist. Aan de onderkant staan de dagen waarop is gemeten: vrijdag, zaterdag en zondag.",
+        "feedback_wrong": "Niet juist. Kijk nog eens goed naar de woorden die onderaan de grafiek staan."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_007_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "De hoogste waarde herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke categorie afval heeft de hoogste waarde in deze grafiek?",
+        "context": "Een gemeente bekijkt hoeveel kilo afval inwoners gemiddeld per jaar scheiden.",
+        "chart_type": "bar",
+        "categories": [
+          "Glas",
+          "Papier",
+          "Plastic",
+          "Gft-afval"
+        ],
+        "values": [
+          18,
+          52,
+          25,
+          40
+        ],
+        "answers": [
+          "Papier",
+          "Plastic",
+          "Gft-afval"
+        ],
+        "correct_answer": 0,
+        "hint": "Zoek de hoogste waarde. Welke categorie heeft de hoogste staaf?",
+        "feedback_correct": "Goed gedaan. Papier heeft met 52 kilo de hoogste waarde.",
+        "feedback_wrong": "Niet juist. Vergelijk de waarden nog eens en zoek de hoogste waarde."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_007_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "De laagste waarde herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke winkel heeft het laagste aantal?",
+        "context": "Een winkelstraat onderzoekt in welke winkels jongeren hun zakgeld uitgeven.",
+        "chart_type": "bar",
+        "categories": [
+          "Kledingwinkel",
+          "Supermarkt",
+          "Snackbar",
+          "Boekenwinkel"
+        ],
+        "values": [
+          55,
+          70,
+          40,
+          5
+        ],
+        "answers": [
+          "Kledingwinkel",
+          "Snackbar",
+          "Boekenwinkel"
+        ],
+        "correct_answer": 2,
+        "hint": "Zoek naar de categorie met het laagste aantal in de grafiek.",
+        "feedback_correct": "Dat klopt. De boekenwinkel heeft met 5 het laagste aantal.",
+        "feedback_wrong": "Niet juist. Kijk nog eens welke categorie het laagste aantal heeft."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_007_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Gegevens vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak is juist als je de gegevens uit de grafiek met elkaar vergelijkt?",
+        "context": "Een sportvereniging telt hoeveel jeugdleden er per sport zijn aangemeld.",
+        "chart_type": "bar",
+        "categories": [
+          "Voetbal",
+          "Hockey",
+          "Tennis",
+          "Turnen"
+        ],
+        "values": [
+          150,
+          65,
+          40,
+          85
+        ],
+        "answers": [
+          "Er zitten meer jeugdleden op hockey dan op turnen.",
+          "Er zitten minder jeugdleden op tennis dan op turnen.",
+          "Voetbal en tennis hebben precies evenveel jeugdleden."
+        ],
+        "correct_answer": 1,
+        "hint": "Vergelijk de waarden van tennis en turnen. Welke waarde is lager?",
+        "feedback_correct": "Dat klopt. Tennis heeft 40 leden en turnen heeft 85 leden. Tennis heeft dus minder jeugdleden.",
+        "feedback_wrong": "Dat is niet juist volgens de cijfers. Vergelijk de waarden in de uitspraak nog eens."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_007_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Het grootste verschil tussen waarden herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Tussen welke twee groepen is het verschil in uitgeleende boeken het grootst?",
+        "context": "De bibliotheek meet hoeveel boeken er in een week worden uitgeleend aan verschillende leeftijden.",
+        "chart_type": "bar",
+        "categories": [
+          "Kind",
+          "Jongere",
+          "Volwassene"
+        ],
+        "values": [
+          90,
+          30,
+          75
+        ],
+        "answers": [
+          "Tussen Kind en Volwassene.",
+          "Tussen Kind en Jongere.",
+          "Tussen Jongere en Volwassene."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek eerst de hoogste en de laagste waarde. Welke twee groepen horen daarbij?",
+        "feedback_correct": "Goed gekeken. Kind heeft 90 en Jongere heeft 30. Tussen deze twee groepen is het verschil het grootst.",
+        "feedback_wrong": "Niet juist. Zoek eerst de hoogste en de laagste waarde en kijk welke twee groepen daarbij horen."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_007_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "De juiste informatie uit een bron kiezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Je krijgt op je examen de vraag: Hoeveel minuten zit een jongere gemiddeld per dag op Instagram? Welke informatie heb je nodig om deze vraag te beantwoorden?",
+        "context": "Een krant schrijft een artikel over schermtijd. In de krant staat een korte tekst én een grafiek over app-gebruik.\n\nDe tekst vertelt dat sommige ouders zich zorgen maken over smartphonegebruik. De grafiek geeft het gemiddelde aantal minuten per dag per app.",
+        "chart_type": "bar",
+        "categories": [
+          "TikTok",
+          "Instagram",
+          "WhatsApp"
+        ],
+        "values": [
+          80,
+          45,
+          30
+        ],
+        "answers": [
+          "Alleen de tekst uit de krant, want daar staat de mening van de ouders in.",
+          "Alleen de cijfers uit de grafiek, want daar kun je het aantal minuten direct aflezen.",
+          "Je hebt de tekst én de grafiek allebei helemaal nodig voor het antwoord."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk goed naar wat de vraag precies wil weten. Gaat het om de mening van de ouders of om het aantal minuten op Instagram?",
+        "feedback_correct": "Juist. Het aantal minuten op Instagram staat in de grafiek. De tekst met de mening van de ouders is voor deze vraag niet nodig.",
+        "feedback_wrong": "Kijk nog eens naar de vraag. De tekst vertelt niets over het aantal minuten op Instagram."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_007_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke eenvoudige conclusie kun je rechtstreeks trekken op basis van de gegevens in deze grafiek?",
+        "context": "De school houdt bij hoeveel leerlingen te laat komen tijdens de wintermaanden.",
+        "chart_type": "bar",
+        "categories": [
+          "December",
+          "Januari",
+          "Februari"
+        ],
+        "values": [
+          20,
+          55,
+          35
+        ],
+        "answers": [
+          "In de maand januari kwamen de meeste leerlingen te laat op school.",
+          "In januari komen leerlingen te laat omdat er dan vaak sneeuw op de weg ligt.",
+          "Leerlingen vinden het in december veel te koud om op tijd te komen."
+        ],
+        "correct_answer": 0,
+        "hint": "Een juiste conclusie gaat alleen over wat je echt in de cijfers kunt zien. Welke uitspraak noemt alleen het hoogste aantal?",
+        "feedback_correct": "Goed gedaan. Januari heeft met 55 het hoogste aantal. Dat kun je rechtstreeks uit de grafiek halen.",
+        "feedback_wrong": "Niet juist. Kijk nog eens goed naar de cijfers. Kies de optie die alleen vertelt wat je echt in de grafiek kunt zien, zonder zelf een oorzaak te verzinnen."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_007_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Herkennen welke conclusie niet door de gegevens wordt ondersteund",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke conclusie mag je NIET uit deze grafiek halen omdat het niet uit de gegevens blijkt?",
+        "context": "De gemeente onderzoekt waar bewoners online hun nieuws over de buurt vandaan halen.",
+        "chart_type": "bar",
+        "categories": [
+          "Website krant",
+          "Facebook buurt",
+          "Website gemeente"
+        ],
+        "values": [
+          40,
+          95,
+          20
+        ],
+        "answers": [
+          "De website van de gemeente wordt van deze drie opties het minst gebruikt voor buurtnieuws.",
+          "Bewoners gebruiken de Facebook-pagina van de buurt het meest omdat zij Facebook de allerleukste app vinden.",
+          "De Facebook-pagina van de buurt heeft meer bezoekers dan de website van de krant."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek de uitspraak waarin een reden of mening wordt toegevoegd die je niet uit de cijfers kunt halen.",
+        "feedback_correct": "Goed gezien. De grafiek laat zien dat Facebook het meest wordt gebruikt, maar niet waarom bewoners daarvoor kiezen.",
+        "feedback_wrong": "Kijk nog eens goed naar de vraag. Je zoekt de uitspraak waarin iets wordt beweerd dat niet uit de cijfers blijkt."
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Dit moet je onthouden",
+      "text": "Een grafiek laat gegevens overzichtelijk zien. Lees eerst de titel, kijk daarna naar de categorieën aan de onderkant en de getallen aan de zijkant. Vergelijk de waarden goed als dat gevraagd wordt.\n\nHet belangrijkste is dat je alleen opschrijft wat je echt uit de grafiek kunt halen. Verzin geen oorzaak of reden die niet in de gegevens staat."
+    }
+  ]
+}

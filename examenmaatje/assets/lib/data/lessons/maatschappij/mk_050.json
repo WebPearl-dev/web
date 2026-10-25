@@ -1,0 +1,294 @@
+{
+  "id": "mk_050",
+  "subject": "maatschappij",
+  "content_type": "practice_test",
+  "title": "Les 50 – Examen oefenen: criminaliteit en rechtsstaat",
+  "goal": "Geen nieuwe theorie, maar oefenen met examengerichte vragen over criminaliteit en de rechtsstaat. De leerling past kennis toe over verdachte en veroordeelde, rechten van verdachten, politie, Openbaar Ministerie, rechter, BOA, preventie en het lezen van gegevens.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Examen oefenen",
+      "text": "Je hebt in de afgelopen lessen veel geleerd over criminaliteit en de rechtsstaat. Je weet bijvoorbeeld wat het verschil is tussen een misdrijf en een overtreding, welke rechten een verdachte heeft en welke taken politie, Openbaar Ministerie en rechter hebben.\n\nIn deze oefenles ga je die kennis toepassen. Je krijgt korte situaties, een overzicht en gegevens. Lees steeds goed wat er precies staat. Trek bij cijfers alleen conclusies die je echt uit de gegevens kunt halen."
+    },
+    {
+      "type": "strategy",
+      "title": "Examentip",
+      "text": "Lees bij een vraag eerst precies wat er staat. Let daarna op belangrijke woorden zoals verdachte, veroordeeld, geregistreerd, preventie en opsporing. Bij cijfers geldt: trek alleen een conclusie die de gegevens echt ondersteunen."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1 – De BOA",
+      "question": {
+        "id": "mk_050_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.12",
+        "topic": "BOA",
+        "skill": "Taken van een BOA toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeentelijke handhaver controleert in een stadspark of bezoekers zich aan de gemeentelijke regels houden. Hij ziet dat iemand zijn hond los laat lopen op een plaats waar dit volgens de gemeentelijke regels niet is toegestaan. De handhaver treedt op binnen zijn eigen bevoegdheden. Welke functionaris kan deze taak als buitengewoon opsporingsambtenaar uitvoeren?",
+        "context": "",
+        "answers": [
+          "Een officier van justitie",
+          "Een BOA",
+          "Een reclasseringsmedewerker"
+        ],
+        "correct_answer": 1,
+        "hint": "Let op de functie van de handhaver en op het specifieke werkgebied waarin hij werkt.",
+        "feedback_correct": "Goed! Een BOA kan binnen een bepaald werkgebied en met bepaalde bevoegdheden toezicht houden en opsporingstaken uitvoeren.",
+        "feedback_wrong": "Kijk goed naar het verschil tussen handhaving in een bepaald werkgebied, het behandelen van strafzaken en begeleiding na een strafzaak.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2 – Het zwijgrecht",
+      "question": {
+        "id": "mk_050_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.7",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Zwijgrecht herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De politie heeft een man aangehouden omdat hij wordt verdacht van een fietsdiefstal. Tijdens het verhoor stelt de politie vragen over de diefstal. De verdachte besluit geen antwoord te geven. Van welk recht maakt de verdachte gebruik?",
+        "context": "",
+        "answers": [
+          "Het recht op schadevergoeding",
+          "Het legaliteitsbeginsel",
+          "Het zwijgrecht"
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan wat een verdachte tijdens een verhoor wel en niet verplicht is te vertellen.",
+        "feedback_correct": "Goed! Een verdachte heeft het recht om te zwijgen. Hij hoeft niet mee te werken aan zijn eigen veroordeling.",
+        "feedback_wrong": "Kijk goed naar de situatie: het gaat hier om wat een verdachte tijdens een verhoor mag doen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3 – Verdachte of veroordeelde?",
+      "question": {
+        "id": "mk_050_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.7",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Juridische begrippen onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Persoon X wordt door de politie verhoord omdat hij wordt verdacht van een inbraak. Er is nog geen uitspraak van een rechter. Persoon Y is door een rechter schuldig verklaard aan vernieling en heeft een taakstraf gekregen. Welke juridische termen passen bij de twee personen?",
+        "context": "X: wordt verdacht van een inbraak; er is nog geen uitspraak van een rechter.\nY: is door een rechter schuldig verklaard aan vernieling en heeft een taakstraf gekregen.",
+        "answers": [
+          "X is een veroordeelde en Y is een verdachte.",
+          "X is een verdachte en Y is een veroordeelde.",
+          "X en Y zijn allebei verdachten."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk of er bij de persoon al een uitspraak van een rechter is gedaan.",
+        "feedback_correct": "Goed! Bij X staat de schuld nog niet vast. Bij Y heeft de rechter een veroordeling uitgesproken.",
+        "feedback_wrong": "Kijk goed naar het verschil tussen iemand die wordt verdacht en iemand over wie de rechter al uitspraak heeft gedaan.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4 – De taak van de politie",
+      "question": {
+        "id": "mk_050_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.11",
+        "topic": "Politie en opsporing",
+        "skill": "Taken van de politie herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Na een inbraak onderzoekt de politie wat er is gebeurd. Agenten bekijken camerabeelden, horen getuigen en verzamelen aanwijzingen om te ontdekken wie de inbraak heeft gepleegd. Welke taak van de politie zie je in deze situatie?",
+        "context": "",
+        "answers": [
+          "Het begeleiden van iemand die na een strafzaak onder toezicht staat.",
+          "Het opsporen van een strafbaar feit.",
+          "Het uitspreken van een straf."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk na over wat de politie probeert te ontdekken en wie uiteindelijk een straf kan opleggen.",
+        "feedback_correct": "Goed! De politie spoort strafbare feiten op en verzamelt informatie over wat er is gebeurd. Een rechter kan uiteindelijk een straf opleggen.",
+        "feedback_wrong": "Kijk naar wat de politie in deze situatie doet. De politie onderzoekt de inbraak, begeleidt geen veroordeelde en spreekt zelf geen rechterlijke straf uit.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5 – De strafbeschikking",
+      "question": {
+        "id": "mk_050_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.8",
+        "topic": "Politie, OM en rechter",
+        "skill": "Strafbeschikking herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Het Openbaar Ministerie besluit een zaak over een lichte vernieling zelf af te handelen en legt een strafbeschikking op. Wat is een strafbeschikking?",
+        "context": "",
+        "answers": [
+          "Een beslissing van het OM waarmee het binnen zijn wettelijke bevoegdheden een straf kan opleggen, zonder dat de zaak eerst door een rechter wordt behandeld.",
+          "Een uitspraak van een rechter waarbij de verdachte altijd wordt vrijgesproken.",
+          "Een besluit van de politie waarmee een verdachte automatisch wordt veroordeeld."
+        ],
+        "correct_answer": 0,
+        "hint": "Let op wie de beslissing neemt en of er op dat moment al een rechter aan te pas komt.",
+        "feedback_correct": "Goed! Het Openbaar Ministerie kan binnen zijn wettelijke bevoegdheden bepaalde strafzaken met een strafbeschikking afhandelen. Het is geen uitspraak van een rechter. Wie het niet eens is met de strafbeschikking kan daartegen verzet instellen.",
+        "feedback_wrong": "Kijk naar de instantie die de beslissing neemt. Vraag jezelf ook af of er al een rechter over de zaak heeft geoordeeld.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6 – Schadevergoeding voor het slachtoffer",
+      "question": {
+        "id": "mk_050_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.9",
+        "topic": "Slachtoffers en gevolgen",
+        "skill": "Schadevergoeding herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een rechter veroordeelt iemand voor het vernielen van een fiets. Het slachtoffer heeft €400 schade. De rechter kan de veroordeelde verplichten om deze schade te vergoeden. Wat is het doel daarvan?",
+        "context": "",
+        "answers": [
+          "De schade van het slachtoffer laten vergoeden.",
+          "De veroordeelde een extra gevangenisstraf geven.",
+          "De overheid een gewone geldboete laten ontvangen."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar wie door de vernieling schade heeft geleden en wat de vergoeding probeert te bereiken.",
+        "feedback_correct": "Goed! De rechter kan de dader verplichten de schade van het slachtoffer te vergoeden. Schadevergoeding is iets anders dan een boete.",
+        "feedback_wrong": "Let op het doel van het bedrag. Het gaat hier om schade die door het slachtoffer is geleden.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7 – Preventie en opsporing",
+      "question": {
+        "id": "mk_050_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.10 en 8.1.11.1",
+        "topic": "Aangifte en criminaliteitscijfers",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente neemt twee maatregelen tegen fietsdiefstal. Welke conclusie kun je rechtstreeks uit deze gegevens trekken?",
+        "context": "Maatregel 1: betere verlichting bij de fietsenstalling. Na invoering: 45% minder geregistreerde fietsdiefstallen.\n\nMaatregel 2: extra politieonderzoek. Na invoering: 35% minder geregistreerde fietsdiefstallen.",
+        "answers": [
+          "De verlichting heeft bewezen dat zij de oorzaak van de daling is.",
+          "Bij beide maatregelen werden na invoering minder fietsdiefstallen geregistreerd.",
+          "Het politieonderzoek heeft bewezen dat iedere fietsendief is aangehouden."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk alleen naar wat de percentages laten zien. Trek geen conclusie over de oorzaak als die niet uit de gegevens blijkt.",
+        "feedback_correct": "Goed! De gegevens laten bij beide maatregelen een daling van het aantal geregistreerde fietsdiefstallen zien. Ze bewijzen niet dat de maatregelen de daling hebben veroorzaakt.",
+        "feedback_wrong": "Kijk alleen naar de cijfers. Bedenk of de gegevens ook bewijzen waarom de aantallen zijn veranderd.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8 – Jeugdstrafrecht",
+      "question": {
+        "id": "mk_050_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.4",
+        "topic": "Jeugdstrafrecht",
+        "skill": "Jeugdstrafrecht herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een jongen van 14 jaar wordt verdacht van het beschadigen van een spoorwagon. De zaak wordt via Halt afgehandeld. Op welk onderdeel van het strafrecht is deze situatie in beginsel gericht?",
+        "context": "",
+        "answers": [
+          "Het volwassenstrafrecht",
+          "Het burgerlijk recht",
+          "Het jeugdstrafrecht"
+        ],
+        "correct_answer": 2,
+        "hint": "Let op de leeftijd van de verdachte en op het soort zaak.",
+        "feedback_correct": "Goed! Een verdachte van 14 jaar valt onder het jeugdstrafrecht. Jongeren die een licht strafbaar feit plegen, kunnen onder voorwaarden naar Halt worden doorverwezen.",
+        "feedback_wrong": "Let vooral op de leeftijd van de verdachte en vraag jezelf af welk onderdeel van het recht hierbij hoort.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9 – Het vermoeden van onschuld",
+      "question": {
+        "id": "mk_050_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.5",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Vermoeden van onschuld herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een man wordt verdacht van diefstal. De politie heeft hem aangehouden, maar de rechter heeft de zaak nog niet behandeld. Welke uitspraak past bij het vermoeden van onschuld?",
+        "context": "",
+        "answers": [
+          "De man is schuldig omdat de politie hem heeft aangehouden.",
+          "De man wordt voor onschuldig gehouden totdat zijn schuld door de rechter is bewezen.",
+          "De man moet zelf bewijzen dat hij de diefstal niet heeft gepleegd."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk na over wat er volgens het strafrecht moet gebeuren voordat iemand als schuldig wordt beschouwd.",
+        "feedback_correct": "Goed! Iemand wordt voor onschuldig gehouden totdat zijn schuld door de rechter is bewezen.",
+        "feedback_wrong": "Een aanhouding betekent niet dat iemand al schuldig is. Kijk naar wat er eerst moet gebeuren voordat de schuld vaststaat.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10 – Geregistreerde criminaliteit",
+      "question": {
+        "id": "mk_050_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.10 en 8.1.11.1",
+        "topic": "Aangifte en criminaliteitscijfers",
+        "skill": "Conclusies trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een wijk registreert in jaar 1 50 fietsdiefstallen. In jaar 2 wordt een eenvoudige online mogelijkheid ingevoerd om aangifte te doen. In dat jaar worden 150 fietsdiefstallen geregistreerd. Welke conclusie is op basis van deze gegevens het meest voorzichtig?",
+        "context": "",
+        "answers": [
+          "De wijk is in jaar 2 zeker drie keer zo crimineel geworden.",
+          "Een mogelijke verklaring is dat meer slachtoffers aangifte hebben gedaan, waardoor meer fietsdiefstallen zijn geregistreerd.",
+          "De cijfers bewijzen dat dieven in jaar 2 drie keer zo actief waren."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk na over het verschil tussen het aantal strafbare feiten dat werkelijk gebeurt en het aantal feiten dat wordt geregistreerd.",
+        "feedback_correct": "Goed! De stijging van geregistreerde fietsdiefstallen kan mede te maken hebben met een grotere aangiftebereidheid. De cijfers alleen bewijzen niet hoeveel diefstallen er werkelijk zijn gepleegd.",
+        "feedback_wrong": "Kijk goed naar het woord 'geregistreerd'. Dat betekent niet automatisch dat je precies weet hoeveel strafbare feiten er werkelijk zijn gepleegd.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Goed gedaan!",
+      "text": "Je hebt geoefend met belangrijke onderdelen van criminaliteit en de rechtsstaat: verdachte en veroordeelde, rechten van verdachten, politie, BOA, Openbaar Ministerie, schadevergoeding, jeugdstrafrecht, het vermoeden van onschuld en criminaliteitscijfers.\n\nOnthoud vooral: lees bij examenvragen heel precies wat er staat en trek bij cijfers alleen conclusies die de gegevens echt ondersteunen."
+    }
+  ]
+}

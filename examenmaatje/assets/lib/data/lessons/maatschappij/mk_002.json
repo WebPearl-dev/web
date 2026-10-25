@@ -1,0 +1,236 @@
+{
+  "id": "mk_002",
+  "subject": "maatschappij",
+  "title": "Les 2 – Een tekst goed begrijpen",
+  "goal": "Je leert het hoofdonderwerp vinden, hoofdzaak en bijzaak onderscheiden en een conclusie trekken uit een tekst.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Les 2 – Een tekst goed begrijpen",
+      "text": "In Les 1 heb je geleerd hoe je informatie uit een tekst of overzicht kunt vinden. Vandaag gaan we een stapje verder. Soms staat het antwoord op een examenvraag namelijk niet letterlijk in één zin. Je moet de tekst dan goed begrijpen om te ontdekken wat de belangrijkste informatie is. Geen zorgen: ook hiervoor is er een handig stappenplan!"
+    },
+    {
+      "type": "strategy",
+      "title": "De strategie: in drie stappen een tekst begrijpen",
+      "text": "Als je op een examen een tekst of andere bron krijgt, volg je deze drie stappen:\n\nStap 1: Vind het onderwerp.\nKijk naar de titel en de eerste zin. Vraag jezelf af: Waar gaat deze tekst over?\n\nStap 2: Scheid hoofdzaak van bijzaak.\nDe hoofdzaak is de belangrijkste informatie. De bijzaak is extra informatie, zoals een voorbeeld, een datum of een detail. Vraag jezelf af: Wat is het belangrijkste dat de schrijver mij wil vertellen?\n\nStap 3: Trek je conclusie.\nKijk naar de belangrijkste informatie in de tekst. Vraag jezelf af: Wat kan ik hieruit concluderen? Je combineert de belangrijkste informatie uit de tekst om tot een antwoord te komen."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld – Ik doe het voor",
+      "text": "Bron:\n\nBoete voor harde muziek\n\nDe politie gaat vanaf dit weekend strenger controleren op geluidsoverlast in het park. Veel buurtbewoners kunnen 's nachts niet slapen door jongeren die harde muziek draaien. De politie deelt niet direct boetes uit. Eerst krijgt de overlastgever een waarschuwing. Als de muziek daarna niet zachter gaat, volgt een boete van 160 euro.\n\nVraag: Wat is de belangrijkste boodschap (de hoofdzaak) van deze tekst?\n\nStap 1 – Onderwerp:\nDe titel en de eerste zin vertellen al veel. Het gaat over politiecontroles op harde muziek in het park.\n\nStap 2 – Hoofdzaak en bijzaak:\nDe hoofdzaak is dat de politie strenger gaat controleren op geluidsoverlast en hoe dat werkt: eerst een waarschuwing en daarna eventueel een boete. Dat buurtbewoners niet kunnen slapen en dat de boete 160 euro is, zijn details.\n\nStap 3 – Conclusie:\nDe belangrijkste boodschap is: De politie pakt geluidsoverlast in het park aan. Je krijgt daarbij eerst een waarschuwing."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1 – Onderwerp bepalen",
+      "question": {
+        "id": "mk_002_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Onderwerp bepalen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waar gaat deze tekst in de kern over?",
+        "context": "Stemmen vanaf 16 jaar?\n\nIn Nederland mag je pas stemmen voor de politiek als je 18 jaar bent. Sommige politieke partijen willen dit veranderen naar 16 jaar. Zij vinden dat jongeren slim genoeg zijn om mee te beslissen over de toekomst van het land. Andere partijen zijn hier juist tegen. Zij zeggen dat jongeren van 16 nog te druk zijn met school en vrienden om zich bezig te houden met de politiek.",
+        "answers": [
+          "Over de vraag of de stemleeftijd in Nederland verlaagd moet worden naar 16 jaar.",
+          "Over het feit dat jongeren van 16 jaar het te druk hebben met school en vrienden.",
+          "Over welke politieke partij de grootste is van Nederland."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk goed naar de titel en de eerste twee zinnen. Welke discussie wordt daar gestart?",
+        "feedback_correct": "Heel goed! Je hebt het hoofdonderwerp direct te pakken. De hele tekst gaat over verschillende meningen over stemmen vanaf 16 jaar.",
+        "feedback_wrong": "Nee, dat is niet het juiste antwoord. Wat je hebt gekozen is wel een argument dat in de tekst staat, maar het is niet waar de hele tekst over gaat. Kijk nog eens naar de titel en probeer het opnieuw.",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2 – Hoofdzaak en bijzaak scheiden",
+      "question": {
+        "id": "mk_002_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Hoofdzaak en bijzaak onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat is de hoofdzaak (de belangrijkste informatie) van deze tekst?",
+        "context": "Huiswerkklas op school\n\nVanaf volgende maand start de school met een gratis huiswerkklas op dinsdagmiddag. Leerlingen kunnen daar in een rustig lokaal hun huiswerk maken. Er is altijd een docent aanwezig om vragen aan te stellen. De school heeft hiervoor gekozen omdat veel leerlingen thuis snel afgeleid zijn door hun telefoon of door broertjes en zusjes. Er is plek voor maximaal 15 leerlingen per keer.",
+        "answers": [
+          "Dat leerlingen thuis snel worden afgeleid door hun telefoon.",
+          "Dat er maximaal 15 leerlingen in de klas passen.",
+          "Dat de school start met een gratis huiswerkklas om leerlingen te helpen."
+        ],
+        "correct_answer": 2,
+        "hint": "Stel jezelf de vraag: waarom is deze tekst geschreven? Wat is het grote nieuws?",
+        "feedback_correct": "Klasse! Je kunt hoofdzaak en bijzaak goed scheiden. De oprichting van de huiswerkklas is het belangrijkste nieuws.",
+        "feedback_wrong": "Niet helemaal! Wat je hebt gekozen is een detail uit de tekst. Denk groter: wat is het belangrijkste nieuws dat de school wil melden? Probeer het nog een keer.",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3 – Belangrijke informatie herkennen",
+      "question": {
+        "id": "mk_002_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Belangrijke informatie herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke ontwikkeling wordt in het bericht genoemd?",
+        "context": "Jeugdcriminaliteit daalt\n\nDit is een fictief nieuwsbericht.\n\nVolgens het onderzoek in dit fictieve nieuwsbericht is het aantal jongeren dat misdaden pleegt de afgelopen vijf jaar flink gedaald. Volgens de onderzoekers kan dit onder andere te maken hebben met betere hulp op scholen en strengere controles door de politie op straat. Vooral het aantal winkeldiefstallen en kleine diefstallen is afgenomen. Wel staat in het bericht dat criminaliteit op internet, zoals online oplichting door jongeren, juist een klein beetje stijgt.",
+        "answers": [
+          "Jongeren plegen over het algemeen juist steeds meer zware misdaden.",
+          "Jongeren plegen minder criminaliteit op straat, maar online oplichting stijgt juist iets.",
+          "Jongeren gaan minder vaak naar school door de politiecontroles."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk goed naar de vergelijking in de tekst tussen criminaliteit op straat en internetcriminaliteit. Wat gebeurt er met allebei?",
+        "feedback_correct": "Heel scherp! Je hebt de belangrijkste informatie goed uit de tekst gehaald. Er is een daling van sommige vormen van criminaliteit op straat, maar een kleine stijging van online oplichting.",
+        "feedback_wrong": "Dat klopt helaas niet. Lees de eerste zin en de laatste zin van de tekst nog eens goed. Zie je welke twee ontwikkelingen worden genoemd? Doe nog een poging!",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4 – Een conclusie trekken",
+      "question": {
+        "id": "mk_002_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom kan het opruimen van blikjes door jongeren helpen tegen zwerfafval?",
+        "context": "Geld verdienen met statiegeld\n\nSinds kort zit er ook statiegeld op kleine plastic flesjes en blikjes drank. Als je ze inlevert bij de supermarkt, krijg je 15 cent per blikje of flesje terug. De regering heeft deze regel ingevoerd omdat er te veel zwerfafval op straat en in de natuur lag. Sinds de invoering van de regel ruimen veel jongeren blikjes van de straat op om zo wat extra zakgeld te verdienen.",
+        "answers": [
+          "Omdat jongeren blikjes van straat opruimen, waardoor er minder zwerfafval op straat ligt.",
+          "De regering wil dat jongeren meer zakgeld krijgen.",
+          "Supermarkten verdienen meer geld door de statiegeldregel."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar het doel van de regel en naar wat jongeren sinds de invoering doen. Wat hebben die twee met elkaar te maken?",
+        "feedback_correct": "Goed gedaan! Je hebt de informatie uit verschillende delen van de tekst gecombineerd. De regel is bedoeld om zwerfafval tegen te gaan en jongeren ruimen blikjes van straat op.",
+        "feedback_wrong": "Kijk nog eens goed naar het doel van de regel. Waarom is de regel ingevoerd? En wat doen jongeren nu met blikjes die op straat liggen?",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5 – Een vakbegrip begrijpen: grondwet",
+      "question": {
+        "id": "mk_002_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Informatie uit een tekst begrijpen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom liet de burgemeester de demonstratie doorgaan, ook al was hij het er zelf niet mee eens?",
+        "context": "In Nederland hebben we een grondwet. Daarin staan belangrijke regels en rechten van burgers. Bijvoorbeeld het recht op gelijke behandeling en belangrijke grondrechten, zoals de vrijheid van meningsuiting.\n\nDemonstratie in de stad\n\nEen groep burgers heeft gisteren vreedzaam gedemonstreerd op het marktplein tegen de nieuwe plannen van de regering. De burgemeester had vooraf extra politie ingezet om te kijken of alles rustig verliep. Hoewel de burgemeester het zelf niet eens was met de demonstranten, liet hij het protest gewoon doorgaan. In de grondwet staat namelijk dat burgers het recht hebben om te demonstreren.",
+        "answers": [
+          "Omdat de burgemeester bang was voor de extra politie op straat.",
+          "Omdat de demonstranten hem geld hadden betaald om te mogen demonstreren.",
+          "Omdat burgers volgens de grondwet het recht hebben om hun mening te uiten via een demonstratie."
+        ],
+        "correct_answer": 2,
+        "hint": "Zoek in de tekst naar het woord 'grondwet'. Wat beschermt deze wet volgens de laatste zin?",
+        "feedback_correct": "Helemaal juist! Je hebt het begrip grondwet goed gekoppeld aan de situatie. De persoonlijke mening van de burgemeester verandert het recht van burgers niet.",
+        "feedback_wrong": "Helaas, dat klopt niet. De burgemeester handelt volgens de wet. Lees de laatste zin nog eens goed. Wat staat daar over de grondwet?",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6 – Een tekst begrijpen met cijfers",
+      "question": {
+        "id": "mk_002_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Informatie uit cijfers begrijpen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke conclusie over de antwoorden van de jongeren wordt door de cijfers in de tekst ondersteund?",
+        "context": "Zorgen om schermtijd\n\nUit een groot onderzoek onder 500 jongeren blijkt dat zij gemiddeld 4 uur per dag op hun telefoon zitten. Ruim 60% van de ondervraagde jongeren geeft aan dat zij hierdoor minder slapen en zich slechter kunnen concentreren op school. Slechts een klein deel (15%) zegt dat ze hun telefoon makkelijk een dag weg kunnen leggen zonder er zenuwachtig van te worden.",
+        "answers": [
+          "Ruim de helft van de jongeren geeft aan dat zij minder slapen en zich slechter kunnen concentreren.",
+          "Bijna alle jongeren kunnen hun telefoon heel gemakkelijk een dagje thuislaten.",
+          "Telefoons zorgen ervoor dat jongeren juist veel betere cijfers halen op school."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar de 60%. Is dat meer of minder dan de helft van de jongeren? En wat ervaren zij volgens de tekst?",
+        "feedback_correct": "Super gedaan! Je hebt de percentages goed begrepen. Ruim 60% is meer dan de helft. Deze jongeren geven aan dat zij minder slapen en zich slechter kunnen concentreren.",
+        "feedback_wrong": "Dat is niet juist. Kijk nog eens naar het percentage van 60%. Dat is meer dan de helft. Wat geven deze jongeren aan over hun slaap en concentratie?",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7 – Hoofdzaak en bijzaak in het nieuws",
+      "question": {
+        "id": "mk_002_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Hoofdzaak en bijzaak onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom heeft de school besloten om meer gezonde producten in de kantine te verkopen?",
+        "context": "Meer gezonde keuzes in de schoolkantine\n\nEen school heeft onderzocht wat leerlingen tijdens de pauze graag eten en drinken. Uit de enquête blijkt dat veel leerlingen vaak frisdrank en snoep kiezen. De school wil leerlingen meer gezonde keuzes geven. Daarom besluit de school om meer fruit, water en gezonde broodjes in de kantine te verkopen. Sommige leerlingen vinden dat jammer, omdat ze liever snoep blijven kopen.",
+        "answers": [
+          "Omdat de school meer gezonde keuzes voor leerlingen wil aanbieden.",
+          "Omdat leerlingen geen frisdrank meer mogen drinken.",
+          "Omdat de kantine groter moet worden."
+        ],
+        "correct_answer": 0,
+        "hint": "Zoek in de tekst naar de reden waarom de school iets verandert. Wat wil de school bereiken?",
+        "feedback_correct": "Heel goed! Je hebt de belangrijkste reden uit de tekst gevonden. De school wil leerlingen meer gezonde keuzes geven.",
+        "feedback_wrong": "Niet juist. Kijk nog eens naar de zin waarin staat waarom de school meer gezonde producten gaat verkopen.",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8 – Een conclusie trekken over de samenleving",
+      "question": {
+        "id": "mk_002_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke verandering in de wijk wordt in de tekst genoemd sinds de start van de WhatsApp-buurtpreventiegroep?",
+        "context": "Buurtpreventie via WhatsApp\n\nIn de wijk Welgelegen hebben bewoners samen een 'WhatsApp-buurtpreventiegroep' opgericht. In deze app-groep kunnen buren elkaar waarschuwen als ze iets verdachts zien in de straat, zoals iemand die uitgebreid bij huizen naar binnen gluurt. Sinds de start van de app-groep werken de bewoners nauw samen met de lokale wijkagent. Het aantal woninginbraken in de wijk is in één jaar tijd met de helft afgenomen.",
+        "answers": [
+          "De app-groep zorgt voor ruzie tussen de wijkagent en de buurtbewoners.",
+          "Het aantal woninginbraken is sinds de start van de app-groep met de helft afgenomen.",
+          "Door de app-groep zijn er juist twee keer zoveel inbraken gekomen."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar de laatste zin. Wat is er gebeurd met het aantal woninginbraken sinds de bewoners deze app gebruiken?",
+        "feedback_correct": "Geweldig gedaan! Je hebt de tekst goed begrepen. Het aantal inbraken is sinds de start van de groep gehalveerd.",
+        "feedback_wrong": "Helaas, dat klopt niet. Lees de laatste zin nog eens goed. Is een afname van het aantal inbraken positief of negatief voor de veiligheid?",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Les afgerond!",
+      "text": "Goed gedaan! Je hebt geleerd hoe je een tekst beter kunt begrijpen.\n\nOnthoud de drie stappen:\n1. Zoek het onderwerp.\n2. Zoek de hoofdzaak en scheid die van bijzaken.\n3. Trek een conclusie op basis van de belangrijkste informatie."
+    }
+  ]
+}

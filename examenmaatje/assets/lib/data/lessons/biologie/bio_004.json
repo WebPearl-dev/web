@@ -1,0 +1,335 @@
+{
+  "id": "bio_004",
+  "subject": "biologie",
+  "title": "Les 4 - Cellen, orgaanstelsels en stofwisseling",
+  "goal": "Je leert belangrijke celonderdelen herkennen, organismen op celkenmerken vergelijken en stofwisseling op hoofdlijnen begrijpen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Organismen zijn opgebouwd uit cellen. In deze les leer je belangrijke celonderdelen herkennen en begrijp je waarom stofwisseling nodig is."
+    },
+    {
+      "type": "explanation",
+      "title": "Onderdelen van een cel",
+      "text": "De celkern regelt veel activiteiten van de cel. Het cytoplasma is de vloeistof waarin onderdelen liggen. Het celmembraan vormt de begrenzing van de cel. Plantencellen hebben daarnaast een celwand. Veel plantencellen hebben een grote vacuole en bladgroenkorrels."
+    },
+    {
+      "type": "explanation",
+      "title": "Verschillen tussen cellen",
+      "text": "Dierlijke cellen hebben een celmembraan, cytoplasma en celkern. Plantencellen hebben ook een celwand en meestal een grote vacuole; groene plantencellen kunnen bladgroenkorrels hebben. Schimmels hebben cellen met een celwand, maar geen bladgroenkorrels. Bacteriën hebben geen celkern."
+    },
+    {
+      "type": "explanation",
+      "title": "Van cel naar orgaanstelsel",
+      "text": "Cellen vormen weefsels, weefsels vormen organen en organen werken samen in orgaanstelsels. Zo werken organen in het verteringsstelsel samen om voedsel te verwerken."
+    },
+    {
+      "type": "explanation",
+      "title": "Stofwisseling",
+      "text": "Stofwisseling is het geheel van processen waarbij stoffen in een organisme worden omgezet. Bij verbranding wordt een energierijke stof met zuurstof omgezet; daarbij komen energie, water en koolstofdioxide vrij. Bij fotosynthese gebruiken groene planten licht, water en koolstofdioxide om energierijke stoffen te maken; daarbij komt zuurstof vrij."
+    },
+    {
+      "type": "explanation",
+      "title": "Waarom stofwisseling nodig is",
+      "text": "Organismen gebruiken stoffen en energie om te leven, te groeien en onderdelen te vervangen. Stoffen komen binnen, worden omgezet en verlaten het organisme ook weer als afvalstoffen of andere producten."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Celonderdelen hebben verschillende functies. Plantencellen en dierlijke cellen lijken op elkaar, maar verschillen op belangrijke punten. Stofwisseling omvat onder meer fotosynthese en verbranding."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_004_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "Celonderdelen",
+      "skill": "Celonderdeel herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk celonderdeel vormt de begrenzing van een cel?",
+      "answers": [
+        "Celkern",
+        "Celmembraan",
+        "Bladgroenkorrel"
+      ],
+      "correct_answer": 1,
+      "hint": "Dit onderdeel vormt de buitenste begrenzing van de cel.",
+      "feedback_correct": "Het celmembraan begrenst de cel.",
+      "feedback_wrong": "De celkern ligt in de cel; bladgroenkorrels komen voor in groene plantencellen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_004_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "Celonderdelen",
+      "skill": "Functie celonderdeel herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In welk onderdeel van een plantencel vindt fotosynthese plaats?",
+      "answers": [
+        "Celkern",
+        "Celmembraan",
+        "Bladgroenkorrel"
+      ],
+      "correct_answer": 2,
+      "hint": "Dit onderdeel bevat bladgroen en vangt licht op voor fotosynthese.",
+      "feedback_correct": "Bladgroenkorrels bevatten de stoffen die licht opvangen voor fotosynthese.",
+      "feedback_wrong": "De celkern en het celmembraan hebben andere functies.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_004_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "Celonderdelen",
+      "skill": "Celkern herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk onderdeel van een dierlijke cel regelt veel activiteiten van de cel?",
+      "answers": [
+        "Celkern",
+        "Celwand",
+        "Bladgroenkorrel"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan het onderdeel dat de activiteiten van de cel aanstuurt.",
+      "feedback_correct": "De celkern bevat erfelijk materiaal.",
+      "feedback_wrong": "Menselijke cellen hebben geen celwand; een grote centrale vacuole is kenmerkend voor veel plantencellen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_004_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "3",
+      "topic": "Cellen vergelijken",
+      "skill": "Celkenmerken vergelijken",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk kenmerk hoort bij plantencellen en niet bij dierlijke cellen?",
+      "answers": [
+        "Celmembraan",
+        "Celwand",
+        "Cytoplasma"
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan het stevige laagje buiten het celmembraan.",
+      "feedback_correct": "Plantencellen hebben een celwand buiten het celmembraan.",
+      "feedback_wrong": "Celmembraan en cytoplasma komen bij beide celtypen voor.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_004_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "3",
+      "topic": "Cellen vergelijken",
+      "skill": "Bacteriën herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is een belangrijk verschil tussen een bacteriecel en een menselijke cel?",
+      "answers": [
+        "Een bacteriecel heeft altijd bladgroenkorrels.",
+        "Een dierlijke cel heeft geen celmembraan.",
+        "Een bacteriecel heeft geen celkern."
+      ],
+      "correct_answer": 2,
+      "hint": "Bacteriën hebben wel een celmembraan en cytoplasma, maar missen één belangrijk onderdeel dat dierlijke cellen meestal hebben.",
+      "feedback_correct": "Bacteriën hebben geen celkern.",
+      "feedback_wrong": "Dierlijke cellen hebben wel een celmembraan. Bacteriecellen hebben geen celkern; plantencellen en dierlijke cellen hebben die wel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_004_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "5",
+      "topic": "Organisatieniveaus",
+      "skill": "Orgaanstelsel herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "De maag en darmen werken samen bij het verwerken van voedsel. Hoe noem je het geheel van samenwerkende organen?",
+      "answers": [
+        "Orgaanstelsel",
+        "Weefsel",
+        "Cytoplasma"
+      ],
+      "correct_answer": 0,
+      "hint": "Het gaat om meerdere organen die samenwerken.",
+      "feedback_correct": "De maag en darmen zijn onderdelen van het verteringsstelsel.",
+      "feedback_wrong": "Een cel en cytoplasma zijn kleinere onderdelen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_004_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "Stofwisseling",
+      "skill": "Stofwisseling begrijpen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat betekent stofwisseling?",
+      "answers": [
+        "Een organisme staat stil.",
+        "Alleen het opnemen van water.",
+        "Stoffen worden in een organisme omgezet."
+      ],
+      "correct_answer": 2,
+      "hint": "Stofwisseling gaat over stoffen die in een organisme worden omgezet.",
+      "feedback_correct": "Stofwisseling is het geheel van reacties waarbij stoffen worden omgezet.",
+      "feedback_wrong": "Stofwisseling is breder dan alleen water opnemen of bewegen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_004_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "Verbranding",
+      "skill": "Verbranding herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke stoffen zijn nodig voor verbranding van een energierijke stof in het lichaam?",
+      "answers": [
+        "Alleen water",
+        "Een energierijke stof en zuurstof",
+        "Alleen koolstofdioxide"
+      ],
+      "correct_answer": 1,
+      "hint": "Verbranding gebruikt een energierijke stof en zuurstof.",
+      "feedback_correct": "Bij verbranding worden een energierijke stof en zuurstof gebruikt. Daarbij komen energie, water en koolstofdioxide vrij.",
+      "feedback_wrong": "Voor verbranding zijn een energierijke stof en zuurstof nodig; water en koolstofdioxide zijn producten van de verbranding.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_004_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "Fotosynthese",
+      "skill": "Fotosynthese herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat heeft een groene plant nodig voor fotosynthese?",
+      "answers": [
+        "Licht, water en koolstofdioxide",
+        "Alleen zuurstof",
+        "Alleen suiker"
+      ],
+      "correct_answer": 0,
+      "hint": "Een plant gebruikt lichtenergie om uit water en koolstofdioxide energierijke stoffen te maken.",
+      "feedback_correct": "Fotosynthese gebruikt licht, water en koolstofdioxide.",
+      "feedback_wrong": "Fotosynthese gebruikt licht, water en koolstofdioxide. Alleen zuurstof of alleen suiker is niet voldoende.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    },
+    {
+      "id": "bio_004_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "Stofwisseling",
+      "skill": "In- en uitgaande stoffen herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Bij fotosynthese komt welke stof vrij?",
+      "answers": [
+        "Koolstofdioxide",
+        "Zuurstof",
+        "Water"
+      ],
+      "correct_answer": 1,
+      "hint": "Welke stof komt bij fotosynthese vrij en kan door de plant worden afgegeven?",
+      "feedback_correct": "Bij fotosynthese maakt een groene plant energierijke stoffen. Daarbij komt zuurstof vrij.",
+      "feedback_wrong": "Bij fotosynthese komt zuurstof vrij. Koolstofdioxide en water worden daarbij gebruikt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      }
+    }
+  ]
+}

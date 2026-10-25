@@ -1,0 +1,291 @@
+{
+  "id": "mk_034",
+  "subject": "maatschappij",
+  "title": "Les 34 – Waarden, normen en regels",
+  "goal": "Je leert wat waarden, normen en regels zijn en hoe deze begrippen met elkaar te maken hebben.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Waarom hebben we waarden, normen en regels?",
+      "text": "In een samenleving vinden mensen bepaalde dingen belangrijk. Denk aan veiligheid, eerlijkheid, respect en vrijheid. Zulke belangrijke ideeën noemen we waarden. Bij waarden horen vaak normen: ideeën over hoe je je hoort te gedragen. Daarnaast zijn er regels en wetten waarin afspraken officieel kunnen zijn vastgelegd."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een waarde?",
+      "text": "Een waarde is een ideaal of principe dat mensen belangrijk vinden. Voorbeelden zijn respect, eerlijkheid, veiligheid, vrijheid, gezondheid en gelijkheid."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een norm?",
+      "text": "Een norm is een gedragsregel die aangeeft hoe mensen zich volgens een bepaalde waarde horen te gedragen. Normen zijn vaak ongeschreven. Bijvoorbeeld: je dringt niet voor in een rij, je geeft een gevonden portemonnee terug of je geeft een handgebaar als je op de fiets afslaat."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een regel?",
+      "text": "Een regel is een afspraak over gedrag die officieel kan zijn vastgelegd. Dat kan bijvoorbeeld een regel van een school, sportclub of organisatie zijn. Een wet is ook een officiële regel, maar wordt door de overheid vastgesteld. Wie een regel overtreedt, kan afhankelijk van de regel een waarschuwing, andere maatregel of straf krijgen."
+    },
+    {
+      "type": "strategy",
+      "title": "Waarde, norm of regel?",
+      "text": "Je kunt deze drie begrippen als geheugensteun naast elkaar zetten:\n\n• Waarde = wat mensen belangrijk vinden.\n• Norm = hoe je je volgens die waarde hoort te gedragen.\n• Regel = een afspraak over gedrag die officieel kan zijn vastgelegd.\n\nDit is een handig model om de begrippen uit elkaar te houden. Het is geen vaste keten: één regel kan met meerdere waarden te maken hebben en niet iedere norm wordt een officiële regel."
+    },
+    {
+      "type": "explanation",
+      "title": "Niet iedereen denkt hetzelfde",
+      "text": "Mensen en groepen kunnen verschillende waarden en normen hebben. In het ene gezin is bijvoorbeeld rustig eten belangrijk, terwijl in een ander gezin juist veel praten tijdens het eten normaal is. Verschillen zijn niet automatisch goed of fout. Wel gelden officiële wetten en regels voor iedereen die onder die regels valt."
+    },
+    {
+      "type": "chart",
+      "title": "Een simpel voorbeeld",
+      "text": "Denk aan veiligheid op de fiets.\n\nWaarde: veiligheid is belangrijk.\nNorm: je gedraagt je zo dat je anderen niet onnodig in gevaar brengt.\nRegel: fietsen moeten in het donker aan de wettelijke eisen voor verlichting voldoen.\n\nHet voorbeeld laat zien hoe een waarde, een norm en een officiële regel met elkaar te maken kunnen hebben. Maar dit hoeft niet altijd precies zo te verlopen."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_034_q01",
+        "subject": "maatschappij",
+        "topic": "Waarden, normen en regels",
+        "skill": "Begrippen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Iemand zegt: 'Eerlijkheid vind ik heel belangrijk.' Welk begrip past hierbij?",
+        "answers": [
+          "Een norm",
+          "Een waarde",
+          "Een regel"
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan iets wat iemand belangrijk vindt.",
+        "feedback_correct": "Goed! Eerlijkheid is een waarde: een ideaal of principe dat iemand belangrijk vindt.",
+        "feedback_wrong": "Kijk naar wat er wordt genoemd: gaat het om iets wat iemand belangrijk vindt, om gedrag of om een afspraak?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_034_q02",
+        "subject": "maatschappij",
+        "topic": "Waarden, normen en regels",
+        "skill": "Begrippen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Je staat in een rij bij de kassa. Een andere klant gaat zonder reden voor jou staan. Welk begrip past het best bij de verwachting dat je niet voordringt?",
+        "answers": [
+          "Een waarde",
+          "Een wet",
+          "Een norm"
+        ],
+        "correct_answer": 2,
+        "hint": "Het is geen officiële wet, maar een gedragsregel die mensen van elkaar verwachten.",
+        "feedback_correct": "Goed! Niet voordringen is een norm: een gedragsregel die aangeeft hoe je je hoort te gedragen.",
+        "feedback_wrong": "Denk aan het verschil tussen iets wat mensen belangrijk vinden, een gedragsregel en een officiële regel.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_034_q03",
+        "subject": "maatschappij",
+        "topic": "Waarden, normen en regels",
+        "skill": "Begrippen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een sportclub heeft afgesproken dat leden na het sporten de gebruikte gewichten terugleggen. Wat is dit?",
+        "answers": [
+          "Een waarde",
+          "Een norm",
+          "Een regel van de sportclub"
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan de afspraak die de sportclub heeft gemaakt.",
+        "feedback_correct": "Goed! Dit is een regel van de sportclub.",
+        "feedback_wrong": "Let op: de vraag gaat over een afspraak die de sportclub heeft gemaakt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_034_q04",
+        "subject": "maatschappij",
+        "topic": "Waarden, normen en regels",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente stelt een maximumsnelheid van 30 km/u in een woonwijk in. Welke waarde kan hierbij een belangrijke rol spelen?",
+        "answers": [
+          "Veiligheid",
+          "Vrijheid om zo snel mogelijk te rijden",
+          "Winst voor de politie"
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan wat de maatregel in de woonwijk moet beschermen.",
+        "feedback_correct": "Goed! Veiligheid kan een belangrijke waarde zijn bij regels over verkeer.",
+        "feedback_wrong": "Denk na over welk belangrijk doel een lagere snelheid in een woonwijk kan hebben.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_034_q05",
+        "subject": "maatschappij",
+        "topic": "Waarden, normen en regels",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke volgorde past het best bij deze voorbeelden?\n\n1. Respect is belangrijk.\n2. Je luistert als iemand anders aan het woord is.\n3. Op school is afgesproken dat je elkaar laat uitpraten.",
+        "answers": [
+          "Regel → waarde → norm",
+          "Waarde → norm → regel",
+          "Norm → regel → waarde"
+        ],
+        "correct_answer": 1,
+        "hint": "Begin met wat iemand belangrijk vindt en kijk daarna naar gedrag en een afspraak.",
+        "feedback_correct": "Goed! In dit voorbeeld is respect de waarde, luisteren de norm en de schoolafspraak de regel.",
+        "feedback_wrong": "Kijk eerst naar het belangrijke ideaal, daarna naar het gewenste gedrag en daarna naar de afspraak.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_034_q06",
+        "subject": "maatschappij",
+        "topic": "Waarden, normen en regels",
+        "skill": "Verschillen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In het ene gezin vindt iedereen het normaal om tijdens het eten rustig te praten. In een ander gezin wordt juist veel gelachen en door elkaar gepraat. Wat laat dit voorbeeld zien?",
+        "answers": [
+          "Dat alle gezinnen precies dezelfde normen hebben",
+          "Dat mensen en groepen verschillende normen kunnen hebben",
+          "Dat normen altijd in een wet staan"
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar het verschil tussen de twee gezinnen.",
+        "feedback_correct": "Goed! Mensen en groepen kunnen verschillende normen hebben over hetzelfde gedrag.",
+        "feedback_wrong": "Denk aan wat het voorbeeld laat zien over verschillen tussen groepen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_034_q07",
+        "subject": "maatschappij",
+        "topic": "Waarden, normen en regels",
+        "skill": "Begrippen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een school heeft de regel dat leerlingen hun smartwatch tijdens een toets in hun tas moeten bewaren. Wat is dit?",
+        "answers": [
+          "Een waarde",
+          "Een officiële schoolregel",
+          "Een persoonlijke mening"
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de afspraak die de school heeft gemaakt.",
+        "feedback_correct": "Goed! Dit is een schoolregel.",
+        "feedback_wrong": "Kijk naar het soort afspraak: gaat het om een waarde, een schoolregel of alleen een mening?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_034_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "topic": "Waarden, normen en regels",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Iemand zegt: 'Ik vind dat iedereen voor het openbaar vervoer moet betalen, omdat eerlijkheid belangrijk is.' Wat is in deze uitspraak de waarde?",
+        "answers": [
+          "Voor het openbaar vervoer betalen",
+          "Eerlijkheid",
+          "Openbaar vervoer gebruiken"
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek het belangrijke principe waarop de mening is gebaseerd.",
+        "feedback_correct": "Goed! Eerlijkheid is hier de waarde waarop de mening is gebaseerd.",
+        "feedback_wrong": "Zoek naar het principe dat de persoon belangrijk vindt, niet naar de concrete actie.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_034_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "topic": "Waarden, normen en regels",
+        "skill": "Argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een leerling zegt: 'Ik vind dat jongeren zelf moeten kunnen kiezen hoe ze hun vrije tijd besteden, want vrijheid is voor mij belangrijk.' Welke waarde gebruikt de leerling als argument?",
+        "answers": [
+          "Veiligheid",
+          "Gezondheid",
+          "Vrijheid"
+        ],
+        "correct_answer": 2,
+        "hint": "De leerling noemt de waarde zelf in de uitspraak.",
+        "feedback_correct": "Goed! De leerling noemt vrijheid als belangrijke waarde.",
+        "feedback_wrong": "Lees het laatste deel van de uitspraak nog eens goed. Welke waarde wordt daar genoemd?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_034_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "topic": "Waarden, normen en regels",
+        "skill": "Gegevens interpreteren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een school vraagt 100 leerlingen waarom zij hun telefoon tijdens de les in de telefoontas leggen.\n\n• Omdat respect voor de docent belangrijk is: 65%\n• Omdat ze bang zijn voor straf: 30%\n• Omdat vrienden het ook doen: 5%\n\nWelke conclusie past bij deze gegevens?",
+        "answers": [
+          "De meeste leerlingen noemen respect voor de docent als reden.",
+          "Alle leerlingen leggen hun telefoon in de telefoontas omdat ze bang zijn voor straf.",
+          "Vrienden zijn voor de meeste leerlingen de belangrijkste reden."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk welke reden het hoogste percentage heeft.",
+        "feedback_correct": "Goed! In deze peiling noemt de grootste groep respect voor de docent als reden.",
+        "feedback_wrong": "Vergelijk de drie percentages en kijk welke reden het vaakst wordt genoemd.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "• Een waarde is iets wat mensen belangrijk vinden, zoals respect, veiligheid of vrijheid.\n• Een norm is een gedragsregel die aangeeft hoe je je hoort te gedragen. Normen zijn vaak ongeschreven.\n• Een regel is een afspraak over gedrag die officieel kan zijn vastgelegd. Een wet is een officiële regel van de overheid.\n• Waarden, normen en regels kunnen met elkaar te maken hebben, maar vormen niet altijd een vaste keten.\n• Mensen en groepen kunnen verschillende waarden en normen hebben.\n• Wetten en regels kunnen voortkomen uit waarden en normen die in een samenleving belangrijk worden gevonden."
+    }
+  ]
+}

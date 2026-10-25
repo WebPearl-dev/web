@@ -1,0 +1,323 @@
+{
+  "id": "mk_024",
+  "subject": "maatschappij",
+  "title": "Les 24 – Politieke partijen",
+  "goal": "Je leert wat een politieke partij is, wat een partijprogramma is en welke functies politieke partijen hebben. Je leert ook hoe partijen verschillende belangen tegen elkaar afwegen, hoe zij politieke invloed proberen te krijgen en wat het verschil is met een belangengroep.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Politieke partijen",
+      "text": "In Nederland doen politieke partijen mee aan verkiezingen. Mensen met ongeveer dezelfde ideeën over hoe de samenleving moet worden ingericht, kunnen samen een politieke partij vormen. Een partij probeert politieke invloed te krijgen en haar ideeën uit te voeren. Niet iedere partij komt in de regering. Partijen kunnen ook vanuit de Tweede Kamer of de gemeenteraad invloed uitoefenen."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een politieke partij?",
+      "text": "Een politieke partij is een vereniging van mensen met ongeveer dezelfde politieke ideeën. Een politieke partij wil invloed hebben op hoe de samenleving wordt bestuurd en ingericht. Daarom doet een politieke partij mee aan verkiezingen. Als een partij genoeg stemmen krijgt, kunnen kandidaten van die partij volksvertegenwoordiger worden. Zij vertegenwoordigen kiezers en praten en stemmen mee over politieke voorstellen."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat doet een politieke partij?",
+      "text": "Politieke partijen hebben verschillende functies. Ze doen mee aan verkiezingen, maken plannen en standpunten en proberen kiezers te overtuigen. Ook vertegenwoordigen zij verschillende groepen en belangen in de samenleving. Een belangrijke functie is het afwegen van verschillende belangen. Een partij kan bijvoorbeeld kijken naar de belangen van jongeren, ouderen, werknemers, ondernemers en de overheid voordat zij een standpunt kiest. Daarna kunnen volksvertegenwoordigers namens de partij meedoen aan politieke besluiten."
+    },
+    {
+      "type": "explanation",
+      "title": "Het partijprogramma",
+      "text": "Een partijprogramma is een overzicht van belangrijke standpunten en plannen van een politieke partij. Daarin staat bijvoorbeeld wat een partij vindt van onderwijs, zorg, veiligheid, wonen, werk of het milieu. Een partijprogramma helpt kiezers om te zien waar een partij voor staat. Rond verkiezingen gebruiken partijen hun programma om kiezers te informeren en te overtuigen."
+    },
+    {
+      "type": "explanation",
+      "title": "Samenwerken en compromissen",
+      "text": "Politieke partijen zijn het niet altijd met elkaar eens. Toch moeten partijen vaak samenwerken om besluiten te kunnen nemen. Daarbij kunnen zij een compromis sluiten. Een compromis is een afspraak waarbij partijen allebei een deel van hun oorspronkelijke standpunt aanpassen om tot een gezamenlijke oplossing te komen. Een partij hoeft dus niet altijd precies haar oorspronkelijke plan uit te voeren."
+    },
+    {
+      "type": "explanation",
+      "title": "Politieke partij en belangengroep",
+      "text": "Een politieke partij en een belangengroep proberen allebei invloed uit te oefenen op de politiek, maar zij zijn niet hetzelfde. Een politieke partij doet mee aan verkiezingen en wil invloed hebben op de samenleving als geheel. Een belangengroep komt op voor een bepaald belang of een bepaalde groep. Een belangengroep doet niet zelf als politieke partij mee aan verkiezingen. Wel kan een belangengroep invloed proberen uit te oefenen door bijvoorbeeld onderzoek te doen, aandacht te vragen in de media, een actie of demonstratie te organiseren of contact te hebben met politici en ambtenaren."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld: belangen afwegen",
+      "text": "Stel dat een gemeente moet beslissen hoeveel geld er beschikbaar komt voor openbaar vervoer. Jongeren willen graag goedkope buskaartjes. Ouderen vinden het belangrijk dat er voldoende busverbindingen blijven. De gemeente moet ook rekening houden met de kosten. Een politieke partij kan deze verschillende belangen tegen elkaar afwegen en daarna een standpunt kiezen over het openbaar vervoer."
+    },
+    {
+      "type": "strategy",
+      "title": "Onthoud deze woorden",
+      "text": "• Politieke partij – vereniging van mensen met ongeveer dezelfde politieke ideeën.\n• Partijprogramma – overzicht van belangrijke standpunten en plannen van een partij.\n• Belangengroep – groep die opkomt voor een bepaald belang of een bepaalde groep.\n• Volksvertegenwoordiger – iemand die namens kiezers in een volksvertegenwoordiging zit.\n• Samenwerken – samen proberen een besluit of oplossing te bereiken.\n• Compromis – afspraak waarbij partijen hun standpunten gedeeltelijk aanpassen.\n• Belangen afwegen – verschillende belangen bekijken en tegen elkaar afzetten voordat je een standpunt kiest."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_024_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.3",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Herkennen en omschrijven",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke omschrijving past het best bij een politieke partij?",
+        "context": "",
+        "answers": [
+          "Een vereniging van mensen met ongeveer dezelfde politieke ideeën die politieke invloed wil krijgen en meedoet aan verkiezingen.",
+          "Een groep die alleen opkomt voor één beroep en niet meedoet aan verkiezingen.",
+          "Een overheidsorganisatie die controleert of mensen zich aan de wet houden."
+        ],
+        "correct_answer": 0,
+        "hint": "Let op wat een politieke partij wil bereiken en hoe zij aan politiek meedoet.",
+        "feedback_correct": "Een politieke partij bestaat uit mensen met ongeveer dezelfde politieke ideeën en probeert via verkiezingen en volksvertegenwoordigers politieke invloed te krijgen.",
+        "feedback_wrong": "Kijk nog eens naar het doel van een politieke partij en de manier waarop zij aan de politiek meedoet.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_024_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.3",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Herkennen en toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat is een partijprogramma?",
+        "context": "",
+        "answers": [
+          "Een overzicht van belangrijke standpunten en plannen van een politieke partij.",
+          "Een overzicht van alle wetten die in Nederland gelden.",
+          "Een verslag van wat een politieke partij na een verkiezing heeft uitgegeven."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de plannen en standpunten van een partij.",
+        "feedback_correct": "Een partijprogramma laat zien welke belangrijke standpunten en plannen een politieke partij heeft.",
+        "feedback_wrong": "Denk aan het document waarin een partij laat zien waar zij voor staat en welke plannen zij heeft.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_024_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.3",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politieke partij kijkt naar de belangen van jongeren, ouderen, werknemers en ondernemers voordat zij een standpunt kiest over openbaar vervoer. Welke functie van een politieke partij zie je hier?",
+        "context": "",
+        "answers": [
+          "Verschillende belangen tegen elkaar afwegen.",
+          "Controleren of iedereen zich aan de wet houdt.",
+          "Een rechterlijke uitspraak doen."
+        ],
+        "correct_answer": 0,
+        "hint": "De partij kijkt naar meerdere belangen voordat zij een keuze maakt.",
+        "feedback_correct": "De partij bekijkt verschillende belangen en weegt deze tegen elkaar af voordat zij een standpunt kiest.",
+        "feedback_wrong": "Kijk naar wat de partij doet voordat zij haar standpunt kiest.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_024_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.3",
+        "topic": "Invloed van burgers",
+        "skill": "Verschillen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak over een politieke partij en een belangengroep klopt?",
+        "context": "",
+        "answers": [
+          "Een politieke partij doet mee aan verkiezingen en wil invloed hebben op de samenleving als geheel. Een belangengroep komt op voor een bepaald belang of een bepaalde groep.",
+          "Een politieke partij komt alleen op voor één belangengroep en een belangengroep doet mee aan verkiezingen als politieke partij.",
+          "Een politieke partij en een belangengroep zijn hetzelfde, omdat beide alleen via verkiezingen invloed kunnen krijgen."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar het verschil tussen meedoen aan verkiezingen en opkomen voor een bepaald belang.",
+        "feedback_correct": "Politieke partijen doen mee aan verkiezingen en richten zich op de samenleving als geheel. Belangengroepen richten zich op een bepaald belang of een bepaalde groep.",
+        "feedback_wrong": "Denk aan het verschil tussen een partij die meedoet aan verkiezingen en een groep die een bepaald belang vertegenwoordigt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_024_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.3",
+        "topic": "Invloed van burgers",
+        "skill": "Gevolgen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politieke partij krijgt bij de verkiezingen acht zetels in de Tweede Kamer. Wat kan de partij daardoor doen?",
+        "context": "",
+        "answers": [
+          "Via haar volksvertegenwoordigers invloed uitoefenen op politieke besluitvorming.",
+          "Alle nieuwe wetten zelfstandig vaststellen.",
+          "Automatisch onderdeel worden van de regering."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de rol van volksvertegenwoordigers in de Tweede Kamer.",
+        "feedback_correct": "Met acht zetels heeft de partij volksvertegenwoordigers in de Tweede Kamer. Zij kunnen namens de partij deelnemen aan debatten en politieke besluitvorming.",
+        "feedback_wrong": "Denk na over wat volksvertegenwoordigers namens hun partij in de Tweede Kamer kunnen doen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_024_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.3",
+        "topic": "Democratische besluitvorming",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Twee politieke partijen verschillen van mening over de prijs van buskaartjes voor jongeren. De ene partij wil de kaartjes goedkoper maken. De andere partij vindt dat de kosten voor de gemeente niet te hoog mogen worden. Uiteindelijk spreken zij af dat jongeren korting krijgen, terwijl de gemeente een deel van de kosten blijft betalen. Wat is dit een voorbeeld van?",
+        "context": "",
+        "answers": [
+          "Een compromis.",
+          "Een partijprogramma.",
+          "Een verkiezing."
+        ],
+        "correct_answer": 0,
+        "hint": "De partijen passen hun oorspronkelijke wensen aan om samen tot een afspraak te komen.",
+        "feedback_correct": "Dit is een compromis: de partijen passen hun standpunten gedeeltelijk aan om samen tot een oplossing te komen.",
+        "feedback_wrong": "Kijk naar het feit dat beide partijen hun oorspronkelijke wensen gedeeltelijk aanpassen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_024_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.6",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Herkennen en toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politieke partij krijgt na de verkiezingen meerdere zetels. Kandidaten van die partij kunnen volgens de verkiezingsregels een zetel krijgen. Wat doen deze volksvertegenwoordigers in de Tweede Kamer?",
+        "context": "",
+        "answers": [
+          "Zij vertegenwoordigen kiezers en doen mee aan het bespreken en stemmen over politieke voorstellen.",
+          "Zij voeren als ambtenaren alle plannen van de regering zelfstandig uit.",
+          "Zij bepalen als rechters welke straf iemand krijgt."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de taak van de volksvertegenwoordiging.",
+        "feedback_correct": "Volksvertegenwoordigers vertegenwoordigen kiezers en nemen deel aan debatten en stemmingen over politieke voorstellen.",
+        "feedback_wrong": "Kijk naar de rol van de Tweede Kamer en wat volksvertegenwoordigers daar doen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_024_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.3",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke tekst past het best in een partijprogramma?",
+        "context": "",
+        "answers": [
+          "Wij willen meer investeren in beroepsonderwijs en zorgen voor veilige scholen.",
+          "De rechtbank heeft besloten dat de verdachte een taakstraf krijgt.",
+          "De politie heeft gisteren drie meldingen van diefstal geregistreerd."
+        ],
+        "correct_answer": 0,
+        "hint": "Zoek naar een tekst waarin een politieke partij een standpunt of plan beschrijft.",
+        "feedback_correct": "Een partijprogramma bevat standpunten en plannen van een politieke partij.",
+        "feedback_wrong": "Zoek naar de tekst waarin een politieke organisatie een eigen standpunt of plan beschrijft.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_024_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.3.4",
+        "topic": "Invloed van burgers",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een belangengroep wil dat er meer aandacht komt voor de belangen van huurders. Welke actie kan deze belangengroep gebruiken om invloed uit te oefenen op de politiek?",
+        "context": "",
+        "answers": [
+          "Onderzoek doen, aandacht vragen in de media en contact zoeken met politici.",
+          "Zelf bepalen welke wetten de Tweede Kamer moet aannemen.",
+          "Als belangengroep de zetels in de Tweede Kamer verdelen."
+        ],
+        "correct_answer": 0,
+        "hint": "Een belangengroep kan proberen politici en het publiek te overtuigen.",
+        "feedback_correct": "Een belangengroep kan op verschillende manieren invloed proberen uit te oefenen, bijvoorbeeld met onderzoek, acties, media-aandacht of contact met politici.",
+        "feedback_wrong": "Denk aan manieren waarop een organisatie politici en het publiek kan proberen te overtuigen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_024_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.3",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Interpreteren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Uit een onderzoek blijkt dat 70% van de inwoners meer mogelijkheden voor sport wil. Twee politieke partijen reageren verschillend. Partij A wil nieuwe sportvoorzieningen bouwen. Partij B wil vooral bestaande sportvoorzieningen verbeteren zonder extra belasting te heffen. Wat laat dit voorbeeld zien?",
+        "context": "",
+        "answers": [
+          "Dat politieke partijen dezelfde informatie verschillend kunnen beoordelen en verschillende prioriteiten kunnen kiezen.",
+          "Dat politieke partijen verplicht hetzelfde standpunt moeten innemen als de meerderheid van de inwoners.",
+          "Dat een politieke partij altijd precies moet uitvoeren wat in een onderzoek wordt genoemd."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar de verschillende keuzes die de partijen maken op basis van dezelfde informatie.",
+        "feedback_correct": "Partijen kunnen dezelfde informatie verschillend beoordelen en andere politieke prioriteiten kiezen.",
+        "feedback_wrong": "Kijk nog eens naar de twee verschillende reacties op precies dezelfde informatie.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Dit moet je onthouden",
+      "text": "Een politieke partij is een vereniging van mensen met ongeveer dezelfde politieke ideeën. Een partij doet mee aan verkiezingen en probeert politieke invloed te krijgen. Een partijprogramma bevat belangrijke standpunten en plannen. Politieke partijen vertegenwoordigen verschillende belangen en wegen die belangen tegen elkaar af. Zij kunnen samenwerken en compromissen sluiten. Een belangengroep komt op voor een bepaald belang of een bepaalde groep en kan op andere manieren invloed proberen uit te oefenen, bijvoorbeeld via onderzoek, acties, media of contact met politici."
+    }
+  ]
+}

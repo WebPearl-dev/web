@@ -1,0 +1,288 @@
+{
+  "id": "mk_004",
+  "subject": "maatschappij",
+  "title": "Les 4 – Betrouwbaarheid van bronnen",
+  "goal": "Je leert beoordelen of een bron bruikbaar en betrouwbaar genoeg is voor de vraag die je wilt beantwoorden.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Kan ik deze informatie vertrouwen?",
+      "text": "Je hebt geleerd hoe je informatie kunt vinden, een tekst goed kunt begrijpen en  kunt onderscheiden. Maar er is nog een belangrijke vraag: kan ik deze informatie voor mijn vraag gebruiken en erop vertrouwen? Niet alles wat je leest of ziet is automatisch betrouwbaar."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een bron?",
+      "text": "Een bron is de plek waar informatie vandaan komt. Dat kan bijvoorbeeld een nieuwswebsite, een boek, een filmpje, een website van de overheid, een politieke partij of een folder van een bedrijf zijn."
+    },
+    {
+      "type": "explanation",
+      "title": "Wanneer is een bron betrouwbaar?",
+      "text": "Een betrouwbare bron geeft informatie die je met goede redenen kunt vertrouwen. Dat betekent niet dat een bron altijd 100% gelijk heeft. Je blijft kritisch kijken. Kijk vooral naar de maker, het doel van de bron, de datum en of je de informatie kunt controleren."
+    },
+    {
+      "type": "explanation",
+      "title": "Een handige aanpak",
+      "text": "Gebruik deze vier vragen: 1. Wie heeft de bron gemaakt? 2. Waarom is de bron gemaakt? 3. Wanneer is de bron gemaakt? 4. Kun je de informatie controleren met andere informatie of bronnen?"
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeldsituatie",
+      "text": "Een sportmerk maakt reclame voor nieuwe sportschoenen. In de reclame staat dat dit de beste schoenen ter wereld zijn en dat je er veel sneller door gaat rennen. De reclame is een betrouwbare bron voor de vraag: wat beweert dit sportmerk? Maar de reclame is niet automatisch een betrouwbare bron om te bewijzen dat de schoenen echt de beste zijn."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_004_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Bronnen beoordelen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente geeft informatie over vapen. De gemeente verwijst daarbij naar informatie van artsen en naar onderzoek. Waarom geeft dit een goede reden om de informatie te vertrouwen?",
+        "answers": [
+          "Omdat de informatie gebruikmaakt van deskundige bronnen en onderzoek.",
+          "Omdat informatie van een gemeente altijd helemaal waar is.",
+          "Omdat informatie over vapen altijd van internet komt."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar waar de informatie vandaan komt.",
+        "feedback_correct": "Goed! De verwijzing naar deskundigen en onderzoek geeft een goede reden om de informatie te vertrouwen. Je blijft wel kritisch kijken naar wat het onderzoek precies zegt.",
+        "feedback_wrong": "Kijk naar de maker en naar de informatie waarop de gemeente zich baseert."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_004_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Geschikte bron selecteren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Je wilt weten hoe de Nederlandse overheid werkt. Welke bron is voor deze vraag het meest geschikt?",
+        "answers": [
+          "Een boze reactie van een burger op een website.",
+          "De website van de Rijksoverheid.",
+          "Een reactie onder een YouTube-video."
+        ],
+        "correct_answer": 1,
+        "hint": "Welke bron komt rechtstreeks van de overheid?",
+        "feedback_correct": "Goed! De Rijksoverheid is een officiële bron en is daarom vaak een sterke bron voor informatie over de overheid, wetten en regels. Kijk wel altijd wat de bron precies zegt.",
+        "feedback_wrong": "Kijk welke bron rechtstreeks informatie geeft over de Nederlandse overheid."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_004_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Doel van informatie herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een rijschool zet op Instagram: 'Binnenkort wordt het rijexamen twee keer zo moeilijk en veel duurder!' De minister heeft hier nog niets over aangekondigd. De rijschool verkoopt rijlessen. Wat kan een doel van dit bericht zijn?",
+        "answers": [
+          "Mensen informeren zonder er zelf voordeel van te hebben.",
+          "Mensen beïnvloeden zodat ze sneller rijlessen bij deze rijschool nemen.",
+          "Bewijzen dat de minister een nieuwe wet heeft gemaakt."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk na over wat de rijschool met het bericht kan bereiken.",
+        "feedback_correct": "Goed! De rijschool verkoopt rijlessen en kan met zo'n bericht mensen proberen te beïnvloeden. Daarom is het verstandig om de bewering bij een andere bron te controleren.",
+        "feedback_wrong": "Denk na over het belang van de rijschool. Wat kan de rijschool met zo'n bericht bereiken?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_004_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "De actualiteit van een bron beoordelen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Je vindt een krantenartikel uit 2002 over het gebruik van mobiele telefoons door jongeren. Je wilt weten hoe jongeren nu hun smartphone gebruiken. Waarom is dit artikel minder geschikt voor deze vraag?",
+        "answers": [
+          "Omdat kranten nooit betrouwbare bronnen zijn.",
+          "Omdat jongeren in 2002 nog geen telefoons mochten gebruiken.",
+          "Omdat de informatie erg oud is en het gebruik van smartphones inmiddels veranderd kan zijn."
+        ],
+        "correct_answer": 2,
+        "hint": "Kijk naar het jaar waarin het artikel is geschreven.",
+        "feedback_correct": "Goed! Bij actuele onderwerpen is de datum belangrijk. In de tussentijd kan er veel veranderd zijn.",
+        "feedback_wrong": "Kijk naar de datum van het artikel. Is informatie uit 2002 automatisch geschikt om te vertellen hoe jongeren nu hun smartphone gebruiken?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_004_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Bronnen vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een school denkt erover om later op de ochtend te beginnen. Een leerling uit de leerlingenraad zegt: 'Dat is geweldig, want dan kunnen we langer slapen.' Een onderzoeker die slaap onderzoekt vertelt over onderzoek naar de gevolgen van later beginnen. Welke bron is voor de vraag 'Wat zegt onderzoek over later beginnen?' het meest geschikt?",
+        "answers": [
+          "De leerling uit de leerlingenraad.",
+          "De onderzoeker die vertelt over het onderzoek.",
+          "Een willekeurige reactie op sociale media."
+        ],
+        "correct_answer": 1,
+        "hint": "Welke bron kan informatie geven over onderzoek naar slaap?",
+        "feedback_correct": "Goed! Voor deze specifieke vraag is de onderzoeker een geschiktere bron, omdat die informatie geeft over onderzoek. Ook dan is het verstandig om te kijken hoe het onderzoek is uitgevoerd.",
+        "feedback_wrong": "De vraag gaat over onderzoek. Welke bron heeft daar rechtstreeks kennis en informatie over?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_004_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Betrouwbaarheid van informatie beoordelen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een merk van scooters schrijft op zijn eigen website: 'Onze scooters zijn de veiligste scooters die er zijn.' Je wilt weten wat het merk zelf beweert. Is de website van het merk voor deze vraag een bruikbare bron?",
+        "answers": [
+          "Ja, want het merk vertelt zelf wat het beweert.",
+          "Nee, want reclame is nooit een bron.",
+          "Nee, want een bedrijf mag nooit informatie over zijn eigen producten geven."
+        ],
+        "correct_answer": 0,
+        "hint": "De vraag is niet of de bewering waar is. De vraag is wat het merk zelf beweert.",
+        "feedback_correct": "Precies! De website is een bruikbare bron om te weten wat het merk zelf beweert. Dat bewijst nog niet dat de scooters echt de veiligste zijn.",
+        "feedback_wrong": "Lees de vraag nog eens goed. Je hoeft hier niet te bepalen of de bewering waar is. Je moet weten wat het merk zelf zegt."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_004_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Het doel van een bron herkennen en informatie controleren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politieke partij deelt een verkiezingsfolder. Daarin staat: 'De criminaliteit is sterk gestegen. Stem daarom op ons.' Waarom is het verstandig om de bewering over criminaliteit bij een andere bron te controleren?",
+        "answers": [
+          "Omdat politieke partijen nooit betrouwbare informatie geven.",
+          "Omdat de partij ook als doel heeft kiezers voor zich te winnen.",
+          "Omdat verkiezingsfolders geen bronnen zijn."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk na over het doel van een verkiezingsfolder.",
+        "feedback_correct": "Goed! Een politieke partij wil kiezers overtuigen. Daarom is het verstandig om feitelijke beweringen, zoals cijfers over criminaliteit, ook bij andere bronnen te controleren.",
+        "feedback_wrong": "Een politieke partij wil kiezers overtuigen. Is dat een reden om feitelijke beweringen ook ergens anders te controleren?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_004_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Informatie controleren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een techblog schrijft: 'Een nieuwe spelcomputer komt volgend jaar uit voor 600 euro.' De schrijver zegt dit gehoord te hebben van een anonieme medewerker van een fabriek. De fabrikant heeft nog niets officieel bekendgemaakt. Waarom is het verstandig om voorzichtig te zijn met deze informatie?",
+        "answers": [
+          "Omdat een techblog nooit informatie over spelcomputers mag geven.",
+          "Omdat de informatie gebaseerd is op een anonieme bron en nog niet officieel is bevestigd.",
+          "Omdat nieuwe spelcomputers altijd duurder zijn dan 600 euro."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar waar de informatie vandaan komt en of iemand anders de informatie heeft bevestigd.",
+        "feedback_correct": "Goed! De informatie komt van een anonieme bron en is nog niet officieel bevestigd. Daarom is het verstandig om verder te controleren.",
+        "feedback_wrong": "Kijk naar de bron van de informatie. Is duidelijk wie de informatie heeft gegeven en is de informatie ergens anders bevestigd?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_004_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Bronnen vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een buurtgroep op Facebook schrijven verschillende mensen dat er steeds meer fietsen worden gestolen. Je wilt weten hoeveel fietsdiefstallen officieel zijn geregistreerd. Welke bron is dan het meest geschikt?",
+        "answers": [
+          "De berichten van buurtbewoners op Facebook.",
+          "Officiële cijfers over geregistreerde fietsdiefstallen van de politie.",
+          "Een reactie van iemand die zegt dat zijn fiets ooit is gestolen."
+        ],
+        "correct_answer": 1,
+        "hint": "Je zoekt officiële cijfers. Welke bron registreert aangiften en meldingen van criminaliteit?",
+        "feedback_correct": "Goed! Voor het aantal geregistreerde fietsdiefstallen zijn officiële politiecijfers een geschiktere bron. Let op: geregistreerde cijfers laten niet automatisch alle fietsdiefstallen zien, omdat niet elke diefstal wordt gemeld.",
+        "feedback_wrong": "De vraag gaat om officiële cijfers over geregistreerde diefstallen. Welke bron verzamelt zulke gegevens?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_004_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Informatie controleren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een universiteit publiceert een onderzoeksrapport over energiedrank. Het rapport legt uit wie is onderzocht, hoe het onderzoek is uitgevoerd en welke gegevens zijn verzameld. Ook kunnen anderen de gegevens en werkwijze controleren. Waarom geeft dit goede redenen om de bron te vertrouwen?",
+        "answers": [
+          "Omdat duidelijk is hoe het onderzoek is uitgevoerd en de informatie controleerbaar is.",
+          "Omdat alles wat een universiteit zegt automatisch waar is.",
+          "Omdat een onderzoeksrapport nooit fouten kan bevatten."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar de manier waarop het onderzoek wordt uitgelegd en gecontroleerd kan worden.",
+        "feedback_correct": "Goed! Een duidelijke werkwijze en controleerbare informatie geven goede redenen om een bron te vertrouwen. Je blijft ook bij onderzoek kritisch kijken.",
+        "feedback_wrong": "Kijk naar de manier waarop het onderzoek is uitgevoerd. Kunnen anderen controleren hoe de informatie tot stand is gekomen?"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Dit moet je onthouden",
+      "text": "Je hebt geleerd hoe je de betrouwbaarheid van een bron kunt beoordelen. Kijk altijd naar vier dingen: wie heeft de bron gemaakt, waarom is de bron gemaakt, wanneer is de bron gemaakt en kun je de informatie controleren? Geen enkel kenmerk maakt een bron automatisch betrouwbaar. Kijk altijd naar de vraag die je wilt beantwoorden."
+    }
+  ]
+}

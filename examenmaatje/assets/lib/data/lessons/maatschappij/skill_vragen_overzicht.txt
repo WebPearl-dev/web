@@ -1,0 +1,353 @@
+OVERZICHT VAARDIGHEDEN — MAATSCHAPPIJKUNDE MAATJE
+==========================================================
+Map: C:\ontwikkeling\maatschappij_maatje\lib\data\lessons\maatschappij
+Aantal JSON-bestanden: 57
+Aantal gevonden vragen: 31
+
+De JSON-bestanden zijn alleen gelezen en niet gewijzigd.
+
+
+##########################################################
+VAARDIGHEID: Herkennen (0 vragen)
+##########################################################
+
+
+##########################################################
+VAARDIGHEID: Kennen (0 vragen)
+##########################################################
+
+
+##########################################################
+VAARDIGHEID: Begrijpen (12 vragen)
+##########################################################
+
+Bestand: mk_042.json
+Vraag-ID: mk_042_q01
+Huidige skill: Begrijpen
+Vraag: Waarom kan iemand verdachte worden?
+Antwoordopties:
+Omdat de politie zeker weet dat hij schuldig is.
+Omdat er feiten of omstandigheden zijn die wijzen op mogelijke betrokkenheid bij een strafbaar feit.
+Omdat iemand altijd schuldig is wanneer een ander hem aanwijst.
+----------------------------------------------------------
+
+Bestand: mk_042.json
+Vraag-ID: mk_042_q02
+Huidige skill: Begrijpen
+Vraag: Wat betekent de onschuldpresumptie?
+Antwoordopties:
+Een verdachte moet zelf bewijzen dat hij niets heeft gedaan.
+Iedereen die wordt verdacht, wordt automatisch vrijgesproken.
+Iemand wordt niet als schuldig behandeld voordat volgens de wettelijke regels is vastgesteld dat hij schuldig is.
+----------------------------------------------------------
+
+Bestand: mk_042.json
+Vraag-ID: mk_042_q04
+Huidige skill: Begrijpen
+Vraag: Wat betekent juridische bijstand?
+Antwoordopties:
+Hulp van een advocaat bij problemen met de wet.
+Hulp van de politie bij het verzamelen van bewijs tegen jezelf.
+Hulp om een rechter te vervangen.
+----------------------------------------------------------
+
+Bestand: mk_042.json
+Vraag-ID: mk_042_q07
+Huidige skill: Begrijpen
+Vraag: Wie moet voldoende bewijs verzamelen voor een strafzaak?
+Antwoordopties:
+De verdachte zelf.
+Alleen de advocaat van de verdachte.
+De overheid, bijvoorbeeld via politie en Openbaar Ministerie.
+----------------------------------------------------------
+
+Bestand: mk_042.json
+Vraag-ID: mk_042_q08
+Huidige skill: Begrijpen
+Vraag: Waarom is het recht om te zwijgen belangrijk?
+Antwoordopties:
+Omdat een verdachte daarmee altijd vrijspraak krijgt.
+Omdat een verdachte niet verplicht is om vragen te beantwoorden die tegen hem kunnen worden gebruikt.
+Omdat de politie daardoor geen onderzoek meer mag doen.
+----------------------------------------------------------
+
+Bestand: mk_043.json
+Vraag-ID: mk_043_q05
+Huidige skill: Begrijpen
+Vraag: Waarom kan een politieagent niet zelf bepalen dat een verdachte schuldig is en welke straf die persoon krijgt?
+Antwoordopties:
+Omdat de politie strafbare feiten onderzoekt en het OM en de rechter ieder hun eigen wettelijke taak hebben.
+Omdat de politie alleen verkeersregels mag controleren.
+Omdat de politie nooit onderzoek naar diefstal of vernieling mag doen.
+----------------------------------------------------------
+
+Bestand: mk_044.json
+Vraag-ID: mk_044_q06
+Huidige skill: Begrijpen
+Vraag: Een slachtoffer vraagt via de officier van justitie in een strafzaak om 10.000 euro schadevergoeding omdat zijn smartphone is gestolen. De smartphone was 300 euro waard. Waarom zal de rechter dit bedrag niet zomaar volledig toewijzen?
+Antwoordopties:
+Omdat slachtoffers volgens de wet nooit meer dan tien euro mogen vragen.
+Omdat een schadevergoeding verband moet houden met de schade die door het strafbare feit is veroorzaakt en de rechter de vraag beoordeelt.
+Omdat de rechter het geld altijd aan de politie moet geven.
+----------------------------------------------------------
+
+Bestand: mk_045.json
+Vraag-ID: mk_045_q03
+Huidige skill: Begrijpen
+Vraag: Een boswachter die als BOA is beëdigd, houdt toezicht op regels in een natuurgebied. Waarom is het belangrijk om bij een BOA naar de specifieke functie en bevoegdheden te kijken?
+Antwoordopties:
+Omdat iedere BOA automatisch dezelfde bevoegdheden heeft als een politieagent.
+Omdat de bevoegdheden van een BOA afhankelijk zijn van de functie, taak en wettelijke bevoegdheden.
+Omdat een BOA volgens de wet nooit iemand mag aanspreken.
+----------------------------------------------------------
+
+Bestand: mk_047.json
+Vraag-ID: mk_047_q01
+Huidige skill: Begrijpen
+Vraag: Een man vernielt expres een bushokje. De rechter veroordeelt hem tot een taakstraf. De straf is een reactie op het feit dat hij het bushokje heeft vernield. Welk doel van straffen past hierbij?
+Antwoordopties:
+Resocialisatie
+Vergelding
+Eigenrichting
+----------------------------------------------------------
+
+Bestand: mk_047.json
+Vraag-ID: mk_047_q02
+Huidige skill: Begrijpen
+Vraag: Een rechter legt een straf op die ervoor moet zorgen dat mensen minder snel opnieuw een strafbaar feit plegen. Welk doel past hierbij?
+Antwoordopties:
+Afschrikking en preventie
+Genoegdoening
+Eigenrichting
+----------------------------------------------------------
+
+Bestand: mk_047.json
+Vraag-ID: mk_047_q07
+Huidige skill: Begrijpen
+Vraag: Kan een rechter in één zaak meerdere straffen en maatregelen opleggen?
+Antwoordopties:
+Nee, er mag altijd maar één straf of maatregel worden opgelegd.
+Ja, verschillende straffen en maatregelen kunnen worden gecombineerd als de wet dat toestaat.
+Alleen als het slachtoffer daarvoor toestemming geeft.
+----------------------------------------------------------
+
+Bestand: mk_047.json
+Vraag-ID: mk_047_q08
+Huidige skill: Begrijpen
+Vraag: Een rechter legt een gevangenisstraf voorwaardelijk op. De straf wordt niet meteen uitgevoerd. De veroordeelde krijgt een proeftijd. Wat kan er gebeuren als de veroordeelde zich tijdens de proeftijd opnieuw schuldig maakt aan een strafbaar feit?
+Antwoordopties:
+De voorwaardelijke straf kan alsnog worden uitgevoerd.
+De rechter moet de straf altijd helemaal laten vervallen.
+De veroordeelde krijgt automatisch alleen een geldboete.
+----------------------------------------------------------
+
+
+##########################################################
+VAARDIGHEID: Toepassen (19 vragen)
+##########################################################
+
+Bestand: mk_024.json
+Vraag-ID: mk024_q03
+Huidige skill: Toepassen
+Vraag: Een politieke partij kijkt naar de belangen van jongeren, ouderen, werknemers en ondernemers voordat zij een standpunt kiest over openbaar vervoer. Welke functie van een politieke partij zie je hier?
+Antwoordopties:
+Verschillende belangen tegen elkaar afwegen.
+Controleren of iedereen zich aan de wet houdt.
+Een rechterlijke uitspraak doen.
+----------------------------------------------------------
+
+Bestand: mk_024.json
+Vraag-ID: mk024_q06
+Huidige skill: Toepassen
+Vraag: Twee politieke partijen verschillen van mening over de prijs van buskaartjes voor jongeren. De ene partij wil de kaartjes goedkoper maken. De andere partij vindt dat de kosten voor de gemeente niet te hoog mogen worden. Uiteindelijk spreken zij af dat jongeren korting krijgen, terwijl de gemeente een deel van de kosten blijft betalen. Wat is dit een voorbeeld van?
+Antwoordopties:
+Een compromis.
+Een partijprogramma.
+Een verkiezing.
+----------------------------------------------------------
+
+Bestand: mk_024.json
+Vraag-ID: mk024_q09
+Huidige skill: Toepassen
+Vraag: Een belangengroep wil dat er meer aandacht komt voor de belangen van huurders. Welke actie kan deze belangengroep gebruiken om invloed uit te oefenen op de politiek?
+Antwoordopties:
+Onderzoek doen, aandacht vragen in de media en contact zoeken met politici.
+Zelf bepalen welke wetten de Tweede Kamer moet aannemen.
+Als belangengroep de zetels in de Tweede Kamer verdelen.
+----------------------------------------------------------
+
+Bestand: mk_025.json
+Vraag-ID: mk_025_q01
+Huidige skill: Toepassen
+Vraag: Een landelijk dagblad schrijft meerdere keren over het tekort aan leraren op vmbo-scholen. Veel mensen gaan hierover praten. Daarna kondigt de minister aan dat het probleem verder wordt onderzocht. Welke functie van de media zie je hier vooral?
+Antwoordopties:
+De informatiefunctie.
+De waakhondfunctie.
+De agendafunctie.
+----------------------------------------------------------
+
+Bestand: mk_025.json
+Vraag-ID: mk_025_q08
+Huidige skill: Toepassen
+Vraag: Een burger volgt alleen video's die politieke partijen zelf op sociale media plaatsen. Welke informatie kan deze burger daardoor mogelijk missen?
+Antwoordopties:
+Onafhankelijke berichtgeving en kritische vragen over de plannen van politieke partijen.
+Alle informatie over de verkiezingsdatum.
+Alle informatie die politieke partijen zelf over hun plannen geven.
+----------------------------------------------------------
+
+Bestand: mk_034.json
+Vraag-ID: mk034_q04
+Huidige skill: Toepassen
+Vraag: Een gemeente stelt een maximumsnelheid van 30 km/u in een woonwijk in. Welke waarde kan hierbij een belangrijke rol spelen?
+Antwoordopties:
+Veiligheid
+Vrijheid om zo snel mogelijk te rijden
+Winst voor de politie
+----------------------------------------------------------
+
+Bestand: mk_034.json
+Vraag-ID: mk034_q05
+Huidige skill: Toepassen
+Vraag: Welke volgorde past het best bij deze voorbeelden?
+
+1. Respect is belangrijk.
+2. Je luistert als iemand anders aan het woord is.
+3. Op school is afgesproken dat je elkaar laat uitpraten.
+Antwoordopties:
+Regel → waarde → norm
+Waarde → norm → regel
+Norm → regel → waarde
+----------------------------------------------------------
+
+Bestand: mk_039.json
+Vraag-ID: mk039_q01
+Huidige skill: Toepassen
+Vraag: De politie verdenkt een man van een inbraak. De agenten willen zijn woning binnengaan om te zoeken naar gestolen spullen. Volgens de wet moeten ze daarvoor eerst aan bepaalde voorwaarden voldoen. Waarom is dat belangrijk in een rechtsstaat?
+Antwoordopties:
+Omdat de overheid en de politie zich bij het opsporen van criminaliteit aan de wet moeten houden om burgers tegen machtsmisbruik te beschermen.
+Omdat het binnengaan van een huis voor agenten gratis moet zijn.
+Omdat verdachten volgens de wet hun gestolen spullen geheim mogen houden.
+----------------------------------------------------------
+
+Bestand: mk_039.json
+Vraag-ID: mk039_q04
+Huidige skill: Toepassen
+Vraag: De politie heeft een man aangehouden die ervan wordt verdacht een fiets te hebben gestolen. De wijkagent zegt: "Je zit in de cel, dus voor mij ben je gewoon een crimineel." Welke basisregel van de rechtsstaat vergeet deze wijkagent?
+Antwoordopties:
+Dat de politie altijd de baas is over de meningen van burgers.
+Dat een verdachte onschuldig is totdat een rechter heeft beslist dat hij schuldig is.
+Dat fietsendieven automatisch hun paspoort verliezen.
+----------------------------------------------------------
+
+Bestand: mk_039.json
+Vraag-ID: mk039_q07
+Huidige skill: Toepassen
+Vraag: In een land wordt een nieuwe wet gemaakt. Volgens die wet krijgt iedereen die de afgelopen vijf jaar een grap over de overheid heeft gemaakt vanaf vandaag twee jaar gevangenisstraf. Welke bescherming van de rechtsstaat wordt hiermee geschonden?
+Antwoordopties:
+Het recht van burgers om gratis bussen te eisen bij de gemeente.
+Het legaliteitsbeginsel: je mag niet worden gestraft voor gedrag dat op het moment van de daad nog niet strafbaar was.
+Het recht van de overheid om politiecijfers geheim te houden.
+----------------------------------------------------------
+
+Bestand: mk_040.json
+Vraag-ID: mk040_q01
+Huidige skill: Toepassen
+Vraag: Een inwoner luistert in de bus zonder oortjes naar harde muziek. Andere passagiers vinden dit erg vervelend en er ontstaat een discussie. Hoort deze situatie automatisch thuis binnen het strafrecht?
+Antwoordopties:
+Ja, want al het gedrag waarover mensen ruzie maken is strafbaar.
+Nee, vervelend of onbeleefd gedrag is niet automatisch een strafbaar feit.
+Ja, want de politie controleert verplicht de muziek van alle busreizigers.
+----------------------------------------------------------
+
+Bestand: mk_042.json
+Vraag-ID: mk_042_q03
+Huidige skill: Toepassen
+Vraag: Een verdachte wil tijdens een verhoor geen antwoord geven op vragen. Welk recht kan hij gebruiken?
+Antwoordopties:
+Het recht op een identiteitsbewijs.
+Het recht om te zwijgen.
+Het recht om zelf de straf te bepalen.
+----------------------------------------------------------
+
+Bestand: mk_042.json
+Vraag-ID: mk_042_q05
+Huidige skill: Toepassen
+Vraag: Wanneer moet een verdachte een identiteitsbewijs tonen?
+Antwoordopties:
+Altijd zodra iemand zegt dat hij verdachte is.
+Wanneer de politie dit volgens de wet van hem vraagt.
+Alleen wanneer de verdachte daar zelf zin in heeft.
+----------------------------------------------------------
+
+Bestand: mk_042.json
+Vraag-ID: mk_042_q09
+Huidige skill: Toepassen
+Vraag: Bekijk deze twee situaties.
+
+Situatie X: De politie vraagt volgens de wet om het identiteitsbewijs van een verdachte.
+Situatie Y: De verdachte vraagt om eerst met zijn advocaat te spreken.
+
+Welke combinatie klopt?
+Antwoordopties:
+X is een plicht en Y is een recht.
+X is een recht en Y is een plicht.
+X en Y zijn allebei rechten.
+----------------------------------------------------------
+
+Bestand: mk_042.json
+Vraag-ID: mk_042_q10
+Huidige skill: Toepassen
+Vraag: Een politieagent vermoedt dat een automobilist onder invloed van alcohol rijdt. De wet verplicht de automobilist in deze situatie om mee te werken aan een alcoholtest.
+
+Wat moet de automobilist doen?
+Antwoordopties:
+De test altijd weigeren omdat hij verdachte is.
+Alleen meewerken als hij zelf vindt dat het onderzoek nodig is.
+Meewerken aan de test omdat dit in deze situatie een wettelijke plicht is.
+----------------------------------------------------------
+
+Bestand: mk_043.json
+Vraag-ID: mk_043_q07
+Huidige skill: Toepassen
+Vraag: Bekijk deze twee personen in een strafzaak.
+
+Persoon X: bekijkt het politierapport en eist tijdens de rechtszaak een taakstraf tegen de verdachte.
+Persoon Y: luistert naar het proces en doet de onafhankelijke uitspraak over de schuld en de straf.
+
+Welke functies horen bij Persoon X en Persoon Y?
+Antwoordopties:
+Persoon X is de rechter, Persoon Y is de officier van justitie.
+Persoon X is de officier van justitie, Persoon Y is de rechter.
+Beide personen zijn politieagenten.
+----------------------------------------------------------
+
+Bestand: mk_044.json
+Vraag-ID: mk_044_q03
+Huidige skill: Toepassen
+Vraag: Een burger is slachtoffer geworden van vernieling. De kapotte onderdelen van zijn fiets zijn gerepareerd voor 120 euro. Hij heeft de rekening van de fietsenmaker bewaard. Wat kan het slachtoffer met deze rekening doen?
+Antwoordopties:
+De rekening bewaren als bewijs van de schade en deze aanleveren voor de strafzaak.
+De rekening verplicht naar de koning sturen om het bedrag terug te krijgen.
+Niets, want slachtoffers mogen geen documenten over hun schade aanleveren.
+----------------------------------------------------------
+
+Bestand: mk_045.json
+Vraag-ID: mk_045_q07
+Huidige skill: Toepassen
+Vraag: Een gemeentelijke BOA ziet dat er een ernstige woninginbraak heeft plaatsgevonden. De BOA neemt contact op met de politie, waarna de politie het strafrechtelijke onderzoek uitvoert. Waarom is dit een logische taakverdeling?
+Antwoordopties:
+Omdat BOA's nooit iets met strafbare feiten te maken hebben.
+Omdat de politie een algemene opsporingstaak heeft en de BOA binnen een specifieke taak en bevoegdheid werkt.
+Omdat alleen de burgemeester strafbare feiten mag onderzoeken.
+----------------------------------------------------------
+
+Bestand: mk_047.json
+Vraag-ID: mk_047_q09
+Huidige skill: Toepassen
+Vraag: Twee mensen worden voor een vergelijkbaar strafbaar feit veroordeeld. Eén van hen is al meerdere keren eerder veroordeeld. Waarom kan de rechter bij deze persoon een andere straf opleggen?
+Antwoordopties:
+Omdat iemand met eerdere veroordelingen altijd automatisch gevangenisstraf krijgt.
+Omdat eerdere veroordelingen kunnen meewegen bij het bepalen van een passende straf.
+Omdat de rechter bij een eerste veroordeling geen straf mag opleggen.
+----------------------------------------------------------
