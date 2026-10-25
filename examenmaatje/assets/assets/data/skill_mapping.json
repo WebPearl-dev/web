@@ -1,0 +1,2659 @@
+{
+  "informatie": {
+    "title": "Informatie zoeken en aflezen",
+    "skills": [
+      "Gegevens aflezen",
+      "Gegevens interpreteren",
+      "De grootste categorie aflezen",
+      "De hoogste waarde herkennen",
+      "Informatie uit een tekst halen",
+      "Informatie uit kolommen vergelijken",
+      "Hoofdzaak en bijzaak onderscheiden",
+      "Relevante informatie selecteren",
+      "Geschikte bron selecteren",
+      "Informatie controleren",
+      "Belangrijke informatie herkennen",
+      "De horizontale kant van een grafiek herkennen",
+      "De juiste categorie koppelen",
+      "De juiste informatie uit een bron kiezen",
+      "De kleinste categorie aflezen",
+      "De laagste waarde herkennen",
+      "Doel van informatie herkennen",
+      "Een stemuitslag interpreteren",
+      "Een waarde bij een categorie aflezen",
+      "Gegevens uit een overzicht gebruiken en vergelijken",
+      "Het doel van een bron herkennen en informatie controleren",
+      "Informatie in de juiste volgorde herkennen",
+      "Informatie in een tabel zetten",
+      "Informatie uit cijfers begrijpen",
+      "Informatie uit de uitvoering interpreteren",
+      "Informatie uit een tekst begrijpen",
+      "Informatie uit verschillende zinnen combineren",
+      "Informatie vinden en op de juiste plek zetten",
+      "Interpreteren",
+      "Onderwerp bepalen",
+      "Ontbrekende informatie herkennen",
+      "Overbodige informatie wegstrepen",
+      "Soort informatie herkennen in bronnen",
+      "Uitslag van verkiezingen interpreteren"
+    ],
+    "skill_details": {
+      "Gegevens aflezen": {
+        "status": "voorlopig",
+        "aantal_vragen": 19,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "Brede skill: 11 van de 19 vragen zijn 'welke conclusie kun je rechtstreeks trekken' (zelfde vraagvorm als 'Conclusie trekken' = verbanden); 2 vragen gaan over iets anders (zie vraagopmerking). Indeling uit aangeleverde mapping behouden."
+      },
+      "Gegevens interpreteren": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "In aangeleverde mapping onder 'informatie'; kan ook 'verbanden'. Vragen mk_034_q10 en mk_035_q10 lezen een conclusie af uit percentages. Past bij 'informatie'; overlapt met 'Conclusie trekken' (verbanden)."
+      },
+      "De grootste categorie aflezen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "De hoogste waarde herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "In aangeleverde mapping onder 'informatie'; scriptregel gaf 'begrippen' (door 'herkennen'). Vraag mk_007_q04 leest de hoogste waarde af uit een grafiek. Past bij 'informatie' (scriptvoorstel 'begrippen' is door het woord 'herkennen')."
+      },
+      "Informatie uit een tekst halen": {
+        "status": "voorlopig",
+        "aantal_vragen": 3,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Informatie uit kolommen vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "In aangeleverde mapping onder 'informatie'; naam wijst ook op 'vergelijken'. Vraag mk_006_q06 ('wat valt op als je de boetes vergelijkt') vergelijkt twee waarden uit een tabel. Past ook bij 'vergelijken'. Besluit gebruiker nodig; categorie nu volgens aangeleverde mapping."
+      },
+      "Hoofdzaak en bijzaak onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "In aangeleverde mapping onder 'informatie'; naam wijst ook op 'vergelijken'. Vraag mk_002_q02 vraagt de hoofdzaak van een tekst (informatie); mk_002_q07 vraagt een reden uit de tekst. Past bij 'informatie'."
+      },
+      "Relevante informatie selecteren": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Geschikte bron selecteren": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "In aangeleverde mapping onder 'informatie'; kan ook 'beoordelen'. Beide vraagteksten (mk_004_q02, mk_005_q07) vragen welke bron geschikt is om iets te weten te komen. Past bij 'informatie'. Nog niet afgevinkt door gebruiker."
+      },
+      "Informatie controleren": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "In aangeleverde mapping onder 'informatie'; kan ook 'beoordelen'. Beide vragen (mk_004_q08, q10) beoordelen de betrouwbaarheid van een bron. Past eerder bij 'beoordelen' (vgl. 'Betrouwbaarheid van informatie beoordelen'). Besluit gebruiker nodig; categorie nu volgens aangeleverde mapping."
+      },
+      "Belangrijke informatie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "De horizontale kant van een grafiek herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": ""
+      },
+      "De juiste categorie koppelen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_006_q03: namen in de juiste tabelkolom zetten; sluit aan bij 'Informatie in een tabel zetten'."
+      },
+      "De juiste informatie uit een bron kiezen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "De kleinste categorie aflezen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "De laagste waarde herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": ""
+      },
+      "Doel van informatie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Een stemuitslag interpreteren": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_014_q03: uitkomst van een stemming aflezen. Kan ook 'toepassen'."
+      },
+      "Een waarde bij een categorie aflezen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Gegevens uit een overzicht gebruiken en vergelijken": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_001_q09: laagste waarde aflezen. Kan ook 'vergelijken'."
+      },
+      "Het doel van een bron herkennen en informatie controleren": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Informatie in de juiste volgorde herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Informatie in een tabel zetten": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Informatie uit cijfers begrijpen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Informatie uit de uitvoering interpreteren": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Vraag mk_027_q09: wat kan de gemeente met de informatie doen. Kan ook 'toepassen'."
+      },
+      "Informatie uit een tekst begrijpen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Informatie uit verschillende zinnen combineren": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie combineren (zoals scriptregel)",
+        "opmerking": ""
+      },
+      "Informatie vinden en op de juiste plek zetten": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Interpreteren": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "besluit gebruiker (ronde 2); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Gebruiker: mk_024_q10 is informatie."
+      },
+      "Onderwerp bepalen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Ontbrekende informatie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Overbodige informatie wegstrepen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Soort informatie herkennen in bronnen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: informatie/gegevens/aflezen",
+        "opmerking": ""
+      },
+      "Uitslag van verkiezingen interpreteren": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_017_q07: grootste percentage aflezen. Sluit aan bij 'Gegevens interpreteren'."
+      }
+    }
+  },
+  "begrippen": {
+    "title": "Begrippen herkennen en begrijpen",
+    "skills": [
+      "Begrippen herkennen",
+      "Begrippen onderscheiden",
+      "Begrippen combineren",
+      "Begrijpen",
+      "Kennen en herkennen",
+      "Een grondrecht herkennen",
+      "Een rechtsstaat herkennen",
+      "Aandacht van de media herkennen",
+      "Algemene Beschouwingen begrijpen",
+      "Argument en doel herkennen",
+      "Begrijpen van het doel en de beperking van preventie",
+      "Begrijpen waarom verschillende maatregelen kunnen worden gebruikt",
+      "Begrip evenredige vertegenwoordiging herkennen",
+      "Begrip parlement herkennen",
+      "Begrip politieke partij herkennen",
+      "Begrip zetel herkennen",
+      "Belang herkennen",
+      "Belang van parlementaire controle uitleggen",
+      "Belangen afwegen herkennen",
+      "Belangenbehartiging herkennen",
+      "Belangengroepen en lobby herkennen",
+      "Belangengroepen herkennen",
+      "Belangengroepen invloed laten uitoefenen",
+      "Beleid evalueren herkennen",
+      "Beleid herkennen",
+      "Beleidsuitvoering herkennen",
+      "Beschrijven",
+      "Bestuurslaag herkennen",
+      "Budgetrecht herkennen",
+      "Censuur herkennen",
+      "Ceremoniële en vertegenwoordigende taak herkennen",
+      "Compromis herkennen",
+      "Constitutionele monarchie herkennen",
+      "Controlerende taak herkennen",
+      "De rol van belangengroepen herkennen",
+      "De rol van de rechter herkennen",
+      "Democratische besluitvorming herkennen",
+      "Democratische kenmerken herkennen",
+      "Democratische vertegenwoordiging uitleggen",
+      "Democratische waarden herkennen",
+      "Doel van belangengroepen uitleggen",
+      "Doel van beleid herkennen",
+      "Een bestuursvorm herkennen",
+      "Een democratische aanpak herkennen",
+      "Een gemeentelijke bevoegdheid herkennen",
+      "Een gemeentelijke taak herkennen",
+      "Een kenmerk van de rechtsstaat herkennen",
+      "Een landelijke overheidstaak herkennen",
+      "Een lokale overheidstaak herkennen",
+      "Een maatregel herkennen",
+      "Een oplossing voor een maatschappelijk vraagstuk herkennen",
+      "Een overheidsregeling herkennen",
+      "Een persoonlijk probleem herkennen",
+      "Een politieke beslissing herkennen",
+      "Een provinciale taak herkennen",
+      "Een taak aan de juiste bestuurslaag koppelen",
+      "Een voorbeeld indelen",
+      "Een voorbeeld van een overheidstaak herkennen",
+      "Een voorbeeld van een overheidstaak indelen",
+      "Een voorziening als overheidstaak herkennen",
+      "Een vorm van Politieke invloed herkennen",
+      "EU-besluitvorming herkennen",
+      "EU-instellingen herkennen",
+      "Europese besluitvorming begrijpen",
+      "Extremisme herkennen",
+      "fasen van besluitvorming herkennen",
+      "Fasen van politieke besluitvorming herkennen",
+      "fasen van wetgeving herkennen",
+      "Functie van een actie herkennen",
+      "Functie van een bestuurder herkennen",
+      "Functie van een minister herkennen",
+      "Functie van een staatssecretaris herkennen",
+      "functies van media herkennen",
+      "functies van politieke partijen herkennen",
+      "geheime verkiezingen uitleggen",
+      "gemeentelijke taken herkennen",
+      "grondrechten herkennen",
+      "Herkennen en omschrijven",
+      "herkennen hoe een onderwerp op de politieke agenda komt",
+      "Herkennen van de rol van burgers",
+      "Herkennen van de rol van de reclassering",
+      "Herkennen van de taak van de rechter",
+      "Herkennen van opsporing",
+      "Herkennen van opsporingsactiviteiten",
+      "Herkennen van preventieve maatregelen",
+      "Herkennen van rechten van een verdachte",
+      "Herkennen van rechtsmiddelen",
+      "Herkennen van rollen in de strafrechtspraak",
+      "Herkennen van voorlichting als preventie",
+      "Herkennen waarom de overheid keuzes moet maken",
+      "Het doel van rechterlijke controle herkennen",
+      "Het landelijke bestuursniveau herkennen",
+      "Informatieplicht en verantwoordingsplicht herkennen",
+      "informerende functie herkennen",
+      "invloed van burgers en organisaties herkennen",
+      "invloed van burgers herkennen",
+      "Jeugdstrafrecht herkennen",
+      "Juridische begrippen onderscheiden",
+      "Juridische status herkennen",
+      "Kabinet herkennen",
+      "Kamervragen herkennen",
+      "Kenmerken van de Eerste Kamer herkennen",
+      "kenmerken van democratische verkiezingen herkennen",
+      "kenmerken van een democratie herkennen",
+      "kenmerken van een dictatuur herkennen",
+      "Kenmerken van een maatschappelijk vraagstuk herkennen",
+      "Kenmerken van vrije verkiezingen herkennen",
+      "Leeftijd herkennen",
+      "liberale uitgangspunten herkennen",
+      "maatregelen tegen criminaliteit herkennen",
+      "Maatschappelijk probleem herkennen",
+      "Machten en taken herkennen",
+      "Machten herkennen",
+      "manieren herkennen waarop burgers invloed uitoefenen",
+      "manieren om beleid te beïnvloeden herkennen",
+      "Materiële en immateriële schade herkennen",
+      "Medewetgevende taak herkennen",
+      "Mediafuncties herkennen",
+      "Meerderheidsstelsel herkennen",
+      "Misdrijf herkennen",
+      "mogelijkheden van maatschappelijke organisaties herkennen",
+      "moment van coalitievorming herkennen",
+      "nationalisme herkennen",
+      "Nieuwswaarde herkennen",
+      "Onafhankelijke rechtspraak herkennen",
+      "Onafhankelijkheid van de rechter uitleggen",
+      "ondertekening van wetten herkennen",
+      "oppositie herkennen",
+      "Overtreding herkennen",
+      "persvrijheid herkennen",
+      "politieke besluitvorming herkennen",
+      "politieke gebeurtenissen koppelen aan instellingen",
+      "Politieke invloed herkennen",
+      "Politieke stijl herkennen",
+      "Politieke stroming herkennen",
+      "Politieke verantwoordelijkheid herkennen",
+      "Politieke waarden herkennen",
+      "Prinsjesdag begrijpen",
+      "probleem signaleren herkennen",
+      "provinciale bestuursorganen herkennen",
+      "Recht van amendement herkennen",
+      "Rechten van de Eerste Kamer herkennen",
+      "rechten van verdachten herkennen",
+      "Rechterlijke controle herkennen",
+      "Rechtsbescherming herkennen",
+      "Rechtsregel herkennen",
+      "regelgevende taak herkennen",
+      "Regering herkennen",
+      "regeringsplannen herkennen",
+      "Relatie tussen kabinet en parlement herkennen",
+      "Rol van ambtenaren herkennen",
+      "Rol van de koning bij de Troonrede herkennen",
+      "Rol van de koning bij wetgeving herkennen",
+      "rol van de koning herkennen",
+      "Rol van de Tweede Kamer bij wetgeving herkennen",
+      "Rol van de wet herkennen",
+      "Rol van het parlement bij wetgeving herkennen",
+      "Rol van Nederland herkennen",
+      "rollen bij wetgeving herkennen",
+      "rollen rond Prinsjesdag herkennen",
+      "Rollen van kabinet en parlement herkennen",
+      "Samenwerking en controle herkennen",
+      "Samenwerking herkennen",
+      "Schadevergoeding herkennen",
+      "Schadevergoedingsmaatregel herkennen",
+      "Scheiding van machten uitleggen",
+      "Schriftelijke vragen herkennen",
+      "Sensationele berichtgeving herkennen",
+      "soorten verkiezingen herkennen",
+      "stappen van beleidsvorming herkennen",
+      "stappen van wetgeving herkennen",
+      "Strafbaar gedrag herkennen",
+      "Strafbeschikking herkennen",
+      "Taak herkennen",
+      "Taak van de Eerste Kamer herkennen",
+      "Taakverdeling herkennen",
+      "taken en organen van de provincie herkennen",
+      "taken van bestuurslagen herkennen",
+      "taken van de gemeenteraad herkennen",
+      "Taken van de politie herkennen",
+      "taken van EU-instellingen herkennen",
+      "Terugkoppeling herkennen",
+      "Troonrede en Prinsjesdag begrijpen",
+      "uitgangspunten herkennen",
+      "Verantwoordingsplicht herkennen",
+      "Verhouding tussen kabinet en parlement herkennen",
+      "Vermoeden van onschuld herkennen",
+      "Verschillende overheidsmaatregelen herkennen",
+      "Vertrouwensregel herkennen",
+      "volksvertegenwoordigers herkennen",
+      "volksvertegenwoordiging herkennen",
+      "Voorbeeld uit de Wegenverkeerswet herkennen",
+      "vrijheid van oppositie herkennen",
+      "wetgevende macht herkennen",
+      "zwevende kiezers herkennen",
+      "Zwijgrecht herkennen"
+    ],
+    "skill_details": {
+      "Begrippen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 16,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "Alle 16 vraagteksten gelezen: elke vraag vraagt een begrip, recht of handeling te herkennen. Past bij 'begrippen'. Nog niet afgevinkt door gebruiker."
+      },
+      "Begrippen onderscheiden": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "In aangeleverde mapping onder 'begrippen'; naam wijst ook op 'vergelijken'. Vraag mk_031_q05 (populisme en extremisme zijn niet hetzelfde) houdt twee begrippen uit elkaar. Past bij 'begrippen'; vergelijken is ook verdedigbaar."
+      },
+      "Begrippen combineren": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Begrijpen": {
+        "status": "voorlopig",
+        "aantal_vragen": 12,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "Alle 12 vraagteksten gelezen: uitleg-/begrijpvragen over strafrecht en straffen. Past bij 'begrippen'. Nog niet afgevinkt door gebruiker."
+      },
+      "Kennen en herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 35,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "Brede skill (35 vragen). Meeste vragen herkennen een begrip, rol of organisatie (begrippen). 5 vragen vragen een standpunt of argument te herkennen (zie vraagopmerking) en 3 vragen het soort bericht (feit of mening). Indeling uit aangeleverde mapping behouden."
+      },
+      "Een grondrecht herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Een rechtsstaat herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Aandacht van de media herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Algemene Beschouwingen begrijpen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Argument en doel herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_041_q08: doel van het jeugdstrafrecht herkennen. Naam wijst op 'standpunten'."
+      },
+      "Begrijpen van het doel en de beperking van preventie": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Begrijpen waarom verschillende maatregelen kunnen worden gebruikt": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_048_q09 is een begrijpvraag over aanpak van criminaliteit. Script gaf 'vergelijken'."
+      },
+      "Begrip evenredige vertegenwoordiging herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Begrip parlement herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Begrip politieke partij herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Begrip zetel herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Belang herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 3,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Belang van parlementaire controle uitleggen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Het gaat om een begrip, niet om belangen van groepen."
+      },
+      "Belangen afwegen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Vraag mk_023_q02: fase in beleidsvorming herkennen. Script gaf 'begrippen'; naam kan ook naar 'standpunten' wijzen."
+      },
+      "Belangenbehartiging herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Belangengroepen en lobby herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Belangengroepen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Belangengroepen invloed laten uitoefenen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_056_q17: herkennen welke manier van invloed uitoefenen (handtekeningenactie). Naam wijkt af van de vraag."
+      },
+      "Beleid evalueren herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_054_q20: herkennen dat de gemeente beleid evalueert (fase). Script gaf 'beoordelen'."
+      },
+      "Beleid herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Beleidsuitvoering herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Beschrijven": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 2,
+        "basis": "besluit gebruiker (ronde 2); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Gebruiker: beide vragen (mk_028_q04, q06) zijn begrippen."
+      },
+      "Bestuurslaag herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Budgetrecht herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Censuur herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Ceremoniële en vertegenwoordigende taak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Compromis herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Vraag mk_049_q08: wat partijen moeten doen om samen te werken (compromis). Kan ook 'toepassen'."
+      },
+      "Constitutionele monarchie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Controlerende taak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 5,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "De rol van belangengroepen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "De rol van de rechter herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Democratische besluitvorming herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Democratische kenmerken herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Democratische vertegenwoordiging uitleggen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Democratische waarden herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Doel van belangengroepen uitleggen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Doel van beleid herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Een bestuursvorm herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Een democratische aanpak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Een gemeentelijke bevoegdheid herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Een gemeentelijke taak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Een kenmerk van de rechtsstaat herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Een landelijke overheidstaak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen; vraagtekst gelezen (mk_012.json)",
+        "opmerking": "mk_012_q06 gelezen (en andere lessen): landelijke wet herkennen."
+      },
+      "Een lokale overheidstaak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen; vraagtekst gelezen (mk_012.json)",
+        "opmerking": "mk_012_q05 gelezen (en andere lessen): afvalinzameling hoort bij de gemeente."
+      },
+      "Een maatregel herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Een oplossing voor een maatschappelijk vraagstuk herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Een overheidsregeling herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen; vraagtekst gelezen (mk_012.json)",
+        "opmerking": "mk_012_q03 gelezen: wat is AOW (kennisvraag)."
+      },
+      "Een persoonlijk probleem herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Een politieke beslissing herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Een provinciale taak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Een taak aan de juiste bestuurslaag koppelen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; vraagtekst gelezen (mk_012.json); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "mk_012_q04 gelezen: welke bestuurslaag onderhoudt een provinciale weg (herkennen)."
+      },
+      "Een voorbeeld indelen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_033_q09: voorbeelden als misdrijf/overtreding indelen."
+      },
+      "Een voorbeeld van een overheidstaak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen; vraagtekst gelezen (mk_012.json)",
+        "opmerking": "mk_012_q02 gelezen: welke overheidstaak zie je (politie bij rellen)."
+      },
+      "Een voorbeeld van een overheidstaak indelen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; vraagtekst gelezen (mk_012.json); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "mk_012_q01 gelezen: onderwijs indelen bij een van de drie groepen overheidstaken. Kan ook 'toepassen'."
+      },
+      "Een voorziening als overheidstaak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen; vraagtekst gelezen (mk_012.json)",
+        "opmerking": "mk_012_q08 gelezen: fietspad hoort bij 'goede voorzieningen'."
+      },
+      "Een vorm van Politieke invloed herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "EU-besluitvorming herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "EU-instellingen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 3,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Europese besluitvorming begrijpen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Extremisme herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "fasen van besluitvorming herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Fasen van politieke besluitvorming herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 4,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "fasen van wetgeving herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Functie van een actie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Functie van een bestuurder herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Functie van een minister herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Functie van een staatssecretaris herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "functies van media herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "functies van politieke partijen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "geheime verkiezingen uitleggen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "gemeentelijke taken herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "grondrechten herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen en omschrijven": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Naam generiek; vraag mk_024_q01 vraagt de omschrijving van een politieke partij."
+      },
+      "herkennen hoe een onderwerp op de politieke agenda komt": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen van de rol van burgers": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen van de rol van de reclassering": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen van de taak van de rechter": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen van opsporing": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen van opsporingsactiviteiten": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen van preventieve maatregelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen van rechten van een verdachte": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen van rechtsmiddelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen van rollen in de strafrechtspraak": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen van voorlichting als preventie": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Herkennen waarom de overheid keuzes moet maken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Het doel van rechterlijke controle herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Het landelijke bestuursniveau herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Informatieplicht en verantwoordingsplicht herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Script gaf 'informatie' door het woord 'informatie'; het gaat om parlementaire begrippen."
+      },
+      "informerende functie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "invloed van burgers en organisaties herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "invloed van burgers herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Jeugdstrafrecht herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Juridische begrippen onderscheiden": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Volgt 'Begrippen onderscheiden' (begrippen) uit de aangeleverde mapping. Kan ook 'vergelijken'."
+      },
+      "Juridische status herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Kabinet herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Kamervragen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Kenmerken van de Eerste Kamer herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "kenmerken van democratische verkiezingen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "kenmerken van een democratie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "kenmerken van een dictatuur herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Kenmerken van een maatschappelijk vraagstuk herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 6,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Kenmerken van vrije verkiezingen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Leeftijd herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "liberale uitgangspunten herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "maatregelen tegen criminaliteit herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Maatschappelijk probleem herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Machten en taken herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Machten herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 3,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "manieren herkennen waarop burgers invloed uitoefenen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "manieren om beleid te beïnvloeden herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Materiële en immateriële schade herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Medewetgevende taak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Mediafuncties herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 3,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Meerderheidsstelsel herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Misdrijf herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "mogelijkheden van maatschappelijke organisaties herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "moment van coalitievorming herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "nationalisme herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Nieuwswaarde herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Onafhankelijke rechtspraak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Onafhankelijkheid van de rechter uitleggen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "ondertekening van wetten herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "oppositie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Overtreding herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "persvrijheid herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "politieke besluitvorming herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "politieke gebeurtenissen koppelen aan instellingen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_053_q09: taak van de Tweede Kamer herkennen."
+      },
+      "Politieke invloed herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Politieke stijl herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Politieke stroming herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Politieke verantwoordelijkheid herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Politieke waarden herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Prinsjesdag begrijpen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "probleem signaleren herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "provinciale bestuursorganen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Recht van amendement herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rechten van de Eerste Kamer herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "rechten van verdachten herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rechterlijke controle herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rechtsbescherming herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rechtsregel herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "regelgevende taak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Regering herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "regeringsplannen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Relatie tussen kabinet en parlement herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rol van ambtenaren herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rol van de koning bij de Troonrede herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rol van de koning bij wetgeving herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "rol van de koning herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rol van de Tweede Kamer bij wetgeving herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rol van de wet herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rol van het parlement bij wetgeving herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rol van Nederland herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "rollen bij wetgeving herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "rollen rond Prinsjesdag herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Rollen van kabinet en parlement herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Samenwerking en controle herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Samenwerking herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Schadevergoeding herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Schadevergoedingsmaatregel herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Scheiding van machten uitleggen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Schriftelijke vragen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Sensationele berichtgeving herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "soorten verkiezingen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "stappen van beleidsvorming herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "stappen van wetgeving herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Strafbaar gedrag herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Strafbeschikking herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Taak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Taak van de Eerste Kamer herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Taakverdeling herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "taken en organen van de provincie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "taken van bestuurslagen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "taken van de gemeenteraad herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Taken van de politie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "taken van EU-instellingen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Terugkoppeling herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Vraag mk_027_q03: informatie over uitvoering herkennen als terugkoppeling."
+      },
+      "Troonrede en Prinsjesdag begrijpen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "uitgangspunten herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Verantwoordingsplicht herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Verhouding tussen kabinet en parlement herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Vermoeden van onschuld herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Verschillende overheidsmaatregelen herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; vraagtekst gelezen (mk_012.json); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "mk_012_q10 gelezen: wat laat de situatie zien (meerdere maatregelen voor één doel)."
+      },
+      "Vertrouwensregel herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "volksvertegenwoordigers herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "volksvertegenwoordiging herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Voorbeeld uit de Wegenverkeerswet herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "vrijheid van oppositie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "wetgevende macht herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "zwevende kiezers herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      },
+      "Zwijgrecht herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: herkennen/begrijpen/uitleggen",
+        "opmerking": ""
+      }
+    }
+  },
+  "standpunten": {
+    "title": "Standpunten en argumenten",
+    "skills": [
+      "Standpunt herkennen",
+      "Standpunt en argument herkennen",
+      "Argument herkennen",
+      "Argument beoordelen",
+      "Feit en mening onderscheiden",
+      "Standpunten vergelijken",
+      "Verschillende standpunten herkennen",
+      "Begrijpen waarom verschillende belangen belangrijk zijn",
+      "Belangen bij een politiek besluit herkennen",
+      "Belangen herkennen in een situatie",
+      "Botsende belangen herkennen",
+      "Een signaalwoord van een argument herkennen",
+      "Een uitspraak vergelijken met cijfers",
+      "Een vraag over belangen herkennen",
+      "Feit en mening herkennen door bronnen te vergelijken",
+      "Feit over een mening herkennen",
+      "Herkennen dat mensen vanuit verschillende belangen naar een vraagstuk kunnen kijken",
+      "Het belang van verschillende groepen herkennen",
+      "Nuanceren",
+      "partijstandpunten herkennen",
+      "politieke standpunten herkennen",
+      "politieke standpunten koppelen aan een onderwerp",
+      "Politieke standpunten vergelijken",
+      "standpunten aan begrippen koppelen",
+      "Standpunten onderscheiden",
+      "standpunten over wonen koppelen",
+      "standpunten van politieke partijen vergelijken",
+      "stemwijzers en politieke voorkeur begrijpen",
+      "Verschillende belangen herkennen",
+      "Verschillende meningen over een oplossing herkennen"
+    ],
+    "skill_details": {
+      "Standpunt herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 19,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "Alle 19 vraagteksten gelezen: 15 vragen vragen het standpunt van iemand te herkennen (standpunten). 4 vragen vragen een politieke stroming of waarde te herkennen (zie vraagopmerking, begrippen). Indeling uit aangeleverde mapping behouden."
+      },
+      "Standpunt en argument herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Argument herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 20,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "Alle 20 vraagteksten gelezen: elke vraag vraagt een argument of reden te herkennen. Past bij 'standpunten'. Nog niet afgevinkt door gebruiker."
+      },
+      "Argument beoordelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "In aangeleverde mapping onder 'standpunten'; naam wijst ook op 'beoordelen'. Vraag mk_038_q09 (waarom is de beschuldiging te kort door de bocht) beoordeelt een redenering. Past eerder bij 'beoordelen' dan 'standpunten'. Besluit gebruiker nodig; categorie nu volgens aangeleverde mapping."
+      },
+      "Feit en mening onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 14,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Standpunten vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 6,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "In aangeleverde mapping onder 'standpunten'; naam wijst ook op 'vergelijken'. 5 van de 6 vragen vragen een standpunt aan een politieke stroming of label te koppelen (mk_030_q01/q02/q03/q07, mk_031_q07), geen standpunten vergelijken; mk_056_q15 vergelijkt wel. Past eerder bij 'begrippen' (politieke stromingen), vgl. 'Standpunt herkennen' mk_030_q06/q08. Besluit gebruiker nodig; categorie nu volgens aangeleverde mapping."
+      },
+      "Verschillende standpunten herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Begrijpen waarom verschillende belangen belangrijk zijn": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Vraag mk_009_q10 gaat over belangen bij een vraagstuk. Kan ook 'begrippen' (begrijpen)."
+      },
+      "Belangen bij een politiek besluit herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naamregel: belangen (zoals in scriptregels); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": ""
+      },
+      "Belangen herkennen in een situatie": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: belangen (zoals in scriptregels)",
+        "opmerking": ""
+      },
+      "Botsende belangen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: belangen (zoals in scriptregels)",
+        "opmerking": ""
+      },
+      "Een signaalwoord van een argument herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: standpunt/argument/mening",
+        "opmerking": ""
+      },
+      "Een uitspraak vergelijken met cijfers": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "besluit gebruiker (ronde 2); vraagtekst gelezen (mk_012.json); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "mk_012_q09 gelezen: uitspraak van een burger toetsen aan cijfers (topic 'Standpunten en argumenten'); past bij feit en mening. Gebruiker (ronde 5): mk_012_q09 hoort bij feit en mening, dus standpunten."
+      },
+      "Een vraag over belangen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: belangen (zoals in scriptregels)",
+        "opmerking": ""
+      },
+      "Feit en mening herkennen door bronnen te vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Sluit aan bij 'Feit en mening onderscheiden' (standpunten). Kan ook 'vergelijken'."
+      },
+      "Feit over een mening herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: standpunt/argument/mening",
+        "opmerking": ""
+      },
+      "Herkennen dat mensen vanuit verschillende belangen naar een vraagstuk kunnen kijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: belangen (zoals in scriptregels)",
+        "opmerking": ""
+      },
+      "Het belang van verschillende groepen herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_009_q05 gaat over kijken naar verschillende groepen/belangen. Script gaf 'vergelijken'."
+      },
+      "Nuanceren": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 2,
+        "basis": "besluit gebruiker (ronde 2); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Gebruiker: beide vragen (mk_030_q04, q09) zijn standpunten."
+      },
+      "partijstandpunten herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: standpunt/argument/mening",
+        "opmerking": ""
+      },
+      "politieke standpunten herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: standpunt/argument/mening",
+        "opmerking": ""
+      },
+      "politieke standpunten koppelen aan een onderwerp": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: standpunt/argument/mening",
+        "opmerking": ""
+      },
+      "Politieke standpunten vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: standpunt/argument/mening",
+        "opmerking": ""
+      },
+      "standpunten aan begrippen koppelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: standpunt/argument/mening",
+        "opmerking": ""
+      },
+      "Standpunten onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: standpunt/argument/mening",
+        "opmerking": ""
+      },
+      "standpunten over wonen koppelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: standpunt/argument/mening",
+        "opmerking": ""
+      },
+      "standpunten van politieke partijen vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: standpunt/argument/mening",
+        "opmerking": ""
+      },
+      "stemwijzers en politieke voorkeur begrijpen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Vraag mk_056_q08: hoe een stemwijzer bij politieke voorkeur helpt. Kan ook 'begrippen'."
+      },
+      "Verschillende belangen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 5,
+        "basis": "naamregel: belangen (zoals in scriptregels)",
+        "opmerking": ""
+      },
+      "Verschillende meningen over een oplossing herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: standpunt/argument/mening",
+        "opmerking": ""
+      }
+    }
+  },
+  "vergelijken": {
+    "title": "Vergelijken en verschillen zien",
+    "skills": [
+      "Vergelijken",
+      "Verschillen herkennen",
+      "Een verschil uitleggen",
+      "Bronnen vergelijken",
+      "Gegevens vergelijken",
+      "Twee situaties vergelijken",
+      "Kabinet en parlement onderscheiden",
+      "Actief en passief kiesrecht onderscheiden",
+      "Beleid en uitvoering onderscheiden",
+      "Beleidsuitvoering en controle onderscheiden",
+      "Bestuurslagen onderscheiden",
+      "Bestuursniveaus onderscheiden",
+      "Doel en maatregel onderscheiden",
+      "Een persoonlijk probleem onderscheiden van een maatschappelijk vraagstuk",
+      "EU-instellingen onderscheiden",
+      "Fasen van politieke besluitvorming onderscheiden",
+      "gemeente en provincie onderscheiden",
+      "Gevolgen onderscheiden",
+      "Gevolgen van kiesstelsels vergelijken",
+      "Gevolgen vergelijken",
+      "Handhaving en politieke controle onderscheiden",
+      "Het grootste verschil tussen waarden herkennen",
+      "Kenmerken van beide Kamers vergelijken",
+      "Machten en taken onderscheiden",
+      "Monarchie en republiek onderscheiden",
+      "opsporing en preventie onderscheiden",
+      "Overeenkomst herkennen",
+      "Overeenkomsten herkennen tussen bronnen",
+      "Overtredingen en misdrijven onderscheiden",
+      "Parlement en regering onderscheiden",
+      "politieke stromingen vergelijken",
+      "politieke uitgangspunten vergelijken",
+      "preventie en repressie onderscheiden",
+      "Rechtstreekse en indirecte verkiezingen onderscheiden",
+      "Regering en kabinet onderscheiden",
+      "Rollen bij beleidsuitvoering onderscheiden",
+      "rollen van Eerste en Tweede Kamer onderscheiden",
+      "Rollen van koning en minister onderscheiden",
+      "stemrecht onderscheiden",
+      "Strafbaar en niet-strafbaar gedrag onderscheiden",
+      "taken en functies van bestuurders onderscheiden",
+      "Taken van bestuurslagen vergelijken",
+      "Taken van kabinet en parlement onderscheiden",
+      "taken van politie, OM en rechter onderscheiden",
+      "Verantwoordelijkheden onderscheiden",
+      "Verschil herkennen tussen preventie en aanpak na een strafbaar feit",
+      "Verschil herkennen tussen straf en maatregel"
+    ],
+    "skill_details": {
+      "Vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Verschillen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Een verschil uitleggen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "In aangeleverde mapping onder 'vergelijken'; naam wijst ook op 'begrippen' (uitleggen). Vraag mk_015_q04 laat het verschil tussen democratie en rechtsstaat zien. Past bij 'vergelijken'."
+      },
+      "Bronnen vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 4,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "In aangeleverde mapping onder 'vergelijken'; kan ook 'beoordelen'. Gemengd: mk_005_q02 en mk_025_q07 vergelijken echt twee bronnen/media (vergelijken); mk_004_q09 vraagt welke bron geschikt is (informatie). Indeling uit aangeleverde mapping behouden."
+      },
+      "Gegevens vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 4,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "In aangeleverde mapping onder 'vergelijken'; kan ook 'informatie'. Gemengd: mk_007_q06 vergelijkt gegevens in een grafiek (vergelijken); mk_052_q16 vraagt een conclusie bij een tabel (verbanden/informatie); mk_032_q07 en mk_040_q08 vragen de juridische status van twee burgers (begrippen). Indeling uit aangeleverde mapping behouden."
+      },
+      "Twee situaties vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Kabinet en parlement onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "In aangeleverde mapping onder 'vergelijken'; kan ook 'begrippen'. Vragen mk_019_q07 en mk_049_q03 vragen bij welke groep (kabinet of parlement) iemand hoort. Past bij 'vergelijken'; 'begrippen' is ook verdedigbaar."
+      },
+      "Actief en passief kiesrecht onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Beleid en uitvoering onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Beleidsuitvoering en controle onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Bestuurslagen onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Bestuursniveaus onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Doel en maatregel onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Een persoonlijk probleem onderscheiden van een maatschappelijk vraagstuk": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Twee begrippen onderscheiden. Kan ook 'begrippen'."
+      },
+      "EU-instellingen onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Fasen van politieke besluitvorming onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "gemeente en provincie onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Gevolgen onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Vraag mk_035_q07: twee gevolgen indelen/typeren. Kan ook 'verbanden' of 'begrippen'."
+      },
+      "Gevolgen van kiesstelsels vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Gevolgen vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Vraag mk_036_q07 eindigt met 'wat kun je concluderen'. Kan ook 'verbanden'."
+      },
+      "Handhaving en politieke controle onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Het grootste verschil tussen waarden herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": ""
+      },
+      "Kenmerken van beide Kamers vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Machten en taken onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Monarchie en republiek onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "opsporing en preventie onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Overeenkomst herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Overeenkomsten herkennen tussen bronnen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Overtredingen en misdrijven onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Parlement en regering onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "politieke stromingen vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "politieke uitgangspunten vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "preventie en repressie onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Rechtstreekse en indirecte verkiezingen onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Regering en kabinet onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Rollen bij beleidsuitvoering onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "rollen van Eerste en Tweede Kamer onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Rollen van koning en minister onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "stemrecht onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Strafbaar en niet-strafbaar gedrag onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "taken en functies van bestuurders onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Taken van bestuurslagen vergelijken": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Taken van kabinet en parlement onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "taken van politie, OM en rechter onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Verantwoordelijkheden onderscheiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil",
+        "opmerking": ""
+      },
+      "Verschil herkennen tussen preventie en aanpak na een strafbaar feit": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": ""
+      },
+      "Verschil herkennen tussen straf en maatregel": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naamregel: vergelijken/onderscheiden/verschil; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": ""
+      }
+    }
+  },
+  "verbanden": {
+    "title": "Verbanden en gevolgen",
+    "skills": [
+      "Conclusie trekken",
+      "Conclusies trekken",
+      "Oorzaak herkennen",
+      "Oorzaak en gevolg herkennen",
+      "Gevolgen herkennen",
+      "Indirecte gevolgen herkennen",
+      "Verbanden herkennen",
+      "Verband leggen tussen stemmen en zetels",
+      "De gevolgen van een overheidsbesluit herkennen",
+      "Een conclusie uit cijfers trekken",
+      "Gegevens vergelijken en een conclusie trekken",
+      "Gevolg van afkeuring door de Eerste Kamer herkennen",
+      "Gevolg van een rechtsregel herkennen",
+      "Gevolgen uit een situatie afleiden",
+      "gevolgen van criminaliteit herkennen",
+      "Gevolgen van een aanpak herkennen",
+      "Gevolgen van Europese afspraken herkennen",
+      "Gevolgen van Europese besluiten herkennen",
+      "Gevolgen van nieuwsselectie herkennen",
+      "Gevolgen van samenwerking herkennen",
+      "Gevolgen voor de omgeving herkennen",
+      "Grafiek lezen en conclusie trekken",
+      "Kosten herkennen",
+      "oorzaak en samenhang onderscheiden"
+    ],
+    "skill_details": {
+      "Conclusie trekken": {
+        "status": "voorlopig",
+        "aantal_vragen": 25,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "Brede skill: ongeveer de helft van de 25 vragen is 'welke conclusie kun je rechtstreeks uit de gegevens trekken' (dezelfde vraagvorm als 'Gegevens aflezen' = informatie); andere vragen gaan over een reden/oorzaak (verbanden). Indeling uit aangeleverde mapping behouden."
+      },
+      "Conclusies trekken": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Oorzaak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Oorzaak en gevolg herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Gevolgen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 4,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Indirecte gevolgen herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Verbanden herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Verband leggen tussen stemmen en zetels": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "In aangeleverde mapping onder 'verbanden'; kan ook 'toepassen'. Vragen mk_017_q01 en mk_052_q01 leggen het verband tussen stemmen en zetels. Past bij 'verbanden'."
+      },
+      "De gevolgen van een overheidsbesluit herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: conclusie/oorzaak/gevolg/verband",
+        "opmerking": ""
+      },
+      "Een conclusie uit cijfers trekken": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; vraagtekst gelezen (mk_012.json)",
+        "opmerking": "mk_012_q07 gelezen: welke conclusie volgt rechtstreeks uit de cijfers. Gelijk aan 'Conclusie trekken' (verbanden); kan ook 'informatie'."
+      },
+      "Gegevens vergelijken en een conclusie trekken": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 2,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Eindresultaat is een conclusie (mk_001_q10, mk_039_q10). Kan ook 'vergelijken'."
+      },
+      "Gevolg van afkeuring door de Eerste Kamer herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: conclusie/oorzaak/gevolg/verband",
+        "opmerking": ""
+      },
+      "Gevolg van een rechtsregel herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: conclusie/oorzaak/gevolg/verband",
+        "opmerking": ""
+      },
+      "Gevolgen uit een situatie afleiden": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: conclusie/oorzaak/gevolg/verband",
+        "opmerking": ""
+      },
+      "gevolgen van criminaliteit herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: conclusie/oorzaak/gevolg/verband",
+        "opmerking": ""
+      },
+      "Gevolgen van een aanpak herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: conclusie/oorzaak/gevolg/verband",
+        "opmerking": ""
+      },
+      "Gevolgen van Europese afspraken herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: conclusie/oorzaak/gevolg/verband",
+        "opmerking": ""
+      },
+      "Gevolgen van Europese besluiten herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: conclusie/oorzaak/gevolg/verband",
+        "opmerking": ""
+      },
+      "Gevolgen van nieuwsselectie herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: conclusie/oorzaak/gevolg/verband",
+        "opmerking": ""
+      },
+      "Gevolgen van samenwerking herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: conclusie/oorzaak/gevolg/verband",
+        "opmerking": ""
+      },
+      "Gevolgen voor de omgeving herkennen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: conclusie/oorzaak/gevolg/verband",
+        "opmerking": ""
+      },
+      "Grafiek lezen en conclusie trekken": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_038_q10 vraagt een conclusie uit gegevens. Kan ook 'informatie'."
+      },
+      "Kosten herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_036_q04 vraagt naar een direct gevolg voor de winkel. Naam wijst op 'begrippen'."
+      },
+      "oorzaak en samenhang onderscheiden": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_052_q23: oorzaak/samenhang bij dalende inbraken. Kan ook 'vergelijken' (onderscheiden)."
+      }
+    }
+  },
+  "toepassen": {
+    "title": "Toepassen op een situatie",
+    "skills": [
+      "Toepassen",
+      "Informatie toepassen",
+      "Een grondrecht toepassen",
+      "Rechtsregel toepassen",
+      "Rechtsstaat toepassen",
+      "Leeftijdsgrenzen toepassen",
+      "Zwijgrecht toepassen",
+      "Democratische besluitvorming toepassen",
+      "Demonstratierecht toepassen",
+      "Een democratisch principe toepassen",
+      "Grondrechten herkennen in een praktijksituatie",
+      "grondrechten toepassen",
+      "Herkennen en toepassen",
+      "Herkennen en toepassen van het legaliteitsbeginsel",
+      "Het gelijkheidsbeginsel toepassen",
+      "het vermoeden van onschuld toepassen",
+      "meerderheden berekenen en interpreteren",
+      "Regels van de rechtsstaat toepassen",
+      "stemrecht toepassen",
+      "taakverdeling binnen het strafrecht toepassen",
+      "Taakverdeling toepassen",
+      "Taken van een BOA toepassen",
+      "Toepassen van het begrip vrijspraak",
+      "toepassen van kennis over de medewetgevende taak van de Tweede Kamer",
+      "uitgangspunten toepassen",
+      "Uitleg toepassen"
+    ],
+    "skill_details": {
+      "Toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 19,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "Brede skill: ongeveer de helft van de 19 vragen past regel/recht toe op een situatie (toepassen); de andere helft vraagt een functie/voorbeeld te herkennen (zie vraagopmerking, begrippen). Indeling uit aangeleverde mapping behouden."
+      },
+      "Informatie toepassen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "In aangeleverde mapping onder 'toepassen'; scriptregel gaf 'informatie'. Vraag mk_037_q05 past kennis over geregistreerde criminaliteit toe op twee voorbeelden. Past bij 'toepassen'."
+      },
+      "Een grondrecht toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Rechtsregel toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Rechtsstaat toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Leeftijdsgrenzen toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Zwijgrecht toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Democratische besluitvorming toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "Demonstratierecht toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "Een democratisch principe toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "Grondrechten herkennen in een praktijksituatie": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Naam bevat 'praktijksituatie' (scriptregel: toepassen). Kan ook 'begrippen' (vgl. 'Een grondrecht herkennen')."
+      },
+      "grondrechten toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "Herkennen en toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 2,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "Herkennen en toepassen van het legaliteitsbeginsel": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen",
+        "opmerking": "Volgt 'Herkennen en toepassen' (script: toepassen). Kan ook 'begrippen'."
+      },
+      "Het gelijkheidsbeginsel toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "het vermoeden van onschuld toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "meerderheden berekenen en interpreteren": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_053_q12: meerderheidsregel toepassen op zetelaantallen. Kan ook 'informatie' of 'verbanden'."
+      },
+      "Regels van de rechtsstaat toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "stemrecht toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "taakverdeling binnen het strafrecht toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "Taakverdeling toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "Taken van een BOA toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "Toepassen van het begrip vrijspraak": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "toepassen van kennis over de medewetgevende taak van de Tweede Kamer": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "uitgangspunten toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      },
+      "Uitleg toepassen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'toepassen'",
+        "opmerking": ""
+      }
+    }
+  },
+  "beoordelen": {
+    "title": "Beoordelen en onderbouwen",
+    "skills": [
+      "Betrouwbaarheid van informatie beoordelen",
+      "Bronnen beoordelen",
+      "Conclusie beoordelen",
+      "Kritisch beoordelen",
+      "Een aanpak beoordelen",
+      "maatregelen beoordelen",
+      "Democratische kenmerken beoordelen",
+      "De actualiteit van een bron beoordelen",
+      "Een onjuiste conclusie herkennen",
+      "Een onjuiste redenering herkennen",
+      "Herkennen welke conclusie niet door de gegevens wordt ondersteund",
+      "maatregelen bij een maatschappelijk probleem beoordelen",
+      "Nuance herkennen",
+      "Redenen voor verschillende informatie begrijpen",
+      "uitspraken over Kamerleden beoordelen"
+    ],
+    "skill_details": {
+      "Betrouwbaarheid van informatie beoordelen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 3,
+        "basis": "skill_mapping.json (aangeleverd); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "In aangeleverde mapping onder 'beoordelen'; scriptregel gaf 'informatie'. Alle 3 vragen (mk_004_q06, mk_038_q06, mk_049_q05) beoordelen of een bron te vertrouwen is. Past bij 'beoordelen'. Nog niet afgevinkt door gebruiker."
+      },
+      "Bronnen beoordelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 3,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": "Vragen mk_004_q01 en mk_038_q05 beoordelen een bron of conclusie (beoordelen); mk_025_q06 vraagt welke bron geschikt is (informatie). Indeling uit aangeleverde mapping behouden."
+      },
+      "Conclusie beoordelen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "In aangeleverde mapping onder 'beoordelen'; scriptregel gaf 'verbanden'. Vraag mk_038_q04 beoordeelt of veel aandacht in de krant betekent dat iets het vaakst voorkomt. Past bij 'beoordelen'."
+      },
+      "Kritisch beoordelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "Een aanpak beoordelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "maatregelen beoordelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd), andere hoofdletter",
+        "opmerking": "Aangeleverde mapping schrijft 'Maatregelen beoordelen'; de lesbestanden schrijven 'maatregelen beoordelen'. Schrijfwijze uit de lessen behouden; controleren of de app hoofdlettergevoelig matcht."
+      },
+      "Democratische kenmerken beoordelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "skill_mapping.json (aangeleverd)",
+        "opmerking": ""
+      },
+      "De actualiteit van een bron beoordelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'beoordelen'",
+        "opmerking": ""
+      },
+      "Een onjuiste conclusie herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_006_q10 vraagt welke conclusie NIET uit de tabel volgt (conclusie toetsen aan gegevens). Kan ook 'verbanden'."
+      },
+      "Een onjuiste redenering herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_033_q08: redenering van een leerling beoordelen. Kan ook 'standpunten'."
+      },
+      "Herkennen welke conclusie niet door de gegevens wordt ondersteund": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_007_q10: conclusie toetsen aan grafiek. Past bij 'Conclusie beoordelen' (beoordelen). Kan ook 'verbanden'."
+      },
+      "maatregelen bij een maatschappelijk probleem beoordelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'beoordelen'",
+        "opmerking": ""
+      },
+      "Nuance herkennen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "besluit gebruiker (ronde 2); afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Gebruiker: mk_035_q04 is beoordelen."
+      },
+      "Redenen voor verschillende informatie begrijpen": {
+        "status": "gecontroleerd",
+        "aantal_vragen": 1,
+        "basis": "naam + vraagtekst gelezen; afgevinkt door gebruiker (ronde 9)",
+        "opmerking": "Vraag mk_005_q06: waarom twee bronnen verschillen (belang van de bron). Kan ook 'informatie'."
+      },
+      "uitspraken over Kamerleden beoordelen": {
+        "status": "voorlopig",
+        "aantal_vragen": 1,
+        "basis": "naamregel: 'beoordelen'",
+        "opmerking": ""
+      }
+    }
+  },
+  "_open": {
+    "toelichting": "Skills zonder verantwoorde categorie. Nog niet in een van de zeven categorieën geplaatst.",
+    "skills": {}
+  }
+}
