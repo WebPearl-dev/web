@@ -1,0 +1,340 @@
+{
+  "id": "bio_023",
+  "subject": "biologie",
+  "title": "Les 23 - Zintuigen en waarneming",
+  "goal": "Je kunt uitleggen hoe zintuigen prikkels opvangen en hoe informatie via zenuwen naar het centrale zenuwstelsel gaat.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Zintuigen en waarneming",
+      "text": "Je ziet, hoort, ruikt, proeft en voelt. Je zintuigen vangen voortdurend informatie op uit je omgeving of uit je eigen lichaam. Je zenuwstelsel helpt deze informatie bliksemsnel te verwerken, zodat je iets echt kunt waarnemen en er direct op kunt reageren.",
+      "image": "les_023_intro_zintuigen.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een prikkel?",
+      "text": "Een prikkel is een verandering in de omgeving of in je lichaam die door een zintuig kan worden opgevangen. Voorbeelden van prikkels zijn licht, geluidstrillingen, geurstoffen, smaakstoffen en aanraking. Welke specifieke prikkel wordt opgevangen, hangt helemaal af van het type zintuig."
+    },
+    {
+      "type": "explanation",
+      "title": "Zintuigen vangen prikkels op",
+      "text": "Je lichaam heeft verschillende gespecialiseerde zintuigen:\n* Ogen: Vangen lichtprikkels op om te kunnen zien.\n* Oren: Vangen geluidstrillingen op om te kunnen horen.\n* Neus: Bevat zintuigcellen die geurstoffen uit de lucht waarnemen.\n* Tong: Bevat zintuigcellen die smaakstoffen uit je voedsel waarnemen.\n* Huid: Bevat zintuigcellen die aanraking, druk, warmte en kou registreren."
+    },
+    {
+      "type": "explanation",
+      "title": "Van prikkel naar impuls",
+      "text": "Zodra een zintuig een prikkel opvangt, gebeurt er iets bijzonders: de zintuigcellen zetten de prikkel om in een elektrisch signaal. Zo'n biologisch signaal noemen we een impuls. Zenuwen geleiden deze impulsen vervolgens in een fractie van een seconde naar het centrale zenuwstelsel.",
+      "image": "les_023_prikkel_impuls.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Het ontstaan van de waarneming",
+      "text": "Het centrale zenuwstelsel (je hersenen en ruggenmerg) ontvangt de impulsen. Pas wanneer de impulsen aankomen in je hersenen and daar worden verwerkt, word je je pas écht bewust van wat je ziet, hoort, ruikt, proeft of voelt. Zonder hersenen is er dus geen waarneming!"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Vraag jezelf bij elke situatie af: wat is de uiterlijke verandering (de prikkel), welk orgaan vangt dit op (het zintuig) en waar gaat het signaal (de impuls) naartoe om er bewust van te worden (de hersenen)?"
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud de vaste volgorde",
+      "text": "Onthoud deze keten goed voor het examen: Prikkel ➡️ Zintuig vangt prikkel op ➡️ Omzetting in impulsen ➡️ Impulsen stromen via zenuwen naar het centrale zenuwstelsel ➡️ Waarneming in de hersenen."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_023_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "5",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is in de biologie de juiste omschrijving van het begrip prikkel?",
+      "answers": [
+        "Een verandering in de omgeving of het lichaam die door een zintuig kan worden opgevangen.",
+        "Een actieve skeletspier die een bewuste beweging maakt.",
+        "Een chemische beschermende stof die door het bloed stroomt.",
+        "Een onderdeel van het gebit dat voedsel mechanisch verteert."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan uiterlijke signalen uit de natuur, zoals een lichtflits, een harde knal of een lekkere geur.",
+      "feedback_correct": "Heel goed! Een prikkel is een verandering (zoals licht of geluid) waarop je zintuigen kunnen reageren.",
+      "feedback_wrong": "Een prikkel is een waarneembare verandering in de omgeving of je lichaam. Spieren en organen zijn geen prikkels.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_023"
+    },
+    {
+      "id": "bio_023_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "4",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk specifiek menselijk zintuig is biologisch gebouwd om lichtprikkels op te vangen?",
+      "answers": [
+        "De neus",
+        "De tong",
+        "Het oog",
+        "De huid"
+      ],
+      "correct_answer": 2,
+      "hint": "Met dit zintuig kun je de vormen en kleuren om je heen visueel waarnemen.",
+      "feedback_correct": "Juist! Je ogen bevatten de zintuigcellen die gevoelig zijn voor lichtstralen.",
+      "feedback_wrong": "Het oog is het zintuig dat lichtprikkels registreert, waardoor je kunt zien.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_023"
+    },
+    {
+      "id": "bio_023_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "4",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke soort prikkel wordt door het menselijke gehoororgaan (de oren) opgevangen?",
+      "answers": [
+        "Licht",
+        "Geluidstrillingen",
+        "Geurstoffen",
+        "Smaakstoffen"
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan wat er door de lucht trilt wanneer iemand tegen je praat of wanneer er muziek aanstaat.",
+      "feedback_correct": "Klopt! Je oren vangen geluidstrillingen op uit de lucht en verwerken dit tot hoorbare signalen.",
+      "feedback_wrong": "Oren reageren uitsluitend op geluidstrillingen. Licht, geur en smaak worden door andere organen opgevangen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van the syllabus",
+      "les_id": "bio_023"
+    },
+    {
+      "id": "bio_023_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "4",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Op welke plek in het ademhalingsstelsel bevinden zich de zintuigcellen die gasvormige geurstoffen uit de lucht kunnen waarnemen?",
+      "answers": [
+        "Bovenin de neusholte",
+        "Rondom de vingernagels",
+        "In de harde botten",
+        "In de trilharen van de luchtpijp"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit zintuig gebruik je om te ruiken of het eten in de keuken lekker ruikt of dat er brand is.",
+      "feedback_correct": "Perfect! In het slijmvlies bovenin de neusholte zit het reukzintuig dat geuren registreert.",
+      "feedback_wrong": "Geurstoffen worden uitsluitend bovenin de neusholte opgevangen, niet in de botten of de luchtpijp.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_023"
+    },
+    {
+      "id": "bio_023_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "4",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In welk gespecialiseerd orgaan in de mondholte bevinden zich de smaakknopjes die opgeloste smaakstoffen waarnemen?",
+      "answers": [
+        "In de tong",
+        "In de longblaasjes",
+        "In de nieren",
+        "In de maagwand"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit beweeglijke spierorgaan helpt je ook bij het kauwen, slikken en praten.",
+      "feedback_correct": "Top! Op het oppervlak van de tong liggen de smaakzintuigen waarmee je smaken proeft.",
+      "feedback_wrong": "Proeven doe je met de smaakknopjes op je tong. De maag en nieren kunnen geen smaken waarnemen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_023"
+    },
+    {
+      "id": "bio_023_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "4",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke verschillende soorten prikkels kunnen de diverse zintuigcellen in de menselijke huid allemaal registreren?",
+      "answers": [
+        "Alleen flitsen van ultraviolet licht.",
+        "Onder andere aanraking, druk, warmte en kou.",
+        "Uitscheiding van puur geluid.",
+        "Uitsluitend gasvormige geurstoffen uit de lucht."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan wat je voelt als iemand je een hand geeft, of wanneer je buiten in de ijskoude wind staat.",
+      "feedback_correct": "Heel goed! De huid bevat aparte zintuigjes voor het voelen van aanraking, druk en temperatuur (warm/kou).",
+      "feedback_wrong": "De huid kan voelen (druk, aanraking, warmte, kou). Licht, geluid en geur worden door je hoofdorganen gemeten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_023"
+    },
+    {
+      "id": "bio_023_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "5",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er in de zintuigcellen op het moment dat een zintuig een prikkel succesvol opvangt?",
+      "answers": [
+        "De prikkel wordt omgezet in elektrische signalen die we impulsen noemen.",
+        "De prikkel verandert onmiddellijk in een hormoon.",
+        "De prikkel wordt voor altijd opgeslagen in de dikke darm.",
+        "De prikkel blokkeert direct alle activiteit van de zenuwen."
+      ],
+      "correct_answer": 0,
+      "hint": "Zintuigen werken als vertalers: ze maken van een omgevingsprikkel een boodschap die je zenuwen kunnen begrijpen.",
+      "feedback_correct": "Klopt! Zintuigen vertalen prikkels (zoals licht) in impulsen, de stroompjes van je zenuwstelsel.",
+      "feedback_wrong": "Prikkels worden omgezet in impulsen (zenuwboodschappen), niet in hormonen of darmresten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_023"
+    },
+    {
+      "id": "bio_023_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "5",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke biologische keten laat de juiste volgorde zien van het opvangen van een prikkel tot het bewust worden daarvan?",
+      "answers": [
+        "Centrale zenuwstelsel → prikkel → zintuig → impuls",
+        "Prikkel → zintuig → impuls → centraal zenuwstelsel (hersenen)",
+        "Impuls → prikkel → skeletspier → zintuigcellen",
+        "Zintuig → hormoonklier → prikkel → maagwand"
+      ],
+      "correct_answer": 1,
+      "hint": "Start altijd bij de buitenwereld (de oorzaak) and eindig in het centrum waar je je er bewust van wordt.",
+      "feedback_correct": "Uitstekend! De prikkel raakt het zintuig, wordt een impuls en reist via zenuwen naar je hersenen.",
+      "feedback_wrong": "Je start altijd buiten het lichaam met de prikkel. De hersenen verwerken het signaal aan het einde.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_023",
+      "image": "les_023_q08_route.png"
+    },
+    {
+      "id": "bio_023_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "5",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarheen moeten de gemaakte impulsen via de zenuwen toe geleid worden om te zorgen dat je je écht bewust wordt van een waarneming?",
+      "answers": [
+        "Naar het centrale zenuwstelsel (de hersenen)",
+        "Naar de uiterste toppen van de vingernagels",
+        "Naar de dode cellen van de haren",
+        "Rechtstreeks naar de vloeibare maaginhoud"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit grote verwerkingscentrum ligt veilig opgeborgen binnen de harde botten van je schedel.",
+      "feedback_correct": "Juist! Alleen in je hersenen worden de stroompjes vertaald naar echt zien, horen of voelen.",
+      "feedback_wrong": "Nagels en haren kunnen niks waarnemen. Impulsen moeten altijd naar je hersenen om bewust te worden.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_023"
+    },
+    {
+      "id": "bio_023_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "4",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke combinatie van een zintuig en de bijbehorende prikkel die het orgaan kan opvangen is biologisch correct?",
+      "answers": [
+        "Oog — licht opvangen",
+        "Neus — geluidstrillingen opvangen",
+        "Tong — lichtflitsen opvangen",
+        "Huid — gasvormige geurstoffen opvangen"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de combinatie die ervoor zorgt dat je overdag alles scherp and in kleur kunt bekijken.",
+      "feedback_correct": "Top! De combinatie oog en licht klopt perfect. De andere organen meten heel andere zaken.",
+      "feedback_wrong": "De neus meet geuren (geen geluid) en de tong meet smaken (geen licht). Alleen oog en licht is juist.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_023"
+    },
+    {
+      "id": "bio_023_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "4",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "begrip_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke vier basissmaken kunnen de diverse smaakknopjes op je tong biologisch gezien van elkaar onderscheiden?",
+      "answers": [
+        "Zoet, zuur, zout en bitter",
+        "Warm, koud, hard en zacht",
+        "Droog, vochtig, groen en blauw"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de basissmaken van een suikerklontje, een citroen, keukenzout en witlof.",
+      "feedback_correct": "Uitstekend! Je tong proeft de vier basissmaken zoet, zuur, zout and bitter (en de hartige smaak umami).",
+      "feedback_wrong": "Warm and koud hoort bij je huidzintuigen; kleuren zie je met je ogen. Je tong proeft zoet, zuur, zout en bitter.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_023"
+    },
+    {
+      "id": "bio_023_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "5",
+      "topic": "zintuigen_en_waarneming",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke belangrijke biologische taak hebben de zenuwen die overal vanaf je zintuigen door je hele lichaam lopen?",
+      "answers": [
+        "Het vervoeren (geleiden) van impulsen naar en van het centrale zenuwstelsel.",
+        "Het produceren van voldoende maagzuur and speeksel.",
+        "Het maken van harde kraakbeenringen rondom de bloedvaten."
+      ],
+      "correct_answer": 0,
+      "hint": "Zenuwen kun je vergelijken met de telefoonkabels of internetkabels in een groot netwerk.",
+      "feedback_correct": "Helemaal goed! Zenuwen functioneren als de biologische kabels die impulsen snel transporteren.",
+      "feedback_wrong": "Zenuwen maken geen sappen of kraakbeenringen. Hun enige functie is het geleiden van impulsen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_023"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.0",
+    "notitie": "Les-id en alle onderliggende id's definitief omgezet naar bio_023 conform het goedgekeurde 30-lessen masterplan v1.0. Structuur volledig vlakgetrokken.",
+    "wijziging": "Vragen-array opgeschoond van nestings, codes gecorrigeerd naar topic zintuigen_en_waarneming en twee vragen over smaak en zenuwtransport toegevoegd."
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "id": "bio_021",
+  "subject": "biologie",
+  "title": "Les 21 - Uitscheiding: de nieren en de lever",
+  "goal": "Je leert de uitscheidingsorganen benoemen en de functies van de lever en de nieren bij het zuiveren van het bloed beschrijven.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat is uitscheiding?",
+      "text": "Tijdens de verbranding in je cellen ontstaan er niet alleen bruikbare stoffen, maar ook afvalstoffen. Als deze schadelijke stoffen in je bloed blijven zitten, word je ziek. Het weghalen en buiten het lichaam brengen van afvalstoffen noemen we uitscheiding. Je leert hoe je lever en je nieren hierbij samenwerken.",
+      "image": "les_021_intro_uitscheiding.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De lever: de chemische fabriek",
+      "text": "De lever ligt rechtsboven in je buikholte, direct onder het middenrif. De lever is een grote fabriek die je bloed continu controleert. De twee belangrijkste uitscheidingstaken van de lever zijn:\n1. Onschadelijk maken: De lever breekt giftige stoffen (zoals alcohol of medicijnen) af.\n2. Eiwitten afbreken: Als er te veel eiwitten in je bloed zitten, breekt de lever deze af. Hierbij ontstaat de afvalstof ureum. De lever geeft dit ureum daarna weer af aan het bloed.",
+      "image": "les_021_lever_functie.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De nieren: de filters van het bloed",
+      "text": "Je hebt twee nieren. Ze liggen links en rechts van je wervelkolom, vlak onder je achterste ribben. Je nieren werken als een filterstation. Er stroomt continu bloed doorheen. De nieren filteren de afvalstof ureum, overtollig water en overtollige zouten uit het bloed. Deze gefilterde afvalstoffen heten samen: urine."
+    },
+    {
+      "type": "explanation",
+      "title": "De weg van de urine",
+      "text": "Nadat de nieren urine hebben gemaakt, stroomt dit via twee lange buisjes naar benede: de urineleiders. De urineleiders komen uit bij de urineblaas. In de urineblaas wordt de urine tijdelijk opgeslagen totdat je naar de wc gaat. Als je plast, verlaat de urine je lichaam via de urinebuis.",
+      "image": "les_021_urinewegen.png"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees de vraag aandachtig. Let goed op het verschil tussen de lever (maakt afvalstoffen zoals ureum onschadelijk) and de nieren (filteren de stoffen uit het bloed en maken urine). Let bij de urinewegen goed op de volgorde van de buisjes: urineleider gaat naar de blaas, urinebuis gaat naar buiten."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Uitscheiding is het lozen van afvalstoffen. De lever breekt gif en overtollige eiwitten af (maakt ureum). De nieren filteren ureum, zouten en water uit het bloed om urine te maken. Route urine: nieren ➡️ urineleiders ➡️ urineblaas ➡️ urinebuis."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_021_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "begrip_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Hoe noemen biologen het totale proces in het lichaam waarbij schadelijke afvalstoffen worden verwijderd en uit het lichaam worden gebracht?",
+      "answers": [
+        "Uitscheiding",
+        "Fotosynthese",
+        "Innesteling",
+        "Darmperistaltiek"
+      ],
+      "correct_answer": 0,
+      "hint": "Het woord betekent letterlijk het 'buiten de scheiding' of buiten het lichaam brengen van afval.",
+      "feedback_correct": "Heel goed! Uitscheiding is het verwijderen van overtollige of schadelijke afvalstoffen uit je lichaam.",
+      "feedback_wrong": "Fotosynthese is voor planten, innesteling hoort bij zwangerschap en darmperistaltiek bij vertering. Dit proces heet uitscheiding.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_021"
+    },
+    {
+      "id": "bio_021_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke belangrijke uitscheidingstaak heeft de menselijke lever bij het zuiveren van het bloed?",
+      "answers": [
+        "Het afbreken van giftige stoffen (zoals alcohol) en overtollige eiwitten.",
+        "Het pompen van zuurstofgas naar de actieve spieren in je benen.",
+        "Het rechtstreeks filteren van urine uit de longblaasjes.",
+        "Het maken van kalkwater in de maag."
+      ],
+      "correct_answer": 0,
+      "hint": "De lever werkt als een grote chemische reinigingsfabriek voor binnengekomen giftige stoffen.",
+      "feedback_correct": "Juist! De lever breekt gifstoffen af en zet overtollige eiwitten om in de afvalstof ureum.",
+      "feedback_wrong": "De lever transporteert geen zuurstof en maakt geen kalkwater of urine. De lever breekt gifstoffen af.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_021"
+    },
+    {
+      "id": "bio_021_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke organen werken in je lichaam als actieve filters om de afvalstof ureum en overtollige zouten uit je bloedbaan te zeven?",
+      "answers": [
+        "De twee nieren",
+        "De twee bronchiën",
+        "De speekselklieren",
+        "De hartkleppen"
+      ],
+      "correct_answer": 0,
+      "hint": "Deze twee boonvormige organen liggen aan de achterkant van je buikholte, links en rechts van je wervelkolom.",
+      "feedback_correct": "Uitstekend! De nieren filteren het bloed and maken van de afvalstoffen urine.",
+      "feedback_wrong": "Bronchiën horen bij de longen, speekselklieren bij de mond en hartkleppen bij het hart. De nieren filteren het bloed.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_021"
+    },
+    {
+      "id": "bio_021_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Uit welke gecombineerde mix van stoffen bestaat de vloeistof urine die door je nieren wordt uitgescheiden?",
+      "answers": [
+        "Water, overtollige zouten en de afvalstof ureum",
+        "Glucose, maagzuur en pure zuurstof",
+        "Bloedcellen, speeksel en galvloeistof"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de stoffen die je nieren uit het bloed filteren omdat je er te veel van hebt of omdat ze schadelijk zijn.",
+      "feedback_correct": "Klopt! Urine is een mengsel van overtollig water, overtollige zouten and de afvalstof ureum.",
+      "feedback_wrong": "In gezonde urine zit geen glucose, bloed of maagzuur. Het bestaat uit water, zouten en ureum.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_021"
+    },
+    {
+      "id": "bio_021_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Via welke twee smalle buisjes stroomt de pas gemaakte urine vanuit de nieren naar beneden richting de urineblaas?",
+      "answers": [
+        "De urineleiders",
+        "De urinebuizen",
+        "De bronchiën",
+        "De houtvaten"
+      ],
+      "correct_answer": 0,
+      "hint": "Kijk goed naar de naam. Deze buisjes 'leiden' de urine van de nieren naar de opslagplaats.",
+      "feedback_correct": "Perfect! De urineleiders verbinden de nieren met de tijdelijke opslagplaats (de urineblaas).",
+      "feedback_wrong": "De urinebuis is de laatste buis naar buiten toe. De buisjes vanaf de nieren heten de urineleiders.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_021"
+    },
+    {
+      "id": "bio_021_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is de belangrijkste biologische functie van de urineblaas in het menselijk lichaam?",
+      "answers": [
+        "Het tijdelijk opslaan van urine totdat je naar de wc gaat.",
+        "Het actief filteren van giftige alcohol-deeltjes.",
+        "Het maken van de afvalstof ureum.",
+        "Het pompen van zuurstofrijk bloed naar de kaak."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan wat er gebeurt als je blaas voller raakt: je voelt dat je moet plassen.",
+      "feedback_correct": "Juist! De urineblaas is een rekbaar spierzakje dat urine verzamelt en tijdelijk bewaart.",
+      "feedback_wrong": "De blaas filtert en produceert zelf niks, het is puur een tijdelijk opslagstation voor urine.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_021"
+    },
+    {
+      "id": "bio_021_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is de juiste weg die urine aflegt vanaf de productie tot het verlaten van het menselijk lichaam?",
+      "answers": [
+        "Nieren ➡️ urineleiders ➡️ urineblaas ➡️ urinebuis",
+        "Urineblaas ➡️ nieren ➡️ urinebuis ➡️ urineleiders",
+        "Nieren ➡️ urinebuis ➡️ urineblaas ➡️ urineleiders"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk logisch na: je start bij het filterstation (maken), gaat via de leiders omlaag, bewaart het in de blaas en loost het via de buis naar buiten.",
+      "feedback_correct": "Geweldig! Dit is de exacte en juiste anatomische volgorde van het uitscheidingsstelsel.",
+      "feedback_wrong": "De nieren maken de urine altijd als eerste stap. De urinebuis is de allerlaatste stap naar buiten toe.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_021"
+    },
+    {
+      "id": "bio_021_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is het grote functionele verschil tussen de urineleiders and de urinebuis?",
+      "answers": [
+        "De urineleiders lopen van de nieren naar de blaas; de urinebuis loopt van de blaas naar buiten.",
+        "De urineleiders maken gal aan; de urinebuis maakt maagsap aan.",
+        "De urinebuis ligt in de lever; de urineleiders liggen in de longen.",
+        "Er is geen verschil, het zijn twee namen voor exact dezelfde buis."
+      ],
+      "correct_answer": 0,
+      "hint": "De leiders zitten bóven de blaas, de buis zit helemaal ónderaan de blaas.",
+      "feedback_correct": "Top! De twee urineleiders voeren aan naar de blaas; de ene urinebuis voert af naar buiten.",
+      "feedback_wrong": "Urinewegen maken nooit spijsverteringssappen en liggen niet in de lever of longen. Route A is juist.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_021"
+    },
+    {
+      "id": "bio_021_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Naast de nieren en de lever, welke andere twee organen hebben in je lichaam ook een uitscheidingstaak?",
+      "answers": [
+        "De longen (uitscheiding koolstofdioxide) and de huid (uitscheiding zweet)",
+        "De tanden (uitscheiding glazuur) and de botten (uitscheiding kalk)",
+        "De maag (uitscheiding eiwitten) and de spieren (uitscheiding warmte)"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan organen waarmee je een gasvormige afvalstof uitblaast of vloeibare zouten uitperst als je het warm hebt.",
+      "feedback_correct": "Klopt! De longen scheiden koolstofdioxide uit en de huid scheidt water en zouten uit via zweet.",
+      "feedback_wrong": "Tanden, botten en spieren doen niet aan uitscheiding van afvalstoffen. Longen en de huid wel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_021"
+    },
+    {
+      "id": "bio_021_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Iemand drinkt op een hete zomerdag heel erg weinig water, maar zweet wel flink. Wat zullen de nieren doen met de hoeveelheid water in de urine om te voorkomen dat het lichaam uitdroogt?",
+      "answers": [
+        "De nieren scheiden minder water uit, waardoor de urine donkergeel and heel geconcentreerd wordt.",
+        "De nieren gaan juist liters extra water aanmaken uit het niets.",
+        "De nieren stoppen volledig met het filteren van het bloed waardoor er gal ontstaat."
+      ],
+      "correct_answer": 0,
+      "hint": "Als je weinig vocht aan boord hebt, moet je filterstation zuinig omgaan met water (water besparen).",
+      "feedback_correct": "Heel goed! De nieren houden extra water vast voor je bloed, waardoor je minder plast and de urine donkerder kleurt.",
+      "feedback_wrong": "Nieren kunnen zelf geen water toveren of gal maken; ze regelen de waterbalans door zuinig te zijn.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_021"
+    },
+    {
+      "id": "bio_021_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "oorzaak_gevolg_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat zou er gebeuren met de gezondheid van een mens als beide nieren plotseling volledig stoppen met filteren?",
+      "answers": [
+        "Schadelijke afvalstoffen (zoals ureum) hopen zich op in het bloed, wat levensgevaarlijk is.",
+        "Het lichaam wordt direct supergezond omdat er geen urine meer gemaakt hoeft te worden.",
+        "De lever neemt automatisch binnen één minuut de complete filtertaak van de nieren over."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan wat er gebeurt als je de vuilniszakken wekenlang in je kamer laat staan en nooit weggooit.",
+      "feedback_correct": "Klopt helemaal! Zonder nierwerking vergiftigt het lichaam zichzelf door de opgebouwde afvalstoffen.",
+      "feedback_wrong": "Afvalstoffen vasthouden is dodelijk. De lever kan de specifieke filtertaak van de nieren bovendien niet overnemen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_021"
+    },
+    {
+      "id": "bio_021_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "uitscheiding",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Iemand heeft per ongeluk een bedorven product gegeten met milde gifstoffen van bacteriën. Welk orgaan springt direct bij om deze gifstoffen in het bloed af te breken en onschadelijk te maken?",
+      "answers": [
+        "De lever",
+        "De urineblaas",
+        "De urinebuis"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de grote chemische ontgiftingscentrale van je lichaam die rechtsboven in je buikholte ligt.",
+      "feedback_correct": "Perfect! Het ontgiften van het bloed is de absolute hoofdtaak van de lever.",
+      "feedback_wrong": "De blaas en de buis zijn alleen voor transport en tijdelijke opslag van urine, ze kunnen geen gifstoffen afbreken.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_021"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 1.0",
+    "notitie": "Gloednieuwe, zelfstandige les gecreëerd voor uitscheiding conform het 30-lessen masterplan v1.0. Volledig gescheiden van ademhaling.",
+    "wijziging": "Theorie en 12 vragen opgebouwd met exacte codes voor topic uitscheiding en gereserveerde afbeeldingsvelden."
+  }
+}

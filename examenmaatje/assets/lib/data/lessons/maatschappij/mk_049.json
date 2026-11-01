@@ -1,0 +1,295 @@
+{
+  "id": "mk_049",
+  "subject": "maatschappij",
+  "content_type": "practice_test",
+  "title": "Les 49 – Examen oefenen: politiek en beleid",
+  "goal": "In deze oefenles leer je geen nieuwe theorie. Je oefent met examenvragen over onderwerpen die je eerder hebt geleerd, zoals bestuurslagen, de rechtsstaat, kabinet en parlement, politieke stromingen, media, de EU en politieke invloed. Bij de vragen moet je vooral goed lezen, informatie uit een situatie halen en je kennis toepassen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Examen oefenen",
+      "text": "Je hebt in de afgelopen lessen veel geleerd over politiek en beleid. In deze oefenles leer je geen nieuwe theorie. Je oefent met verschillende soorten examenvragen. Je moet informatie uit situaties halen, begrippen herkennen en cijfers of tabellen goed lezen."
+    },
+    {
+      "type": "strategy",
+      "title": "Lees eerst goed",
+      "text": "Lees bij een vraag eerst rustig de situatie. Zoek daarna precies naar de informatie die je nodig hebt. Trek bij cijfers en tabellen alleen conclusies die je rechtstreeks uit de gegevens kunt halen."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1 – Bestuurslagen",
+      "question": {
+        "id": "mk_049_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "topic": "Bestuur en overheid",
+        "skill": "Bestuurslaag herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een dorp wil een inwoner dat er een extra zebrapad komt in zijn straat. De straat valt onder de gemeente. De inwoner vraagt het college van burgemeester en wethouders om naar het probleem te kijken. Welke bestuurslaag is in deze situatie verantwoordelijk?",
+        "context": "",
+        "answers": [
+          "De provincie.",
+          "Het Rijk.",
+          "De gemeente."
+        ],
+        "correct_answer": 2,
+        "hint": "Kijk naar het gebied waarover het bestuur gaat en naar de bestuurders die worden genoemd.",
+        "feedback_correct": "Goed! In deze situatie gaat het om een lokale straat die onder de gemeente valt.",
+        "feedback_wrong": "Kijk goed naar het verschil tussen lokaal bestuur en bestuur over een groter gebied.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2 – De rechtsstaat en onafhankelijke rechtspraak",
+      "question": {
+        "id": "mk_049_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Onafhankelijke rechtspraak herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een minister is het niet eens met een uitspraak van een rechter. De minister vindt dat de rechter in een volgende soortgelijke zaak anders moet beslissen. Welke regel van de rechtsstaat is belangrijk in deze situatie?",
+        "context": "",
+        "answers": [
+          "De rechter moet onafhankelijk kunnen beslissen.",
+          "De minister heeft altijd het laatste woord over een rechterlijke uitspraak.",
+          "De Tweede Kamer mag iedere rechterlijke uitspraak veranderen."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de scheiding van machten. Wie moet de beslissing in een rechtszaak nemen?",
+        "feedback_correct": "Goed! Een rechter moet onafhankelijk en onpartijdig kunnen beslissen en mag niet door een minister worden voorgeschreven welke beslissing hij in een concrete zaak moet nemen.",
+        "feedback_wrong": "Denk aan de taak van een rechter en aan de vraag wie uiteindelijk een concrete rechtszaak beoordeelt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3 – Kabinet en parlement",
+      "question": {
+        "id": "mk_049_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.7 en 4.1.8",
+        "topic": "Regering en kabinet",
+        "skill": "Kabinet en parlement onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Tijdens het maken van een nieuwe onderwijsregeling gebeurt het volgende: Groep X bestaat uit ministers die een voorstel uitwerken voor extra geld voor praktijkonderwijs. Groep Y bestaat uit leden van de Tweede Kamer die het voorstel bespreken, wijzigingen voorstellen en erover stemmen. Welke combinatie klopt?",
+        "context": "Groep X: ministers werken een voorstel uit voor extra geld voor praktijkonderwijs. Groep Y: leden van de Tweede Kamer bespreken het voorstel, stellen wijzigingen voor en stemmen erover.",
+        "answers": [
+          "Groep X is het parlement en groep Y is het kabinet.",
+          "Groep X is het kabinet en groep Y is het parlement.",
+          "Groep X en Y zijn allebei onderdelen van de rechterlijke macht."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk eerst wie het voorstel voorbereidt en daarna wie het voorstel in de Tweede Kamer bespreekt.",
+        "feedback_correct": "Goed! De ministers horen bij het kabinet. De Tweede Kamer is onderdeel van het parlement en bespreekt, wijzigt en stemt over wetsvoorstellen.",
+        "feedback_wrong": "Kijk goed naar de personen in beide groepen en naar hun werkzaamheden.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4 – Politieke stromingen",
+      "question": {
+        "id": "mk_049_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Politieke stroming herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politieke partij schrijft in haar programma: 'De overheid moet ervoor zorgen dat mensen met lage inkomens goed kunnen meedoen in de samenleving. Daarom willen wij meer geld uitgeven aan sociale voorzieningen. Mensen met hogere inkomens mogen daarvoor meer belasting betalen.' Welke stroming past het best bij deze tekst?",
+        "context": "",
+        "answers": [
+          "Een rechtse stroming.",
+          "Een linkse stroming.",
+          "Een conservatieve stroming."
+        ],
+        "correct_answer": 1,
+        "hint": "Let vooral op de ideeën over gelijkheid, sociale voorzieningen en de rol van de overheid.",
+        "feedback_correct": "Goed! Deze tekst legt de nadruk op gelijkheid en een actieve rol van de overheid. Dat past het best bij een linkse stroming.",
+        "feedback_wrong": "Kijk vooral naar de ideeën over gelijkheid en hoeveel de overheid volgens deze partij moet doen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5 – Media en betrouwbaarheid",
+      "question": {
+        "id": "mk_049_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Media en politieke agenda",
+        "skill": "Betrouwbaarheid van informatie beoordelen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Op sociale media verschijnt een filmpje waarin iemand beweert dat vanaf volgende week alle benzineauto's in Nederland verboden worden. Het filmpje wordt duizenden keren gedeeld. Wat kun je op basis van deze informatie het beste doen?",
+        "context": "",
+        "answers": [
+          "De bewering geloven omdat veel mensen het filmpje delen.",
+          "De bewering controleren met andere betrouwbare bronnen.",
+          "De bewering als officiële overheidsinformatie beschouwen."
+        ],
+        "correct_answer": 1,
+        "hint": "Veel reacties of deelacties zeggen niets over de vraag of informatie klopt.",
+        "feedback_correct": "Goed! Informatie op sociale media moet je kritisch bekijken en controleren met andere betrouwbare bronnen.",
+        "feedback_wrong": "Denk na over het verschil tussen veel gedeeld worden en betrouwbaar gecontroleerde informatie.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6 – Europese Unie",
+      "question": {
+        "id": "mk_049_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Europese Unie",
+        "skill": "Gevolgen van Europese afspraken herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De Europese Unie maakt een nieuwe regel voor fabrikanten en winkels. Nederlandse bedrijven die onder deze regel vallen, moeten zich er ook aan houden. Wat laat deze situatie zien?",
+        "context": "",
+        "answers": [
+          "Europese afspraken kunnen gevolgen hebben voor regels waaraan mensen en bedrijven in Nederland zich moeten houden.",
+          "De Nederlandse overheid heeft daardoor geen eigen taken meer.",
+          "De EU bepaalt rechtstreeks alle Nederlandse wetten en regels."
+        ],
+        "correct_answer": 0,
+        "hint": "Nederland is een lidstaat van de Europese Unie. Denk na over wat gezamenlijke Europese afspraken kunnen betekenen voor Nederland.",
+        "feedback_correct": "Goed! Als Nederland deelneemt aan Europese afspraken, kunnen die afspraken gevolgen hebben voor regels in Nederland.",
+        "feedback_wrong": "Denk eraan dat Nederland lid is van de EU, maar dat Nederland daardoor niet al zijn eigen bevoegdheden verliest.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7 – Politieke agenda",
+      "question": {
+        "id": "mk_049_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.3.4",
+        "topic": "Media en politieke agenda",
+        "skill": "Politieke invloed herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Veel inwoners maken zich zorgen over de hoge huizenprijzen. Zij starten een handtekeningenactie en vragen politici om aandacht voor het probleem. Daarna wordt het onderwerp besproken tijdens een vergadering van de gemeenteraad. Wat hebben de inwoners met hun actie bereikt?",
+        "context": "",
+        "answers": [
+          "Het onderwerp krijgt politieke aandacht.",
+          "De inwoners hebben zelf een nieuwe wet ingevoerd.",
+          "De gemeenteraad moet automatisch precies doen wat de inwoners vragen."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar wat er na de actie met het onderwerp gebeurt.",
+        "feedback_correct": "Goed! Het probleem krijgt nu politieke aandacht en wordt besproken door vertegenwoordigers.",
+        "feedback_wrong": "Let op wat de inwoners door hun actie wel hebben bereikt en wat ze niet zelf kunnen beslissen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8 – Compromis",
+      "question": {
+        "id": "mk_049_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.3",
+        "topic": "Politiek en bestuur",
+        "skill": "Compromis herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Na verkiezingen willen twee partijen samen een kabinet vormen. Partij A wil meer geld naar de zorg. Partij B wil juist minder overheidsuitgaven. Beide partijen willen toch samenwerken. Wat zullen de partijen waarschijnlijk moeten doen?",
+        "context": "",
+        "answers": [
+          "Allebei hun standpunten volledig opgeven.",
+          "Afspraken maken en op sommige punten een compromis sluiten.",
+          "Eén partij alle beslissingen laten nemen."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan samenwerken terwijl partijen verschillende standpunten hebben.",
+        "feedback_correct": "Goed! Bij samenwerking moeten partijen vaak afspraken maken en op sommige punten iets toegeven.",
+        "feedback_wrong": "Denk na over hoe partijen met verschillende standpunten toch samen beleid kunnen maken.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9 – Controlerende taak van het parlement",
+      "question": {
+        "id": "mk_049_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.6",
+        "topic": "Parlement",
+        "skill": "Controlerende taak herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een minister heeft een grote fout gemaakt bij het beheer van persoonsgegevens. De Tweede Kamer wil weten wat er is gebeurd en vraagt de minister om uitleg tijdens een debat. Welke hoofdtaak van het parlement zie je hier vooral?",
+        "context": "",
+        "answers": [
+          "De controlerende taak.",
+          "De rechterlijke taak.",
+          "De uitvoerende taak."
+        ],
+        "correct_answer": 0,
+        "hint": "De Kamer bespreekt hier geen rechtszaak en voert het beleid ook niet zelf uit. Kijk naar wat de Kamer met de minister doet.",
+        "feedback_correct": "Goed! De Tweede Kamer controleert hiermee de regering en vraagt de minister om uitleg over zijn handelen.",
+        "feedback_wrong": "Kijk naar het doel van het debat: gaat de Kamer zelf beleid uitvoeren, een rechtszaak behandelen of de regering controleren?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10 – Een tabel lezen",
+      "question": {
+        "id": "mk_049_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Democratische besluitvorming",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De Tweede Kamer stemt over een voorstel. Welke conclusie kun je rechtstreeks uit deze gegevens trekken?",
+        "context": "Voor: 82 stemmen. Tegen: 68 stemmen. Totaal: 150 stemmen.",
+        "answers": [
+          "Het voorstel heeft in deze stemming een meerderheid in de Tweede Kamer gekregen.",
+          "Het voorstel is definitief aangenomen en kan direct worden uitgevoerd.",
+          "Het kabinet heeft hiermee automatisch steun voor al zijn plannen gekregen."
+        ],
+        "correct_answer": 0,
+        "hint": "Vergelijk het aantal stemmen vóór met de helft van het totale aantal stemmen.",
+        "feedback_correct": "Goed! 82 van de 150 stemmen is meer dan de helft. Het voorstel heeft in deze stemming dus een meerderheid gekregen.",
+        "feedback_wrong": "Kijk alleen naar de cijfers en trek geen conclusie over stappen die niet in de tabel staan.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Samenvatting",
+      "text": "In deze oefenles heb je geoefend met verschillende soorten examenvragen. Je hebt gekeken naar de gemeente, provincie en het Rijk, de onafhankelijke rechtspraak, het kabinet en parlement, politieke stromingen, media, de Europese Unie, de politieke agenda, compromissen, de controlerende taak van het parlement en het lezen van tabellen en cijfers.",
+      "tip": "Examentip: lees eerst rustig de situatie. Zoek daarna precies naar de informatie die je nodig hebt. Trek bij cijfers en tabellen alleen conclusies die je rechtstreeks uit de gegevens kunt halen."
+    }
+  ]
+}

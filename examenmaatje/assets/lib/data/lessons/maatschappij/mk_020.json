@@ -1,0 +1,328 @@
+{
+  "id": "mk_020",
+  "subject": "maatschappij",
+  "title": "Les 20 – De regering en het kabinet",
+  "goal": "Je leert wat de regering en het kabinet zijn, wie erbij horen en wat ministers en staatssecretarissen doen. Ook leer je het verschil tussen de regering en het kabinet.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Introductie",
+      "text": "In de vorige lessen heb je geleerd hoe burgers stemmen voor het parlement, de Eerste en Tweede Kamer. Je hebt ook geleerd dat het parlement wetten behandelt en de regering controleert.\n\nMaar wie maakt plannen en voert het beleid van de overheid uit?\n\nDe regering bestaat uit de koning en de ministers. Het kabinet bestaat uit de ministers en staatssecretarissen. Vooral het kabinet maakt plannen en voert beleid uit.\n\nIn deze les leer je wie bij de regering en het kabinet horen en wat ministers en staatssecretarissen doen."
+    },
+    {
+      "type": "explanation",
+      "title": "Het verschil tussen de regering en het kabinet",
+      "text": "De woorden regering en kabinet worden vaak door elkaar gebruikt. Toch zijn het niet dezelfde groepen.\n\nDe regering bestaat uit:\n• de koning;\n• de ministers.\n\nDe koning is het staatshoofd en is lid van de regering. Hij heeft formele taken, zoals het ondertekenen van wetten en het beëdigen van ministers en staatssecretarissen. De koning heeft formeel geen politieke macht.\n\nHet kabinet bestaat uit:\n• de ministers;\n• de staatssecretarissen.\n\nHet kabinet maakt plannen en voert beleid uit. Het kabinet moet daarbij rekening houden met het parlement, dat het kabinet controleert."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat doet een minister?",
+      "text": "Een minister heeft de politieke leiding over een ministerie. Een ministerie houdt zich bezig met een bepaald beleidsterrein, zoals onderwijs, zorg of verkeer.\n\nEen minister:\n• maakt plannen voor het eigen beleidsterrein;\n• kan wetsvoorstellen indienen;\n• voert beleid uit;\n• moet in het parlement uitleg geven over het beleid van het ministerie.\n\nEen minister is politiek verantwoordelijk voor het ministerie. Dat betekent dat de minister in het parlement uitleg moet geven over belangrijke gebeurtenissen en fouten op het ministerie. Dat betekent niet automatisch dat de minister de fout zelf heeft gemaakt."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat doet een staatssecretaris?",
+      "text": "Een staatssecretaris is verantwoordelijk voor een deel van het beleid van een ministerie.\n\nEen staatssecretaris werkt onder de verantwoordelijkheid van een minister, maar heeft een eigen beleidsterrein.\n\nEen staatssecretaris kan bijvoorbeeld verantwoordelijk zijn voor een bepaald onderdeel van belastingen of openbaar vervoer.\n\nWelke onderwerpen bij een staatssecretaris horen, kan per kabinet verschillen."
+    },
+    {
+      "type": "explanation",
+      "title": "De relatie met het parlement",
+      "text": "Het kabinet kan niet zomaar alles doen wat het wil.\n\nHet parlement controleert het kabinet. Voor nieuwe wetten is goedkeuring van zowel de Tweede Kamer als de Eerste Kamer nodig.\n\nEen kabinet heeft meestal steun van een meerderheid in de Tweede Kamer nodig om stabiel te kunnen regeren en plannen uit te voeren."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeldsituatie 1 – De minister",
+      "text": "De minister van Onderwijs wil dat vmbo-scholen extra geld krijgen voor betere praktijklokalen.\n\nDe minister geeft ambtenaren opdracht om een plan uit te werken. Daarna gaat de minister naar de Tweede Kamer om uitleg te geven over het plan en de begroting.\n\nDe minister is politiek verantwoordelijk voor het beleid van het ministerie."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeldsituatie 2 – De staatssecretaris",
+      "text": "Op een ministerie zijn veel verschillende onderwerpen. De minister kan daarom een staatssecretaris hebben.\n\nDe staatssecretaris krijgt bijvoorbeeld de verantwoordelijkheid voor een bepaald deel van het beleid, zoals belastingen.\n\nDe staatssecretaris heeft daarmee een eigen beleidsterrein binnen het ministerie."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeldsituatie 3 – Het verschil",
+      "text": "Een nieuwe wet is door de Tweede en Eerste Kamer aangenomen.\n\nDaarna wordt de wet ondertekend door de koning en een minister.\n\nDe koning en de minister zijn allebei lid van de regering.\n\nDe staatssecretaris hoort niet bij de regering, maar wel bij het kabinet."
+    },
+    {
+      "type": "strategy",
+      "title": "Het stappenplan",
+      "text": "Krijg je een vraag over de regering of het kabinet? Gebruik dan deze stappen:\n\nStap 1: Kijk wie er worden genoemd.\n\nIs het:\n• de koning?\n• een minister?\n• een staatssecretaris?\n\nStap 2: Denk aan de definities.\n\n• Koning + ministers = regering\n• Ministers + staatssecretarissen = kabinet\n\nStap 3: Kijk naar de functie.\n\n• Minister → politieke leiding over een ministerie en verantwoordelijk voor het beleid.\n• Staatssecretaris → verantwoordelijk voor een deel van het beleid binnen een ministerie."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1 – De regering",
+      "question": {
+        "id": "mk_020_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.7",
+        "topic": "Regering en kabinet",
+        "skill": "Regering herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welk maatschappelijk begrip hoort bij deze omschrijving?",
+        "context": "In een examenopdracht staat de volgende omschrijving:\n\n\"De groep die bestaat uit de koning en de ministers.\"",
+        "answers": [
+          "Het kabinet.",
+          "De regering.",
+          "Het parlement."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk goed naar wie er in de groep zitten. Welke groep bestaat uit de koning en de ministers?",
+        "feedback_correct": "Dat klopt! De koning en de ministers vormen samen de regering.",
+        "feedback_wrong": "Niet juist. Het kabinet bestaat uit ministers en staatssecretarissen. Het parlement bestaat uit de Eerste en Tweede Kamer. Kijk nog eens naar de groep met de koning en de ministers.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027, ML2/K/4, onderdeel 4.1.7"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2 – Het kabinet",
+      "question": {
+        "id": "mk_020_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.7",
+        "topic": "Regering en kabinet",
+        "skill": "Kabinet herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Hoe noemen we deze groep van ministers en staatssecretarissen samen?",
+        "context": "Na de verkiezingen vormen ministers en staatssecretarissen samen de groep die het beleid van het kabinet voorbereidt en uitvoert.",
+        "answers": [
+          "Het kabinet.",
+          "De regering.",
+          "De gemeenteraad."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de groep van ministers en staatssecretarissen. Welke naam hoort daarbij?",
+        "feedback_correct": "Juist. De ministers en staatssecretarissen vormen samen het kabinet.",
+        "feedback_wrong": "Niet juist. De regering bestaat uit de koning en de ministers. De gemeenteraad gaat over het bestuur van een gemeente. Kijk nog eens naar de definitie van het kabinet.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027, ML2/K/4, onderdeel 4.1.7"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3 – De minister",
+      "question": {
+        "id": "mk_020_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.7",
+        "topic": "Regering en kabinet",
+        "skill": "Functie van een minister herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke politieke functie heeft deze persoon?",
+        "context": "Een politicus krijgt de politieke leiding over een heel ministerie en is verantwoordelijk voor het totale beleid van dat ministerie.",
+        "answers": [
+          "Hij is een staatssecretaris.",
+          "Hij is een minister.",
+          "Hij is een rechter."
+        ],
+        "correct_answer": 1,
+        "hint": "Wie heeft de politieke leiding over een heel ministerie?",
+        "feedback_correct": "Goed gekeken! Een minister heeft de politieke leiding over een ministerie en is verantwoordelijk voor het beleid van dat ministerie.",
+        "feedback_wrong": "Niet correct. Een staatssecretaris is verantwoordelijk voor een deel van het beleid binnen een ministerie. Een rechter hoort niet bij een ministerie.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027, ML2/K/4, onderdeel 4.1.7"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4 – De staatssecretaris",
+      "question": {
+        "id": "mk_020_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.7",
+        "topic": "Regering en kabinet",
+        "skill": "Functie van een staatssecretaris herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke functie heeft deze persoon?",
+        "context": "Het ministerie van Financiën houdt zich bezig met veel verschillende onderwerpen. De minister krijgt daarom hulp van een politicus die verantwoordelijk wordt voor een specifiek deel van het beleid, bijvoorbeeld belastingen.",
+        "answers": [
+          "De koning.",
+          "Een staatssecretaris.",
+          "Een lid van de Tweede Kamer."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de persoon die verantwoordelijk is voor een deel van het beleid binnen een ministerie.",
+        "feedback_correct": "Goed! Een staatssecretaris is verantwoordelijk voor een deel van het beleid binnen een ministerie.",
+        "feedback_wrong": "Niet juist. De koning heeft een andere functie en een Tweede Kamerlid hoort bij het parlement. Kijk nog eens naar de taak van een staatssecretaris.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027, ML2/K/4, onderdeel 4.1.7"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5 – Politieke verantwoordelijkheid",
+      "question": {
+        "id": "mk_020_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.8",
+        "topic": "Politieke controle en verantwoordelijkheid",
+        "skill": "Politieke verantwoordelijkheid herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom moet de minister toch uitleg geven over wat er is gebeurd?",
+        "context": "Een ambtenaar op een ministerie maakt een grote fout. Hierdoor wordt per ongeluk veel overheidsgeld naar het verkeerde bedrijf overgemaakt. Het parlement vraagt de minister om uitleg. De minister zegt:\n\n\"Ik wist hier niets van. Het is de schuld van de ambtenaar.\"",
+        "answers": [
+          "Omdat de minister politiek verantwoordelijk is voor het ministerie en in het parlement uitleg moet geven over wat daar gebeurt.",
+          "Omdat ambtenaren volgens de wet nooit fouten mogen maken.",
+          "Omdat de minister familie is van alle ambtenaren."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de politieke verantwoordelijkheid van de minister. Wie moet in het parlement uitleg geven over belangrijke gebeurtenissen op het ministerie?",
+        "feedback_correct": "Juist. Een minister is politiek verantwoordelijk voor het ministerie en moet daarom in het parlement uitleg geven over belangrijke gebeurtenissen en fouten.",
+        "feedback_wrong": "Denk aan de politieke verantwoordelijkheid van de minister. De minister moet in het parlement uitleg geven over belangrijke gebeurtenissen op het ministerie, ook als een ambtenaar de fout heeft gemaakt.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027, ML2/K/4, onderdeel 4.1.8"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6 – Het kabinet en het parlement",
+      "question": {
+        "id": "mk_020_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.8",
+        "topic": "Politiek en bestuur",
+        "skill": "Rol van de Tweede Kamer bij wetgeving herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat gebeurt er waarschijnlijk met het wetsvoorstel?",
+        "context": "Het kabinet wil een nieuwe wet invoeren om de belasting op ongezonde snacks te verhogen. De Tweede Kamer stemt met een grote meerderheid tegen het wetsvoorstel.",
+        "answers": [
+          "Het kabinet kan het voorstel toch direct invoeren.",
+          "Het wetsvoorstel kan in deze vorm niet verder worden behandeld als wet.",
+          "De koning moet de Tweede Kamer opheffen."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de rol van de Tweede Kamer bij het maken van wetten. Kan een wetsvoorstel zonder instemming van de Tweede Kamer toch wet worden?",
+        "feedback_correct": "Juist. De Tweede Kamer moet instemmen met een wetsvoorstel. Zonder die instemming kan het voorstel in deze vorm niet tot wet worden gemaakt.",
+        "feedback_wrong": "Kijk nog eens naar de rol van de Tweede Kamer. Een wetsvoorstel kan niet zomaar door het kabinet worden ingevoerd zonder de vereiste goedkeuring.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027, ML2/K/4, onderdeel 4.1.8"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7 – Regering of kabinet?",
+      "question": {
+        "id": "mk_020_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.7",
+        "topic": "Regering en kabinet",
+        "skill": "Regering en kabinet onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke namen horen bij Groep 1 en Groep 2?",
+        "context": "Kijk naar dit overzicht:\n\n| Groep | Bestaat uit |\n|---|---|\n| Groep 1 | De koning + de ministers |\n| Groep 2 | De ministers + de staatssecretarissen |",
+        "answers": [
+          "Groep 1 is het parlement, Groep 2 is de regering.",
+          "Groep 1 is het kabinet, Groep 2 is de regering.",
+          "Groep 1 is de regering, Groep 2 is het kabinet."
+        ],
+        "correct_answer": 2,
+        "hint": "Kijk goed naar de samenstelling van beide groepen. Waar hoort de koning bij en waar horen de staatssecretarissen bij?",
+        "feedback_correct": "Juist! Groep 1 met de koning en de ministers is de regering. Groep 2 met de ministers en staatssecretarissen is het kabinet.",
+        "feedback_wrong": "Niet juist. Onthoud: koning + ministers = regering. Ministers + staatssecretarissen = kabinet.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027, ML2/K/4, onderdeel 4.1.7"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8 – De rol van de koning",
+      "question": {
+        "id": "mk_020_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Regering en kabinet",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat is het standpunt van deze burger over de rol van de koning in de regering?",
+        "context": "Een burger zegt:\n\n\"Ik vind het onzin dat de koning bij de regering hoort. Volgens mij heeft de koning geen politieke macht en is hij niet door het volk gekozen.\"",
+        "answers": [
+          "Hij vindt het goed en logisch dat de koning deel uitmaakt van de regering.",
+          "Hij heeft kritiek op de positie van de koning en vindt het onzin dat hij bij de regering hoort.",
+          "Hij vindt dat de koning minister van Financiën moet worden."
+        ],
+        "correct_answer": 1,
+        "hint": "Een standpunt is de mening van iemand. Gebruikt de burger positieve of negatieve woorden over de positie van de koning?",
+        "feedback_correct": "Goed nagedacht! De burger heeft een negatief standpunt en uit kritiek op de positie van de koning.",
+        "feedback_wrong": "Niet juist. De burger gebruikt het woord \"onzin\". Daarmee laat hij zien dat hij kritiek heeft op de positie van de koning.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027, ML2/K/3, onderdeel 2.1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9 – Het argument",
+      "question": {
+        "id": "mk_020_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Regering en kabinet",
+        "skill": "Argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke reden gebruikt de burger om zijn mening uit te leggen?",
+        "context": "Kijk nog een keer naar de situatie van Vraag 8.\n\nDe burger zegt:\n\n\"Ik vind het onzin dat de koning bij de regering hoort, omdat hij niet door het volk is gekozen en volgens mij geen politieke macht heeft.\"",
+        "answers": [
+          "Dat de koning te veel geld uitgeeft aan vakanties.",
+          "Dat de koning niet door het volk is gekozen en volgens de burger geen politieke macht heeft.",
+          "Dat ministers weigeren om met de koning te praten."
+        ],
+        "correct_answer": 1,
+        "hint": "Welke reden geeft de burger voor zijn mening? Kijk naar wat er na \"omdat\" staat.",
+        "feedback_correct": "Goed! De burger gebruikt het feit dat de koning niet gekozen is en volgens hem geen politieke macht heeft als reden voor zijn mening.",
+        "feedback_wrong": "Niet juist. Kijk goed naar de reden die de burger zelf geeft. Welke informatie staat na het woord \"omdat\"?",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027, ML2/K/3, onderdeel 2.1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10 – Het kabinet en steun in de Tweede Kamer",
+      "question": {
+        "id": "mk_020_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.8",
+        "topic": "Regering en kabinet",
+        "skill": "Relatie tussen kabinet en parlement herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke conclusie over het kabinet en het parlement past het beste bij deze situatie?",
+        "context": "Na de verkiezingen proberen politieke partijen samen een meerderheid te vormen in de Tweede Kamer. De partijen die samen gaan regeren maken een coalitieakkoord. Daarin staan plannen voor de komende jaren.",
+        "answers": [
+          "Een kabinet ontstaat zomaar en heeft niets te maken met de uitslag van de verkiezingen.",
+          "Partijen die samen regeren proberen voldoende steun in de Tweede Kamer te krijgen, zodat hun plannen kunnen worden uitgevoerd.",
+          "De plannen in een coalitieakkoord worden automatisch wetten zonder dat er nog over gestemd hoeft te worden."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de relatie tussen het kabinet en de Tweede Kamer. Welke steun heeft een kabinet nodig om plannen uit te voeren?",
+        "feedback_correct": "Goed! Een kabinet heeft meestal steun van een meerderheid in de Tweede Kamer nodig om plannen uit te voeren en stabiel te kunnen regeren.",
+        "feedback_wrong": "Niet juist. Een kabinet heeft steun in de Tweede Kamer nodig om plannen uit te voeren. Een coalitieakkoord is bovendien niet automatisch een wet.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027, ML2/K/4, onderdeel 4.1.8"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Les afgerond!",
+      "text": "Goed gedaan! Je weet nu wat de regering en het kabinet zijn.\n\nOnthoud vooral:\n• De regering bestaat uit de koning en de ministers.\n• Het kabinet bestaat uit de ministers en de staatssecretarissen.\n• De koning is staatshoofd en heeft formele taken. Hij heeft formeel geen politieke macht.\n• Een minister heeft de politieke leiding over een ministerie en is politiek verantwoordelijk voor het beleid van dat ministerie.\n• Een staatssecretaris is verantwoordelijk voor een deel van het beleid binnen een ministerie.\n• Het kabinet maakt plannen en voert beleid uit.\n• Het parlement controleert het kabinet.\n• Voor nieuwe wetten is goedkeuring van zowel de Tweede als de Eerste Kamer nodig.\n• Een kabinet heeft meestal steun van een meerderheid in de Tweede Kamer nodig om stabiel te kunnen regeren."
+    }
+  ]
+}

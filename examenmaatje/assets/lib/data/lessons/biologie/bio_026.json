@@ -1,0 +1,335 @@
+{
+  "id": "bio_026",
+  "subject": "biologie",
+  "title": "Les 26 - Hormoonklieren",
+  "goal": "Je kunt de hormoonklieren herkennen die bij de BB-examenstof horen en hun functies beschrijven.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Hormoonklieren",
+      "text": "Hormonen zijn chemische stoffen die allerlei langdurige processen in je lichaam helpen regelen, zoals je bloedsuikergehalte en de puberteit. Speciale organen, de hormoonklieren, maken deze hormonen and geven ze direct af aan het bloed. In deze les leer je welke hormoonklieren bij de BB-examenstof horen and wat ze precies doen.",
+      "image": "les_026_intro_hormonen.png"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees eerst welke klier of functie in de vraag wordt genoemd. Zoek daarna de bijpassende informatie in de uitleg. Let goed op de unieke basistaken: eilandjes van Langerhans regelen suiker, bijnieren maken je alert, en de geslachtsklieren maken geslachtshormonen."
+    },
+    {
+      "type": "explanation",
+      "title": "De eilandjes van Langerhans",
+      "text": "De eilandjes van Langerhans zijn piepkleine groepjes cellen die verscholen liggen binnenin een groter orgaan: de alvleesklier. Deze eilandjes maken hormonen (zoals insuline) die een cruciale rol spelen bij het regelen van het suikergehalte (glucosegehalte) in je bloed. Ze zorgen ervoor dat je cellen suikers kunnen opnemen om energie te maken.",
+      "image": "les_026_eilandjes_detail.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De bijnieren",
+      "text": "De bijnieren zijn twee aparte, kapvormige hormoonklieren die als een soort mutsje boven op je nieren liggen. Wanneer je schrikt, stress ervaart of snel moet reageren, maken de bijnieren direct een stresshormoon (adrenaline) aan. Dit hormoon zorgt ervoor dat je spieren, ademhaling en bloedsomloop direct sneller and actiever worden, zodat je klaar bent voor actie."
+    },
+    {
+      "type": "explanation",
+      "title": "Eierstokken en teelballen",
+      "text": "De eierstokken (vrouwelijk) en teelballen (mannelijk) zijn de geslachtsklieren. Zij maken geslachtshormonen aan:\n* Eierstokken: Liggen in de buikholte van de vrouw en maken vrouwelijke hormonen.\n* Teelballen: Liggen in het scrotum van de man en maken mannelijke hormonen.\nDeze hormonen spelen tijdens de puberteit een hoofdrol bij het ontstaan van de secundaire geslachtskenmerken (zoals de baardgroei bij mannen of borstontwikkeling bij vrouwen)."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Hormonen reizen via het bloed. Eilandjes van Langerhans (in de alvleesklier) = glucosegehalte regelen. Bijnieren (op de nieren) = ademhaling en spieren snel actief maken. Eierstokken en teelballen = geslachtshormonen and secundaire geslachtskenmerken."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_026_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Binnen welk groot orgaan van het verteringsstelsel liggen de eilandjes van Langerhans verscholen?",
+      "answers": [
+        "In de longblaasjes",
+        "In de alvleesklier",
+        "In de maagwand",
+        "In de nieren"
+      ],
+      "correct_answer": 1,
+      "hint": "Dit gecombineerde orgaan maakt ook alvleessap aan voor de vertering van je voedsel.",
+      "feedback_correct": "Goed gedaan! De eilandjes van Langerhans liggen als celgroepjes in de alvleesklier.",
+      "feedback_wrong": "De eilandjes van Langerhans bevinden zich in de alvleesklier. Ze hebben niks te maken met je longen of maag.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_026"
+    },
+    {
+      "id": "bio_026_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke belangrijke regeltaak hebben de hormonen die door de eilandjes van Langerhans worden geproduceerd?",
+      "answers": [
+        "Ze regelen en bewaken het glucosegehalte (suikerspiegel) in het bloed.",
+        "Ze maken binnengekomen brokjes voedsel kleiner in de maag.",
+        "Ze trekken aan de pezen zodat de skeletbotten gaan bewegen.",
+        "Ze nemen gasvormig zuurstof op via de haarvaten."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de balans van suikers in je bloedbaan nadat je een zoete maaltijd hebt gegeten.",
+      "feedback_correct": "Juist! Deze hormonen (zoals insuline) helpen om het bloedsuikergehalte stabiel te houden.",
+      "feedback_wrong": "De eilandjes van Langerhans regelen het glucosegehalte. Ze verteren geen voedsel en bewegen geen botten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_026"
+    },
+    {
+      "id": "bio_026_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke specifieke hormoonklieren liggen als een soort kapje direct boven op de twee nieren?",
+      "answers": [
+        "De eierstokken",
+        "De eilandjes van Langerhans",
+        "De bijnieren",
+        "De teelballen"
+      ],
+      "correct_answer": 2,
+      "hint": "De naam van deze klieren verklapt hun anatomische locatie vlak bij het filterstation van het bloed.",
+      "feedback_correct": "Perfect! De bijnieren liggen als mutsjes boven op de nieren.",
+      "feedback_wrong": "De bijnieren liggen boven op de nieren. De eilandjes van Langerhans liggen in de alvleesklier.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_026"
+    },
+    {
+      "id": "bio_026_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er in het lichaam door het stresshormoon adrenaline dat door de bijnieren wordt gemaakt?",
+      "answers": [
+        "De ademhaling en bloedsomloop worden direct veel langzamer.",
+        "Spieren, ademhaling en de bloedsomloop worden onmiddellijk actiever.",
+        "Het binnengekomen voedsel wordt sneller gekneed in de maag.",
+        "De longblaasjes stoppen met de opname van zuurstof."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan de biologische reactie van je lichaam als je heel erg schrikt of moet vluchten voor gevaar.",
+      "feedback_correct": "Heel goed! Adrenaline bereidt het lichaam voor op actie door de hartslag en ademhaling te versnellen.",
+      "feedback_wrong": "Bijnieren maken je lichaam alert en actief (vecht- of vluchtreactie). Ze vertragen de boel niet.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_026"
+    },
+    {
+      "id": "bio_026_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke hormoonklieren zijn verantwoordelijk voor de productie van de specifieke geslachtshormonen?",
+      "answers": [
+        "De longen en de nieren",
+        "De eierstokken en de teelballen",
+        "De maag en de dikke darm",
+        "De speekselklieren en de lever"
+      ],
+      "correct_answer": 1,
+      "hint": "Zoek de organen die horen bij het vrouwelijke en mannelijke voortplantingsstelsel.",
+      "feedback_correct": "Juist! De eierstokken (vrouw) en teelballen (man) produceren de geslachtshormonen.",
+      "feedback_wrong": "Geslachtshormonen worden gemaakt door de geslachtsklieren: eierstokken en teelballen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_026"
+    },
+    {
+      "id": "bio_026_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waar spelen de geslachtshormonen tijdens de puberteit een cruciale biologische rol bij?",
+      "answers": [
+        "Bij het ontstaan van de secundaire geslachtskenmerken.",
+        "Bij de productie van vloeibaar speeksel in de mond.",
+        "Bij de mechanische gaswisseling in de haarvaten.",
+        "Bij de chemische werking van het maagzuur."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan uiterlijke veranderingen zoals de baardgroei, stemverandering of borstontwikkeling.",
+      "feedback_correct": "Perfect! Geslachtshormonen sturen het ontstaan van uiterlijke man/vrouw-kenmerken (secundaire kenmerken) aan.",
+      "feedback_wrong": "Geslachtshormonen regelen de lichamelijke veranderingen in de puberteit (secundaire kenmerken), geen vertering.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_026"
+    },
+    {
+      "id": "bio_026_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Na een suikerrijke traktatie moet het glucosegehalte in het bloed direct omlaag worden gebracht. Welke specifieke klier reageert hierop?",
+      "answers": [
+        "De bijnieren",
+        "De eilandjes van Langerhans",
+        "De teelballen",
+        "De eierstokken"
+      ],
+      "correct_answer": 1,
+      "hint": "Deze kliercellen meten de suikerspiegel and liggen in de alvleesklier.",
+      "feedback_correct": "Top! De eilandjes van Langerhans meten en regelen de hoeveelheid glucose in je bloed.",
+      "feedback_wrong": "Bloedsuiker wordt bewaakt door de eilandjes van Langerhans. Bijnieren reageren op acute stress.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_026"
+    },
+    {
+      "id": "bio_026_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke combinatie van een specifieke hormoonklier en haar werking in het lichaam is biologisch correct?",
+      "answers": [
+        "Bijnieren — het lichaam snel speelklaar en alert maken voor actie",
+        "Eierstokken — het kneden en verteren van binnengekomen voedsel",
+        "Eilandjes van Langerhans — het opnemen van gasvormig zuurstof",
+        "Teelballen — het rondpompen van warm bloed via de aorta"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de functie van de bijnieren wanneer je adrenaline aanmaakt bij schrik.",
+      "feedback_correct": "Uitstekend! De bijnieren produceren het hormoon dat je lichaam klaarmaakt voor directe prestaties.",
+      "feedback_wrong": "Eierstokken verteren geen voedsel en het hart pompt het bloed rond. Combinatie A is de juiste.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_026"
+    },
+    {
+      "id": "bio_026_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke twee groepen van hormoonklieren bepalen samen of een menselijk lichaam zich ontwikkelt tot een biologische man of vrouw?",
+      "answers": [
+        "De maagwand en de alvleesklier",
+        "De bijnieren en de twee nieren",
+        "De eierstokken and de teelballen",
+        "De longen en de luchtpijp"
+      ],
+      "correct_answer": 2,
+      "hint": "Dit zijn de mannelijke en vrouwelijke geslachtsklieren die we in deze les hebben besproken.",
+      "feedback_correct": "Klopt helemaal! De eierstokken (vrouwelijk) en teelballen (mannelijk) bepalen de geslachtskenmerken.",
+      "feedback_wrong": "Maag, nieren en longen maken geen geslachtshormonen. Dat doen de eierstokken en teelballen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_026"
+    },
+    {
+      "id": "bio_026_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke rij bevat uitsluitend de hormoonklieren die verplicht horen bij de centrale BB-examenstof?",
+      "answers": [
+        "Longen, maagwand, darmvlokken en nieren",
+        "Eierstokken, teelballen, bijnieren en eilandjes van Langerhans",
+        "Speekselklieren, traanklieren, maag en lever",
+        "Schildklier, longen, nieren en luchtpijp"
+      ],
+      "correct_answer": 1,
+      "hint": "Kies de lijst waarin de vier specifieke groepen staan die we in deze les stap voor stap hebben doorgenomen.",
+      "feedback_correct": "Juist! Dit zijn de vier groepen hormoonklieren die verplicht gekend moeten worden voor het basisexamen.",
+      "feedback_wrong": "De andere rijen bevatten gewone organen (longen, maag) of klieren die niet tot de BB-stof behoren (schildklier).",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_026"
+    },
+    {
+      "id": "bio_026_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Hormoonklieren hebben geen afvoerbuisjes. Op welke specifieke manier worden hormonen door het lichaam getransporteerd naar de organen die moeten reageren?",
+      "answers": [
+        "Ze worden direct afgegeven aan het bloed en door de bloedsomloop vervoerd.",
+        "Ze worden via de luchtpijp uitgeademd naar de buitenlucht.",
+        "Ze kruipen via de urineleiders rechtstreeks naar de urineblaas."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de grote vloeibare transportstroom in je lichaam die overal langskomt, van je brein tot je kleine teen.",
+      "feedback_correct": "Perfect! Hormoonklieren scheiden hun stoffen rechtstreeks uit in de bloedbaan, die ze overal naartoe brengt.",
+      "feedback_wrong": "Hormonen reizen via het bloed, ze worden niet uitgeademd of uitgeplast via de urineleiders.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_026"
+    },
+    {
+      "id": "bio_026_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "9",
+      "topic": "hormoonklieren",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is in de biologie de juiste omschrijving van een hormoon?",
+      "answers": [
+        "Een chemische regelstof die processen in het lichaam aanstuurt via het bloed.",
+        "Een elektrisch signaal dat via de uitlopers van zenuwcellen schiet.",
+        "Een onverteerbare plantenrest die de darmperistaltiek opgang helpt."
+      ],
+      "correct_answer": 0,
+      "hint": "Zenuwen werken met stroompjes (impulsen), hormoonklieren werken met stoffen (chemie).",
+      "feedback_correct": "Klopt helemaal! Hormonen zijn de chemische boodschappers van je lichaam.",
+      "feedback_wrong": "Elektrische signalen zijn impulsen (zenuwstelsel). Onverteerbare resten zijn voedingsvezels. Dit is een chemische stof.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_026",
+      "image": "les_026_q12_hormoon_route.png"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.0",
+    "notitie": "Les-id en alle onderliggende id's definitief omgezet naar bio_026 conform ons goedgekeurde masterplan v1.0. Structuur volledig vlakgetrokken.",
+    "wijzigingen": "Vragen-array opgeschoond van nestings, codes gecorrigeerd naar topic hormoonklieren, en twee vragen over bloedtransport en hormoondefinities toegevoegd."
+  }
+}

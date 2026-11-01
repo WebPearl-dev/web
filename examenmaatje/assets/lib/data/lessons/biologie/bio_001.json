@@ -1,0 +1,394 @@
+{
+  "id": "bio_001",
+  "subject": "biologie",
+  "title": "Les 1 - Biologische informatie lezen",
+  "goal": "Je leert informatie uit biologische teksten halen, feiten en meningen onderscheiden, oefenen met vaktaal en je eigen biologische gedachten formuleren.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Bij biologie lees je veel teksten en zoek je informatie die antwoord geeft op een vraag. Je leert het verschil herkennen tussen een feit en een mening, hoe je omgaat met biologische vaktaal én hoe je jouw eigen gedachten goed formuleert."
+    },
+    {
+      "type": "strategy",
+      "title": "Een vraag aanpakken",
+      "text": "1. Lees de vraag goed.\n2. Let op belangrijke woorden (vaktaal).\n3. Zoek de informatie in de tekst.\n4. Geef antwoord op de vraag.\n5. Controleer of je antwoord past bij de informatie."
+    },
+    {
+      "type": "explanation",
+      "title": "Informatie uit een tekst halen",
+      "text": "Lees de vraag och zoek daarna gericht in de tekst. In een tekst staat: ‘Op maandag kiemden 12 tuinkerszaden. Op dinsdag kiemden 18 zaden.’ Vraag: hoeveel zaden kiemden op dinsdag? Het antwoord is 18."
+    },
+    {
+      "type": "explanation",
+      "title": "Feiten en meningen",
+      "text": "Een feit kun je controleren of meten. ‘De bloem is 5 cm breed’ is een meetbaar feit. ‘Deze bloem is de mooiste’ is een mening, omdat het een persoonlijke beoordeling is."
+    },
+    {
+      "type": "explanation",
+      "title": "Vaktaal en eigen gedachten",
+      "text": "Bij biologie gebruik je 'vaktaal': speciale woorden met een vaste betekenis, zoals 'kieming' of 'organisme'. Als je een biologische vraag beantwoordt, leer je om jouw eigen gedachten logisch op te schrijven met behulp van deze woorden, zonder dat het een losse mening wordt."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Zoek gericht naar informatie in een tekst. Een feit kun je controleren; een mening is persoonlijk. Gebruik biologische vaktaal om je eigen gedachten netjes te formuleren."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_001_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Informatie uit een tekst halen",
+      "skill": "Informatie vinden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In een tekst staat: ‘Op vrijdag kiemden 20 bonenzaden.’ Hoeveel zaden kiemden op vrijdag?",
+      "answers": [
+        "14",
+        "20",
+        "34"
+      ],
+      "correct_answer": 1,
+      "hint": "Zoek het getal dat bij vrijdag hoort.",
+      "feedback_correct": "In de tekst staat dat 20 zaden kiemden.",
+      "feedback_wrong": "14 en 34 staan niet in de tekst.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    },
+    {
+      "id": "bio_001_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Feiten en meningen",
+      "skill": "Feit en mening onderscheiden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke zin is een mening?",
+      "answers": [
+        "De bloem is 5 cm breed.",
+        "Deze bloem is de mooiste bloem.",
+        "Er staan 3 planten op tafel."
+      ],
+      "correct_answer": 1,
+      "hint": "Een mening is een persoonlijke beoordeling.",
+      "feedback_correct": "‘De mooiste’ is een persoonlijke mening.",
+      "feedback_wrong": "Breedte Dit aantal kun je meten of tellen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    },
+    {
+      "id": "bio_001_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Informatie uit een tekst halen",
+      "skill": "Informatie vinden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In een tekst staat: ‘Een zonnebloem was op maandag 12 cm hoog. Op vrijdag was de plant 17 cm hoog.’ Hoe hoog was de zonnebloem op vrijdag?",
+      "answers": [
+        "12 cm",
+        "17 cm",
+        "29 cm"
+      ],
+      "correct_answer": 1,
+      "hint": "Zoek de hoogte die bij vrijdag staat.",
+      "feedback_correct": "Bij vrijdag staat een hoogte van 17 cm.",
+      "feedback_wrong": "Kijk nog eens welk getal in de tekst bij vrijdag hoort.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    },
+    {
+      "id": "bio_001_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Informatie uit een tekst halen",
+      "skill": "Informatie vinden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Lees de tekst: ‘Een slak eet bladeren. Overdag verstopt de slak zich vaak op een vochtige plek.’ Waar verstopt de slak zich vaak?",
+      "answers": [
+        "Op een droge plek",
+        "Op een vochtige plek",
+        "In een boomtop"
+      ],
+      "correct_answer": 1,
+      "hint": "Zoek in de tekst naar waar de slak zich verstopt.",
+      "feedback_correct": "In de tekst staat dat de slak zich vaak op een vochtige plek verstopt.",
+      "feedback_wrong": "Lees de tweede zin nog eens en zoek de plek die genoemd wordt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    },
+    {
+      "id": "bio_001_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Feiten en meningen",
+      "skill": "Feit en mening onderscheiden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke zin kun je controleren door te meten?",
+      "answers": [
+        "Deze plant is prachtig.",
+        "De stengel is 8 cm lang.",
+        "Deze plant is leuker dan die andere."
+      ],
+      "correct_answer": 1,
+      "hint": "Kies de zin met een lengte die je kunt meten.",
+      "feedback_correct": "De lengte van een stengel kun je meten.",
+      "feedback_wrong": "‘Prachtig’ en ‘leuker’ zijn persoonlijke beoordelingen; een lengte kun je meten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    },
+    {
+      "id": "bio_001_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Feiten en meningen",
+      "skill": "Feit en mening onderscheiden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke zin is een mening?",
+      "answers": [
+        "De vis heeft vier vinnen.",
+        "Het aquarium bevat 12 liter water.",
+        "De goudvis is het leukste huisdier."
+      ],
+      "correct_answer": 2,
+      "hint": "Let op een persoonlijke beoordeling.",
+      "feedback_correct": "‘Het leukste huisdier’ is een persoonlijke beoordeling en dus een mening.",
+      "feedback_wrong": "Het aantal vinnen en de hoeveelheid water kun je controleren. ‘Het leukste’ is een mening.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    },
+    {
+      "id": "bio_001_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Informatie uit een tekst halen",
+      "skill": "Informatie vinden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Lees de tekst: ‘Bij proef A kregen de planten water. Bij proef B kregen de planten geen water. Na vijf dagen waren de planten van proef A groen en stevig.’ Welke planten waren na Siliconen dagen groen en stevig?",
+      "answers": [
+        "De planten van proef A",
+        "De planten van proef B",
+        "Alleen de planten van proef B"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de proef die in de laatste zin genoemd wordt.",
+      "feedback_correct": "De tekst zegt dat de planten van proef A groen en stevig waren.",
+      "feedback_wrong": "In de laatste zin staat expliciet bij welke proef de planten groen en stevig waren.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    },
+    {
+      "id": "bio_001_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Feiten en meningen",
+      "skill": "Feit en mening onderscheiden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een leerling schrijft: ‘De worm is 6 cm lang en ziet er vies uit.’ Welk deel is een feit?",
+      "answers": [
+        "De worm is 6 cm lang.",
+        "De worm ziet er vies uit.",
+        "Beide delen zijn meningen."
+      ],
+      "correct_answer": 0,
+      "hint": "Bedenk welk deel je met een meetlat kunt controleren.",
+      "feedback_correct": "De lengte van 6 cm kun je meten. ‘Vies’ is een persoonlijke beoordeling.",
+      "feedback_wrong": "De lengte is meetbaar; ‘vies’ betekent niet voor iedereen hetzelfde.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    },
+    {
+      "id": "bio_001_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Informatie uit een tekst halen",
+      "skill": "Informatie vinden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In een tekst staat: ‘Een kikker legt eitjes in het water. Uit de eitjes komen kikkervisjes.’ Wat komt volgens de tekst uit de eitjes?",
+      "answers": [
+        "Kikkervisjes",
+        "Volwassen kikkers",
+        "Waterplanten"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek wat er volgens de tweede zin uit de eitjes komt.",
+      "feedback_correct": "Volgens de tekst komen er kikkervisjes uit de eitjes.",
+      "feedback_wrong": "Lees de tweede zin precies: daarin staat wat uit de eitjes komt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    },
+    {
+      "id": "bio_001_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Feiten en meningen",
+      "skill": "Feit en mening onderscheiden",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke uitspraak is een controleerbaar feit?",
+      "answers": [
+        "Een konijn is het liefste dier.",
+        "Het konijn weegt 2 kilogram.",
+        "Konijnen zijn leuker dan cavia’s."
+      ],
+      "correct_answer": 1,
+      "hint": "Kies de uitspraak die je met een weegschaal kunt controleren.",
+      "feedback_correct": "Het gewicht kun je meten met een weegschaal.",
+      "feedback_wrong": "‘Liefste’ en ‘leuker’ zijn persoonlijke meningen; gewicht kun je meten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    },
+    {
+      "id": "bio_001_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Biologische vaktaal",
+      "skill": "Vaktaal herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk woord is een voorbeeld van biologische vaktaal?",
+      "answers": [
+        "Groeien",
+        "Organisme",
+        "Plant"
+      ],
+      "correct_answer": 1,
+      "hint": "Zoek naar het speciale wetenschappelijke woord voor een levend wezen.",
+      "feedback_correct": "‘Organisme’ is biologische vaktaal voor een levend wezen.",
+      "feedback_wrong": "Groeien en plant zijn normale, dagelijkse woorden. Organisme is een specifieke term.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Aanvullende exameneis vraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    },
+    {
+      "id": "bio_001_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "topic": "Eigen gedachten formuleren",
+      "skill": "Biologisch redeneren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Sanne ziet dat een plant slap hangt. Ze wil haar biologische gedachte logisch opschrijven. Welke zin is de beste biologische redenering?",
+      "answers": [
+        "Ik vind het zielig dat de plant slap hangt, hij moet snel water hebben.",
+        "De plant hangt slap, omdat de wortels waarschijnlijk te weinig water kunnen opnemen uit de droge grond.",
+        "De plant is niet mooi meer omdat hij helemaal slap hangt."
+      ],
+      "correct_answer": 1,
+      "hint": "Kies de zin die een logische, meetbare oorzaak geeft met biologische woorden.",
+      "feedback_correct": "Deze zin koppelt het slap hangen aan een biologische oorzaak (wateropname via wortels) zonder persoonlijke meningen.",
+      "feedback_wrong": "De andere zinnen bevatten persoonlijke meningen ('zielig' en 'niet mooi') in plaats van een biologische verklaring.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Aanvullende exameneis vraag",
+        "year": 2027,
+        "section": "Oefensituatie",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_001"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 1.2",
+    "notitie": "Vaktaal en eigen gedachten formuleren toegevoegd conform syllabus-eisen.",
+    "wijziging": "Aangevuld met stap 'Vaktaal en eigen gedachten' en vragen bio_001_q11 en bio_001_q12."
+  }
+}

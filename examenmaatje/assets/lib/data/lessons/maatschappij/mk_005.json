@@ -1,0 +1,283 @@
+{
+  "id": "mk_005",
+  "subject": "maatschappij",
+  "title": "Les 5 - Informatie uit bronnen vergelijken",
+  "goal": "Je leert informatie uit twee verschillende bronnen met elkaar te vergelijken om een vraag te beantwoorden.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Introductie",
+      "text": "In de vorige lessen heb je al veel handige stappen geleerd. Je kunt informatie zoeken, een tekst begrijpen, feiten van meningen scheiden en kijken of een bron betrouwbaar is. Op je examen krijg je vaak te maken met een grote uitdaging: je moet dan twee verschillende bronnen over hetzelfde onderwerp bekijken. In deze les leer je hoe je die bronnen met elkaar vergelijkt zonder in de war te raken."
+    },
+    {
+      "type": "explanation",
+      "title": "Uitleg: Wat is bronnen vergelijken?",
+      "text": "Bronnen vergelijken betekent dat je twee teksten, tabellen of overzichten naast elkaar legt. Je kijkt dan heel nauwkeurig naar wat er staat. Soms zeggen twee bronnen precies hetzelfde. Maar soms geven ze ook heel andere informatie. Dat betekent niet direct dat een van de bronnen fout is. Een reiziger in de bus vertelt bijvoorbeeld over zijn eigen ervaring of gevoel. De busmaatschappij geeft juist een overzicht met officiële gegevens. Beide bronnen vertellen iets over hetzelfde onderwerp, maar op een andere manier. Welke bron je gebruikt, hangt af van je vraag."
+    },
+    {
+      "type": "explanation",
+      "title": "Het stappenplan",
+      "text": "Als je op het examen bronnen moet vergelijken, gebruik je deze stappen: Stap 1: Lees de vraag heel goed en bepaal wat je precies moet weten. Stap 2: Bekijk Bron A en zoek de informatie voor je vraag. Stap 3: Bekijk Bron B en zoek daar ook de informatie voor je vraag. Stap 4: Leg de informatie naast elkaar. Wat is hetzelfde? Wat is anders? Stap 5: Kies het antwoord dat echt past bij wat je in beide bronnen hebt gelezen."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeldsituatie",
+      "text": "Kijk naar deze twee bronnen over sociale media. Bron A is een bericht van een bezorgde vader: Onze zoon van 14 zit elke avond tot laat op TikTok. Hierdoor is hij 's ochtends heel moe en kan hij zich niet concentreren op zijn huiswerk. Bron B is een groot onderzoek onder jongeren: Uit metingen blijkt dat het gebruik van sociale media in de avond bij 70 procent van de jongeren samenhangt met minder slaapuren. Wat zien we als we dit vergelijken? Overeenkomst: beide bronnen wijzen erop dat gebruik van sociale media in de avond samenhangt met minder slaap of vermoeidheid. Verschil: Bron A gaat over een persoonlijke ervaring van een vader. Bron B geeft informatie uit een onderzoek. Conclusie: beide bronnen wijzen erop dat avondgebruik van sociale media kan samenhangen met minder slaap."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_005_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Overeenkomsten herkennen tussen bronnen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar de twee bronnen over het openbaar vervoer. Bron A is een bericht van een reiziger: De bussen in deze stad rijden de laatste tijd heel vaak te laat. Gisteren moest ik een half uur wachten in de kou. Bron B is een bericht van het busbedrijf: Door wegwerkzaamheden in het centrum hebben onze bussen deze week helaas te maken met vertragingen. Welke informatie komt in beide bronnen voor?",
+        "answers": [
+          "Dat de reiziger een half uur in de kou moest wachten.",
+          "Dat de bussen te maken hebben met vertragingen.",
+          "Dat de vertragingen komen door de wegwerkzaamheden."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek naar de informatie die je in allebei de teksten kunt terugvinden.",
+        "feedback_correct": "Heel goed! Beide bronnen melden inderdaad dat de bussen te laat rijden of vertraging hebben.",
+        "feedback_wrong": "Niet juist. Wat je hebt gekozen staat maar in een van de twee bronnen. Lees beide teksten nog eens goed en zoek wat ze allebei zeggen."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_005_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Bronnen vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar de twee bronnen over de sportclub. Bron A: De sportclub heeft besloten om de contributie dit jaar met 5 euro te verhogen om nieuwe materialen te kopen. Bron B: De sportclub verhoogt de contributie met 5 euro omdat de energierekening van de sporthal veel duurder is geworden. Wat is het belangrijkste verschil tussen deze twee bronnen?",
+        "answers": [
+          "Het bedrag waarmee de contributie omhoog gaat.",
+          "De reden waarom de contributie omhoog gaat.",
+          "De naam van de sportclub die de regels verandert."
+        ],
+        "correct_answer": 1,
+        "hint": "Beide bronnen praten over 5 euro verhoging. Maar kijken ze ook hetzelfde naar de oorzaak daarvan?",
+        "feedback_correct": "Uitstekend! Bron A zegt dat het geld voor materialen is, Bron B zegt dat het voor de energierekening is. Dat is het verschil.",
+        "feedback_wrong": "Helaas. Het bedrag is in beide bronnen precies hetzelfde, namelijk 5 euro. Kijk nog eens goed naar waarom het geld nodig is volgens de teksten."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_005_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Soort informatie herkennen in bronnen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar de twee bronnen over veiligheid. Bron A is een grafiek van de politie: Een overzicht met het exacte aantal inbraken per maand in de wijk. Bron B is een bericht uit de buurt-app: Een inwoner schrijft dat hij zich de laatste tijd niet meer veilig voelt op straat. Welke bron geeft getelde cijfers over de wijk?",
+        "answers": [
+          "Alleen Bron A geeft getelde cijfers.",
+          "Alleen Bron B geeft getelde cijfers.",
+          "Beide bronnen geven getelde cijfers."
+        ],
+        "correct_answer": 0,
+        "hint": "Getelde cijfers zijn aantallen die zijn bijgehouden. Welke bron laat zulke aantallen zien?",
+        "feedback_correct": "Juist! De politiegrafiek uit Bron A geeft getelde cijfers. Bron B geeft een persoonlijk gevoel van een inwoner.",
+        "feedback_wrong": "Niet correct. Bron B bevat alleen een tekst over een gevoel, geen getelde inbraken. Kijk nog eens goed naar Bron A."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_005_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Feit en mening herkennen door bronnen te vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar de twee bronnen over schoolregels. Bron A: De schoolleiding heeft besloten dat leerlingen tijdens de pauze op het schoolplein moeten blijven. Bron B: Een leerling zegt in de schoolkrant dat hij de nieuwe pleinregel echt stom en kinderachtig vindt. Wat kun je zeggen over deze twee bronnen?",
+        "answers": [
+          "Bron A is een mening en Bron B is een feit.",
+          "Bron A is een feit en Bron B is een mening.",
+          "Beide bronnen bevatten alleen maar feiten."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk terug aan Les 3. Een feit is een uitspraak die je kunt controleren. Een mening vertelt wat iemand vindt of denkt.",
+        "feedback_correct": "Heel goed! Bron A gaat over de regel die de school heeft ingevoerd. Bron B bevat de mening van de leerling over die regel.",
+        "feedback_wrong": "Kijk nog eens naar wat de leerling zegt. De woorden 'stom' en 'kinderachtig' laten zien wat de leerling van de regel vindt."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_005_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Verschillende standpunten herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar de twee bronnen over afval op straat. Bron A is van een politicus: We moeten inwoners een boete van 100 euro geven als ze afval op straat gooien, want alleen straffen helpt. Bron B is van een jongerenwerker: We moeten jongeren belonen met gratis bioscoopkaartjes als ze helpen de buurt schoon te maken, want dat werkt positief. Waar zijn deze twee personen het over EENS?",
+        "answers": [
+          "Dat het geven van hoge boetes de beste oplossing is.",
+          "Dat er iets gedaan moet worden aan het afval op straat.",
+          "Dat bioscoopkaartjes helpen om de wijk schoner te maken."
+        ],
+        "correct_answer": 1,
+        "hint": "Ze willen allebei een andere methode: straffen of belonen. Maar wat is hun gezamenlijke doel?",
+        "feedback_correct": "Klasse! Ze hebben een heel andere mening over de oplossing, maar ze willen allebei het probleem van afval op straat aanpakken.",
+        "feedback_wrong": "Helaas. De politicus wil juist geen bioscoopkaartjes en de jongerenwerker wil geen boetes. Zoek naar wat ze wel allebei willen bereiken."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_005_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Redenen voor verschillende informatie begrijpen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar de twee bronnen over werken in de supermarkt. Bron A is van de eigenaar: De sfeer op de werkvloer is geweldig en iedereen werkt hard samen. Bron B is een anoniem bericht van een vakkenvuller: We moeten veel te snel werken en de manager luistert nooit naar onze klachten. Waarom geven deze bronnen zulke verschillende informatie?",
+        "answers": [
+          "Omdat de eigenaar en de vakkenvuller een andere positie en ervaring hebben in het bedrijf.",
+          "Omdat een van de twee bronnen per ongeluk de verkeerde tekst heeft opgeschreven.",
+          "Omdat de supermarkt in Bron A een heel andere winkel is dan de winkel in Bron B."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de rol van de personen. Kijkt een eigenaar hetzelfde naar het werk als een werknemer?",
+        "feedback_correct": "Heel scherp! De eigenaar en de werknemer hebben een andere rol en kunnen daardoor dezelfde situatie verschillend ervaren.",
+        "feedback_wrong": "Niet juist. Ze praten over hetzelfde bedrijf, dus het gaat niet om een andere winkel. Kijk naar de verschillende rollen van de eigenaar en de werknemer."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_005_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Geschikte bron selecteren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Je moet voor je examen een vraag beantwoorden: Hoeveel euro geeft de gemeente dit jaar uit aan de aanleg van fietspaden? Je hebt twee bronnen. Bron A: Een interview met een fietser die blij is met het nieuwe asfalt. Bron B: De officiële begroting op de website van de gemeente. Welke bron is relevant, dus welke bron heb je nodig om deze specifieke vraag te beantwoorden?",
+        "answers": [
+          "Alleen Bron A.",
+          "Alleen Bron B.",
+          "Beide bronnen heb je nodig."
+        ],
+        "correct_answer": 1,
+        "hint": "De vraag zoekt naar een exact bedrag aan geld dat de gemeente uitgeeft. Wie heeft die cijfers?",
+        "feedback_correct": "Juist! In de begroting van de gemeente staan de geldbedragen. Het gevoel van de fietser helpt je hier niet bij.",
+        "feedback_wrong": "Niet helemaal. De fietser uit Bron A weet niet hoeveel euro de gemeente precies uitgeeft. Kijk goed naar waar de geldcijfers staan."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_005_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Relevante informatie selecteren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Je wilt weten of jongeren verplicht een helm moeten dragen op een elektrische fiets. Bron A: Een nieuwsbericht over de stijging van het aantal ongelukken met elektrische fietsen onder jongeren. Bron B: De officiële verkeersregels van de overheid. Welke bron geeft jou het directe antwoord op je vraag?",
+        "answers": [
+          "Bron A, want daar staat waarom het gevaarlijk is.",
+          "Bron B, want daar staan de officiële verkeersregels.",
+          "Geen van beide bronnen, want je moet dit aan een fietsenwinkel vragen."
+        ],
+        "correct_answer": 1,
+        "hint": "De vraag gaat over wat verplicht is volgens de regels. Waar vind je officiële verkeersregels?",
+        "feedback_correct": "Uitstekend! Voor een vraag over een verplichte verkeersregel kijk je naar de officiële verkeersregels. Bron A vertelt alleen over ongelukken.",
+        "feedback_wrong": "Helaas. Een nieuwsbericht over ongelukken vertelt je nog niet wat volgens de officiële regels verplicht is. Kijk naar de bron met de verkeersregels."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_005_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar de twee bronnen over camera's op straat. Bron A: Nadat de gemeente drie camera's op het plein heeft geplaatst, is het aantal vechtpartijen in het weekend gedaald. Bron B: De politie meldt dat de camera's op het plein goede beelden hebben opgeleverd, waardoor twee daders snel zijn gepakt. Welke conclusie past bij beide bronnen?",
+        "answers": [
+          "De camera's zijn de oorzaak van de daling van het aantal vechtpartijen.",
+          "De camera's worden gebruikt bij de aanpak van problemen en criminaliteit op het plein.",
+          "Door de camera's zijn alle problemen op het plein opgelost."
+        ],
+        "correct_answer": 1,
+        "hint": "Kies alleen een conclusie die je echt uit beide bronnen kunt halen. Kijk goed naar wat de camera's volgens de bronnen hebben gedaan.",
+        "feedback_correct": "Beide bronnen laten zien dat camera's helpen bij de aanpak. Je kunt uit de bronnen alleen niet bewijzen dat de camera's de enige reden zijn dat het aantal vechtpartijen daalt.",
+        "feedback_wrong": "Kijk nog eens goed naar beide bronnen. Ze laten zien waarvoor de camera's worden gebruikt. Trek geen conclusie die verder gaat dan wat er echt in de bronnen staat."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_005_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar de twee bronnen over gezondheid op school. Bron A: De schoolkantine verkoopt vanaf deze week geen cola en energiedrankjes meer om leerlingen gezonder te laten eten. Bron B: Uit een kleine peiling blijkt dat 10 leerlingen uit de vwo-klas nu hun energiedrankjes in de supermarkt buiten de school kopen. Welke conclusie mag je NIET trekken omdat deze niet in de bronnen staat?",
+        "answers": [
+          "Dat de schoolkantine is gestopt met de verkoop van cola en energiedrank.",
+          "Dat alle vmbo-leerlingen in Nederland hun energiedrankjes buiten school kopen.",
+          "Dat een aantal leerlingen nu naar de supermarkt gaat voor hun drankjes."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk eraan: een conclusie mag alleen gaan over wat er echt staat. Wordt er in Bron B iets gezegd over alle vmbo-leerlingen in Nederland?",
+        "feedback_correct": "Geweldig gedaan! De peiling ging over 10 leerlingen uit een vwo-klas. Je kunt daarom niet zomaar zeggen dat alle vmbo-leerlingen in Nederland hetzelfde doen.",
+        "feedback_wrong": "Pas op. De vraag vraagt welke conclusie je NIET mag trekken. De peiling ging maar over 10 leerlingen uit een vwo-klas. Kijk goed naar de letters 'vwo' en 'vmbo' en naar de groepen in de tekst."
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Dit moet je onthouden",
+      "text": "Als je bronnen vergelijkt, kijk je eerst goed naar de vraag. Zoek daarna de informatie in beide bronnen en leg die naast elkaar. Kijk wat hetzelfde is en wat verschilt. Kies alleen informatie die bij je vraag past. Trek daarna een conclusie die echt uit de bronnen volgt. Ga niet verder dan wat de bronnen vertellen."
+    }
+  ]
+}

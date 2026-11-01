@@ -1,0 +1,320 @@
+{
+  "id": "bio_012",
+  "subject": "biologie",
+  "title": "Les 12 - Stofwisseling: fotosynthese en verbranding",
+  "goal": "Je leert op hoofdlijnen herkennen waarvoor fotosynthese en verbranding dienen en welke stoffen daarbij een rol spelen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Alle levende organismen hebben energie nodig om te kunnen leven, groeien en bewegen. In deze les leer je hoe planten hun eigen energievaatjes (suikers) maken met fotosynthese, en hoe alle cellen die suikers weer afbreken tijdens de verbranding.",
+      "image": "les_012_intro_stofwisseling.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is stofwisseling?",
+      "text": "Stofwisseling is een verzamelnaam voor alle processen in een levend organisme waarbij stoffen worden omgezet in andere stoffen. Als er stoffen worden opgebouwd of juist afgebroken om energie te maken, noemen we dat stofwisseling. Fotosynthese en verbranding zijn hier de twee belangrijkste voorbeelden van."
+    },
+    {
+      "type": "explanation",
+      "title": "Fotosynthese (Alleen bij planten!)",
+      "text": "Groene planten kunnen iets heel bijzonders: ze maken hun eigen voedsel. Dit gebeurt in de bladgroenkorrels van de plantencellen met behulp van zonlicht. \n\nHet schema van fotosynthese is:\nWater + Koolstofdioxide + Lichtenergie ➡️ Glucose + Zuurstof\n\nDe plant gebruikt het water uit de bodem en koolstofdioxide uit de lucht. Hij maakt hier glucose (een soort suiker) van. Zuurstof is het gas dat hierbij overblijft van via de huidmondjes naar buiten stroomt.",
+      "image": "les_012_schema_fotosynthese.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Verbranding (Bij alle levende cellen!)",
+      "text": "Mensen, dieren, schimmels, bacteriën én planten moeten cellen in leven houden. Dat doen ze door glucose af te breken. Hierbij komt de opgeslagen energie vrij. Dit noemen we verbranding. \n\nHet schema van verbranding is:\nGlucose + Zuurstof ➡️ Water + Koolstofdioxide + Energie\n\nBij de verbranding wordt de brandstof (glucose) met behulp van zuurstof afgebroken. Hierbij ontstaat energie (om te bewegen of warm te blijven) en de afvalstoffen water en koolstofdioxide.",
+      "image": "les_012_schema_verbranding.png"
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Stofwisseling is het omzetten van stoffen. Fotosynthese wordt door groene planten gedaan in het licht om glucose en zuurstof te maken. Verbranding wordt door álle levende cellen dag en nacht gedaan om energie vrij te maken uit glucose."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_012_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat heeft een groene plantencel aan de start minimaal nodig om fotosynthese te kunnen uitvoeren?",
+      "answers": [
+        "Lichtenergie, water en koolstofdioxide",
+        "Alleen pure zuurstof",
+        "Glucose en volledige donkerte"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de stoffen die de plant via de wortels en huidmondjes opneemt en de energiebron uit de natuur.",
+      "feedback_correct": "Klopt! Fotosynthese gebruikt licht, water en koolstofdioxide om op te starten.",
+      "feedback_wrong": "Zuurstof ontstaat pas aan het einde; zonder licht kan fotosynthese niet plaatsvinden.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/4 sub 4",
+      "les_id": "bio_012"
+    },
+    {
+      "id": "bio_012_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke twee stoffen ontstaan er aan het einde van het fotosyntheseproces in een groen blad?",
+      "answers": [
+        "Glucose en zuurstof",
+        "Water en koolstofdioxide",
+        "Alleen mineralen en zouten"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de energierijke suiker die de plant voor zichzelf maakt en het gas dat wij inademen.",
+      "feedback_correct": "Uitstekend! Bij fotosynthese ontstaan de producten glucose en zuurstof.",
+      "feedback_wrong": "Water en koolstofdioxide gaan er aan het begin in, die ontstaan niet aan het einde.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/4 sub 4",
+      "les_id": "bio_012"
+    },
+    {
+      "id": "bio_012_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom vindt er in alle levende cellen van planten en dieren continu verbranding plaats?",
+      "answers": [
+        "Om bruikbare energie vrij te maken uit glucose.",
+        "Om extra licht te maken voor de zon.",
+        "Om zachte cellen te veranderen in harde stenen."
+      ],
+      "correct_answer": 0,
+      "hint": "Elk levend wezen heeft een innerlijke motor die energie nodig heeft om te kunnen functioneren.",
+      "feedback_correct": "Heel goed! Het belangrijkste doel van verbranding is energie vrijmaken voor processen zoals groei en warmte.",
+      "feedback_wrong": "Cellen maken geen zonlicht en veranderen niet in stenen. Ze hebben simpelweg energie nodig.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/4 sub 4",
+      "les_id": "bio_012"
+    },
+    {
+      "id": "bio_012_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke twee stoffen heeft een cel nodig om de biologische verbranding te kunnen opstarten?",
+      "answers": [
+        "Glucose en zuurstof",
+        "Zuurstof en zand",
+        "Water en zuurstof"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan een brandstof (suiker) en het gas dat je moet inademen om in leven te blijven.",
+      "feedback_correct": "Juist! Glucose fungeert als brandstof en zuurstof is nodig om die brandstof af te breken.",
+      "feedback_wrong": "Zand kan niet verbranden in een cel. Water is een afvalproduct dat pas aan het einde ontstaat.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/4 sub 4",
+      "les_id": "bio_012"
+    },
+    {
+      "id": "bio_012_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "informatie_vergelijken",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Als we fotosynthese en verbranding met elkaar vergelijken, welke uitspraak is dan biologisch correct?",
+      "answers": [
+        "Fotosynthese bouwt glucose op; verbranding breekt glucose af om energie te leveren.",
+        "Fotosynthese en verbranding zijn exact hetzelfde proces.",
+        "Verbranding kan bij een plant alleen overdag in het felle zonlicht plaatsvinden."
+      ],
+      "correct_answer": 0,
+      "hint": "Het ene proces is een fabriek die suikers maakt, het andere proces gebruikt die suikers als een motor.",
+      "feedback_correct": "Top! Het zijn tegenovergestelde processen die elkaar perfect aanvullen.",
+      "feedback_wrong": "Ze zijn niet hetzelfde. Verbranding gaat ook 's nachts gewoon door, want cellen hebben altijd energie nodig.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/4 sub 4",
+      "les_id": "bio_012"
+    },
+    {
+      "id": "bio_012_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "begrip_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Hoe noemen biologen het totale proces in een organisme waarbij stoffen worden omgezet in andere stoffen?",
+      "answers": [
+        "Stofwisseling",
+        "Darmperistaltiek",
+        "Vlokkentest"
+      ],
+      "correct_answer": 0,
+      "hint": "Het woord zegt het al: het wisselen of omzetten van stoffen.",
+      "feedback_correct": "Perfect! Stofwisseling omvat alle chemische omzettingen in levende cellen.",
+      "feedback_wrong": "Darmperistaltiek is het knijpen van de darmen. Een vlokkentest hoort bij zwangerschapsonderzoek.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/4 sub 4",
+      "les_id": "bio_012"
+    },
+    {
+      "id": "bio_012_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "oorzaak_gevolg_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een gezonde groene kamerplant wordt voor een experiment dagenlang in een volledig donkere kast gezet. Wat is hiervan het directe gevolg?",
+      "answers": [
+        "Er is geen licht, waardoor de fotosynthese direct stopt.",
+        "De fotosynthese gaat door het donker juist veel sneller werken.",
+        "De plantencellen gaan in het donker zelf kunstmatig licht maken."
+      ],
+      "correct_answer": 0,
+      "hint": "Fotosynthese heeft een natuurlijke energiebron van buitenaf nodig om te kunnen draaien.",
+      "feedback_correct": "Klopt! Zonder lichtenergie kan de bladgroenkorrel geen fotosynthese uitgevoerd.",
+      "feedback_wrong": "Donkerte legt het proces stil. Cellen kunnen nooit uit zichzelf licht produceren.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/4 sub 4",
+      "les_id": "bio_012"
+    },
+    {
+      "id": "bio_012_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke twee stoffen ontstaan er als afvalproducten bij de biologische verbranding in een cel?",
+      "answers": [
+        "Koolstofdioxide en water",
+        "Glucose en puur zonlicht",
+        "Alleen zuurstofgas"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan wat je uitademt (een onzichtbaar gas en vochtige damp).",
+      "feedback_correct": "Juist! Bij de afbraak van glucose ontstaan koolstofdioxide en water.",
+      "feedback_wrong": "Glucose gaat er aan de start in, dat ontstaat niet. Zuurstof wordt verbruikt, niet gemaakt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/4 sub 4",
+      "les_id": "bio_012"
+    },
+    {
+      "id": "bio_012_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In welk specifiek groen onderdeel van een plantencel vindt de fotosynthese plaats?",
+      "answers": [
+        "Bladgroenkorrels",
+        "Celkern",
+        "Celmembraan"
+      ],
+      "correct_answer": 0,
+      "hint": "Het zijn de kenmerkende groene korreltjes die je in een plantencel onder de microscoop ziet.",
+      "feedback_correct": "Geweldig! Bladgroenkorrels bevatten de groene kleurstof die zonlicht kan opvangen.",
+      "feedback_wrong": "De celkern regelt de cel; het celmembraan is de buitenlaag. Alleen bladgroenkorrels doen aan fotosynthese.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/4 sub 2",
+      "les_id": "bio_012"
+    },
+    {
+      "id": "bio_012_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een plant maakt overdag suikers aan met fotosynthese. Waarom heeft een plant daarnaast ook nog verbranding nodig?",
+      "answers": [
+        "Om de gemaakte suikers weer af te breken zodat er energie vrijkomt voor groei en herstel.",
+        "Om volledig zonder water en mineralen in de bodem te kunnen overleven.",
+        "Om de plantencellen te dwingen te stoppen met ademhalen."
+      ],
+      "correct_answer": 0,
+      "hint": "Het maken van een maaltijd is stap 1, maar je moet het ook 'opeten' en verbranden om energie te krijgen.",
+      "feedback_correct": "Klopt! Planten hebben net als dieren energie nodig om te groeien, en die halen ze uit verbranding.",
+      "feedback_wrong": "Verbranding vervangt water niet. Planten ademen altijd door om in leven te blijven.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/4 sub 4",
+      "les_id": "bio_012"
+    },
+    {
+      "id": "bio_012_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "oorzaak_gevolg_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Als je intensief gaat sporten, gaan de spiercellen in je benen veel sneller glucose verbranden. Wat is hierdoor een direct gevolg voor je ademhaling?",
+      "answers": [
+        "Je gaat sneller ademhalen om meer zuurstof aan te voeren en koolstofdioxide af te voeren.",
+        "Je ademhaling stopt volledig omdat je cellen geen gassen meer nodig hebben.",
+        "Je ademhaling blijft precies hetzelfde werken als in rust."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan wat er gebeurt met je ademhaling als je een flink stuk gaat hardlopen.",
+      "feedback_correct": "Uitstekend! Meer verbranding vraagt om meer zuurstof, dus je gaat automatisch sneller ademen.",
+      "feedback_wrong": "Je ademhaling stopt niet en blijft niet gelijk; je lichaam moet harder werken om gassen te wisselen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform BI/K/4 sub 4",
+      "les_id": "bio_012"
+    },
+    {
+      "id": "bio_012_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk proces in een plantencel zorgt ervoor dat er zuurstofgas in de lucht terechtkomt waar mensen en dieren van kunnen leven?",
+      "answers": [
+        "Fotosynthese",
+        "Verbranding",
+        "Uitscheiding"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek het proces waarbij zuurstof als een nuttig afvalproduct wordt gemaakt in het bladgroen.",
+      "feedback_correct": "Klopt helemaal! Fotosynthese produceert zuurstof, wat essentieel is voor al het leven op aarde.",
+      "feedback_wrong": "Verbranding verbruikt juist zuurstof. Uitscheiding is het lozen van schadelijke stoffen bij dieren.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform BI/K/4 sub 4",
+      "les_id": "bio_012"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.5",
+    "notitie": "Les-id en alle onderliggende id's rotsvast omgezet naar bio_012 conform jouw aantekeningen masterplan v1.0.",
+    "wijziging": "Database-validatie uitgevoerd op alle topics en skills."
+  }
+}

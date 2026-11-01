@@ -1,0 +1,330 @@
+{
+  "id": "bio_025",
+  "subject": "biologie",
+  "title": "Les 25 - De huid: bescherming en temperatuurregeling",
+  "goal": "Je kunt uitleggen hoe je huid helpt bij de bescherming van het lichaam en het regelen van de lichaamstemperatuur.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "De huid regelt je temperatuur",
+      "text": "Je huid beschermt je lichaam niet alleen tegen vuil, maar werkt ook als de thermostaat van je lichaam. De huid zorgt ervoor dat je lichaamstemperatuur altijd rond de 37 graden blijft, of je nou in de vrieskou staat of intensief sport in de hitte. Je leert hoe bloedvaten en zweetklieren hierbij samenwerken.",
+      "image": "les_025_intro_temperatuur.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Wat gebeurt er als je het warm hebt?",
+      "text": "Als je lichaamstemperatuur stijgt (bijvoorbeeld door sporten of warm weer), moet je lichaam warmte kwijtraken. Dit gebeurt op twee manieren via de huid:\n1. Bloedvaten worden wijder: De bloedvaten in de lederhuid worden wijder. Er stroomt meer warm bloed vlak langs het huidoppervlak, waardoor je warmte uitstraalt naar de lucht (je krijgt een rood hoofd).\n2. Zweetklieren maken zweet: De zweetklieren produceren zweet. Dit zweet komt op je huid te liggen. Als het zweet verdampt, onttrekt dit warmte aan je huid. Hierdoor koelt je lichaam effectief af.",
+      "image": "les_025_huid_warm.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Wat gebeurt er als je het koud hebt?",
+      "text": "Als je afkoelt, moet je lichaam warmte juist vasthouden en extra warmte aanmaken:\n1. Bloedvaten worden nauwer: De bloedvaten in de lederhuid worden nauwer. Er stroomt minder warm bloed langs de buitenkant, waardoor er minder warmte via de opperhuid verloren gaat naar de koude lucht.\n2. Warmte aanmaken: Je spieren kunnen heel snel gaan samentrekken en ontspannen (rillen of klappertanden). Door deze extra verbranding in de spieren maakt je lichaam zelf warmte aan."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees eerst goed of de persoon in de vraag het warm heeft of juist koud heeft. Koppel 'warm' aan wijdere bloedvaten en zweten (afkoelen). Koppel 'koud' aan nauwere bloedvaten (warmte vasthouden) and rillen (warmte maken)."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Warmte kwijtraken = bloedvaten wijder (meer doorbloeding aan het oppervlak) + zweetklieren maken zweet (afkoeling door verdamping). Warmte vasthouden = bloedvaten nauwer (minder warmteverlies). Warmte maken = rillen/spieren samentrekken."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_025_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke laag ligt aan de uiterste buitenkant van de huid en beschermt het lichaam tegen uitdroging?",
+      "answers": [
+        "De lederhuid",
+        "Het onderhuids bindweefsel",
+        "De opperhuid",
+        "De spierlaag"
+      ],
+      "correct_answer": 2,
+      "hint": "Dit is de buitenste laag die bestaat uit de hoornlaag en de kiemlaag.",
+      "feedback_correct": "Goed! De opperhuid is de buitenste laag van de huid.",
+      "feedback_wrong": "De opperhuid ligt aan de buitenkant. Daaronder liggen de lederhuid en het onderhuids bindweefsel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_025"
+    },
+    {
+      "id": "bio_025_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "What is een belangrijke beschermende functie van de dode hoornlaag?",
+      "answers": [
+        "Nieuwe bloedcellen maken",
+        "Beschermen tegen uitdroging en beschadiging",
+        "Voedsel verteren in de maag",
+        "Zuurstof naar de spieren vervoeren"
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan de barrière-werking van de buitenkant van je lichaam.",
+      "feedback_correct": "Goed! De hoornlaag helpt beschermen tegen uitdroging en mechanische beschadiging.",
+      "feedback_wrong": "De hoornlaag vormt een beschermende buitenlaag. Hij helpt onder andere uitdroging en beschadiging voorkomen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_025"
+    },
+    {
+      "id": "bio_025_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In welk specifiek weefsel of laag van de opperhuid worden continu nieuwe cellen gevormd?",
+      "answers": [
+        "In de hoornlaag",
+        "In het onderhuids bindweefsel",
+        "In de kiemlaag",
+        "In de zweetklier"
+      ],
+      "correct_answer": 2,
+      "hint": "Deze laag ligt onder de hoornlaag en bevat actieve, delende cellen.",
+      "feedback_correct": "Goed! In de kiemlaag delen cellen en ontstaan nieuwe huidcellen.",
+      "feedback_wrong": "De kiemlaag bevat delende cellen. Daardoor worden nieuwe huidcellen gevormd.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_025"
+    },
+    {
+      "id": "bio_025_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke specifieke structuur in de lederhuid produceert de vloeistof zweet?",
+      "answers": [
+        "Een haarzakje",
+        "Een zweetklier",
+        "Een bloedvat",
+        "Een haarspier"
+      ],
+      "correct_answer": 1,
+      "hint": "De naam van deze gekronkelde klier vertelt al precies wat hij maakt.",
+      "feedback_correct": "Goed! Zweet wordt gemaakt door zweetklieren in de lederhuid.",
+      "feedback_wrong": "Zweetklieren maken zweet. Als zweet verdampt, verliest het lichaam warmte.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_025"
+    },
+    {
+      "id": "bio_025_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Op welke manier helpt de vloeistof zweet je lichaam als je het heel warm hebt?",
+      "answers": [
+        "Zweet maakt direct nieuwe huidcellen aan.",
+        "Zweet zorgt dat het bloed stopt met stromen.",
+        "Als zweet op de opperhuid verdampt, koelt het lichaam af.",
+        "Zweet maakt de hoornlaag direct dikker."
+      ],
+      "correct_answer": 2,
+      "hint": "Denk aan de warmte die nodig is om water te laten veranderen in onzichtbare waterdamp.",
+      "feedback_correct": "Goed! Bij het verdampen van zweet wordt warmte aan de huid onttrokken, waardoor je afkoelt.",
+      "feedback_wrong": "Als zweet verdampt, wordt warmte aan het lichaam onttrokken. Daardoor kan het lichaam afkoelen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_025"
+    },
+    {
+      "id": "bio_025_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er met de bloedvaten in de lederhuid op het moment dat je lichaam overtollige warmte wil afgeven?",
+      "answers": [
+        "De bloedvaten worden wijder.",
+        "De bloedvaten verdwijnen tijdelijk.",
+        "De bloedvaten veranderen in zweet.",
+        "De bloedvaten worden allemaal afgesloten."
+      ],
+      "correct_answer": 0,
+      "hint": "Er moet meer warm bloed vlak langs de koude buitenlucht stromen om warmte uit te stralen.",
+      "feedback_correct": "Goed! De bloedvaten worden wijder, waardoor er meer bloed door de huid stroomt en warmte afgeeft.",
+      "feedback_wrong": "Bij warmteafgifte worden de bloedvaten in de huid wijder. Daardoor stroomt meer bloed dicht bij het huidoppervlak.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_025"
+    },
+    {
+      "id": "bio_025_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke belangrijke uitscheidingstaak of functie heeft het vet in het onderhuids bindweefsel voor je temperatuur?",
+      "answers": [
+        "Het maakt impulsen in de hersenen.",
+        "Het helpt lichaamswarmte vast te houden (isolatie).",
+        "Het produceert vloeibaar zweet.",
+        "Het verteert onverteerbare voedingsstoffen."
+      ],
+      "correct_answer": 1,
+      "hint": "Vet geleidt warmte heel slecht. Het werkt eigenlijk net als een dikke winterjas onder je huid.",
+      "feedback_correct": "Goed! Vet in het onderhuids bindweefsel helpt om warmteverlies tegen te gaan.",
+      "feedback_wrong": "Het vet onder de huid helpt warmte vast te houden en vormt ook een isolerende laag.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_025"
+    },
+    {
+      "id": "bio_025_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "4",
+      "topic": "huid_en_temperatuur",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke structuren in de lederhuid sturen impulsen naar je hersenen, zodat je merkt dat een voorwerp heel koud of warm is?",
+      "answers": [
+        "Vetcellen",
+        "Haarzakjes",
+        "Zintuigen (warmte- en koudezintuigen)",
+        "Talgklieren"
+      ],
+      "correct_answer": 2,
+      "hint": "Zoek de biologische onderdelen die prikkels uit de omgeving kunnen opvangen en vertalen.",
+      "feedback_correct": "Goed! Zintuigen in de huid helpen onder andere temperatuurveranderingen waar te nemen.",
+      "feedback_wrong": "Zintuigen nemen prikkels waar. In de huid helpen ze je bijvoorbeeld warmte en kou te voelen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_025"
+    },
+    {
+      "id": "bio_025_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke functie heeft de donkere kleurstof pigment in de levende kiemlaag?",
+      "answers": [
+        "Het helpt de huid te beschermen tegen schadelijke ultraviolette straling.",
+        "Het maakt zweet aan als het buiten vriest.",
+        "Het vervoert zuurstof door de haarvaten.",
+        "Het zorgt ervoor dat haren rechtop gaan staan."
+      ],
+      "correct_answer": 0,
+      "hint": "Deze stof beschermt je cellen tegen de stralen van de felle zon.",
+      "feedback_correct": "Goed! Pigment in de kiemlaag helpt de huid te beschermen tegen ultraviolette straling.",
+      "feedback_wrong": "Pigment in de kiemlaag absorbeert de ultraviolette straling van de zon om dieper liggende lagen te beschermen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_025"
+    },
+    {
+      "id": "bio_025_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Jasmijn loopt in de winter buiten in de vrieskou. Welke automatische verandering aan haar bloedvaten helpt om zo min mogelijk warmte te verliezen via de huid?",
+      "answers": [
+        "De bloedvaten in de huid worden wijder.",
+        "De zweetklieren maken extra veel zweet.",
+        "De hoornlaag verdwijnt volledig.",
+        "De bloedvaten in de huid worden nauwer."
+      ],
+      "correct_answer": 3,
+      "hint": "Er moet minder warm bloed langs het koude oppervlak stromen om de warmte binnen in de romp te houden.",
+      "feedback_correct": "Goed! Nauwere bloedvaten in de huid helpen om minder warmte via het huidoppervlak te verliezen.",
+      "feedback_wrong": "Als je het koud hebt, worden de bloedvaten in de huid nauwer. Daardoor wordt er minder warmte aan de buitenlucht afgegeven.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_025"
+    },
+    {
+      "id": "bio_025_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "oorzaak_gevolg_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Karel staat op de bus te wachten in de kou en begint hevig te rillen en te klappertanden. Welk biologisch nut heeft dit rillen van de spieren?",
+      "answers": [
+        "Door het snelle samentrekken van de spieren vindt er extra verbranding plaats, waardoor het lichaam warmte aanmaakt.",
+        "Het rillen zorgt ervoor dat de zweetklieren direct zweet gaan maken.",
+        "Het rillen zorgt ervoor dat de kiemlaag direct stopt met celdeling."
+      ],
+      "correct_answer": 0,
+      "hint": "Spierarbeid kost brandstof (glucose). Welke factor komt er altijd vrij bij verbranding in een cel?",
+      "feedback_correct": "Uitstekend! Rillen is een actieve manier van je spierstelsel om extra warmte te produceren tegen de kou.",
+      "feedback_wrong": "Rillen maakt warmte aan via verbranding in de spiercellen, het activeert geen zweetklieren of celwanden.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_025"
+    },
+    {
+      "id": "bio_025_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom kan een blokkade van de zweetklieren (bijvoorbeeld door een huidaandoening) gevaarlijk zijn als je intensief gaat sporten in de felle zon?",
+      "answers": [
+        "Je lichaam kan dan geen zweet meer verdampen, waardoor je oververhit kunt raken.",
+        "Je bloedvaten worden daardoor direct omgezet in hard tandbeen.",
+        "Je grote hersenen stoppen daardoor onmiddellijk met nadenken."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de belangrijkste taak van zweet tijdens hitte of zware inspanning.",
+      "feedback_correct": "Perfect! Zonder zweetproductie mist het lichaam zijn belangrijkste koelsysteem en stijgt de temperatuur te snel.",
+      "feedback_wrong": "Zonder zweet verdampen raak je oververhit. Het verandert bloedvaten uiteraard niet in tandbeen of hersenstam.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_025",
+      "image": "les_025_q12_oververhitting.png"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.0",
+    "notitie": "Les-id en alle onderliggende id's definitief omgezet naar bio_025 conform ons goedgekeurde masterplan v1.0. Structuur volledig vlakgetrokken.",
+    "wijzigingen": "Vragen-array opgeschoond van nestings, codes gecontroleerd tegen topic huid_en_temperatuur, en twee vragen over rillen and oververhitting toegevoegd."
+  }
+}

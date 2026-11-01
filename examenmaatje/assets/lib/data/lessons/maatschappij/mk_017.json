@@ -1,0 +1,323 @@
+{
+  "id": "mk_017",
+  "subject": "maatschappij",
+  "title": "Les 17 – Verkiezingen en het kiesstelsel",
+  "goal": "Je leert waarom verkiezingen belangrijk zijn en hoe het Nederlandse kiesstelsel werkt.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Verkiezingen",
+      "text": "Verkiezingen zijn een belangrijk onderdeel van de democratie. Burgers kiezen dan volksvertegenwoordigers.\n\nTijdens verkiezingen kunnen burgers invloed uitoefenen door te stemmen op kandidaten en politieke partijen.\n\nIn deze les leer je wat een zetel is, wat actief en passief kiesrecht betekenen en hoe het Nederlandse kiesstelsel werkt."
+    },
+    {
+      "type": "explanation",
+      "title": "Waarom zijn verkiezingen belangrijk?",
+      "text": "Verkiezingen zijn belangrijk omdat burgers kunnen kiezen wie hen vertegenwoordigt.\n\nIn Nederland zijn verkiezingen vrij en geheim. Je mag zelf bepalen op wie je stemt. Andere mensen hoeven niet te weten op wie je hebt gestemd.\n\nEen politieke partij is een groep mensen die dezelfde of vergelijkbare ideeën heeft over hoe het land, de provincie of de gemeente moet worden bestuurd.\n\nEen kandidaat is iemand die namens een partij of als onafhankelijke kandidaat gekozen kan worden.\n\nNa de verkiezingen worden de stemmen gebruikt om de zetels te verdelen."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een zetel?",
+      "text": "Een zetel is een plaats in een volksvertegenwoordiging, bijvoorbeeld in de Tweede Kamer.\n\nEén zetel betekent dus één plaats voor een volksvertegenwoordiger.\n\nDe Tweede Kamer heeft 150 zetels. Partijen die veel stemmen krijgen, krijgen meestal ook veel zetels."
+    },
+    {
+      "type": "explanation",
+      "title": "Hoe worden de zetels verdeeld?",
+      "text": "Nederland gebruikt het stelsel van evenredige vertegenwoordiging.\n\nDit betekent dat het aandeel stemmen van een partij in grote lijnen bepaalt welk aandeel van de zetels zij krijgt. Een partij met ongeveer 10% van de stemmen krijgt dus ongeveer 10% van de zetels.\n\nElke stem telt in principe even zwaar mee. Een partij moet wel genoeg stemmen halen om een zetel te krijgen.\n\nDoor dit systeem kunnen meerdere partijen zetels krijgen. Daardoor moeten partijen na verkiezingen vaak samenwerken om samen een regering te vormen."
+    },
+    {
+      "type": "explanation",
+      "title": "Een klein verschil kan belangrijk zijn",
+      "text": "Ook een kleine partij kan in de Tweede Kamer komen als zij genoeg stemmen haalt voor een zetel.\n\nKleine partijen hebben daardoor bij evenredige vertegenwoordiging meer kans op een plaats in de volksvertegenwoordiging dan bij veel vormen van een meerderheidsstelsel."
+    },
+    {
+      "type": "explanation",
+      "title": "Actief en passief kiesrecht",
+      "text": "Er zijn twee belangrijke begrippen bij kiesrecht.\n\nActief kiesrecht betekent dat je mag stemmen.\n\nPassief kiesrecht betekent dat je jezelf verkiesbaar mag stellen. Je kunt dan gekozen worden als volksvertegenwoordiger.\n\nJe mag niet automatisch stemmen of gekozen worden. Daarvoor gelden wettelijke voorwaarden."
+    },
+    {
+      "type": "explanation",
+      "title": "Het meerderheidsstelsel",
+      "text": "Niet ieder land gebruikt hetzelfde kiesstelsel.\n\nBij een meerderheidsstelsel is het land verdeeld in kiesgebieden. In het eenvoudige model dat we hier gebruiken, krijgt de partij die in een gebied de meerderheid van de stemmen behaalt de zetel of zetels van dat gebied.\n\nEen voordeel van zo'n systeem kan zijn dat één grote partij sneller een meerderheid in de volksvertegenwoordiging krijgt. Een nadeel is dat kleinere partijen minder kans hebben om zetels te krijgen.\n\nBij het Nederlandse systeem van evenredige vertegenwoordiging kunnen juist meerdere partijen zetels krijgen."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je vragen over verkiezingen aan",
+      "text": "1. Kijk eerst waar de vraag over gaat: stemmen, zetels, kiesrecht of een kiesstelsel.\n\n2. Denk bij zetels aan stemmen: bij evenredige vertegenwoordiging krijgt een partij meestal ongeveer hetzelfde aandeel van de zetels als haar aandeel van de stemmen.\n\n3. Onthoud het verschil tussen actief en passief kiesrecht:\n   - actief = je mag stemmen;\n   - passief = je mag gekozen worden.\n\n4. Bij het eenvoudige meerderheidsstelsel in deze les krijgt de partij die in een gebied de meerderheid van de stemmen behaalt de zetel of zetels van dat gebied.\n\n5. Lees bij een vraag over verkiezingen goed welke informatie in de tekst of tabel staat."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1 – Van stemmen naar zetels",
+      "question": {
+        "id": "mk_017_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.2.2",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Verband leggen tussen stemmen en zetels",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Partij A krijgt veel meer stemmen dan Partij B. Wat is volgens het Nederlandse kiesstelsel meestal het gevolg?",
+        "answers": [
+          "Partij B krijgt automatisch alle zetels.",
+          "Beide partijen krijgen altijd evenveel zetels.",
+          "Partij A krijgt meestal meer zetels dan Partij B.",
+          "Alleen de grootste partij mag in de Tweede Kamer komen."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan de verdeling van zetels. Welke partij heeft de meeste stemmen?",
+        "feedback_correct": "Goed! Bij evenredige vertegenwoordiging krijgt een partij met meer stemmen meestal ook meer zetels.",
+        "feedback_wrong": "Niet juist. Bij evenredige vertegenwoordiging hangt het aantal zetels samen met het aandeel stemmen dat een partij krijgt.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2 – Vrij stemmen",
+      "question": {
+        "id": "mk_017_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.2.1",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Kenmerken van vrije verkiezingen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Tijdens een verkiezing vertelt een werkgever aan werknemers dat zij op een bepaalde partij moeten stemmen. Waarom past dit niet bij vrije verkiezingen?",
+        "answers": [
+          "Omdat iedereen dan verplicht moet stemmen.",
+          "Omdat kiezers zelf moeten kunnen bepalen op wie zij stemmen.",
+          "Omdat alleen politieke partijen mogen stemmen.",
+          "Omdat stemmen altijd in het openbaar moet gebeuren."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de vrijheid van de kiezer.",
+        "feedback_correct": "Goed! Bij vrije verkiezingen bepaalt iedere kiezer zelf op wie hij of zij stemt.",
+        "feedback_wrong": "Niet juist. Bij vrije verkiezingen moet een kiezer zelf kunnen bepalen op wie hij of zij stemt.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3 – Wat is een politieke partij?",
+      "question": {
+        "id": "mk_017_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.2.1",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Begrip politieke partij herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat is een politieke partij?",
+        "answers": [
+          "Een organisatie die bepaalt wie verplicht moet stemmen.",
+          "Een groep mensen die alleen tijdens verkiezingen bij elkaar komt.",
+          "Een groep mensen die samen ideeën heeft over hoe het land of de gemeente moet worden bestuurd.",
+          "Een groep rechters die beslist welke wetten worden gemaakt."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan mensen die dezelfde of vergelijkbare politieke ideeën hebben.",
+        "feedback_correct": "Juist! Een politieke partij bestaat uit mensen met dezelfde of vergelijkbare ideeën over hoe de samenleving bestuurd moet worden.",
+        "feedback_wrong": "Niet juist. Denk aan een groep mensen met politieke ideeën die samen aan verkiezingen kan meedoen.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4 – Wat is een zetel?",
+      "question": {
+        "id": "mk_017_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.2.2",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Begrip zetel herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een partij heeft na de verkiezingen 20 zetels in de Tweede Kamer. Wat betekent dit?",
+        "answers": [
+          "De partij heeft 20 gebouwen voor verkiezingen.",
+          "De partij heeft 20 verschillende verkiezingen gewonnen.",
+          "De partij heeft 20 ministers in het kabinet.",
+          "De partij heeft 20 plaatsen in de Tweede Kamer."
+        ],
+        "correct_answer": 3,
+        "hint": "Een zetel is een plaats in een volksvertegenwoordiging.",
+        "feedback_correct": "Goed! Een zetel is een plaats in de volksvertegenwoordiging. De partij heeft dus 20 plaatsen in de Tweede Kamer.",
+        "feedback_wrong": "Niet juist. Denk aan de betekenis van het woord zetel bij verkiezingen.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027, ML2/K/4"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5 – Evenredige vertegenwoordiging",
+      "question": {
+        "id": "mk_017_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.2.2",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Begrip evenredige vertegenwoordiging herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Hoe heet het Nederlandse kiesstelsel waarbij de zetels worden verdeeld op basis van het aantal stemmen dat partijen krijgen?",
+        "answers": [
+          "Het meerderheidsstelsel.",
+          "De Trias Politica.",
+          "Het stelsel van evenredige vertegenwoordiging.",
+          "Het systeem van geheime besluitvorming."
+        ],
+        "correct_answer": 2,
+        "hint": "Dit is de naam van het Nederlandse kiesstelsel.",
+        "feedback_correct": "Goed! Bij evenredige vertegenwoordiging worden de zetels verdeeld op basis van het aandeel stemmen dat de partijen krijgen.",
+        "feedback_wrong": "Niet juist. Zoek naar de naam van het Nederlandse kiesstelsel waarbij partijen zetels krijgen op basis van hun aandeel in de stemmen.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6 – Stemmen en zetels",
+      "question": {
+        "id": "mk_017_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.2.2",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een raad heeft 10 zetels. Er zijn 100 stemmen uitgebracht. In dit voorbeeld worden de zetels evenredig verdeeld.\n\n| Partij | Stemmen | Zetels |\n|---|---:|---:|\n| Partij A | 40 | 4 |\n| Partij B | 50 | ? |\n| Partij C | 10 | 1 |\n\nHoeveel zetels krijgt Partij B volgens deze uitslag?",
+        "answers": [
+          "4 zetels.",
+          "5 zetels.",
+          "1 zetel.",
+          "3 zetels."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk hoeveel stemmen nodig zijn voor één zetel in deze tabel.",
+        "feedback_correct": "Goed! In dit voorbeeld zijn er 10 zetels voor 100 stemmen. Elke 10 stemmen leveren één zetel op, dus Partij B krijgt 5 zetels.",
+        "feedback_wrong": "Kijk nog eens naar de verhouding tussen stemmen en zetels. In dit voorbeeld zijn er 10 zetels voor 100 stemmen.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7 – De grootste partij",
+      "question": {
+        "id": "mk_017_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.2.2",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Uitslag van verkiezingen interpreteren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bij verkiezingen voor een gemeenteraad krijgt Partij A 20% van de stemmen, Partij B 45% en Partij C 35%. Welke partij heeft volgens deze uitslag de meeste stemmen gekregen?",
+        "answers": [
+          "Partij C.",
+          "Partij A.",
+          "Alle drie de partijen hebben evenveel stemmen gekregen.",
+          "Partij B."
+        ],
+        "correct_answer": 3,
+        "hint": "Vergelijk de drie percentages. Welk percentage is het hoogst?",
+        "feedback_correct": "Goed! Partij B heeft met 45% het hoogste percentage stemmen gekregen.",
+        "feedback_wrong": "Niet juist. Vergelijk de percentages van de drie partijen en kies het hoogste percentage.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8 – Actief kiesrecht",
+      "question": {
+        "id": "mk_017_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.2.1",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Actief en passief kiesrecht onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een burger mag bij een verkiezing stemmen op een kandidaat. Welk begrip hoort hierbij?",
+        "answers": [
+          "Evenredige vertegenwoordiging.",
+          "Passief kiesrecht.",
+          "Actief kiesrecht.",
+          "Meerderheidsstelsel."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan het verschil tussen zelf stemmen en zelf gekozen kunnen worden.",
+        "feedback_correct": "Juist! Actief kiesrecht betekent dat je mag stemmen.",
+        "feedback_wrong": "Niet juist. Denk aan het verschil tussen stemmen en verkiesbaar zijn.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9 – Het meerderheidsstelsel",
+      "question": {
+        "id": "mk_017_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.2.2",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Meerderheidsstelsel herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een bepaald kiesstelsel is een land verdeeld in gebieden. In elk gebied krijgt de partij die de meerderheid van de stemmen behaalt de zetel of zetels van dat gebied. Welke naam past het best bij dit kiesstelsel?",
+        "answers": [
+          "Meerderheidsstelsel.",
+          "Evenredige vertegenwoordiging.",
+          "Trias Politica.",
+          "Geheim kiesstelsel."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar wat er gebeurt met de partij die in een gebied de meerderheid van de stemmen krijgt.",
+        "feedback_correct": "Goed! In het eenvoudige meerderheidsstelsel uit deze les krijgt de partij die in een gebied de meerderheid van de stemmen behaalt de zetel of zetels van dat gebied.",
+        "feedback_wrong": "Niet juist. Bij evenredige vertegenwoordiging worden zetels verdeeld op basis van het aandeel stemmen. Hier gaat het om een meerderheid in een gebied.",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10 – Twee kiesstelsels vergelijken",
+      "question": {
+        "id": "mk_017_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.2.2",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Gevolgen van kiesstelsels vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een land heeft een kiesstelsel waarbij het hele land is verdeeld in kleine gebieden. In elk gebied krijgt de partij die de meerderheid van de stemmen behaalt de zetel of zetels van dat gebied.\n\nWat is een belangrijk verschil met het Nederlandse kiesstelsel?",
+        "answers": [
+          "In Nederland kan maar één partij zetels krijgen.",
+          "In Nederland kunnen meerdere partijen zetels krijgen op basis van het aandeel stemmen dat zij halen.",
+          "In Nederland mogen burgers niet zelf kiezen op welke partij zij stemmen.",
+          "In Nederland krijgt de partij met de meeste stemmen altijd alle zetels."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan wat er met de zetels gebeurt als meerdere partijen stemmen krijgen.",
+        "feedback_correct": "Goed. In het voorbeeld hangt de zetelverdeling af van de meerderheid in afzonderlijke gebieden. In Nederland worden zetels verdeeld op basis van het aandeel stemmen dat partijen krijgen.",
+        "feedback_wrong": "Vergelijk beide systemen. In het voorbeeld telt de meerderheid in elk gebied. Hoe worden de zetels in Nederland verdeeld?",
+        "source": "CvTE",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Samenvatting",
+      "text": "Goed gedaan! Je weet nu meer over verkiezingen en kiesstelsels.\n\nOnthoud vooral deze begrippen:\n\n• Verkiezingen: burgers kiezen volksvertegenwoordigers.\n• Actief kiesrecht: je mag stemmen.\n• Passief kiesrecht: je mag gekozen worden.\n• Zetel: een plaats in de volksvertegenwoordiging.\n• Evenredige vertegenwoordiging: de zetels worden verdeeld op basis van het aandeel stemmen dat partijen krijgen.\n• Meerderheidsstelsel: in het eenvoudige model uit deze les krijgt de partij die in een gebied de meerderheid van de stemmen behaalt de zetel of zetels van dat gebied.\n\nBij evenredige vertegenwoordiging kunnen meerdere partijen zetels krijgen. Daardoor moeten partijen na verkiezingen vaak samenwerken."
+    }
+  ]
+}

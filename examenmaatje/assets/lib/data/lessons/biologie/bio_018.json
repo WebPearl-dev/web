@@ -1,0 +1,339 @@
+{
+  "id": "bio_018",
+  "subject": "biologie",
+  "title": "Les 18 - Het hart en de bloedsomloop",
+  "goal": "Je kunt belangrijke onderdelen van het hart en de bloedvaten benoemen en uitleggen hoe bloed door de grote en kleine bloedsomloop stroomt.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Waarom is je hart belangrijk?",
+      "text": "Je hart pompt continu bloed door je lichaam. Dit bloed vervoert onder andere zuurstof, voedingsstoffen en warmte naar al je cellen. Ook de hartspier zelf heeft constant zuurstof nodig om te kunnen blijven pompen. In deze les leer je over de bouw van het hart, belangrijke bloedvaten en de bloedsomloop.",
+      "image": "les_018_intro_hart.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De onderdelen van het hart",
+      "text": "Het hart is een holle spier die bestaat uit een linkerhelft en een rechterhelft. Elke helft heeft twee ruimtes:\n1. Boezems (boven): Ontvangen het bloed dat via aders het hart binnenstroomt.\n2. Kamers (onder): Pompen het bloed met kracht het hart uit in de slagaders.\nTussen de boezems en de kamers (en aan het begin van de grote slagaders) zitten hartkleppen. Deze kleppen werken als klapdeuren: ze zorgen ervoor dat het bloed maar één kant op stroomt en nooit kan terugstromen.",
+      "image": "les_018_anatomie_hart.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De grote en kleine bloedsomloop",
+      "text": "De mens heeft een dubbele bloedsomloop, die bestaat uit twee vaste routes:\n1. Kleine bloedsomloop: Dit is de route van het hart naar de longen en weer terug. Het bloed stroomt vanuit de rechterkamer naar de longen. Daar neemt het bloed verse zuurstof op en geeft koolstofdioxide af. Het stroomt zuurstofrijk terug naar de linkerboezem.\n2. Grote bloedsomloop: Dit is de route van het hart naar de rest van het lichaam en weer terug. Het zuurstofrijke bloed stroomt vanuit de linkerkamer via de aorta naar alle organen (zoals je hersenen en spieren). Daar geeft het zuurstof af en stroomt zuurstofarm via de holle aders terug naar de rechterboezem."
+    },
+    {
+      "type": "explanation",
+      "title": "Drie soorten bloedvaten",
+      "text": "Je lichaam bevat drie typen bloedvaten, elk met een eigen taak:\n* Slagaders: Voeren bloed ván het hart áf naar de organen toe. De wanden zijn dik en elastisch omdat de bloeddruk hier hoog is.\n* Aders: Voeren bloed vanuit de organen terúg náár het hart toe. De wanden zijn dunner en bevatten vaak kleppen.\n* Haarvaten: De allerkleinste bloedvaten met een flinterdunne wand van slechts één cellaag dik. Hier vindt de daadwerkelijke uitwisseling van stoffen (zoals zuurstof en voedingsstoffen) tussen het bloed en de cellen plaats.",
+      "image": "les_018_bloedvaten_typen.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De kransvaten",
+      "text": "Omdat het hart een actieve spier is, heeft de hartspier zelf ook constant brandstof nodig. De kransslagaders vertakken direct vanaf de aorta en brengen zuurstofrijk bloed naar de hartspier toe. De kransaders voeren het zuurstofarme bloed van de hartspier weer af richting de rechterboezem."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees de vraag rustig door. Let goed op de stroomrichting van het bloed: slagaders gaan altijd van het hart af, aders gaan altijd naar het hart toe. Onthoud dat de rechterkant van het hart zuurstofarm bloed bevat en de linkerkant zuurstofrijk bloed."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Boezems ontvangen bloed, kamers pompen het weg. Hartkleppen voorkomen terugstroom. Kleine bloedsomloop: rechterkamer ➡️ longen ➡️ linkerboezem (zuurstof ophalen). Grote bloedsomloop: linkerkamer ➡️ lichaam ➡️ rechterboezem (zuurstof afgeven). Slagaders gaan van het hart af; aders gaan naar het hart toe; haarvaten wisselen stoffen uit."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_018_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk grote, elastische bloedvat voert zuurstofrijk bloed vanuit de linkerkamer van het hart rechtstreeks naar de rest van het lichaam?",
+      "answers": [
+        "De aorta",
+        "De holle aders",
+        "De kransaders",
+        "De longaders"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit is de allergrootste lichaamsslagader van het menselijk lichaam.",
+      "feedback_correct": "Goed gedaan! De aorta is de grote lichaamsslagader die al je organen van bloed voorziet.",
+      "feedback_wrong": "De aorta voert bloed vanuit het hart naar het lichaam. De holle aders voeren het bloed juist weer terug naar het hart.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_018"
+    },
+    {
+      "id": "bio_018_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is de belangrijkste biologische functie van de bovenste en onderste holle aders?",
+      "answers": [
+        "Ze voeren bloed vanuit het hart rechtstreeks naar de longen.",
+        "Ze voeren zuurstofarm bloed vanuit het lichaam terug naar het hart.",
+        "Ze brengen bloed vanuit het hart naar de aorta.",
+        "Ze voeren bloed vanuit de hartspier naar de rest van het lichaam."
+      ],
+      "correct_answer": 1,
+      "hint": "Let op de stroomrichting: aders stromen altijd terúg naar het regelcentrum (het hart).",
+      "feedback_correct": "Klopt! De holle aders verzamelen het zuurstofarme bloed uit je organen en brengen het terug naar de rechterboezem.",
+      "feedback_wrong": "De holle aders brengen bloed terug naar het hart. Het vat dat bloed naar de longen brengt is de longslagader.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_018"
+    },
+    {
+      "id": "bio_018_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke vaste route beschrijft de stappen van de kleine bloedsomloop in het menselijk lichaam?",
+      "answers": [
+        "Linkerkamer → lichaam → rechterboezem",
+        "Rechterkamer → longen → linkerboezem",
+        "Linkerboezem → lichaam → linkerkamer",
+        "Rechterboezem → lichaam → linkerboezem"
+      ],
+      "correct_answer": 1,
+      "hint": "Het doel van de kleine bloedsomloop is koolstofdioxide afgeven en verse zuurstof ophalen bij de ademhalingsorganen.",
+      "feedback_correct": "Uitstekend! De kleine bloedsomloop loopt van de rechterkamer via de longen terug naar de linkerboezem.",
+      "feedback_wrong": "De kleine bloedsomloop gaat altijd via de longen om zuurstof op te halen (rechterkamer ➡️ longen ➡️ linkerboezem).",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_018"
+    },
+    {
+      "id": "bio_018_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom zijn de kransslagaders die aan de buitenkant van het hart liggen van levensbelang?",
+      "answers": [
+        "Ze voeren bloed vanuit het lichaam terug naar het hart.",
+        "Ze voeren bloed naar de longen om daar zuurstof op te nemen.",
+        "Ze voorzien de hartspier zelf van zuurstofrijk bloed en voedingsstoffen.",
+        "Ze zorgen ervoor dat het gekauwde voedsel door de slokdarm glijdt."
+      ],
+      "correct_answer": 2,
+      "hint": "Het hart is een spier die dag en nacht keihard moet werken en heeft zelf ook constant brandstof nodig.",
+      "feedback_correct": "Juist! De kransslagaders voorzien de kloppende hartspier zelf van de nodige zuurstof en bouwstoffen.",
+      "feedback_wrong": "Kransslagaders verzorgen het hart zelf. De kransaders voeren het verbruikte bloed daarna weer af.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_018"
+    },
+    {
+      "id": "bio_018_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke biologische uitspraak over de functie van de kransaders is juist?",
+      "answers": [
+        "Ze voeren het zuurstofarme bloed van de hartspier weg.",
+        "Ze voeren bloed vanuit het hart rechtstreeks naar het hele lichaam.",
+        "Ze brengen ingeademde lucht naar de longblaasjes.",
+        "Ze voeren bloed vanuit de longen rechtstreeks naar de aorta."
+      ],
+      "correct_answer": 0,
+      "hint": "Slagaders brengen stoffen ergens naartoe, aders voeren het verbruikte bloed weer af.",
+      "feedback_correct": "Heel goed! Kransaders voeren het verbruikte, zuurstofarme bloed van de hartspier af richting de rechterboezem.",
+      "feedback_wrong": "Kransaders voeren bloed ván de hartspier áf. Kransslagaders brengen juist bloed náár de hartspier toe.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_018"
+    },
+    {
+      "id": "bio_018_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk belangrijk biologisch proces vindt er uitsluitend plaats via de flinterdunne wanden van de haarvaten?",
+      "answers": [
+        "Het hart wordt elektrisch aangestuurd door de hersenen.",
+        "Het bloed wordt vanuit het hart met maximale kracht weggepompt.",
+        "Er worden voedingsstoffen, afvalstoffen en gassen uitgewisseld tussen het bloed en de cellen.",
+        "Het voedsel wordt mechanisch gekneed en afgebroken."
+      ],
+      "correct_answer": 2,
+      "hint": "Haarvaten zijn zo dun dat stoffen er heel makkelijk doorheen kunnen glippen naar de omliggende cellen.",
+      "feedback_correct": "Perfect! De haarvaten zijn de plekken waar organen zuurstof en voedsel opnemen en afvalstoffen afgeven.",
+      "feedback_wrong": "Wegpompen gebeurt door de kamers. Via de haarvaten vindt puur de uitwisseling van stoffen met cellen plaats.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_018"
+    },
+    {
+      "id": "bio_018_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is het belangrijkste functionele verschil tussen een slagader (arterie) and een gewone ader (vene)?",
+      "answers": [
+        "Een slagader voert bloed van het hart af en een ader voert bloed naar het hart toe.",
+        "Een slagader vervoert alleen zuurstof en een ader alleen afvalstoffen.",
+        "Een ader voert bloed van het hart af en een slagader voert bloed naar het hart toe.",
+        "Een slagader vervoert vloeibaar bloed en een ader vervoert gasvormige lucht."
+      ],
+      "correct_answer": 0,
+      "hint": "Kijk puur naar de stroomrichting ten opzichte van de centrale pomp (het hart).",
+      "feedback_correct": "Top! Slagaders stromen ván het hart áf (hoge druk); aders stromen náár het hart toe (lage druk).",
+      "feedback_wrong": "Bloedvaten vervoeren nooit lucht. De stroomrichting bepaalt de naam, niet het zuurstofgehalte.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_018"
+    },
+    {
+      "id": "bio_018_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke route beschrijft de stappen van de grote bloedsomloop (lichaamsbloedsomloop) van de mens?",
+      "answers": [
+        "Rechterkamer → longen → linkerboezem",
+        "Linkerkamer → lichaam → rechterboezem",
+        "Rechterboezem → longen → rechterkamer",
+        "Linkerboezem → longen → rechterboezem"
+      ],
+      "correct_answer": 1,
+      "hint": "De grote bloedsomloop voorziet je hele lichaam (armen, benen, organen) van zuurstofrijk bloed vanaf de linkerkant.",
+      "feedback_correct": "Juist! De grote bloedsomloop start in de linkerkamer, stroomt door het hele lichaam en eindigt in de rechterboezem.",
+      "feedback_wrong": "De route via de longen is de kleine bloedsomloop. Van de linkerkamer naar het lichaam is de grote bloedsomloop.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_018"
+    },
+    {
+      "id": "bio_018_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Naast gassen en voedingsstoffen, welke andere belangrijke factor verdeelt het bloedstelsel door je hele lichaam?",
+      "answers": [
+        "Lichaamswarmte",
+        "Onverteerbare voedingsvezels",
+        "Tandglazuur-deeltjes"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan waarom je actieve spieren warm worden and hoe die warmte naar je koude handen of voeten stroomt.",
+      "feedback_correct": "Klopt helemaal! Bloed zorgt voor het transport van warmte, waardoor je lichaamstemperatuur overal gelijk blijft.",
+      "feedback_wrong": "Voedingsvezels blijven in de darm; tandglazuur zit op je tanden. Het bloed transporteert wel warmte.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_018"
+    },
+    {
+      "id": "bio_018_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is de juiste taakverdeling tussen de boezems en de kamers in het menselijk hart?",
+      "answers": [
+        "De boezems pompen het bloed met kracht de bloedvaten in; de kamers vangen het bloed alleen op.",
+        "De boezems maken zelf verse zuurstof aan; de kamers breken de afvalstoffen af.",
+        "De boezems ontvangen het binnenkomende bloed; de kamers pompen het bloed het hart uit."
+      ],
+      "correct_answer": 2,
+      "hint": "De boezems liggen boven en werken als 'wachtkamers' voor bloed uit de aders; de kamers beneden hebben dikke spierwanden om te persen.",
+      "feedback_correct": "Perfect! Boezems vangen bloed op uit de aders, kamers persen het bloed met hun spierwand de slagaders in.",
+      "feedback_wrong": "Het is precies andersom: boezems ontvangen, kamers pompen het bloed met hun spierwanden weg.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_018"
+    },
+    {
+      "id": "bio_018_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In het hart bevinden zich verschillende vliezen die we de hartkleppen noemen. Wat is de belangrijkste functie van deze hartkleppen?",
+      "answers": [
+        "Ze zorgen ervoor dat het bloed maar één kant op stroomt en niet kan terugstromen.",
+        "Ze filteren bacteriën en virussen uit het langsstromende bloed.",
+        "Ze veranderen zuurstofarm bloed direct in zuurstofrijk bloed."
+      ],
+      "correct_answer": 0,
+      "hint": "Hartkleppen werken als biologische klapdeuren die achter het bloed dichtslaan.",
+      "feedback_correct": "Uitstekend! De kleppen sluiten af zodra het bloed erdoor is, zodat het niet terug kan lopen naar de boezems.",
+      "feedback_wrong": "Kleppen filteren geen bacteriën en maken geen zuurstof; ze bepalen puur de stroomrichting van het bloed.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_018"
+    },
+    {
+      "id": "bio_018_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "oorzaak_gevolg_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er specifiek met het bloed wanneer het door de haarvaten van de longen (kleine bloedsomloop) stroomt?",
+      "answers": [
+        "Het bloed geeft koolstofdioxide af aan de lucht en neemt verse zuurstof op.",
+        "Het bloed verliest al zijn warmte and bevriest onmiddellijk.",
+        "Het bloed stroomt direct door naar de maag om voedsel te verteren."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan gaswisseling in de longblaasjes: welk gas adem je uit en welk gas wil je lichaam juist hebben?",
+      "feedback_correct": "Klopt helemaal! In de longen vindt gaswisseling plaats: afvalgas (koolstofdioxide) gaat eruit, zuurstof komt erin.",
+      "feedback_wrong": "Het bloed bevriest uiteraard niet en gaat in de kleine bloedsomloop direct terug naar het hart, niet naar de maag.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_018",
+      "image": "les_018_q12_longen.png"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.0",
+    "notitie": "Les-id en alle onderliggende id's definitief omgezet naar bio_018 conform het goedgekeurde 30-lessen masterplan v1.0. Structuur volledig vlakgetrokken.",
+    "wijzigingen": "Vragen-array opgeschoond van nestings, codes gecorrigeerd naar topic transport_en_bloed, en twee vragen over kleppen en longwisseling toegevoegd."
+  }
+}

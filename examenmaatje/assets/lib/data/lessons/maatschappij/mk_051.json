@@ -1,0 +1,291 @@
+
+{
+  "id": "mk_051",
+  "subject": "maatschappij",
+  "content_type": "practice_test",
+  "title": "Les 51 – Grote oefentoets: leervaardigheden, politiek en criminaliteit",
+  "goal": "Dit is de grote afsluitende oefentoets van Maatschappijkunde Maatje. De leerling oefent met kennis en vaardigheden uit de hele leerroute: leervaardigheden, Politiek en bestuur en criminaliteit en rechtsstaat. De leerling past kennis toe in korte teksten, praktijksituaties en tabellen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Grote oefentoets",
+      "text": "Je hebt de afgelopen lessen stap voor stap veel geleerd over maatschappij en politiek.\n\nJe hebt geoefend met het herkennen van feiten en meningen, het lezen van tabellen en het trekken van conclusies. Je hebt geleerd hoe politieke besluiten worden genomen, wat het parlement en de regering doen en welke grondrechten burgers hebben.\n\nOok heb je geleerd hoe onze rechtsstaat werkt. Je weet wat een verdachte is, welke rechten een verdachte heeft en welke taken politie, Openbaar Ministerie en rechter hebben.\n\nIn deze laatste oefentoets komt alles bij elkaar.\n\nLees rustig. Kijk goed naar de informatie die bij een vraag staat en kies het antwoord dat het beste past."
+    },
+
+    {
+      "type": "question",
+      "title": "Vraag 1 – Feit of mening?",
+      "question": {
+        "id": "mk_051_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Feit en mening",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welk onderdeel uit dit bericht is een feit?",
+        "context": "De gemeenteraad heeft dinsdag besloten om €50.000 beschikbaar te stellen voor een nieuw sportveld.\n\nEen buurtbewoner reageert: \"Ik vind dit een slecht besluit. Het geld had volgens mij beter gebruikt kunnen worden voor de fietspaden.\"",
+        "answers": [
+          "De buurtbewoner vindt het besluit slecht.",
+          "Het geld had volgens de buurtbewoner beter aan fietspaden kunnen worden besteed.",
+          "De gemeenteraad heeft €50.000 beschikbaar gesteld voor een nieuw sportveld."
+        ],
+        "correct_answer": 2,
+        "hint": "Een feit kun je controleren. Een mening geeft aan wat iemand vindt of denkt.",
+        "feedback_correct": "Goed! Het besluit van de gemeenteraad is een gebeurtenis die je kunt controleren. De uitspraken van de buurtbewoner geven zijn mening weer.",
+        "feedback_wrong": "Kijk welke uitspraak een gebeurtenis beschrijft en welke uitspraken vertellen wat iemand ervan vindt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2 – Conclusie uit een tabel",
+      "question": {
+        "id": "mk_051_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Gegevens interpreteren",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een school onderzoekt hoe leerlingen naar school reizen. Welke conclusie kun je rechtstreeks uit deze tabel trekken?",
+        "context": "Vervoermiddel | Aantal leerlingen\nFiets | 48\nBus | 22\nLopend | 15\nAuto | 15",
+        "answers": [
+          "De meeste leerlingen wonen dichtbij school.",
+          "De fiets is in deze groep het meest gebruikte vervoermiddel.",
+          "De leerlingen die fietsen vinden fietsen leuker dan leerlingen die met de bus gaan."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk alleen naar de aantallen in de tabel.",
+        "feedback_correct": "Goed! In deze groep is het aantal leerlingen dat met de fiets komt het grootst.",
+        "feedback_wrong": "Kijk alleen naar wat de aantallen in de tabel laten zien. Informatie over waarom leerlingen voor een vervoermiddel kiezen staat er niet bij.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3 – Een argument herkennen",
+      "question": {
+        "id": "mk_051_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Standpunten en argumenten",
+        "skill": "Argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welk argument geeft de inwoner voor zijn standpunt?",
+        "context": "De gemeente wil meer bomen planten langs een drukke weg.\n\nEen inwoner zegt: \"Ik ben voor het plan, omdat extra bomen volgens mij voor meer groen in de straat zorgen.\"",
+        "answers": [
+          "De gemeente wil meer bomen planten.",
+          "De inwoner is voor het plan.",
+          "Extra bomen zorgen volgens de inwoner voor meer groen in de straat."
+        ],
+        "correct_answer": 2,
+        "hint": "Een argument geeft een reden waarom iemand iets vindt.",
+        "feedback_correct": "Goed! De inwoner geeft met deze uitspraak een reden voor zijn standpunt.",
+        "feedback_wrong": "Zoek naar de reden waarmee de inwoner uitlegt waarom hij voor het plan is.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4 – Het parlement",
+      "question": {
+        "id": "mk_051_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.6",
+        "topic": "Parlement",
+        "skill": "toepassen van kennis over de medewetgevende taak van de Tweede Kamer",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De regering heeft een wetsvoorstel gemaakt over nieuwe regels voor het openbaar vervoer. Het wetsvoorstel wordt besproken in de Tweede Kamer. Kamerleden kunnen wijzigingen voorstellen en stemmen uiteindelijk over het wetsvoorstel. Welke taak van de Tweede Kamer zie je hier vooral?",
+        "context": "",
+        "answers": [
+          "De medewetgevende taak.",
+          "De rechterlijke taak.",
+          "De uitvoerende taak."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de rol van de Tweede Kamer bij het bespreken en wijzigen van wetsvoorstellen.",
+        "feedback_correct": "Goed! De Tweede Kamer heeft een medewetgevende taak. Kamerleden kunnen wetsvoorstellen bespreken, wijzigen en erover stemmen.",
+        "feedback_wrong": "Kijk naar wat de Tweede Kamer doet met het wetsvoorstel. Zij behandelt wetten samen met de andere betrokken organen, maar spreekt geen straf uit en voert wetten niet zelf uit.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5 – Grondrechten",
+      "question": {
+        "id": "mk_051_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.4",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Grondrechten herkennen in een praktijksituatie",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een journalist schrijft een kritisch artikel over het beleid van een minister. De minister is het helemaal niet eens met het artikel. Welke uitspraak past het best bij een democratische rechtsstaat?",
+        "context": "",
+        "answers": [
+          "Een minister mag een journalist laten arresteren omdat de kritiek hem niet bevalt.",
+          "Kritiek op de overheid valt onder de vrijheid van meningsuiting en de persvrijheid, binnen de grenzen van de wet.",
+          "Journalisten mogen alleen berichten publiceren als de regering vooraf toestemming geeft."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de grondrechten die burgers en media beschermen.",
+        "feedback_correct": "Goed! Vrijheid van meningsuiting en persvrijheid zijn belangrijke grondrechten in een democratische rechtsstaat.",
+        "feedback_wrong": "Denk aan de vraag welke grondrechten burgers en journalisten beschermen wanneer zij kritiek geven op de overheid.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6 – Politieke stromingen",
+      "question": {
+        "id": "mk_051_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.4.2.1",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Politieke standpunten vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Twee politieke partijen doen voorstellen over de rol van de overheid. Partij X wil lagere belastingen, legt meer nadruk op eigen verantwoordelijkheid en wil minder overheidsbemoeienis. Partij Y wil meer nadruk op inkomensgelijkheid, wil dat de overheid actief helpt bij sociale problemen en wil sociale voorzieningen beschermen. Welke omschrijving past het best bij deze voorbeeldsituatie?",
+        "context": "Partij X:\n- wil lagere belastingen;\n- legt meer nadruk op eigen verantwoordelijkheid;\n- wil minder overheidsbemoeienis.\n\nPartij Y:\n- wil meer nadruk op inkomensgelijkheid;\n- wil dat de overheid actief helpt bij sociale problemen;\n- wil sociale voorzieningen beschermen.",
+        "answers": [
+          "Partij X vertoont kenmerken die vaak bij rechts horen en Partij Y kenmerken die vaak bij links horen.",
+          "Partij X is automatisch conservatief en Partij Y automatisch progressief.",
+          "Beide partijen horen bij de rechterlijke macht."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar de rol die beide partijen voor de overheid zien en naar hun ideeën over gelijkheid en eigen verantwoordelijkheid.",
+        "feedback_correct": "Goed! In deze voorbeeldsituatie passen de standpunten van X meer bij een rechtse benadering en die van Y meer bij een linkse benadering.",
+        "feedback_wrong": "Kijk vooral naar de ideeën over de rol van de overheid, belastingen, gelijkheid en eigen verantwoordelijkheid.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7 – Verdachte en zwijgrecht",
+      "question": {
+        "id": "mk_051_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.7",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Zwijgrecht toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De politie verhoort een man die wordt verdacht van een woninginbraak. De politie stelt vragen over wat er is gebeurd. De verdachte zegt dat hij geen antwoord wil geven. Welke uitspraak is juist?",
+        "context": "",
+        "answers": [
+          "Een verdachte moet altijd alle vragen van de politie beantwoorden.",
+          "Een verdachte mag zwijgen en hoeft niet mee te werken aan zijn eigen veroordeling.",
+          "Door te zwijgen is automatisch bewezen dat de verdachte schuldig is."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan het recht van een verdachte tijdens een verhoor.",
+        "feedback_correct": "Goed! Een verdachte heeft het zwijgrecht. Zwijgen betekent niet automatisch dat iemand schuldig is.",
+        "feedback_wrong": "Kijk naar het recht dat een verdachte tijdens een verhoor heeft.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8 – Wie doet wat?",
+      "question": {
+        "id": "mk_051_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.8, 8.2.11, 8.2.13",
+        "topic": "Politie, OM en rechter",
+        "skill": "taakverdeling binnen het strafrecht toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De politie onderzoekt een woninginbraak. Agenten verzamelen verklaringen en zoeken naar sporen. Daarna beoordeelt het Openbaar Ministerie wat er met de zaak moet gebeuren. Als de zaak aan de rechter wordt voorgelegd, beoordeelt de onafhankelijke rechter de zaak. Welke taakverdeling is juist?",
+        "context": "",
+        "answers": [
+          "De politie onderzoekt, het OM neemt beslissingen over vervolging binnen zijn wettelijke bevoegdheden en de rechter beoordeelt een voorgelegde strafzaak onafhankelijk.",
+          "De politie bepaalt de straf en het OM controleert alleen de politie.",
+          "De rechter verzamelt eerst zelf alle bewijzen en de politie heeft daarna geen taak meer."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de verschillende stappen en taken binnen het strafrecht.",
+        "feedback_correct": "Goed! Politie, OM en rechter hebben verschillende taken. De politie onderzoekt, het OM neemt onder andere vervolgingsbeslissingen en de rechter beoordeelt een strafzaak die aan hem wordt voorgelegd.",
+        "feedback_wrong": "Kijk naar de verschillende rollen van politie, OM en rechter. Ze hebben niet allemaal dezelfde taak.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9 – Schadevergoedingsmaatregel",
+      "question": {
+        "id": "mk_051_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.9",
+        "topic": "Straffen en maatregelen",
+        "skill": "Schadevergoedingsmaatregel herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een rechter veroordeelt iemand voor een strafbaar feit. Het slachtoffer heeft hierdoor €600 schade geleden. De rechter legt naast de straf een schadevergoedingsmaatregel op. Wat is het doel van deze maatregel?",
+        "context": "",
+        "answers": [
+          "Het slachtoffer een vergoeding voor de geleden schade laten krijgen.",
+          "De veroordeelde automatisch een extra gevangenisstraf geven.",
+          "Het bedrag als gewone geldboete aan de gemeente laten betalen."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar het woord 'schadevergoeding'. Voor wie is de vergoeding bedoeld?",
+        "feedback_correct": "Goed! De schadevergoedingsmaatregel is bedoeld om de schade van het slachtoffer te vergoeden. De inning verloopt via de overheid.",
+        "feedback_wrong": "Let op het doel van de maatregel en op wie de schade heeft geleden.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10 – Criminaliteitscijfers",
+      "question": {
+        "id": "mk_051_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.11.1",
+        "topic": "Aangifte en criminaliteitscijfers",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente registreert het aantal woninginbraken in een wijk. In jaar 2 zijn ook extra buurtpreventie en betere straatverlichting ingevoerd. Welke conclusie kun je rechtstreeks uit deze gegevens trekken?",
+        "context": "Jaar 1: 40 geregistreerde woninginbraken.\nJaar 2: 15 geregistreerde woninginbraken.\n\nIn jaar 2 zijn ook extra buurtpreventie en betere straatverlichting ingevoerd.",
+        "answers": [
+          "Het aantal geregistreerde woninginbraken is in jaar 2 lager dan in jaar 1.",
+          "De nieuwe maatregelen hebben bewezen dat zij de daling hebben veroorzaakt.",
+          "De maatregelen werken altijd bij iedere wijk."
+        ],
+        "correct_answer": 0,
+        "hint": "Vergelijk de twee aantallen. Vraag jezelf daarna af of de tabel ook bewijst waarom het aantal veranderde.",
+        "feedback_correct": "Goed! In de gegevens daalt het aantal geregistreerde woninginbraken van 40 naar 15.",
+        "feedback_wrong": "Kijk eerst alleen naar de twee aantallen. De gegevens laten zien wat er is geregistreerd, maar bewijzen niet waardoor het aantal veranderde.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Goed gedaan!",
+      "text": "Je hebt in deze grote oefentoets verschillende onderdelen van de leerroute gecombineerd.\n\nLeervaardigheden: je hebt geoefend met feiten en meningen, argumenten herkennen, informatie uit tabellen halen en conclusies trekken zonder meer te beweren dan de gegevens laten zien.\n\nPolitiek en beleid: je hebt geoefend met de taken van het parlement, de rol van de Tweede Kamer, grondrechten, vrijheid van meningsuiting en persvrijheid en politieke verschillen tussen links en rechts.\n\nCriminaliteit en rechtsstaat: je hebt geoefend met het zwijgrecht, verdachte en veroordeelde, de taakverdeling tussen politie, OM en rechter, de schadevergoedingsmaatregel en het lezen van criminaliteitscijfers.\n\nLaatste examentip:\nLees eerst de situatie. Zoek daarna de belangrijke woorden. Bekijk vervolgens alle antwoordmogelijkheden. Kies ten slotte het antwoord dat het beste past bij de informatie in de vraag.\n\nEn bij een tabel of grafiek: kijk eerst naar de cijfers en trek daarna pas je conclusie.\n\nGoed gedaan. Je hebt nu de belangrijkste onderdelen uit deze leerroute nog één keer met elkaar geoefend."
+    }
+  ]
+}

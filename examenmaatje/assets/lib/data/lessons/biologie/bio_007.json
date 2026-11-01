@@ -1,0 +1,407 @@
+{
+  "id": "bio_007",
+  "subject": "biologie",
+  "title": "Les 7 - Verschillende soorten cellen",
+  "goal": "Je leert de basisonderdelen van plantencellen, dierlijke cellen, schimmelcellen en bacteriën herkennen en hun functies beschrijven.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Alle levende wezens bestaan uit cellen: piepkleine bouwsteentjes die je alleen onder een microscoop kunt zien. In deze les leer je de onderdelen van vier grote celgroepen herkennen: planten, dieren, schimmels en bacteriën.",
+      "image": "les_007_intro_cellen.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De basisonderdelen van een cel",
+      "text": "Veel cellen hebben een paar onderdelen die hetzelfde zijn:\n1. Celmembraan: Een dun vliesje om de cel heen dat regelt welke stoffen de cel in en uit gaan.\n2. Cytoplasma: Een stroperige vloeistof die de cel vult.\n3. Celkern: Het regelcentrum van de cel dat alles aanstuurt."
+    },
+    {
+      "type": "explanation",
+      "title": "Plantencellen en schimmelcellen",
+      "text": "Planten en schimmels hebben extra stevigheid nodig:\n* Plantencellen hebben rondom het celmembraan een stevig 'laagje': de celwand. Ook hebben ze een vacuole (een blaasje gevuld met vocht) and bladgroenkorrels (waarmee ze zelf voedsel maken via fotosynthese).\n* Schimmelcellen hebben wél een celwand en een vacuole, maar ze hebben NOOIT bladgroenkorrels. Schimmels kunnen dus niet zelf voedsel maken.",
+      "image": "les_007_plant_vs_schimmel.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Dierlijke cellen en bacteriën",
+      "text": "* Dierlijke cellen (zoals de cellen van mensen en honden) zijn heel eenvoudig. Ze hebben een celkern, cytoplasma en een celmembraan. Ze hebben NOOIT een celwand en NOOIT bladgroenkorrels.\n* Bacteriën zijn heel bijzondere cellen. Ze hebben wél een celwand, maar ze hebben NOOIT een celkern! Het regelmateriaal ligt los in het cytoplasma.",
+      "image": "les_007_dier_vs_bacterie.png"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees de vraag goed en zoek naar uitsluitingen. Als een vraag zegt 'heeft wél een celwand, maar géén celkern', dan weet je direct dat het een bacterie is. Gebruik de kenmerken van de celwanden en de kernen om de groepen uit elkaar te houden."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Planten: kern, wand, vacuole, bladgroenkorrels. Schimmels: kern, wand, vacuole (geen bladgroen). Dieren: kern (geen wand, geen bladgroen). Bacteriën: wand (geen kern, geen vacuole, geen bladgroen)."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_007_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk specifiek onderdeel tref je wél aan bij een gezonde plantencel, maar ontbreekt altijd bij een dierlijke cel?",
+      "answers": [
+        "De celwand",
+        "Het celmembraan",
+        "Het cytoplasma"
+      ],
+      "correct_answer": 0,
+      "hint": "Dierlijke cellen zijn zacht en flexibel, terwijl plantencellen een extra stevig buitenlaagje hebben.",
+      "feedback_correct": "Klopt helemaal! Een plantencel heeft een stevige celwand voor de structuur; dierlijke cellen hebben dit niet.",
+      "feedback_wrong": "Zowel planten- als dierlijke cellen hebben een celmembraan en cytoplasma om de cel te vullen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4 §2",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    },
+    {
+      "id": "bio_007_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk van de onderstaande celonderdelen ontbreekt er volledig bij een dierlijke cel (zoals een menselijke spiercel)?",
+      "answers": [
+        "Het celmembraan",
+        "De celkern",
+        "De celwand"
+      ],
+      "correct_answer": 2,
+      "hint": "Denk aan welk hard en stevig onderdeel planten beschermt, maar bij mens en dier niet voorkomt rondom de cel.",
+      "feedback_correct": "Uitstekend! Dierlijke cellen worden alleen begrensd door een celmembraan en hebben geen celwand.",
+      "feedback_wrong": "Dierlijke cellen bevatten gewoon een celkern en worden omgeven door een celmembraan.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4 §2",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    },
+    {
+      "id": "bio_007_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is een heel belangrijk en uniek biologisch kenmerk van alle bacteriëncellen?",
+      "answers": [
+        "Ze bezitten geen celkern.",
+        "Ze hebben altijd grote groene bladgroenkorrels.",
+        "Ze zijn altijd opgebouwd uit complexe weefsels en organen."
+      ],
+      "correct_answer": 0,
+      "hint": "Bacteriën zijn heel eenvoudig gebouwd. Hun regelmateriaal ligt los in de celvloeistof.",
+      "feedback_correct": "Juist! Bacteriën onderscheiden zich van planten en dieren omdat ze geen celkern hebben.",
+      "feedback_wrong": "Bacteriën hebben geen bladgroenkorrels en bestaan uit slechts één cel, dus ze hebben geen organen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4 §2",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    },
+    {
+      "id": "bio_007_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "conclusie_trekken_uit_gegevens",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Onder een microscoop zie je een onbekende cel met een duidelijke celwand en groene bladgroenkorrels. Wat kun je hieruit afleiden?",
+      "answers": [
+        "Het is waarschijnlijk een groene plantencel.",
+        "Het is met absolute zekerheid een dierlijke huidcel.",
+        "Het is een meercellig orgaanstelsel."
+      ],
+      "correct_answer": 0,
+      "hint": "Welke groep organismen kleurt groen en doet aan fotosynthese om voedsel te maken?",
+      "feedback_correct": "Heel goed! Alleen groene plantencellen hebben de combinatie van een celwand en bladgroenkorrels.",
+      "feedback_wrong": "Dierlijke cellen hebben nooit een celwand of korrels; een losse cel is bovendien nooit een orgaanstelsel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4 §2",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    },
+    {
+      "id": "bio_007_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk basisonderdeel tref je aan bij zowel gezonde plantencellen als bij dierlijke cellen?",
+      "answers": [
+        "Een celmembraan",
+        "Altijd grote bladgroenkorrels",
+        "Altijd een harde celwand"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek het vliesje dat de celvloeistof bij alle typen cellen netjes bij elkaar houdt.",
+      "feedback_correct": "Top! Elke planten- en dierlijke cel heeft een celmembraan als begrenzing.",
+      "feedback_wrong": "Bladgroenkorrels en celwanden komen alleen voor bij plantencellen, nooit bij dieren.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4 §2",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    },
+    {
+      "id": "bio_007_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke biologische uitspraak over de opbouw van bacteriën is correct?",
+      "answers": [
+        "Een bacterie is een eencellig organisme zonder celkern.",
+        "Een bacterie groeit altijd uit tot een complex dierlijk orgaan.",
+        "Een bacterie bevat in het midden altijd een grote vochtvacuole."
+      ],
+      "correct_answer": 0,
+      "hint": "Bacteriën zijn heel klein, bestaan uit één cel en missen de centrale kern.",
+      "feedback_correct": "Klopt! Een bacterie bestaat uit één cel en heeft geen celkern.",
+      "feedback_wrong": "Bacteriën worden nooit organen en vacuoles tref je aan bij planten of schimmels, niet bij bacteriën.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4 §2",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    },
+    {
+      "id": "bio_007_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "4",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk type cel is door zijn onderdelen het meest geschikt om fotosynthese (voedsel maken uit licht) uit te voeren?",
+      "answers": [
+        "Een groene plantencel met bladgroenkorrels",
+        "Een dierlijke spiercel uit een been",
+        "Een bacteriecel zonder celwand"
+      ],
+      "correct_answer": 0,
+      "hint": "Fotosynthese kan alleen plaatsvinden als de cel de speciale groene korreltjes bezit.",
+      "feedback_correct": "Juist! Bladgroenkorrels vangen het zonlicht op dat nodig is voor de fotosynthese.",
+      "feedback_wrong": "Dierlijke cellen en bacteriën hebben geen bladgroenkorrels en kunnen dus nooit aan fotosynthese doen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4 §4",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    },
+    {
+      "id": "bio_007_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "redenering_beoordelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom kun je een cel onder de microscoop niet alleen op basis van zijn grootte herkennen?",
+      "answers": [
+        "Omdat cellen binnen dezelfde groep erg kunnen verschillen; de specifieke onderdelen zijn veel belangrijker voor herkenning.",
+        "Omdat alle cellen op aarde exact even groot zijn.",
+        "Omdat de grootte altijd direct 100% bewijst welk type cel het is."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan waarom we kijken naar de celwand of celkern in plaats van hoe groot het plaatje is.",
+      "feedback_correct": "Perfect! Je moet kijken naar de aanwezigheid van onderdelen (zoals een celkern of celwand) om de cel te determineren.",
+      "feedback_wrong": "Cellen variëren enorm in grootte en de afmeting alleen geeft nooit volledige zekerheid.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4 §2",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    },
+    {
+      "id": "bio_007_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke structuur of welk onderdeel ontbreekt er gegarandeerd bij alle bacteriecellen?",
+      "answers": [
+        "De celkern",
+        "Het celmembraan",
+        "Het cytoplasma"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit is het belangrijkste verschil tussen een bacterie en de cellen van planten, dieren en schimmels.",
+      "feedback_correct": "Klopt helemaal! Bacteriën hebben geen celkern; hun erfelijk materiaal ligt los in het cytoplasma.",
+      "feedback_wrong": "Bacteriën hebben wel degelijk cytoplasma en een omringend celmembraan nodig om te leven.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4 §2",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    },
+    {
+      "id": "bio_007_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "conclusie_trekken_uit_gegevens",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een biologische tekening toont een cel met een duidelijke celkern en cytoplasma, maar er is géén celwand getekend. Welke conclusie is het meest logisch?",
+      "answers": [
+        "Het is een dierlijke cel.",
+        "Het is een groene plantencel.",
+        "Het is een bacteriecel."
+      ],
+      "correct_answer": 0,
+      "hint": "Onthoud: wél een celkern, maar géén harde celwand aan de buitenkant.",
+      "feedback_correct": "Juist! Alleen dierlijke cellen hebben wel een celkern, maar geen celwand.",
+      "feedback_wrong": "Plantencellen en bacteriën hebben altijd een celwand. Dit moet dus een dierlijke cel zijn.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4 §2",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    },
+    {
+      "id": "bio_007_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Schimmelcellen (zoals van een champignon of gist) hebben een celkern en een celwand. Welk onderdeel ontbreekt er bij schimmels, waardoor ze nooit zelf voedsel kunnen maken?",
+      "answers": [
+        "Bladgroenkorrels",
+        "Cytoplasma",
+        "Het celmembraan"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de groene korreltjes die planten wel hebben, maar schimmels niet.",
+      "feedback_correct": "Uitstekend! Schimmels hebben nooit bladgroenkorrels. Ze moeten daarom hun voedsel opnemen uit de omgeving.",
+      "feedback_wrong": "Schimmels hebben uiteraard wel cytoplasma en een celmembraan. Ze missen alleen de bladgroenkorrels.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "Aanvullende exameneis vraag",
+        "year": 2027,
+        "section": "BI/K/4 §2",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    },
+    {
+      "id": "bio_007_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "2",
+      "topic": "cellen_en_stofwisseling",
+      "skill": "informatie_vergelijken",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Als we een schimmelcel vergelijken met een bacteriecel, welk groot verschil valt dan direct op aan de binnenkant?",
+      "answers": [
+        "Een schimmelcel heeft wel een celkern, maar een bacteriecel heeft geen celkern.",
+        "Bacteriën hebben grote botten en schimmels hebben bloedvaten.",
+        "Schimmelcellen hebben geen celwand en bacteriën hebben die wel."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan het regelcentrum van de cel. Welke van de twee groepen mist de kern?",
+      "feedback_correct": "Klopt helemaal! Schimmels behoren tot de organismen met een kern; bacteriën hebben geen celkern.",
+      "feedback_wrong": "Beide groepen hebben een celwand, en cellen hebben nooit botten of bloedvaten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "Aanvullende exameneis vraag",
+        "year": 2027,
+        "section": "BI/K/4 §2",
+        "page": null,
+        "url": null
+      },
+      "les_id": "bio_007"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "2.0",
+    "notitie": "Les-id en vraagmapping volledig aangepast naar bio_007 conform het definitieve 30-lessen masterplan v1.0.",
+    "wijziging": "Theorie uitgebreid met schimmelcellen en set aangevuld tot 12 vragen inclusief gereserveerde velden voor celtekeningen."
+  }
+}

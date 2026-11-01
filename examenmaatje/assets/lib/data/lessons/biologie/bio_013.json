@@ -1,0 +1,330 @@
+{
+  "id": "bio_013",
+  "subject": "biologie",
+  "title": "Les 13 - Voedselrelaties en voedselketens",
+  "goal": "Je leert voedselketens lezen, producenten, consumenten en reducenten onderscheiden en begrijpen hoe energie door een keten stroomt.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Elk organisme op aarde heeft voedsel nodig om aan energie te komen. In een voedselketen zie je precies hoe die energie van het ene levende wezen naar het andere overgaat. Je leert de rollen van producenten, consumenten en reducenten kennen.",
+      "image": "les_013_intro_ecologie.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De pijlen in een voedselketen",
+      "text": "Een voedselketen laat zien wie door wie wordt gegeten. De pijlen wijzen altijd van het voedsel naar de eter toe. De pijl betekent dus letterlijk: 'wordt gegeten door'. Omdat voedsel energie bevat, laat de pijl ook zien welke kant de energie op stroomt.",
+      "image": "les_013_pijl_uitleg.png"
+    },
+    {
+      "type": "explanation",
+      "title": "1. Producenten (De makers)",
+      "text": "Een voedselketen begint bijna altijd met een producent. Dit zijn groene planten. Zij maken met behulp van zonlicht hun eigen energierijke voedingsstoffen (via fotosynthese). Ze hoeven dus geen andere organismen te eten om te overleven."
+    },
+    {
+      "type": "explanation",
+      "title": "2. Consumenten (De eters)",
+      "text": "Dieren en mensen kunnen niet zelf voedsel maken via zonlicht. Zij moeten andere organismen eten om aan stoffen en energie te komen. Daarom noemen we hen consumenten. Een planteneter (zoals een konijn) eet producenten. Een vleeseter (zoals een vos) eet weer andere consumenten."
+    },
+    {
+      "type": "explanation",
+      "title": "3. Reducenten (De opruimers)",
+      "text": "Als planten en dieren doodgaan, of bladeren vallen op de grond, blijft er dood organisch materiaal achter. Dit wordt opgeruimd door reducenten: schimmels en bacteriën. Zij breken de dode resten af. Consumenten en reducenten gebruiken deze energierijke stoffen voor de opbouw van hun eigen lichaam en voor de verbranding (om energie te krijgen)."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Volg de pijl altijd van de basis naar de eter. Vraag jezelf bij elk organisme af: maakt het zelf voedsel (groene plant = producent), eet het een ander wezen (dier = consument) of ruimt het dode resten op (schimmel/bacterie = reducent)?"
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Pijlen wijzen naar de eter. Producenten maken voedsel. Consumenten eten organismen. Reducenten (schimmels/bacteriën) ruimen de dode resten op en breken ze af."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_013_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat betekent een pijl ( ➡️ ) in een biologische voedselketen?",
+      "answers": [
+        "De richting waarin de voedingsstoffen en de energie stroomt (wordt gegeten door).",
+        "De richting waarin een dier wegrent als hij schrikt.",
+        "Dat de twee verbonden organismen precies even groot zijn."
+      ],
+      "correct_answer": 0,
+      "hint": "De pijl begint bij de energiebron en wijst naar de maag van de eter.",
+      "feedback_correct": "Klopt! De pijl laat zien hoe energie en stoffen van het voedsel naar de eter overgaan.",
+      "feedback_wrong": "De pijl heeft niks te maken met wegrennen of de lichaamsgrootte, maar toont de energiestroom.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_013"
+    },
+    {
+      "id": "bio_013_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk organisme vervult in de natuur bijna altijd de rol van een producent?",
+      "answers": [
+        "Een groene plant",
+        "Een wild konijn",
+        "Achtergebleven schimmels"
+      ],
+      "correct_answer": 0,
+      "hint": "Een producent produceert (maakt) zijn eigen voedsel via fotosynthese met zonlicht.",
+      "feedback_correct": "Juist! Groene planten maken hun eigen glucose en zijn dus de producenten.",
+      "feedback_wrong": "Konijnen zijn consumenten en schimmels zijn reducenten. Alleen groene planten zijn producenten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_013"
+    },
+    {
+      "id": "bio_013_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk organisme in een bos is een duidelijk voorbeeld van een consument?",
+      "answers": [
+        "Een eikenboom",
+        "Een bosmuis",
+        "Een groene alg"
+      ],
+      "correct_answer": 1,
+      "hint": "Een consument kan niet zelf voedsel maken en moet dus andere organismen consumeren (eten).",
+      "feedback_correct": "Top! Een bosmuis moet zaden of insecten eten en is dus een consument.",
+      "feedback_wrong": "Eikenbomen en algen maken hun eigen voedsel via licht en zijn producenten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_013"
+    },
+    {
+      "id": "bio_013_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is de belangrijkste biologische taak van reducenten in een beschreven ecosysteem?",
+      "answers": [
+        "Ze breken de dode resten van planten en dieren volledig af.",
+        "Ze produceren nieuw zonlicht voor de planten.",
+        "Ze jagen uitsluitend op levende, gezonde konijnen."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de opruimers van het bos, zoals bacteriën en paddenstoelen.",
+      "feedback_correct": "Heel goed! Reducenten ruimen de natuur op door dood materiaal biologisch af te breken.",
+      "feedback_wrong": "Reducenten maken geen licht en jagen niet op levende dieren; ze ruimen dode resten op.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_013"
+    },
+    {
+      "id": "bio_013_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke van de onderstaande opties laat een biologisch logische voedselketen zien?",
+      "answers": [
+        "Gras ➡️ konijn ➡️ vos",
+        "Vos ➡️ gras ➡️ konijn",
+        "Konijn ➡️ vos ➡️ gras"
+      ],
+      "correct_answer": 0,
+      "hint": "Volg de logica: de plant wordt gegeten door de planteneter, die weer wordt gegeten door de vleeseter.",
+      "feedback_correct": "Perfect! Het konijn eet gras, en de vos eet het konijn. De pijlen kloppen zo precies.",
+      "feedback_wrong": "Een vos eet geen gras en gras eet geen vossen. De volgorde moet altijd starten bij de producent.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_013",
+      "image": "les_013_q05_keten.png"
+    },
+    {
+      "id": "bio_013_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Kijk naar de volgende keten: alg ➡️ watervlo ➡️ kleine vis ➡️ reiger. Welke rol vervult de watervlo hier?",
+      "answers": [
+        "Producent",
+        "Consument",
+        "Reducent"
+      ],
+      "correct_answer": 1,
+      "hint": "De watervlo staat op de tweede plek en eet een alg (plantaardig materiaal).",
+      "feedback_correct": "Klopt! De watervlo eet de alg op en is dus een consument (een eter).",
+      "feedback_wrong": "Algen zijn producenten. Omdat de watervlo algen eet, is het een consument.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_013"
+    },
+    {
+      "id": "bio_013_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom staat een groene plant of een alg vrijwel altijd helemaal aan het begin van een voedselketen?",
+      "answers": [
+        "Omdat zij met behulp van zonlicht zelf energierijke voedingsstoffen kunnen maken.",
+        "Omdat zij stiekem 's nachts jagen op kleine insecten.",
+        "Omdat zij alle dode bladeren in de bodem opeten."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan fotosynthese. Planten hebben geen andere wezens nodig om aan suikers te komen.",
+      "feedback_correct": "Juist! Planten leggen de basis van energie in een keten door zelf suikers te maken uit licht.",
+      "feedback_wrong": "Planten jagen niet en ruimen geen resten op; ze produceren energie via fotosynthese.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_013"
+    },
+    {
+      "id": "bio_013_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke twee groepen van organismen vormen samen de belangrijkste reducenten (opruimers) in de natuur?",
+      "answers": [
+        "Schimmels and bacteriën",
+        "Roovogels en vossen",
+        "Eikenbomen en brandnetels"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de microscopische organismen of paddenstoelen die schimmelraden vormen op een rotte boomstam.",
+      "feedback_correct": "Uitstekend! Schimmels en bacteriën breken dood materiaal af tot bruikbare stoffen.",
+      "feedback_wrong": "Roofdieren zijn consumenten; bomen en brandnetels zijn producenten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_013"
+    },
+    {
+      "id": "bio_013_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "informatie_uit_bron_aflezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Kijk naar de keten: blad ➡️ rups ➡️ koolmees ➡️ sperwer. Welk organisme krijgt rechtstreeks de energierijke stoffen uit de rups?",
+      "answers": [
+        "Het blad",
+        "De koolmees",
+        "De sperwer"
+      ],
+      "correct_answer": 1,
+      "hint": "Volg de pijl die direct vanaf de rups vertrekt. Waar wijst de punt naartoe?",
+      "feedback_correct": "Ja! De pijl wijst van rups naar koolmees, want de koolmees eet de rups op.",
+      "feedback_wrong": "De sperwer eet de koolmees, niet de rups. De koolmees haalt zijn energie rechtstreeks uit de rups.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_013"
+    },
+    {
+      "id": "bio_013_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarvoor gebruiken consumenten en reducenten de energierijke stoffen die ze via hun voedsel binnenkrijgen?",
+      "answers": [
+        "Voor de verbranding (om energie te krijgen) en voor de opbouw van hun eigen lichaam.",
+        "Puur om kalkwater te maken in hun maag.",
+        "Om te zorgen dat ze nooit meer hoeven te ademen."
+      ],
+      "correct_answer": 0,
+      "hint": "Stoffen worden gebruikt als brandstof (voor actie) en als bouwstof (om te groeien).",
+      "feedback_correct": "Klopt helemaal! Voedsel levert de bouwstoffen voor groei/herstel en brandstof voor energie.",
+      "feedback_wrong": "Lichamen maken geen kalkwater en verbranding vereist juist ademhaling (zuurstof).",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Herschreven vraag conform BB-syllabus-eisen",
+      "les_id": "bio_013"
+    },
+    {
+      "id": "bio_013_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is een groot biologisch verschil tussen een producent en een consument?",
+      "answers": [
+        "Een producent maakt zelf energierijke stoffen; een consument moet andere organismen eten.",
+        "Een producent is altijd een gevaarlijk roofdier; een consument is altijd een plant.",
+        "Er is helemaal geen verschil, ze doen precies hetzelfde."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de betekenis van de woorden: produceren (maken) versus consumeren (gebruiken/eten).",
+      "feedback_correct": "Uitstekend! Planten produceren suikers uit licht, dieren consumeren die stoffen door te eten.",
+      "feedback_wrong": "Producenten zijn planten, geen roofdieren. Hun manieren van aan energie komen zijn totaal verschillend.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_013"
+    },
+    {
+      "id": "bio_013_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In een duingebied sterft een konijn door ouderdom. Welke groep organismen zorgt ervoor dat de resten van dit konijn netjes worden opgeruimd en afgebroken?",
+      "answers": [
+        "De reducenten",
+        "De producenten",
+        "De groene algen"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de groep opruimers (bacteriën/schimmels) die gespecialiseerd is in dood materiaal.",
+      "feedback_correct": "Perfect! Reducenten ruimen dode organismen op en breken ze af tot eenvoudige bouwstoffen.",
+      "feedback_wrong": "Producenten en algen maken voedsel uit licht, ze kunnen geen dode konijnenresten afbreken.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_013"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "2.0",
+    "notitie": "Les-id en vraag-id's gecorrigeerd naar bio_013 om de definitieve 30-lessenplanning te volgen. Volledig gevalideerd tegen database-afspraken v1.0.",
+    "wijziging": "Vraag 10 (voedselweb) volledig herschreven naar een toegestane BB-energiestroomvraag. Set uitgebreid tot 12 vragen."
+  }
+}

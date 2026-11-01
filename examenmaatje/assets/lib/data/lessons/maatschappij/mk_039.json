@@ -1,0 +1,364 @@
+{
+"id": "mk_039",
+"subject": "maatschappij",
+"title": "Les 39 – Wat is een rechtsstaat?",
+"goal": "Je leert waarom de rechtsstaat belangrijk is wanneer de overheid criminaliteit bestrijdt. Je begrijpt wat de regels van de rechtsstaat betekenen voor de politie, het Openbaar Ministerie (OM), de rechter en een verdachte.",
+"steps": [
+{
+"type": "intro",
+"title": "Terugblik naar Les 15",
+"text": "In Les 15 heb je al eens geleerd wat een rechtsstaat is: een land waarin de overheid en burgers zich aan de wet moeten houden. De rechtsstaat beschermt burgers tegen willekeur en machtsmisbruik. Nu we bezig zijn met criminaliteit, kijken we wat dit in de praktijk betekent. Wat mag de politie doen? Welke rechten heeft een verdachte? En welke taak heeft de rechter?"
+},
+{
+"type": "explanation",
+"title": "Waarom is de rechtsstaat belangrijk bij criminaliteit?",
+"text": "De overheid wil criminaliteit bestrijden en de samenleving veilig houden. De politie spoort strafbare feiten op en het Openbaar Ministerie (OM) vervolgt verdachten. Maar de overheid mag hierbij niet zomaar alles doen wat zij wil. Ook de politie en het OM moeten zich aan de wet houden. Dit voorkomt willekeur en machtsmisbruik.",
+"definitions": [
+{
+"term": "Willekeur",
+"explanation": "Mensen ongelijk behandelen zonder goede reden of zonder zich aan vaste regels te houden."
+},
+{
+"term": "Machtsmisbruik",
+"explanation": "Je macht gebruiken op een manier die niet mag."
+}
+]
+},
+{
+"type": "explanation",
+"title": "Rechten van burgers en verdachten",
+"text": "In een rechtsstaat heeft iedereen rechten, ook iemand die door de politie wordt verdacht van een strafbaar feit. Een verdachte is onschuldig totdat een rechter heeft beslist dat hij of zij schuldig is. Een verdachte heeft bijvoorbeeld recht op hulp van een advocaat en heeft het recht om te zwijgen. De wet stelt ook grenzen aan hoe lang de politie iemand mag vasthouden zonder controle volgens een wettelijke procedure."
+},
+{
+"type": "explanation",
+"title": "De overheid moet zich aan de wet houden",
+"text": "De politie en andere overheidsinstanties hebben veel macht. Juist daarom zijn er wettelijke regels voor hun handelen. De politie mag bijvoorbeeld niet zomaar een woning doorzoeken of persoonlijke spullen onderzoeken. Daarvoor moet aan de wettelijke voorwaarden zijn voldaan. Ook mag iemand alleen worden gestraft voor gedrag dat op het moment van de daad al strafbaar was volgens de wet."
+},
+{
+"type": "explanation",
+"title": "De rol van een onafhankelijke rechter",
+"text": "Als een verdachte voor de rechter komt, beslist de rechter onafhankelijk over de zaak. De rechter luistert naar de informatie van het Openbaar Ministerie en naar de verdachte en bekijkt het beschikbare bewijs. De rechter beoordeelt vervolgens of er voldoende bewijs is voor een veroordeling en welke straf daarbij hoort.",
+"definitions": [
+{
+"term": "Onafhankelijke rechter",
+"explanation": "Een rechter die zijn beslissing zelfstandig neemt en niet door de regering of politie mag worden gedwongen."
+},
+{
+"term": "Officier van justitie",
+"explanation": "Een persoon van het Openbaar Ministerie die namens het OM een strafzaak behandelt en kan beslissen om een verdachte te vervolgen."
+},
+{
+"term": "Legaliteitsbeginsel",
+"explanation": "Je mag alleen worden gestraft voor gedrag dat al strafbaar was volgens de wet toen je het deed."
+}
+]
+},
+{
+"type": "explanation",
+"title": "Politie, OM en rechter",
+"text": "Bij de aanpak van criminaliteit hebben politie, Openbaar Ministerie en rechter verschillende taken.",
+"items": [
+"De politie spoort strafbare feiten op, verzamelt informatie en bewijs en houdt verdachten aan.",
+"Het Openbaar Ministerie (OM) beslist onder andere of een verdachte wordt vervolgd en brengt strafzaken voor de rechter.",
+"De onafhankelijke rechter beoordeelt de strafzaak en beslist op basis van de wet en het bewijs over een veroordeling en een eventuele straf."
+]
+},
+{
+"type": "explanation",
+"title": "De voorbeeldsituatie: een scooterdiefstal",
+"text": "Er is een dure scooter gestolen bij de bioscoop. Een agent ziet een jongere rijden die lijkt op de persoon op de camerabeelden. De agent houdt de jongere aan. Vanaf dat moment is hij een verdachte.",
+"items": [
+"De politie mag de verdachte niet zomaar mishandelen of zelf een gevangenisstraf opleggen. Daarvoor gelden wettelijke regels.",
+"De jongere heeft recht op hulp van een advocaat. Tijdens het verhoor kan hij gebruikmaken van zijn zwijgrecht.",
+"De politie verzamelt informatie en bewijs. Het OM beoordeelt vervolgens de zaak en kan de verdachte vervolgen.",
+"Tijdens de rechtszaak blijkt dat het kenteken op de camerabeelden één cijfer verschilt van het kenteken van de scooter van de jongere. Er is onvoldoende bewijs voor een veroordeling. De rechter spreekt de jongere vrij."
+],
+"note": "Vrijspraak betekent dat er onvoldoende bewijs is voor een veroordeling. Het betekent niet automatisch dat de rechter zeker weet dat iemand onschuldig is."
+},
+{
+"type": "strategy",
+"title": "Stappenplan voor een examenvraag",
+"text": "Gebruik bij vragen over de rechtsstaat en criminaliteit deze stappen:",
+"items": [
+"Stap 1: Kijk wie er aan het werk is. Is het de politie, het OM of de rechter?",
+"Stap 2: Kijk of de rechten van de verdachte en de regels voor de overheid worden gevolgd.",
+"Stap 3: Denk aan de hoofdregel: de overheid moet zich aan de wet houden en iemand kan alleen worden gestraft als daarvoor voldoende bewijs en een wettelijke basis zijn."
+]
+},
+{
+"type": "question",
+"title": "Vraag 1",
+"question": {
+"id": "mk_039_q01",
+"subject": "maatschappij",
+"syllabus": "ML2/K/8",
+"syllabus_section": "8.2.5",
+"topic": "Rechtsstaat en rechten",
+"skill": "Toepassen",
+"level": "BB",
+"type": "multiple_choice",
+"question": "De politie verdenkt een man van een inbraak. De agenten willen zijn woning binnengaan om te zoeken naar gestolen spullen. Volgens de wet moeten ze daarvoor eerst aan bepaalde voorwaarden voldoen. Waarom is dat belangrijk in een rechtsstaat?",
+"context": "De overheid en de politie hebben veel macht, maar mogen die macht niet zomaar gebruiken.",
+"answers": [
+"Omdat de overheid en de politie zich bij het opsporen van criminaliteit aan de wet moeten houden om burgers tegen machtsmisbruik te beschermen.",
+"Omdat het binnengaan van een huis voor agenten gratis moet zijn.",
+"Omdat verdachten volgens de wet hun gestolen spullen geheim mogen houden."
+],
+"correct_answer": 0,
+"hint": "Denk aan de hoofdregel: de overheid mag niet zomaar doen wat zij wil.",
+"feedback_correct": "Dat klopt. Ook de politie moet de wettelijke regels volgen. Zo worden burgers beschermd tegen willekeur en machtsmisbruik.",
+"feedback_wrong": "Denk nog eens na over de reden waarom de wet grenzen stelt aan de macht van de politie.",
+"source": "Eigen voorbeeld",
+"source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+}
+},
+{
+"type": "question",
+"title": "Vraag 2",
+"question": {
+"id": "mk_039_q02",
+"subject": "maatschappij",
+"syllabus": "ML2/K/8",
+"syllabus_section": "8.2.5",
+"topic": "Verdachten en hun rechten",
+"skill": "Begrippen herkennen",
+"level": "BB",
+"type": "multiple_choice",
+"question": "Een jongere wordt door de politie meegenomen naar het bureau omdat hij wordt verdacht van het spuiten van graffiti op een trein. De agent stelt een vraag, maar de jongere zegt: \"Ik zeg helemaal niks totdat mijn advocaat er is.\" Van welk recht maakt deze jongere gebruik?",
+"context": "",
+"answers": [
+"Het recht van amendement.",
+"Het zwijgrecht.",
+"Het kiesrecht."
+],
+"correct_answer": 1,
+"hint": "De jongere geeft geen antwoord op de vragen van de politie.",
+"feedback_correct": "Juist. Een verdachte heeft het recht om te zwijgen.",
+"feedback_wrong": "Kijk nog eens naar wat de jongere doet en welk recht daarbij hoort.",
+"source": "Eigen voorbeeld",
+"source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+}
+},
+{
+"type": "question",
+"title": "Vraag 3",
+"question": {
+"id": "mk_039_q03",
+"subject": "maatschappij",
+"syllabus": "ML2/K/8",
+"syllabus_section": "8.2.5",
+"topic": "Politie, OM en rechter",
+"skill": "Taakverdeling toepassen",
+"level": "BB",
+"type": "multiple_choice",
+"question": "Een officier van justitie is ervan overtuigd dat een verdachte een winkeldiefstal heeft gepleegd. De officier stuurt de verdachte een brief waarin staat dat hij direct vier jaar gevangenisstraf krijgt, zonder dat er een rechtszaak komt. Waarom past dit niet bij een rechtsstaat?",
+"context": "",
+"answers": [
+"Omdat een officier van justitie alleen kleine boetes mag geven.",
+"Omdat winkeldiefstal in een rechtsstaat een grondrecht is.",
+"Omdat de rechter onafhankelijk over de strafzaak moet beslissen."
+],
+"correct_answer": 2,
+"hint": "Denk aan de taakverdeling tussen het OM en de onafhankelijke rechter.",
+"feedback_correct": "Goed. Het OM heeft een andere taak dan de rechter. De rechter beoordeelt de strafzaak onafhankelijk.",
+"feedback_wrong": "Denk nog eens na over de taakverdeling tussen het OM en de rechter.",
+"source": "Eigen voorbeeld",
+"source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+}
+},
+{
+"type": "question",
+"title": "Vraag 4",
+"question": {
+"id": "mk_039_q04",
+"subject": "maatschappij",
+"syllabus": "ML2/K/8",
+"syllabus_section": "8.2.5",
+"topic": "Verdachten en hun rechten",
+"skill": "Toepassen",
+"level": "BB",
+"type": "multiple_choice",
+"question": "De politie heeft een man aangehouden die ervan wordt verdacht een fiets te hebben gestolen. De wijkagent zegt: \"Je zit in de cel, dus voor mij ben je gewoon een crimineel.\" Welke basisregel van de rechtsstaat vergeet deze wijkagent?",
+"context": "",
+"answers": [
+"Dat de politie altijd de baas is over de meningen van burgers.",
+"Dat een verdachte onschuldig is totdat een rechter heeft beslist dat hij schuldig is.",
+"Dat fietsendieven automatisch hun paspoort verliezen."
+],
+"correct_answer": 1,
+"hint": "Een verdachte is nog niet hetzelfde als iemand die door een rechter is veroordeeld.",
+"feedback_correct": "Precies. Dit noemen we de onschuldpresumptie: een verdachte is onschuldig totdat de rechter anders beslist.",
+"feedback_wrong": "Denk aan het verschil tussen een verdachte en iemand die door een rechter is veroordeeld.",
+"source": "Eigen voorbeeld",
+"source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+}
+},
+{
+"type": "question",
+"title": "Vraag 5",
+"question": {
+"id": "mk_039_q05",
+"subject": "maatschappij",
+"syllabus": "ML2/K/8",
+"syllabus_section": "8.2.5",
+"topic": "Politie, OM en rechter",
+"skill": "Taakverdeling herkennen",
+"level": "BB",
+"type": "multiple_choice",
+"question": "Welke namen horen bij instantie X en instantie Y?",
+"context": "Instelling X spoort strafbare feiten op, zoekt bewijs en houdt verdachten aan. Instantie Y beslist onder andere of een verdachte wordt vervolgd en brengt een strafzaak voor de rechter.",
+"answers": [
+"X is het Openbaar Ministerie en Y is de politie.",
+"X is de politie en Y is het Openbaar Ministerie.",
+"X en Y zijn allebei onderdelen van de onafhankelijke rechtbank."
+],
+"correct_answer": 1,
+"hint": "Kijk naar de taken van de politie en het OM.",
+"feedback_correct": "Goed. De politie spoort strafbare feiten op. Het OM houdt zich onder andere bezig met vervolging.",
+"feedback_wrong": "Je hebt de twee instanties waarschijnlijk door elkaar gehaald. Kijk nog eens naar hun verschillende taken.",
+"source": "Eigen voorbeeld",
+"source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+}
+},
+{
+"type": "question",
+"title": "Vraag 6",
+"question": {
+"id": "mk_039_q06",
+"subject": "maatschappij",
+"syllabus": "ML2/K/8",
+"syllabus_section": "8.2.5",
+"topic": "Rechter en rechtspraak",
+"skill": "Rechtsstaat toepassen",
+"level": "BB",
+"type": "multiple_choice",
+"question": "Een minister is erg ontevreden over een uitspraak van een rechter. De rechter heeft een verdachte vrijgesproken omdat er problemen waren met het bewijs. De minister eist dat de rechter de verdachte alsnog tien jaar gevangenisstraf geeft. Waarom mag de minister dit niet afdwingen?",
+"context": "",
+"answers": [
+"Omdat een minister minder geld verdient dan een rechter.",
+"Omdat een minister eerst toestemming moet vragen aan de gemeenteraad.",
+"Omdat de rechter onafhankelijk is en de politiek niet over de inhoud van een individuele rechtszaak mag beslissen."
+],
+"correct_answer": 2,
+"hint": "Denk aan de scheiding van machten uit Les 16.",
+"feedback_correct": "Juist. Een onafhankelijke rechter moet een rechtszaak zelfstandig kunnen beoordelen.",
+"feedback_wrong": "Denk aan de onafhankelijkheid van de rechter en de scheiding van machten.",
+"source": "Eigen voorbeeld",
+"source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+}
+},
+{
+"type": "question",
+"title": "Vraag 7",
+"question": {
+"id": "mk_039_q07",
+"subject": "maatschappij",
+"syllabus": "ML2/K/8",
+"syllabus_section": "8.2.5",
+"topic": "Misdrijven en overtredingen",
+"skill": "Toepassen",
+"level": "BB",
+"type": "multiple_choice",
+"question": "In een land wordt een nieuwe wet gemaakt. Volgens die wet krijgt iedereen die de afgelopen vijf jaar een grap over de overheid heeft gemaakt vanaf vandaag twee jaar gevangenisstraf. Welke bescherming van de rechtsstaat wordt hiermee geschonden?",
+"context": "",
+"answers": [
+"Het recht van burgers om gratis bussen te eisen bij de gemeente.",
+"Het legaliteitsbeginsel: je mag niet worden gestraft voor gedrag dat op het moment van de daad nog niet strafbaar was.",
+"Het recht van de overheid om politiecijfers geheim te houden."
+],
+"correct_answer": 1,
+"hint": "Kijk naar het moment waarop de wet strafbaar gedrag maakt.",
+"feedback_correct": "Juist. Het legaliteitsbeginsel beschermt burgers tegen straffen achteraf voor gedrag dat toen nog niet strafbaar was.",
+"feedback_wrong": "Denk na over het verschil tussen gedrag dat al strafbaar was en gedrag dat pas later strafbaar wordt.",
+"source": "Eigen voorbeeld",
+"source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+}
+},
+{
+"type": "question",
+"title": "Vraag 8",
+"question": {
+"id": "mk_039_q08",
+"subject": "maatschappij",
+"syllabus": "ML2/K/3",
+"syllabus_section": "2.1",
+"topic": "Standpunt",
+"skill": "Standpunt herkennen",
+"level": "BB",
+"type": "multiple_choice",
+"question": "Een burger zegt in een interview: \"Ik vind al die rechten voor verdachten maar belachelijk. Als de politie denkt dat je een fatbike hebt gestolen, moeten ze je direct zonder advocaat of rechtszaak in een cel gooien.\" Wat is het standpunt van deze burger?",
+"context": "",
+"answers": [
+"Hij vindt de rechten van verdachten heel belangrijk voor de rechtsstaat.",
+"Hij heeft een negatief standpunt over de rechten van verdachten.",
+"Hij vindt dat de politie meer fatbikes moet kopen."
+],
+"correct_answer": 1,
+"hint": "Een standpunt is de mening van iemand over een onderwerp.",
+"feedback_correct": "Goed. De burger is duidelijk negatief over de rechten van verdachten.",
+"feedback_wrong": "Let op de mening die de burger over de rechten van verdachten geeft.",
+"source": "Eigen voorbeeld",
+"source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+}
+},
+{
+"type": "question",
+"title": "Vraag 9",
+"question": {
+"id": "mk_039_q09",
+"subject": "maatschappij",
+"syllabus": "ML2/K/3",
+"syllabus_section": "2.1",
+"topic": "Standpunten en argumenten",
+"skill": "Argument herkennen",
+"level": "BB",
+"type": "multiple_choice",
+"question": "Een advocaat reageert op het standpunt uit Vraag 8: \"Rechten voor verdachten zijn er om onschuldige burgers te beschermen. Zonder advocaat of regels voor bewijs kan een onschuldige persoon door een fout of valse beschuldiging worden gestraft.\" Welk argument gebruikt de advocaat?",
+"context": "",
+"answers": [
+"Advocaten moeten veel meer geld verdienen via de rechtbank.",
+"De politie moet iedere scholier gratis een advocaat geven.",
+"Rechten van verdachten helpen voorkomen dat onschuldige burgers door fouten of valse beschuldigingen worden gestraft."
+],
+"correct_answer": 2,
+"hint": "Kijk naar het gevolg waar de advocaat voor waarschuwt.",
+"feedback_correct": "Precies. De advocaat legt uit dat de regels ook bedoeld zijn om onschuldige burgers te beschermen.",
+"feedback_wrong": "Lees het argument nog eens en let op waarvoor de advocaat wil voorkomen dat burgers worden beschermd.",
+"source": "Eigen voorbeeld",
+"source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+}
+},
+{
+"type": "question",
+"title": "Vraag 10",
+"question": {
+"id": "mk_039_q10",
+"subject": "maatschappij",
+"syllabus": "ML2/K/8",
+"syllabus_section": "8.2.5",
+"topic": "Rechtsstaat en rechten",
+"skill": "Gegevens vergelijken en een conclusie trekken",
+"level": "BB",
+"type": "multiple_choice",
+"question": "Kijk naar deze twee voorbeeldsituaties. Welk land voldoet op basis van deze gegevens aan belangrijke kenmerken van een rechtsstaat?",
+"context": "Land 1: De politie mag burgers zonder bewijs of rechter onbeperkt opsluiten als de minister dat beveelt.\nLand 2: De politie moet binnen drie dagen een verdachte aan een rechter laten zien. De rechter controleert of de arrestatie volgens de wet is verlopen.",
+"answers": [
+"Alleen Land 1, omdat een sterke minister criminaliteit snel kan aanpakken.",
+"Alleen Land 2, omdat de macht van de politie en overheid daar volgens de wet wordt gecontroleerd.",
+"Beide landen voldoen aan de eisen van een rechtsstaat."
+],
+"correct_answer": 1,
+"hint": "In welk land zijn er duidelijke wettelijke grenzen en onafhankelijke controle op de macht van de overheid?",
+"feedback_correct": "Goed. In Land 2 wordt de macht van de politie volgens de wet gecontroleerd. Dat past bij belangrijke kenmerken van een rechtsstaat.",
+"feedback_wrong": "Kijk nog eens naar de wettelijke grenzen aan de macht van de politie en naar de onafhankelijke controle.",
+"source": "Eigen voorbeeld",
+"source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+}
+},
+{
+"type": "finish",
+"title": "Wat moet je onthouden?",
+"text": "De rechtsstaat stelt regels aan de overheid wanneer zij criminaliteit bestrijdt. Dit beschermt burgers tegen willekeur en machtsmisbruik. De politie, het Openbaar Ministerie en de rechter hebben verschillende taken. Een verdachte is onschuldig totdat een rechter heeft beslist dat hij of zij schuldig is. Verdachten hebben rechten, zoals het zwijgrecht en het recht op hulp van een advocaat. Ook de overheid moet zich aan de wet houden. Het legaliteitsbeginsel betekent dat je alleen kunt worden gestraft voor gedrag dat al strafbaar was toen je het deed."
+}
+]
+}

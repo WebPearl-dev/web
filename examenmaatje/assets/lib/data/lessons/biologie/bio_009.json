@@ -1,0 +1,326 @@
+{
+  "id": "bio_009",
+  "subject": "biologie",
+  "title": "Les 9 - Dieren: ademhaling, poten, gebit, snavels en darmen",
+  "goal": "Je kunt uitleggen hoe de ademhaling, poten, gebitten, snavels en darmen van verschillende dieren zijn aangepast aan hun leefwijze en voedsel.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Aanpassingen bij dieren",
+      "text": "Dieren leven op verschillende plekken en eten verschillend voedsel. Hun lichamen zijn daar helemaal op aangepast. In deze les kijken we naar hoe je aan de buitenkant (poten, snavels, gebit) en de binnenkant (ademhaling, darmen) kunt zien hoe een dier leeft.",
+      "image": "les_009_intro_dieren.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Ademhalingsorganen bij dieren",
+      "text": "Dieren hebben zuurstof nodig voor de verbranding, maar halen dit op verschillende manieren adem:\n* Kieuwen: Vissen halen hiermee opgelost zuurstofgas uit het water.\n* Longen: Zoogdieren, vogels en reptielen halen hiermee zuurstof uit de lucht.\n* Tracheeën: Insecten ademen via een netwerk van kleine luchtwegbuisjes door hun hele lijf.",
+      "image": "les_009_ademhaling_typen.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Hoe dieren lopen: Zool-, teen- en hoefgangers",
+      "text": "De poten van zoogdieren verklappen hoe ze zich voortbewegen:\n* Zoolgangers: Lopen op de hele voetbood (bijv. mens, beer). Ze hebben veel grip maar zijn minder snel.\n* Teengangers: Lopen op hun tenen (bijv. hond, kat). Ze kunnen geruisloos sluipen en snel rennen.\n* Hoefgangers (topgangers): Lopen op de toppen van hun tenen, beschermd door een harde hoef (bijv. paard, koe). Dit maakt ze erg snel op harde ondergronden.",
+      "image": "les_009_pootbouw_gangers.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Gebit, snavel en darmen",
+      "text": "Het voedsel bepaalt hoe de kaken en darmen van een dier eruitzien:\n* Vleeseters (carnivoren): Hebben scherpe knipkiezen om vlees door te knippen. Hun darmkanaal is kort, omdat vlees makkelijk verteert.\n* Planteneters (herbivoren): Hebben plooikiezen met harde richels om taaie plantencellen te vermalen. Hun darmkanaal is heel lang, omdat planten moeilijk verteren.\n* Alleseters (omnivoren): Hebben knobbelkiezen om voedsel te pletten en te malen (zoals de mens).\n* Snavels: Zaadeters hebben een korte, dikke kegelsnavel; vleeseters een scherpe haaksnavel; en insecteneters een pincet- of priksnavel.",
+      "image": "les_009_gebit_darmen.png"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees bij vragen over gebitten en darmen altijd eerst goed wat het dier eet. Vlees = scherpe knipkiezen + korte darm. Planten = plooikiezen + lange darm. Let bij de poten goed op welk deel de grond raakt."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Kieuwen = water, Longen = lucht, Tracheeën = insect. Zoolganger = hele voet, Teenganger = tenen, Hoefganger = topspitzen. Vleeseter = knipkiezen + korte darm. Planteneter = plooikiezen + lange darm. Alleseter = knobbelkiezen."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_009_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "organismen_en_aanpassing",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Met welke specifieke ademhalingsorganen halen volgroeide insecten, zoals vlinders and kevers, adem?",
+      "answers": [
+        "Met kieuwen",
+        "Met longen",
+        "Met tracheeën"
+      ],
+      "correct_answer": 2,
+      "hint": "Dit systeem bestaat uit een netwerk van kleine buisjes die door het hele lijf lopen.",
+      "feedback_correct": "Klopt! Insecten ademen via tracheeën. Lucht stroomt via gaatjes in de zijwand direct naar binnen.",
+      "feedback_wrong": "Vissen ademen met kieuwen, zoogdieren en reptielen met longen. Insecten gebruiken altijd tracheeën.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    },
+    {
+      "id": "bio_009_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Mensen en beren lopen tijdens het voortbewegen op hun volledige voetzool. Hoe noemen biologen dit type loper?",
+      "answers": [
+        "Hoefgangers",
+        "Teengangers",
+        "Zoolgangers"
+      ],
+      "correct_answer": 2,
+      "hint": "De naam verklapt al dat de gehele onderkant (de zool) de grond raakt.",
+      "feedback_correct": "Juist! Organismen die op hun hele voetzool lopen, noemen we zoolgangers.",
+      "feedback_wrong": "Paarden zijn hoefgangers en honden zijn teengangers. Mensen en beren zijn zoolgangers.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    },
+    {
+      "id": "bio_009_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Paarden en koeien lopen op de alleruiterste toppen van hun tenen, beschermd door een harde laag. Hoe heet dit type loper?",
+      "answers": [
+        "Hoefgangers (topgangers)",
+        "Teengangers",
+        "Zoolgangers"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan het harde materiaal onder de voet van een paard.",
+      "feedback_correct": "Perfect! Paarden en koeien lopen op hun hoeven en zijn dus hoefgangers.",
+      "feedback_wrong": "Lopen op de toppen van de tenen met een hoeflaag maakt een dier een hoefganger, geen teenganger.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    },
+    {
+      "id": "bio_009_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "organismen_en_aanpassing",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Honden en katten zijn jagers die geruisloos moeten kunnen sluipen. Welk type kiezen bezitten deze vleeseters om stukken vlees mee door te snijden?",
+      "answers": [
+        "Knipkiezen",
+        "Knobbelkiezen",
+        "Plooikiezen"
+      ],
+      "correct_answer": 0,
+      "hint": "Deze kiezen werken samen als de scherpe bladen van een schaar.",
+      "feedback_correct": "Heel goed! Vleeseters hebben scherpe knipkiezen om vlees en botten door te knippen.",
+      "feedback_wrong": "Plooikiezen zijn voor planten en knobbelkiezen voor alleseters. Vleeseters hebben knipkiezen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    },
+    {
+      "id": "bio_009_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "organismen_en_aanpassing",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Koeien en schapen eten de hele dag taai gras. Welk type kiezen bezitten deze planteneters om de stevige plantencellen mee te vermalen?",
+      "answers": [
+        "Knipkiezen",
+        "Knobbelkiezen",
+        "Plooikiezen"
+      ],
+      "correct_answer": 2,
+      "hint": "Deze platte kiezen hebben harde, opstaande richels (plooien) die als een molensteen werken.",
+      "feedback_correct": "Juist! Planteneters hebben plooikiezen om taai plantaardig materiaal fijn te malen.",
+      "feedback_wrong": "Knipkiezen snijden vlees. Het vermalen van planten gebeurt met plooikiezen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    },
+    {
+      "id": "bio_009_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "organismen_en_aanpassing",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Als we de lengte van het darmkanaal van een wolf (vleeseter) vergelijken met dat van een schaap (planteneter), wat valt dan biologisch gezien op?",
+      "answers": [
+        "De wolf heeft een veel korter darmkanaal, omdat vlees makkelijker verteert dan planten.",
+        "De wolf heeft een veel langer darmkanaal, omdat vlees heel moeilijk afbreekt.",
+        "De darmkanalen zijn bij beide dieren exact even lang."
+      ],
+      "correct_answer": 0,
+      "hint": "Plantaardige celwanden zijn heel stevig en hebben veel tijd en ruimte nodig om verteerd te worden.",
+      "feedback_correct": "Perfect! Vlees is makkelijk verteerbaar, dus hebben vleeseters korte darmen. Planteneters hebben juist heel lange darmen.",
+      "feedback_wrong": "Planten verteren heel traag, waardoor planteneters lange darmen hebben. Vleeseters hebben juist korte darmen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    },
+    {
+      "id": "bio_009_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een patrijsvogel eet voornamelijk harde zaden en pitten van de grond. Welk type snavel is hier het meest voor geschikt?",
+      "answers": [
+        "Een scherpe, kromme haaksnavel",
+        "Een korte, dikke en stevige kegelsnavel",
+        "Een lange, dunne pincetsnavel"
+      ],
+      "correct_answer": 1,
+      "hint": "De snavel moet werken als een stevige notenkraker om de harde schilletjes te breken.",
+      "feedback_correct": "Uitstekend! Een kegelsnavel is kort en krachtig, ideaal voor het kraken van zaden.",
+      "feedback_wrong": "Een haaksnavel is voor vlees (roofvogels) and een pincetsnavel voor insecten. Zaadeters hebben een kegelsnavel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    },
+    {
+      "id": "bio_009_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "organismen_en_aanpassing",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke ademhalingsorganen bezitten vissen om zuurstofgas op te nemen dat is opgelost in het water?",
+      "answers": [
+        "Kieuwen",
+        "Longen",
+        "Tracheeën"
+      ],
+      "correct_answer": 0,
+      "hint": "Deze roze, geplooide organen liggen direct achter de kop onder de kieuwdeksels.",
+      "feedback_correct": "Klopt! Vissen filteren met hun kieuwen zuurstof rechtstreeks uit het stromende water.",
+      "feedback_wrong": "Longen en tracheeën werken alleen met zuurstof uit de lucht. In het water gebruiken vissen kieuwen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    },
+    {
+      "id": "bio_009_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Honden en katten lopen uitsluitend op hun tenen. Hoe noemen we dit type loper?",
+      "answers": [
+        "Hoefgangers",
+        "Teengangers",
+        "Zoolgangers"
+      ],
+      "correct_answer": 1,
+      "hint": "Kijk naar de naam: ze lopen letterlijk op hun tenen, waardoor ze snel en geruisloos kunnen bewegen.",
+      "feedback_correct": "Juist! Honden, katten en vossen zijn voorbeelden van teengangers.",
+      "feedback_wrong": "Mensen zijn zoolgangers and paarden zijn hoefgangers. Dieren die op hun tenen lopen zijn teengangers.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    },
+    {
+      "id": "bio_009_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "organismen_en_aanpassing",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Mensen eten zowel plantaardig als dierlijk voedsel (alleseters). Welk type kiezen bezit een alleseter om voedsel te pletten en te malen?",
+      "answers": [
+        "Knipkiezen",
+        "Knobbelkiezen",
+        "Plooikiezen"
+      ],
+      "correct_answer": 1,
+      "hint": "Kijk naar het oppervlak van je eigen kiezen: er zitten hobbels en bobbels op.",
+      "feedback_correct": "Perfect! Alleseters (omniven) hebben knobbelkiezen met ronde knobbels om voedsel plat te persen.",
+      "feedback_wrong": "Knipkiezen snijden vlees en plooikiezen malen gras. Alleseters hebben knobbelkiezen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    },
+    {
+      "id": "bio_009_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een roofvogel, zoals een valk of een havik, jaagt op muizen en andere kleine prooidieren. Welke snavelvorm hoort bij deze leefwijze?",
+      "answers": [
+        "Een korte, dikke kegelsnavel",
+        "Een scherpe, sterke en kromme haaksnavel",
+        "De platte zeefsnavel"
+      ],
+      "correct_answer": 1,
+      "hint": "De snavel moet werken als een haak om vlees van de prooi los te kunnen scheuren.",
+      "feedback_correct": "Uitstekend! Roofvogels hebben een haaksnavel om hun prooi mee te verscheuren.",
+      "feedback_wrong": "Kegelsnavels zijn voor zaden en zeefsnavels voor waterdiertjes. Roofvogels hebben een haaksnavel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    },
+    {
+      "id": "bio_009_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "organismen_en_aanpassing",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Zoogdieren, vogels en reptielen leven op het land. Met welke organen halen zij zuurstof uit de buitenlucht?",
+      "answers": [
+        "Met kieuwen",
+        "Met longen",
+        "Met tracheeën"
+      ],
+      "correct_answer": 1,
+      "hint": "Dit zijn grote, rekbare elastische zakken in de borstholte.",
+      "feedback_correct": "Heel goed! Landdieren ademen met longen om zuurstof op te nemen en koolstofdioxide af te geven.",
+      "feedback_wrong": "Kieuwen zijn voor waterdieren en tracheeën voor insecten. Landzoogdieren en vogels ademen met longen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_009"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 3.0",
+    "notitie": "Id's en mapping volledig aangepast naar les bio_009 en gekoppeld aan de databasecodes van de koppeltabel v1.0.",
+    "wijziging": "Vlakke arraystructuur opgebouwd met 12 kwalitatieve en dekkende vragen over ademhaling, pootgangers, gebitstypen, snavels en darmlengte conform de BB-2027 syllabus."
+  }
+}

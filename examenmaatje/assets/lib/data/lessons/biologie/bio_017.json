@@ -1,0 +1,335 @@
+{
+  "id": "bio_017",
+  "subject": "biologie",
+  "title": "Les 17 - Organen en verteringssappen",
+  "goal": "Je kunt aangeven welke organen verteringssappen maken, waar gal wordt opgeslagen en hoe gal helpt bij de vertering van vetten.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Waar worden verteringssappen gemaakt?",
+      "text": "Bij de vertering zijn verschillende organen betrokken. Sommige organen maken een verteringssap. Een ander orgaan slaat een sap tijdelijk op. Verteringssappen helpen voedsel verder te verwerken. In deze les leer je welke organen bij de verschillende sappen horen en wat gal doet.",
+      "image": "les_017_intro_vertering.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Organen en verteringssappen",
+      "text": "De speekselklieren maken speeksel. De maagwand maakt maagsap. De alvleesklier maakt alvleessap. De lever maakt gal. De galblaas slaat gal tijdelijk op. Ook de dunne darm maakt darmsap. Verwar het orgaan dat een sap maakt dus niet met een orgaan dat het sap bewaart."
+    },
+    {
+      "type": "explanation",
+      "title": "De dunne darm en darmsap",
+      "text": "De dunne darm maakt darmsap. In de dunne darm wordt voedsel verder verteerd. Verteringssappen bevatten stoffen die helpen bij het afbreken van voedingsstoffen. Het belangrijkste is dat je herkent welk orgaan welk sap produceert.",
+      "image": "les_017_organen_overzicht.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Wat doet gal?",
+      "text": "Gal helpt bij de vertering van vetten. Gal verdeelt grote vetdruppels in veel kleinere druppeltjes. Dit heet emulgeren. Daardoor kunnen verteringssappen er makkelijker bij om de vetten te verwerken. Gal is zelf geen verteringssap dat stoffen echt afbreekt; het verdeelt alleen de druppels. De lever maakt gal en de galblaas slaat het tijdelijk op."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees eerst welk orgaan of verteringssap in de vraag staat. Bedenk daarna wat je daarover hebt geleerd. Let goed op het verschil tussen maken en opslaan: de lever maakt gal en de galblaas slaat gal op. Lees bij vragen over vetten ook goed wat gal met vet doet."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "De speekselklieren maken speeksel, de maagwand maakt maagsap, de alvleesklier maakt alvleessap en de dunne darm maakt darmsap. De lever maakt gal and de galblaas slaat gal tijdelijk op. Gal helpt grote vetdruppels in kleinere druppeltjes te verdelen. Dat heet emulgeren."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_017_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk deel van het verteringsstelsel maakt maagsap?",
+      "answers": [
+        "De lever",
+        "De galblaas",
+        "De maagwand",
+        "De dunne darm"
+      ],
+      "correct_answer": 2,
+      "hint": "Het sap is genoemd naar het orgaan waarin het wordt gemaakt.",
+      "feedback_correct": "Goed! De maagwand maakt maagsap.",
+      "feedback_wrong": "Maagsap wordt gemaakt door klieren in de maagwand. De lever maakt gal en de galblaas slaat gal op.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_017"
+    },
+    {
+      "id": "bio_017_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk orgaan maakt alvleessap?",
+      "answers": [
+        "De alvleesklier",
+        "De lever",
+        "De galblaas",
+        "De maag"
+      ],
+      "correct_answer": 0,
+      "hint": "Let op de naam van het orgaan.",
+      "feedback_correct": "Goed! De alvleesklier maakt alvleessap.",
+      "feedback_wrong": "De alvleesklier maakt alvleessap. De lever maakt gal en de maagwand maakt maagsap.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_017"
+    },
+    {
+      "id": "bio_017_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk orgaan maakt gal?",
+      "answers": [
+        "De galblaas",
+        "De lever",
+        "De maag",
+        "De alvleesklier"
+      ],
+      "correct_answer": 1,
+      "hint": "Dit orgaan maakt gal; een ander orgaan bewaart het tijdelijk.",
+      "feedback_correct": "Goed! De lever maakt gal.",
+      "feedback_wrong": "De lever maakt gal. De galblaas slaat gal tijdelijk op, maar maakt het niet zelf.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_017"
+    },
+    {
+      "id": "bio_017_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat doet de galblaas?",
+      "answers": [
+        "Hij maakt gal",
+        "Hij maakt maagsap",
+        "Hij maakt darmsap",
+        "Hij slaat gal tijdelijk op"
+      ],
+      "correct_answer": 3,
+      "hint": "De lever maakt gal. Wat gebeurt er daarna met een deel van de gal?",
+      "feedback_correct": "Goed! De galblaas slaat gal tijdelijk op.",
+      "feedback_wrong": "De galblaas bewaart gal tijdelijk. De lever maakt de gal.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_017"
+    },
+    {
+      "id": "bio_017_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk deel van het verteringsstelsel maakt darmsap?",
+      "answers": [
+        "De lever",
+        "De dunne darm",
+        "De galblaas",
+        "De slokdarm"
+      ],
+      "correct_answer": 1,
+      "hint": "Het sap is genoemd naar het deel van het verteringsstelsel dat het maakt.",
+      "feedback_correct": "Goed! De dunne darm maakt darmsap.",
+      "feedback_wrong": "De dunne darm maakt darmsap. De lever maakt gal and de galblaas slaat gal op.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_017"
+    },
+    {
+      "id": "bio_017_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat doet gal bij de vertering van vetten?",
+      "answers": [
+        "Het verandert vet rechtstreeks in bloed",
+        "Het verdeelt grote vetdruppels in kleinere druppeltjes",
+        "Het maakt voedsel zuur in de mond",
+        "Het neemt de functie van de maag over"
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan wat er met grote vetdruppels gebeurt.",
+      "feedback_correct": "Goed! Gal verdeelt grote vetdruppels in kleinere druppeltjes. Dat heet emulgeren.",
+      "feedback_wrong": "Gal helpt vetten verdelen in kleinere druppeltjes. Het is zelf geen sap dat vetten echt afbreekt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_017"
+    },
+    {
+      "id": "bio_017_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een leerling zegt: 'De galblaas maakt gal en de lever bewaart het.' Wat moet de leerling verbeteren?",
+      "answers": [
+        "De lever maakt gal en de galblaas slaat het tijdelijk op",
+        "De galblaas maakt gal en de maag slaat het op",
+        "De alvleesklier maakt gal en de lever slaat het op",
+        "De uitspraak is juist"
+      ],
+      "correct_answer": 0,
+      "hint": "Wissel de taken van de lever en de galblaas niet om.",
+      "feedback_correct": "Goed! De lever maakt gal and de galblaas slaat gal tijdelijk op.",
+      "feedback_wrong": "De uitspraak draait de taken om. De lever maakt gal; de galblaas bewaart het tijdelijk.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_017"
+    },
+    {
+      "id": "bio_017_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke combinatie van orgaan en verteringssap is juist?",
+      "answers": [
+        "Lever - maagsap",
+        "Galblaas - darmsap",
+        "Alvleesklier - alvleessap",
+        "Maag - gal"
+      ],
+      "correct_answer": 2,
+      "hint": "Controleer of het orgaan het genoemde sap maakt of alleen opslaat.",
+      "feedback_correct": "Goed! De alvleesklier maakt alvleessap.",
+      "feedback_wrong": "De alvleesklier maakt alvleessap. De lever maakt gal en de maagwand maakt maagsap.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_017"
+    },
+    {
+      "id": "bio_017_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In de dunne darm komen grote vetdruppels terecht. Welke stof helpt deze druppels te verdelen in kleinere druppeltjes?",
+      "answers": [
+        "Speeksel",
+        "Gal",
+        "Maagsap",
+        "Darmsap"
+      ],
+      "correct_answer": 1,
+      "hint": "Deze stof wordt gemaakt door de lever.",
+      "feedback_correct": "Goed! Gal helpt grote vetdruppels te verdelen in kleinere druppeltjes.",
+      "feedback_wrong": "Gal helpt bij het emulgeren van vetten. De lever maakt gal and de galblaas slaat het tijdelijk op.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_017"
+    },
+    {
+      "id": "bio_017_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke rij bevat alleen juiste combinaties?",
+      "answers": [
+        "Lever - gal; galblaas - gal tijdelijk opslaan",
+        "Maag - gal; lever - maagsap",
+        "Alvleesklier - gal; dunne darm - speeksel",
+        "Speekselklieren - maagsap; galblaas - alvleessap"
+      ],
+      "correct_answer": 0,
+      "hint": "Controleer beide combinaties in elke rij.",
+      "feedback_correct": "Goed! De lever maakt gal en de galblaas slaat gal tijdelijk op.",
+      "feedback_wrong": "De lever maakt gal. De galblaas slaat gal tijdelijk op; de maagwand maakt maagsap en de alvleesklier maakt alvleessap.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_017"
+    },
+    {
+      "id": "bio_017_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Nadat de voedingsstoffen in de dunne darm zijn opgenomen, stroomt de waterige overgebleven brij door naar de dikke darm. Wat is de belangrijkste functie van de dikke darm?",
+      "answers": [
+        "Water opnemen uit de voedselresten, waardoor de brij indikt.",
+        "Gal aanmaken om zware eiwitten te verteren.",
+        "Het voedsel vermengen met extra zuur maagsap."
+      ],
+      "correct_answer": 0,
+      "hint": "Bedenk wat er met de dunne brij moet gebeuren om er een stevige ontlasting van te maken.",
+      "feedback_correct": "Perfect! De dikke darm haalt het water terug in het bloed, zodat je lichaam niet uitdroogt en de ontlasting indikt.",
+      "feedback_wrong": "De dikke darm maakt geen gal of maagsap. De hoofdfunctie van de dikke darm is de opname van water.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_017"
+    },
+    {
+      "id": "bio_017_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Op een overzichtskaart van het menselijk spijsverteringskanaal zie je een groot, donkerrood orgaan rechtsboven in de buikholte liggen dat gal produceert. Welk orgaan is dit?",
+      "answers": [
+        "De lever",
+        "De maag",
+        "De dikke darm"
+      ],
+      "correct_answer": 0,
+      "hint": "Het is het grootste interne orgaan van je lichaam en ligt direct onder het middenrif.",
+      "feedback_correct": "Helemaal goed! Dit is de lever. De lever produceert continu gal.",
+      "feedback_wrong": "De maag en de dikke darm maken geen gal. Dat is de taak van de lever.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_017",
+      "image": "les_017_q12_lever.png"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.0",
+    "notitie": "Les-id en alle onderliggende id's definitief omgezet naar bio_017 conform ons goedgekeurde 30-lessen masterplan v1.0. Structuur volledig vlakgetrokken.",
+    "wijziging": "Vragen-array opgeschoond van nestings, codes gecontroleerd tegen topic vertering en twee vragen over de dikke darm en de lever toegevoegd."
+  }
+}

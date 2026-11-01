@@ -1,0 +1,401 @@
+{
+  "id": "bio_003",
+  "subject": "biologie",
+  "title": "Les 3 - Rekenen met biologische gegevens",
+  "goal": "Je leert hoe je biologische gegevens kunt schatten, afronden, uitrekenen met een verhoudingstabel en de juiste eenheid kiest.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Bij biologie moet je soms rekenen met getallen die je vindt in tabellen of diagrammen. In deze les leer je hoe je handig afrondt, hoe een verhoudingstabel werkt én welke letter je altijd achter je antwoord moet zetten."
+    },
+    {
+      "type": "explanation",
+      "title": "Schatten en afronden",
+      "text": "Als een getal in een grafiek net tussen twee streepjes in ligt, moet je schatten. Zie je een kommagetal? Let dan op de eerste letter achter de komma. Is dat een 5, 6, 7, 8 of 9? Dan rond je af naar boven (21,8 wordt 22). Is het een 1, 2, 3 of 4? Dan blijft het getal zo (21,3 wordt 21)."
+    },
+    {
+      "type": "explanation",
+      "title": "Werken met een verhoudingstabel",
+      "text": "Een verhoudingstabel helpt je stap voor stap rekenen. Als je weet dat 1 boom per dag 3 kg zuurstof maakt, en je wilt weten wat 3 bomen doen, zet je dit in een tabel. De regel is simpel: wat je aan de bovenkant doet (keer 3), doe je aan de onderkant ook (3 keer 3 = 9 kg)."
+    },
+    {
+      "type": "explanation",
+      "title": "Altijd een eenheid gebruiken!",
+      "text": "Een getal los opschrijven mag niet bij biologie. Er moet altijd een eenheid achter staan. Denk aan millimeters (mm) of centimeters (cm) voor lengte, gram (g) of kilogram (kg) voor gewicht, en graden Celsius (°C) voor temperatuur."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Rond kommagetallen netjes af volgens de regel. Gebruik een verhoudingstabel om vermenigvuldigen makkelijk te maken en vergeet nooit de eenheid (zoals cm, kg of °C) achter je antwoord te zetten."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_003_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Basisrekenen",
+      "topic": "biologisch_rekenen",
+      "skill": "rekenvaardigheid_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een rups is in een week gegroeid van 12 mm naar 27,9 mm. Hoeveel millimeter is de rups afgerond ongeveer gegroeid?",
+      "answers": [
+        "Ongeveer 11 mm",
+        "Ongeveer 16 mm",
+        "Ongeveer 20 mm"
+      ],
+      "correct_answer": 1,
+      "hint": "Rond 27,9 eerst af naar 28. Trek daar daarna de beginlengte (12) vanaf.",
+      "feedback_correct": "Klopt! 27,9 mm rond je af naar 28 mm. 28 - 12 = 16 mm groei.",
+      "feedback_wrong": "Rond 27,9 eerst af naar het dichtstbijzijnde hele getal (28) en trek daar 12 vanaf.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Basisrekenen",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    },
+    {
+      "id": "bio_003_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Basisrekenen",
+      "topic": "biologisch_rekenen",
+      "skill": "rekenvaardigheid_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In een tabel staat dat 1 gezonde boom 3 kilogram zuurstof per dag maakt. Hoeveel kilogram zuurstof maken 3 van deze bomen samen per dag?",
+      "answers": [
+        "6 kg",
+        "9 kg",
+        "12 kg"
+      ],
+      "correct_answer": 1,
+      "hint": "Als 1 boom 3 kg maakt, doen 3 bomen dat 3 keer zoveel (3 x 3).",
+      "feedback_correct": "Goed gedaan! 3 bomen x 3 kg = 9 kilogram zuurstof.",
+      "feedback_wrong": "Je moet vermenigvuldigen: 3 bomen keer 3 kg per boom.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Basisrekenen",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    },
+    {
+      "id": "bio_003_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Grootheden en eenheden",
+      "topic": "biologisch_rekenen",
+      "skill": "eenheid_bepalen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Sanne meet de temperatuur van een actieve egel. Welke eenheid moet zij achter het getal zetten?",
+      "answers": [
+        "cm",
+        "kg",
+        "°C"
+      ],
+      "correct_answer": 2,
+      "hint": "Welke letter hoort er standaard bij het meten van temperatuur?",
+      "feedback_correct": "Top! Temperatuur meet je altijd in graden Celsius (°C).",
+      "feedback_wrong": "cm is voor lengte en kg is voor gewicht. Temperatuur meet je in graden Celsius.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Grootheden en eenheden",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    },
+    {
+      "id": "bio_003_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Basisrekenen",
+      "topic": "biologisch_rekenen",
+      "skill": "rekenvaardigheid_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een bonenplant is in de eerste week 4 cm gegroeid. In de tweede week groeit de plant nog eens 6 cm. Wat is de totale groei na twee weken?",
+      "answers": [
+        "2 cm",
+        "10 cm",
+        "24 cm"
+      ],
+      "correct_answer": 1,
+      "hint": "Tel de groei van de eerste week en de tweede week bij elkaar op.",
+      "feedback_correct": "Klopt! 4 cm + 6 cm = samen 10 cm totale groei.",
+      "feedback_wrong": "Om de totale groei te vinden moet je de twee getallen bij elkaar optellen (4 + 6).",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Basisrekenen",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    },
+    {
+      "id": "bio_003_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Basisrekenen",
+      "topic": "biologisch_rekenen",
+      "skill": "informatie_uit_bron_aflezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "De hartslag van een vogel in rust is exact 112,4 slagen per minuut. Hoeveel slagen is dit afgerond op een heel getal?",
+      "answers": [
+        "112 slagen",
+        "113 slagen",
+        "114 slagen"
+      ],
+      "correct_answer": 0,
+      "hint": "Kijk naar het eerste getal achter de komma. Dat is een 4. Rond je dan af naar boven of blijft het getal zo?",
+      "feedback_correct": "Goed! Omdat er een 4 achter de komma staat, blijft het getal 112.",
+      "feedback_wrong": "Bij een 1, 2, 3 of 4 achter de komma blijft het getal gelijk. Je rondt pas af naar boven vanaf een 5.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Basisrekenen",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    },
+    {
+      "id": "bio_003_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Basisrekenen",
+      "topic": "biologisch_rekenen",
+      "skill": "rekenvaardigheid_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Uit een proef blijkt dat 2 kilo voer genoeg is voor 4 konijnen voor één week. Hoeveel kilo voer heb je nodig voor 8 konijnen voor één week?",
+      "answers": [
+        "2 kilo",
+        "4 kilo",
+        "6 kilo"
+      ],
+      "correct_answer": 1,
+      "hint": "Maak in gedachten een verhoudingstabel. 8 konijnen is 2 keer zoveel als 4 konijnen. Wat doe je dan met het voer?",
+      "feedback_correct": "Perfect! Het aantal konijnen verdubbelt (x 2), dus het voer ook: 2 kilo x 2 = 4 kilo.",
+      "feedback_wrong": "Als je 2 keer zoveel konijnen hebt (8 in plaats van 4), hebben ze ook 2 keer zoveel voer nodig.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Basisrekenen",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    },
+    {
+      "id": "bio_003_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Grootheden en eenheden",
+      "topic": "biologisch_rekenen",
+      "skill": "eenheid_bepalen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een biologiedocent weegt een grote bloempot met droge aarde op een weegschaal. Welke eenheid past het best bij het gewicht van deze pot?",
+      "answers": [
+        "mm",
+        "kg",
+        "ml"
+      ],
+      "correct_answer": 1,
+      "hint": "Met welke letter geef je het gewicht (massa) van een zwaar voorwerp aan?",
+      "feedback_correct": "Klopt! Het gewicht van een zware pot aarde meet je in kilogram (kg).",
+      "feedback_wrong": "mm is voor lengte en ml is voor vloeistoffen. Gewicht meet je in kg.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Grootheden en eenheden",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    },
+    {
+      "id": "bio_003_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Basisrekenen",
+      "topic": "biologisch_rekenen",
+      "skill": "rekenvaardigheid_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een leerling telt de blaadjes van een kiemplantje. Op maandag zijn het er 4. Elke dag komen er 2 nieuwe blaadjes bij. Hoeveel blaadjes heeft het plantje op woensdag (2 dagen later)?",
+      "answers": [
+        "6 blaadjes",
+        "8 blaadjes",
+        "10 blaadjes"
+      ],
+      "correct_answer": 1,
+      "hint": "Reken eerst uit hoeveel blaadjes er in 2 dagen bijkomen (2 dagen x 2 blaadjes) en tel dat op bij het begin.",
+      "feedback_correct": "Heel goed! Er komen 4 blaadjes bij (2 x 2). 4 + 4 = 8 blaadjes in totaal.",
+      "feedback_wrong": "Elke dag komen er 2 bij. Na 2 dagen zijn dat dus 4 extra blaadjes. Tel die op bij de 4 blaadjes die er al waren.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Basisrekenen",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    },
+    {
+      "id": "bio_003_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Basisrekenen",
+      "topic": "biologisch_rekenen",
+      "skill": "rekenvaardigheid_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In een diagram staat dat een plant 14,7 centimeter hoog is. Hoeveel centimeter is dit afgerond op een heel getal?",
+      "answers": [
+        "14 cm",
+        "15 cm",
+        "16 cm"
+      ],
+      "correct_answer": 1,
+      "hint": "Kijk naar het eerste getal achter de komma. Dat is een 7. Rond je bij een 7 af naar boven?",
+      "feedback_correct": "Ja! Omdat er een 7 achter de komma staat, rond je af naar boven: 15 cm.",
+      "feedback_wrong": "Een 7 achter de komma betekent dat het getal dichter bij de 15 ligt dan bij de 14. Je rondt dus af naar boven.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Basisrekenen",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    },
+    {
+      "id": "bio_003_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Basisrekenen",
+      "topic": "biologisch_rekenen",
+      "skill": "rekenvaardigheid_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Eén millimeter op een biologische tekening is in het echt 5 millimeter groot. De tekening van een insect is 4 millimeter lang op papier. Hoeveel millimeter is dat insect in het echt?",
+      "answers": [
+        "9 mm",
+        "15 mm",
+        "20 mm"
+      ],
+      "correct_answer": 2,
+      "hint": "Gebruik een verhoudingstabel: 1 mm op papier = 5 mm in het echt. Wat is dan 4 mm op papier?",
+      "feedback_correct": "Uitstekend! 4 mm op papier x 5 mm in het echt = 20 millimeter.",
+      "feedback_wrong": "Vermenigvuldig de getallen: 4 millimeter op de tekening keer de echte grootte (5 mm). 4 x 5 = 20 mm.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Basisrekenen",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    },
+    {
+      "id": "bio_003_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Grootheden en eenheden",
+      "topic": "biologisch_rekenen",
+      "skill": "eenheid_bepalen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een onderzoeker meet hoeveel milliliter verteringssap een maag maakt. Welke letter hoort bij milliliter?",
+      "answers": [
+        "mm",
+        "mg",
+        "ml"
+      ],
+      "correct_answer": 2,
+      "hint": "Kijk goed naar de letters: milli-liter. Welke afkorting hoort daarbij?",
+      "feedback_correct": "Klopt helemaal! De afkorting voor milliliter is ml.",
+      "feedback_wrong": "mm is millimeter (voor lengte) en mg is milligram (voor gewicht). Milliliter schrijf je als ml.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Grootheden en eenheden",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    },
+    {
+      "id": "bio_003_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Basisrekenen",
+      "topic": "biologisch_rekenen",
+      "skill": "rekenvaardigheid_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Op maandag kiemden er 5 zaden. Op dinsdag kiemden er 12 zaden. Op woensdag kiemden er nog eens 8 zaden. Hoeveel zaden zijn er in deze drie dagen in totaal gekiemd?",
+      "answers": [
+        "17 zaden",
+        "20 zaden",
+        "25 zaden"
+      ],
+      "correct_answer": 2,
+      "hint": "Tel alle drie de getallen (5 + 12 + 8) bij elkaar op om het totale aantal te vinden.",
+      "feedback_correct": "Geweldig! 5 + 12 + 8 = 25 zaden in totaal.",
+      "feedback_wrong": "Je moet alle gekiemde zaden bij elkaar optellen: 5 plus 12 plus 8.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3 Basisrekenen",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_003"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 1.0",
+    "notitie": "Compleet nieuwe rekenles gecreëerd om extra oefenruimte te bieden voor basisrekenen conform syllabus BI/K/3.",
+    "wijziging": "12 gerichte oefenvragen over afronden, schatten, eenheden en verhoudingstabellen toegevoegd met sluitende database-codes."
+  }
+}

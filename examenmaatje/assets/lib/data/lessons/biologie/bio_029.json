@@ -1,0 +1,342 @@
+{
+  "id": "bio_029",
+  "subject": "biologie",
+  "title": "Les 29 - De menstruatiecyclus en zwangerschap",
+  "goal": "Je kunt belangrijke gebeurtenissen van de menstruatiecyclus, bevruchting, zwangerschap en geboorte beschrijven en enkele kenmerken en onderzoeken herkennen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "De menstruatiecyclus en zwangerschap",
+      "text": "Het menselijk lichaam kan zich geslachtelijk voortplanten. In deze les leer je hoe de maandelijkse menstruatiecyclus werkt, wat er gebeurt tijdens de bevruchting en hoe een baby groeit en geboren wordt in de baarmoeder.",
+      "image": "les_029_intro_zwangerschap.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De menstruatiecyclus",
+      "text": "Vanaf de puberteit vindt er bij de vrouw maandelijks een cyclus plaats. Rond dag 14 vindt de ovulatie (eisprong) plaats: er komt een rijpe eicel vrij uit een van de eierstokken. Ondertussen wordt het baarmoederslijmvlies aan de binnenkant dikker om een bevruchte eicel te kunnen ontvangen. Als er geen bevruchting plaatsvindt, sterft de eicel. Het opgebouwde baarmoederslijmvlies wordt na twee weken gedeeltelijk afgestoten en verlaat het lichaam met wat bloed. Dit heet de menstruatie.",
+      "image": "les_029_cyclus_schema.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Bevruchting en innesteling",
+      "text": "Als er rond de ovulatie geslachtsgemeenschap plaatsvindt, kan een zaadcel versmelten met de eicel. Deze bevruchting vindt plaats bovenin de eileider. De bevruchte eicel deelt zich direct meerdere keren tot een klompje cellen (embryo) en reist naar de baarmoeder. Daar vindt de innesteling plaats: het klompje cellen hecht zich vast in het dikke baarmoederslijmvlies. Vanaf dat moment is de vrouw zwanger."
+    },
+    {
+      "type": "explanation",
+      "title": "Bescherming en voeding in de baarmoeder",
+      "text": "In de baarmoeder groeit het kind veilig op. Eerst heet het een embryo, en vanaf week 12 noemen we het een foetus. Het kind wordt omgeven door vruchtvliezen en vruchtwater, wat beschermt tegen stoten en uitdroging. De placenta (moederkoek) zorgt voor de uitwisseling van voedingsstoffen en zuurstof tussen het bloed van de moeder en het kind. De navelstreng vormt de verbinding tussen het kind en deze placenta.",
+      "image": "les_029_baarmoeder_embryo.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Onderzoek, zwangerschap en geboorte",
+      "text": "Tijdens de zwangerschap kan de arts met echoscopie (via geluidsgolven) beelden maken van het kind. \n\nNa ongeveer 40 weken volgt de geboorte in drie vaste stappen:\n1. Ontsluiting: De baarmoedermond wordt wijder door weeën.\n2. Uitdrijving: Sterke persweeën duwen de baby via de vagina naar buiten.\n3. Nageboorte: De placenta en de vliezen komen los en verlaten het lichaam."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Maak een scherp onderscheid tussen de processen. De ovulatie (eisprong) is het vrijkomen van de eicel. Bevruchting is het versmelten in de eileider. Innesteling is het vasthechten in de baarmoeder. De nageboorte is de allerlaatste stap van de bevalling."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Ovulatie = eicel komt vrij. Bevruchting = kernen versmelten in de eileider. Innesteling = embryo hecht in de baarmoeder. Placenta wisselt stoffen uit; navelstreng verbindt. Vruchtwater beschermt tegen stoten. Geboorte = ontsluiting ➡️ uitdrijving ➡️ nageboorte."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_029_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er precies tijdens de ovulatie (de eisprong) in het vrouwelijk lichaam?",
+      "answers": [
+        "Het baarmoederslijmvlies wordt met wat bloed afgestoten.",
+        "Er komt een rijpe eicel vrij uit een eierstok.",
+        "De baby wordt door persweeën naar buiten geduwd.",
+        "De placenta komt los van de baarmoederwand."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan de letterlijke betekenis van het Nederlandse woord 'eisprong'.",
+      "feedback_correct": "Klopt! Tijdens de ovulatie springt er een rijpe eicel uit de eierstok richting de eileider.",
+      "feedback_wrong": "De ovulatie is het vrijkomen van de eicel. Het afstoten van het slijmvlies hoort bij de menstruatie.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    },
+    {
+      "id": "bio_029_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom wordt het baarmoederslijmvlies aan de binnenkant van de baarmoeder elke maand dikker?",
+      "answers": [
+        "Om nieuwe zaadcellen aan te maken.",
+        "Om overtollige urine tijdelijk op te slaan.",
+        "Om de innesteling van een eventueel bevruchte eicel mogelijk te maken.",
+        "Om de eicel te dwingen te rijpen in de baarmoeder."
+      ],
+      "correct_answer": 2,
+      "hint": "Het dikke, bloedrijke laagje werkt als een zacht bedje voor het toekomstige klompje cellen.",
+      "feedback_correct": "Juist! Het baarmoederslijmvlies bereidt zich hiermee voor op een zwangerschap.",
+      "feedback_wrong": "Het slijmvlies wordt dikker voor een mogelijke innesteling. Eicellen ontwikkelen zich in de eierstokken, nooit in de baarmoeder.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    },
+    {
+      "id": "bio_029_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er tijdens de menstruatie (de ongesteldheid) als een eicel niet is bevrucht?",
+      "answers": [
+        "De eicel nestelt zich met kracht in het spierweefsel.",
+        "Het dikke baarmoederslijmvlies wordt gedeeltelijk afgestoten en verlaat het lichaam.",
+        "Een embryo start direct met een reeks celdelingen.",
+        "De baarmoedermond wordt onmiddellijk wijder voor de geboorte."
+      ],
+      "correct_answer": 1,
+      "hint": "Omdat er geen baby komt, is het opgebouwde slijmvlieslaagje overbodig geworden.",
+      "feedback_correct": "Perfect! Het onbevruchte slijmvlies laat los en verlaat het lichaam via de vagina. Dit is de menstruatie.",
+      "feedback_wrong": "Bij de menstruatie wordt het ongebruikte baarmoederslijmvlies opgeruimd en afgestoten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    },
+    {
+      "id": "bio_029_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Op welke specifieke plek in het vrouwelijke voortplantingsstelsel vindt de bevruchting meestal plaats?",
+      "answers": [
+        "In de eileider",
+        "In de vagina (schede)",
+        "In de baarmoederhals",
+        "In de eierstok zelf"
+      ],
+      "correct_answer": 0,
+      "hint": "Het is de transportbuis tussen de plek van vrijkomen en de groeiplaats.",
+      "feedback_correct": "Heel goed! De zaadcellen zwemmen omhoog en ontmoeten de eicel bovenin de eileider.",
+      "feedback_wrong": "De bevruchting vindt plaats in de eileider. In de baarmoeder vindt pas de innesteling plaats.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    },
+    {
+      "id": "bio_029_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er met de bevruchte eicel als eerste stap direct na een succesvolle bevruchting?",
+      "answers": [
+        "De baby wordt direct via de vagina geboren.",
+        "De menstruatiebloeding start binnen een paar minuten.",
+        "De bevruchte eicel gaat zich meerdere keren delen tot een klompje cellen.",
+        "De placenta verdwijnt direct uit de buikholte."
+      ],
+      "correct_answer": 2,
+      "hint": "De ene cel moet uitgroeien tot miljarden cellen. Welk biologisch proces is daarvoor nodig?",
+      "feedback_correct": "Top! De eicel start direct met celdelingen (mitose) tijdens de reis naar de baarmoeder.",
+      "feedback_wrong": "Direct na de bevruchting start de celdeling. De innesteling en geboorte volgen pas veel later.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    },
+    {
+      "id": "bio_029_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat betekent het begrip innesteling bij de zwangerschap?",
+      "answers": [
+        "De eicel komt los uit het blaasje van de eierstok.",
+        "De zaadcel verliest zijn staart in de vagina.",
+        "Het baarmoederslijmvlies krimpt ineen.",
+        "Het delende klompje cellen hecht zich vast in het dikke baarmoederslijmvlies."
+      ],
+      "correct_answer": 3,
+      "hint": "Dit is het moment waarop het embryo contact maakt met de bloedvaten van de moeder.",
+      "feedback_correct": "Juist! Bij de innesteling graaft het embryo zich vast in de baarmoederwand. Vanaf nu is de vrouw zwanger.",
+      "feedback_wrong": "Innesteling betekent dat het klompje cellen zich vastzet in het baarmoederslijmvlies.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    },
+    {
+      "id": "bio_029_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is de belangrijkste biologische functie van de placenta (moederkoek) tijdens de zwangerschap?",
+      "answers": [
+        "Het produceren van nieuwe vrouwelijke eicellen.",
+        "Het uitwisselen van stoffen (zoals zuurstof en voeding) tussen moeder en kind.",
+        "Het verzamelen en opslaan van de urine van de moeder.",
+        "Het volledig afsluiten van de eileiders."
+      ],
+      "correct_answer": 1,
+      "hint": "Dit tijdelijke orgaan zorgt ervoor dat het kind kan ademen en eten via het bloed van de moeder, zonder dat hun bloed rechtstreeks mengt.",
+      "feedback_correct": "Uitstekend! De placenta zorgt voor de aanvoer van zuurstof en voeding en de afvoer van afvalstoffen.",
+      "feedback_wrong": "De placenta wisselt stoffen uit tussen moeder en kind. Het bloedstelsel van de moeder blijft wel gescheiden van het kind.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    },
+    {
+      "id": "bio_029_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke twee biologische structuren worden rechtstreeks met elkaar verbonden door de navelstreng?",
+      "answers": [
+        "De eierstok en de eileider.",
+        "De vagina en de baarmoederhals.",
+        "Het ongeboren kind (de buik) en de placenta.",
+        "De urineblaas en de urinebuis."
+      ],
+      "correct_answer": 2,
+      "hint": "Denk aan de kabel die vanaf de baby naar de moederkoek loopt.",
+      "feedback_correct": "Klopt helemaal! De navelstreng bevat bloedvaten die tussen de baby en de placenta lopen.",
+      "feedback_wrong": "De navelstreng verbindt de baby met de placenta. Hierdoor stroomt het bloed van en naar de moederkoek.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    },
+    {
+      "id": "bio_029_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Mensen hebben primaire en secundaire geslachtskenmerken. Welk voorbeeld is een secundair geslachtskenmerk?",
+      "answers": [
+        "De eierstokken",
+        "De teelballen",
+        "De penis",
+        "De baardgroei en stemverandering in de puberteit"
+      ],
+      "correct_answer": 3,
+      "hint": "Secundaire kenmerken zijn de uiterlijke kenmerken die pas zichtbaar worden onder invloed van hormonen in de puberteit.",
+      "feedback_correct": "Juist! Baardgroei en borstontwikkeling zijn secundaire kenmerken. De geslachtsorganen zelf zijn primair.",
+      "feedback_wrong": "Lichaamsbeharing en baardgroei ontstaan in de puberteit en zijn secundaire kenmerken. Penis en ballen zijn primair.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    },
+    {
+      "id": "bio_029_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is een heel belangrijke mechanische functie van het vruchtwater waarin de baby drijft?",
+      "answers": [
+        "Het maakt nieuwe eicellen aan voor het kind.",
+        "Het beschermt het ongeboren kind tegen stoten, schokken en uitdroging.",
+        "Het pompt urine rechtstreeks terug naar de blaas van de moeder.",
+        "Het zorgt ervoor dat de placenta loslaat."
+      ],
+      "correct_answer": 1,
+      "hint": "Water dempt trillingen. Vergelijk het met een stootkussen of een waterbed.",
+      "feedback_correct": "Perfect! Het vruchtwater werkt als een vloeibaar stootkussen om de baby te beschermen.",
+      "feedback_wrong": "Vruchtwater beschermt de baby tegen schokken en stoten en houdt de temperatuur stabiel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    },
+    {
+      "id": "bio_029_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Bij welk routine-onderzoek tijdens de zwangerschap gebruikt de arts geluidsgolven om de baby op een scherm zichtbaar te maken?",
+      "answers": [
+        "Bij een vlokkentest",
+        "Bij een vruchtwaterpunctie",
+        "Bij echoscopie (een echo)",
+        "Bij een bloedonderzoek"
+      ],
+      "correct_answer": 2,
+      "hint": "Dit onderzoek is pijnloos, maakt gebruik van weerkaatsing van geluid en gebeurt via de buikwand.",
+      "feedback_correct": "Gewerdig! Echoscopie gebruikt onschadelijke geluidsgolven om het embryo of de foetus te bekijken.",
+      "feedback_wrong": "Echoscopie (de echo) werkt met geluidsgolven. Vlokkentest en punctie zijn onderzoeken waarbij weefsel wordt weggenomen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    },
+    {
+      "id": "bio_029_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "4",
+      "topic": "menselijke_voortplanting",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er tijdens de ontsluiting, de allereerste fase van de geboorte (de bevalling)?",
+      "answers": [
+        "De baarmoedermond wordt door weeën langzaam wijder.",
+        "De placenta groeit uit tot de moederkoek.",
+        "De eicel springt open in de eierstok.",
+        "Het baarmoederslijmvlies wordt volledig opgebouwd."
+      ],
+      "correct_answer": 0,
+      "hint": "De baby moet door de smalle baarmoedermond heen. Wat moet er met die opening gebeuren voor het hoofdje erdoor past?",
+      "feedback_correct": "Klopt helemaal! Tijdens de ontsluiting rekken de weeën de baarmoedermond op tot een opening van 10 centimeter.",
+      "feedback_wrong": "Ontsluiting is het opengaan van de baarmoedermond. Het naar buiten persen van de baby heet de uitdrijving.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_029"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 3.0",
+    "notitie": "Les-id en vraagnummers hard gecorrigeerd naar bio_029 conform het masterplan v1.0. Structuur volledig vlakgetrokken.",
+    "wijzigingen": "Array opgeschoond van nestings, selectie ingedikt naar 12 kwalitatieve vragen, en herkenningstechnische vaardigheden gekoppeld aan topic menselijke_voortplanting."
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "id": "mk_029",
+  "subject": "maatschappij",
+  "title": "Les 29 – Nederland en de Europese Unie",
+  "goal": "Je leert wat de Europese Unie (EU) is en waarom Nederland lid is van deze organisatie. Je leert op welke onderwerpen Europese landen samenwerken en hoe deze samenwerking invloed heeft op ons dagelijks leven.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Nederland en Europa",
+      "text": "In de afgelopen lessen hebben we gezien hoe wetten en beleid in Nederland worden gemaakt. Maar Nederland werkt ook samen met andere landen in Europa. Deze samenwerking noemen we de Europese Unie, of kortweg de EU.\n\nDe EU bestaat uit 27 Europese landen. Deze landen noemen we lidstaten. Een lidstaat is een land dat lid is van de EU. Nederland is een van deze lidstaten.\n\nAls je op vakantie gaat naar bijvoorbeeld Spanje, kun je vaak zonder grenscontrole door andere EU-landen reizen. In veel landen kun je ook met euro's betalen. Ook zijn er Europese regels voor bijvoorbeeld de veiligheid van producten.\n\nIn deze les leer je wat de EU doet en hoe Europese samenwerking invloed kan hebben op Nederland."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is de Europese Unie?",
+      "text": "De Europese Unie is een samenwerking van 27 Europese landen. De landen die lid zijn van de EU noemen we lidstaten.\n\nDe EU is geen apart land. De lidstaten hebben afgesproken om op bepaalde onderwerpen samen te werken en gezamenlijke regels en afspraken te maken."
+    },
+    {
+      "type": "explanation",
+      "title": "Waarom werken Europese landen samen?",
+      "text": "Na grote oorlogen in het verleden wilden Europese landen ervoor zorgen dat er vrede bleef in Europa. Door samen te werken en handel te drijven, kregen landen er belang bij dat het goed ging met andere landen.\n\nEen paar belangrijke voordelen van Europese samenwerking zijn:\n\n1. Vrij reizen: tussen veel EU-landen zijn de grenscontroles afgeschaft. Daardoor kun je vaak zonder te stoppen de grens over.\n\n2. De euro: veel, maar niet alle EU-landen gebruiken de euro. Dat is handig als je naar een land reist waar je ook met euro's kunt betalen.\n\n3. Vrije handel: bedrijven kunnen makkelijker producten verkopen aan bedrijven en klanten in andere EU-landen. Internationale handel betekent handel tussen landen. Dit kan belangrijk zijn voor bedrijven en banen."
+    },
+    {
+      "type": "explanation",
+      "title": "Europese regels en de grens van de macht",
+      "text": "De EU maakt op bepaalde gebieden gezamenlijke regels en afspraken die gelden in de lidstaten. Nederland praat en stemt als lidstaat mee over Europese besluiten. Volksvertegenwoordigers zijn gekozen politici die namens burgers meepraten en beslissen.\n\nDe EU beslist niet over alles in Nederland. Onderwerpen zoals onderwijs, zorg en belastingen worden vooral door Nederland zelf geregeld. De EU heeft daar veel minder invloed op dan bijvoorbeeld bij handel, milieu en productveiligheid.\n\nDe EU werkt vooral samen op onderwerpen waarbij landen elkaar nodig hebben. Milieu is daar een voorbeeld van: lucht en water houden zich niet aan landsgrenzen. Ook handel en de veiligheid van producten zijn belangrijke onderwerpen van Europese samenwerking."
+    },
+    {
+      "type": "chart",
+      "title": "Herkenbare voorbeelden",
+      "items": [
+        {
+          "title": "Voorbeeld 1 – Reizen en vakantie",
+          "text": "Een jongere gaat met zijn ouders met de auto op vakantie naar Italië. Ze rijden door Duitsland en Oostenrijk. Meestal komen ze onderweg geen grenscontrole tegen. In Italië betalen ze met euro's. Dit zijn voorbeelden van Europese afspraken en samenwerking."
+        },
+        {
+          "title": "Voorbeeld 2 – Producten en consumenten",
+          "text": "Een Nederlandse webshop verkoopt nieuwe draadloze oordopjes. Voor producten die in de EU worden verkocht, gelden Europese regels voor productveiligheid. Daardoor moeten fabrikanten aan bepaalde veiligheidseisen voldoen."
+        },
+        {
+          "title": "Voorbeeld 3 – Verschil in verantwoordelijkheid",
+          "text": "De regering in Den Haag wil de regels voor het vmbo-examen maatschappijkunde veranderen. Daarvoor hoeft Nederland niet eerst toestemming te vragen aan de EU. Onderwijs wordt vooral door Nederland zelf geregeld."
+        }
+      ]
+    },
+    {
+      "type": "strategy",
+      "title": "Geheugensteun",
+      "text": "Onthoud deze drie dingen:\n\n• EU = samenwerking van 27 Europese landen.\n• Lidstaat = een land dat lid is van de EU.\n• De EU maakt op bepaalde gebieden gezamenlijke regels, bijvoorbeeld over handel, milieu en productveiligheid.\n\nNederland blijft zelf verantwoordelijk voor veel nationale onderwerpen, zoals onderwijs en zorg."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_029_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.10",
+        "topic": "Europese Unie",
+        "skill": "Begrippen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een economische en politieke samenwerking tussen 27 landen in Europa die samen afspraken maken over wetten, handel en veiligheid. Welk begrip hoort bij deze omschrijving?",
+        "context": "",
+        "answers": [
+          "De Rijksoverheid.",
+          "De Europese Unie.",
+          "De Verenigde Staten."
+        ],
+        "correct_answer": 1,
+        "hint": "Het gaat om een samenwerking van landen in Europa.",
+        "feedback_correct": "Goed! De Europese Unie is de samenwerking van 27 Europese landen.",
+        "feedback_wrong": "Denk aan de organisatie waarin Europese landen samenwerken. Welk begrip uit de uitleg past daarbij?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_029_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.10",
+        "topic": "Europese Unie",
+        "skill": "Gevolgen van samenwerking herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een vrachtwagenchauffeur rijdt met een lading tomaten van een Nederlandse kas naar een supermarkt in Berlijn. Hij kan gewoon doorrijden bij de grens en hoeft bij aankomst geen extra invoerbelasting te betalen over zijn producten. Welk voordeel van de Europese Unie zie je in deze situatie?",
+        "context": "",
+        "answers": [
+          "Het voordeel van vrije handel en open grenzen tussen de lidstaten.",
+          "Het voordeel dat de EU alle benzine voor vrachtwagens gratis maakt.",
+          "Het feit dat Duitsland vanaf nu eigendom is van de Nederlandse regering."
+        ],
+        "correct_answer": 0,
+        "hint": "De situatie gaat over handel tussen twee EU-landen en over de grens.",
+        "feedback_correct": "Juist! Vrije handel en het makkelijker passeren van grenzen kunnen handel tussen EU-landen eenvoudiger maken.",
+        "feedback_wrong": "Kijk goed naar wat er gebeurt met de vrachtwagen, de grens en de producten. Welk voordeel van samenwerking past hierbij?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_029_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Europese Unie",
+        "skill": "Verantwoordelijkheden onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De ministers in Den Haag willen de regels voor de zorgverzekering en de ziekenhuizen in Nederland veranderen. Sommige burgers vragen zich af of de Europese Unie dit plan wel goed vindt. Wat is hierover het meest juist?",
+        "context": "",
+        "answers": [
+          "Ja, want de EU beslist over alle wetten en alle uitgaven in Nederland.",
+          "Nee, want onderwerpen zoals zorg, eigen belastingen en onderwijs worden vooral door Nederland zelf bepaald.",
+          "Ja, want ziekenhuizen zijn eigendom van de Europese koning."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan het verschil tussen onderwerpen die vooral nationaal worden geregeld en onderwerpen waarbij Europese landen veel samenwerken.",
+        "feedback_correct": "Goed! Zorg, onderwijs en belastingen worden vooral door Nederland zelf geregeld. De EU heeft op deze onderwerpen minder invloed.",
+        "feedback_wrong": "Denk aan de verdeling van verantwoordelijkheden. Gaat de EU over alle Nederlandse onderwerpen, of worden sommige onderwerpen vooral nationaal geregeld?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_029_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.12",
+        "topic": "Europese Unie",
+        "skill": "Gevolgen van Europese besluiten herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De Europese Unie maakt een nieuwe regel waardoor fabrikanten van smartphones in de EU dezelfde oplaadpoort moeten gebruiken. Wat laat deze situatie zien over de gevolgen van Europese besluiten voor Nederland?",
+        "context": "",
+        "answers": [
+          "Europese besluiten hebben geen gevolgen, want Nederland negeert de regels van de EU altijd.",
+          "Europese besluiten kunnen ook gevolgen hebben voor producten die in Nederland worden verkocht.",
+          "De regel bewijst dat smartphones vanaf volgend jaar verboden worden in Europa."
+        ],
+        "correct_answer": 1,
+        "hint": "Nederland is lid van de EU. Denk na over wat een gezamenlijke Europese regel kan betekenen voor Nederland.",
+        "feedback_correct": "Klopt! Europese regels kunnen ook gevolgen hebben voor producten en bedrijven in Nederland.",
+        "feedback_wrong": "Denk aan wat er gebeurt als Nederland lid is van een organisatie die gezamenlijke regels maakt. Welke gevolgen kan zo'n regel dan hebben?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_029_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.12",
+        "topic": "Europese Unie",
+        "skill": "Rol van Nederland herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In Europa wordt gesproken over een nieuw plan om de vervuiling van grote rivieren aan te pakken. Omdat rivieren door verschillende landen stromen, moeten landen samenwerken. Nederland stuurt een minister naar een Europese vergadering. Wat is de rol van Nederland bij dit soort Europese besluiten?",
+        "context": "",
+        "answers": [
+          "Nederland heeft niets te vertellen en moet alleen uitvoeren wat andere landen besluiten.",
+          "Nederland praat en stemt als lidstaat mee over Europese regels en plannen.",
+          "Nederland mag de rivieren in Europa direct sluiten met een groot hek."
+        ],
+        "correct_answer": 1,
+        "hint": "Nederland is lidstaat van de EU. Denk na over wat een lidstaat doet wanneer Europese landen samen besluiten nemen.",
+        "feedback_correct": "Juist! Nederland doet als lidstaat mee aan de Europese samenwerking en kan meepraten en meestemmen.",
+        "feedback_wrong": "Denk aan de betekenis van lidstaat. Is Nederland alleen toeschouwer, of doet het mee aan de samenwerking?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_029_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Europese Unie",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een burger zegt in een interview: \"Vroeger had elk land zijn eigen wetten, maar tegenwoordig is de Rijksoverheid in Den Haag helemaal opgedoekt door de EU.\" Waarom is deze feitelijke bewering over Den Haag onjuist?",
+        "context": "",
+        "answers": [
+          "Omdat de Rijksoverheid in Den Haag nog steeds bestaat en verantwoordelijk is voor veel belangrijke Nederlandse onderwerpen, zoals onderwijs en zorg.",
+          "Omdat de Tweede Kamer definitief is gesloten door de EU.",
+          "Omdat de minister-president van Nederland de baas is van alle 27 landen in Europa."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan wat je hebt geleerd over de taken van Nederland zelf en de taken van de EU.",
+        "feedback_correct": "Goed gezien! De Rijksoverheid bestaat nog steeds en Nederland blijft verantwoordelijk voor veel nationale onderwerpen.",
+        "feedback_wrong": "Denk na over wat er met de Nederlandse Rijksoverheid is gebeurd sinds Nederland lid is van de EU. Bestaat de Nederlandse overheid nog steeds?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_029_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.12",
+        "topic": "Bestuur en overheid",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar deze twee regels in een voorbeeldsituatie:\n\nRegel X: De regels voor de eisen waar het vmbo-examen aan moet voldoen.\nRegel Y: De regels voor de maximale hoeveelheid gifstoffen die in speelgoedauto's mogen zitten die in Europa worden verkocht.\n\nWelke overheden horen bij het maken van Regel X en Regel Y?",
+        "context": "",
+        "answers": [
+          "Regel X wordt gemaakt door de Europese Unie, Regel Y door de gemeente.",
+          "Regel X wordt gemaakt door de Nederlandse Rijksoverheid, Regel Y wordt gemaakt op Europees niveau door de EU.",
+          "Beide regels worden gemaakt door het bestuur van de provincie."
+        ],
+        "correct_answer": 1,
+        "hint": "Regel X gaat over onderwijs. Regel Y gaat over productveiligheid voor goederen die in verschillende Europese landen worden verkocht.",
+        "feedback_correct": "Juist! Onderwijs wordt vooral in Nederland geregeld. Voor productveiligheid werken Europese landen samen.",
+        "feedback_wrong": "Kijk opnieuw naar het onderwerp van beide regels. Welke regel hoort vooral bij Nederland en welke vraagt om Europese samenwerking?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_029_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politieke partij schrijft in haar folder voor de verkiezingen: \"Wij vinden dat Nederland direct uit de Europese Unie moet stappen. We moeten de grenzen direct sluiten en onze oude gulden weer terugbrengen als betaalmiddel.\" Wat is het standpunt van deze politieke partij over het lidmaatschap van de EU?",
+        "context": "",
+        "answers": [
+          "Zij hebben een positief standpunt en willen de samenwerking uitbreiden.",
+          "Zij hebben een negatief standpunt en willen dat Nederland stopt met de Europese Unie.",
+          "De folder bevat geen standpunt over de Europese samenwerking."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar wat de partij wil dat Nederland met het EU-lidmaatschap doet.",
+        "feedback_correct": "Goed nagedacht! De partij wil dat Nederland uit de EU stapt. Dat is duidelijk haar standpunt over het lidmaatschap.",
+        "feedback_wrong": "Kijk nog eens naar wat de partij letterlijk zegt over het lidmaatschap van de EU. Willen ze blijven of stoppen?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_029_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.10",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Belang herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar het standpunt van de politieke partij uit Vraag 8. Een andere partij gebruikt het volgende argument: \"Als we uit de EU stappen, kan dat gevolgen hebben voor de handel van Nederlandse bedrijven en voor de kosten van producten.\" Vanuit welk belang kijkt deze tweede partij vooral naar het lidmaatschap van de EU?",
+        "context": "",
+        "answers": [
+          "Vanuit het economische belang, zoals geld, handel en banen.",
+          "Vanuit het belang van kortere schoolvakanties voor docenten.",
+          "Vanuit het belang van meer zwerfafval in de natuur."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de woorden handel, bedrijven en kosten. Welk soort belang past daarbij?",
+        "feedback_correct": "Juist! Het argument gaat over geld, handel en bedrijven. Dat zijn voorbeelden van een economisch belang.",
+        "feedback_wrong": "Kijk naar de woorden in het argument. Gaat het vooral over geld en handel, onderwijs of afval?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_029_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.12",
+        "topic": "Europese Unie",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar deze gegevens over een voorbeeldstemming onder de 27 lidstaten van de Europese Unie over een plan voor strengere regels tegen luchtvervuiling door fabrieken.\n\nVoor het plan: 22 lidstaten, waaronder Nederland.\nTegen het plan: 5 lidstaten.\n\nWelke conclusie kun je rechtstreeks uit deze cijfers trekken?",
+        "context": "",
+        "answers": [
+          "Het plan heeft geen steun, omdat 5 landen tegen zijn.",
+          "Een grote meerderheid van de lidstaten steunt het plan.",
+          "De cijfers bewijzen dat Nederland verplicht is om alle fabrieken direct te sluiten."
+        ],
+        "correct_answer": 1,
+        "hint": "Vergelijk het aantal lidstaten dat voor is met het aantal lidstaten dat tegen is.",
+        "feedback_correct": "Goed! 22 van de 27 lidstaten steunen het plan. Dat is een grote meerderheid.",
+        "feedback_wrong": "Kijk alleen naar wat de cijfers laten zien. Hoeveel lidstaten zijn voor en hoeveel zijn tegen?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Dit moet je onthouden",
+      "text": "De Europese Unie (EU) is een samenwerking van 27 Europese landen. Deze landen noemen we lidstaten. Nederland is een van deze lidstaten.\n\nEuropese landen werken onder andere samen op het gebied van handel, milieu en productveiligheid. Veel EU-landen gebruiken de euro en tussen veel EU-landen zijn grenscontroles afgeschaft.\n\nNederland blijft zelf verantwoordelijk voor veel nationale onderwerpen, zoals onderwijs en zorg. Tegelijkertijd kunnen Europese afspraken en regels ook gevolgen hebben voor Nederland.\n\nOnthoud vooral: Nederland werkt samen met andere Europese landen, maar Nederland en de EU hebben niet precies dezelfde taken."
+    }
+  ]
+}

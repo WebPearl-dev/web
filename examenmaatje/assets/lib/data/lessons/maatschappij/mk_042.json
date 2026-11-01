@@ -1,0 +1,313 @@
+{
+  "id": "mk_042",
+  "subject": "maatschappij",
+  "title": "Les 42 – Rechten en plichten van een verdachte",
+  "goal": "Je leert welke rechten en plichten een verdachte heeft en waarom verdacht zijn niet hetzelfde is als schuldig zijn.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "In deze les leer je welke rechten en plichten een verdachte heeft. Je leert ook waarom iemand die verdacht wordt, niet automatisch schuldig is."
+    },
+    {
+      "type": "explanation",
+      "title": "1. Wat is een verdachte?",
+      "text": "Een verdachte is iemand van wie de politie of justitie denkt dat hij of zij mogelijk een strafbaar feit heeft gepleegd. Die verdenking moet gebaseerd zijn op feiten of omstandigheden.\n\nBelangrijk: verdacht zijn betekent niet dat iemand schuldig is.\n\nEen verdachte heeft daarom bepaalde rechten. Maar een verdachte heeft ook bepaalde wettelijke plichten."
+    },
+    {
+      "type": "explanation",
+      "title": "2. Verdacht zijn zegt nog niets over schuld",
+      "text": "Als iemand wordt verdacht, moet nog worden onderzocht wat er precies is gebeurd.\n\nDe onschuldpresumptie betekent dat iemand niet als schuldig wordt behandeld voordat volgens de wettelijke regels is vastgesteld dat hij of zij schuldig is.\n\nEen verdachte hoeft dus niet zelf te bewijzen dat hij onschuldig is. De overheid moet voldoende bewijs verzamelen voor een vervolging en eventuele veroordeling.\n\nAls een strafzaak aan de rechter wordt voorgelegd, beoordeelt de onafhankelijke rechter het bewijs. In sommige gevallen kan het Openbaar Ministerie een strafbeschikking opleggen zonder dat de zaak eerst door een rechter wordt behandeld."
+    },
+    {
+      "type": "explanation",
+      "title": "3. Rechten van een verdachte",
+      "text": "Een verdachte heeft verschillende rechten.\n\nRecht om te weten waarvan je wordt verdacht\nEen verdachte moet weten van welk strafbaar feit hij of zij wordt verdacht. Zo weet de verdachte waar het onderzoek over gaat.\n\nRecht op juridische bijstand\nEen verdachte heeft recht op juridische bijstand. Dat betekent dat een advocaat kan helpen bij problemen met de wet en bij de verdediging van de verdachte.\n\nRecht om te zwijgen\nEen verdachte heeft het recht om te zwijgen. Een verdachte hoeft dus niet mee te werken aan het beantwoorden van vragen als hij of zij dat niet wil.\n\nZwijgen betekent niet dat iemand schuldig is."
+    },
+    {
+      "type": "explanation",
+      "title": "4. Plichten van een verdachte",
+      "text": "Een verdachte heeft niet alleen rechten, maar ook bepaalde wettelijke plichten.\n\nIdentificatieplicht\nJe bent verplicht om een geldig identiteitsbewijs te tonen wanneer de politie dit volgens de wet van je vraagt.\n\nMeewerken aan bepaalde onderzoeken\nIn sommige situaties verplicht de wet een verdachte om mee te werken aan een onderzoek.\n\nEen voorbeeld is een alcoholtest wanneer iemand wordt verdacht van rijden onder invloed.\n\nJe kunt dus niet bij iedere wettelijke handeling zeggen: \"Ik ben verdachte, dus ik hoef nergens aan mee te werken.\""
+    },
+    {
+      "type": "explanation",
+      "title": "5. Een voorbeeld",
+      "text": "Tijdens een schoolfeest wordt een dure jas gestolen.\n\nOp camerabeelden is te zien dat een leerling vlak bij de jas stond. Een getuige vertelt bovendien dat deze leerling de jas heeft meegenomen.\n\nDe politie kan deze leerling daarom als verdachte onderzoeken.\n\nDe leerling heeft dan nog steeds rechten:\n• hij moet weten waarvan hij wordt verdacht;\n• hij heeft recht op juridische bijstand;\n• hij heeft het recht om te zwijgen;\n• hij hoeft niet zelf te bewijzen dat hij onschuldig is.\n\nMaar de leerling heeft ook wettelijke plichten. Als de politie bijvoorbeeld volgens de wet om een identiteitsbewijs vraagt, moet hij dat tonen.\n\nDe politie onderzoekt vervolgens verder wat er is gebeurd."
+    },
+    {
+      "type": "explanation",
+      "title": "6. Wie doet wat?",
+      "text": "De politie\nDe politie onderzoekt strafbare feiten. De politie kan bijvoorbeeld getuigen spreken, camerabeelden bekijken, bewijsmateriaal verzamelen, een verdachte verhoren en iemand aanhouden wanneer daarvoor een wettelijke reden is.\n\nDe politie beslist niet zelf over een gevangenisstraf.\n\nHet Openbaar Ministerie\nHet Openbaar Ministerie (OM) houdt zich bezig met de vervolging van verdachten. De officier van justitie beoordeelt bijvoorbeeld het politieonderzoek en beslist wat er met een strafzaak gebeurt. In sommige gevallen kan het OM een strafbeschikking opleggen.\n\nDe rechter\nAls een strafzaak aan de rechter wordt voorgelegd, beoordeelt de onafhankelijke rechter het bewijs. De rechter beslist dan of er voldoende bewijs is voor een veroordeling en welke straf of maatregel volgens de wet passend is."
+    },
+    {
+      "type": "strategy",
+      "title": "Examentip",
+      "text": "Bij vragen over verdachten kun je eerst kijken: gaat het over een recht of over een plicht?\n\nRechten zijn bijvoorbeeld:\n• recht op juridische bijstand;\n• recht om te weten waarvan je wordt verdacht;\n• recht om te zwijgen.\n\nPlichten zijn bijvoorbeeld:\n• je identiteitsbewijs tonen wanneer de politie dit volgens de wet vraagt;\n• in bepaalde situaties meewerken aan een wettelijk verplicht onderzoek.\n\nOnthoud: Verdacht ≠ schuldig."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_042_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Begrijpen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom kan iemand verdachte worden?",
+        "context": "",
+        "answers": [
+          "Omdat de politie zeker weet dat hij schuldig is.",
+          "Omdat er feiten of omstandigheden zijn die wijzen op mogelijke betrokkenheid bij een strafbaar feit.",
+          "Omdat iemand altijd schuldig is wanneer een ander hem aanwijst."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk goed naar het verschil tussen een verdenking en bewezen schuld.",
+        "feedback_correct": "Precies. Er moeten feiten of omstandigheden zijn die een verdenking kunnen ondersteunen.",
+        "feedback_wrong": "Kijk goed naar het verschil tussen een verdenking en bewezen schuld.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_042_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Begrijpen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat betekent de onschuldpresumptie?",
+        "context": "",
+        "answers": [
+          "Een verdachte moet zelf bewijzen dat hij niets heeft gedaan.",
+          "Iedereen die wordt verdacht, wordt automatisch vrijgesproken.",
+          "Iemand wordt niet als schuldig behandeld voordat volgens de wettelijke regels is vastgesteld dat hij schuldig is."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan het verschil tussen verdacht worden en schuldig zijn.",
+        "feedback_correct": "Juist. Verdacht zijn betekent nog niet dat iemand schuldig is.",
+        "feedback_wrong": "Denk aan het verschil tussen verdacht worden en schuldig zijn.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_042_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een verdachte wil tijdens een verhoor geen antwoord geven op vragen. Welk recht kan hij gebruiken?",
+        "context": "",
+        "answers": [
+          "Het recht op een identiteitsbewijs.",
+          "Het recht om te zwijgen.",
+          "Het recht om zelf de straf te bepalen."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan het recht dat voorkomt dat een verdachte verplicht is om vragen te beantwoorden.",
+        "feedback_correct": "Goed gezien. Een verdachte heeft het recht om te zwijgen.",
+        "feedback_wrong": "Denk aan het recht dat voorkomt dat een verdachte verplicht is om vragen te beantwoorden.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_042_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Begrijpen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat betekent juridische bijstand?",
+        "context": "",
+        "answers": [
+          "Hulp van een advocaat bij problemen met de wet.",
+          "Hulp van de politie bij het verzamelen van bewijs tegen jezelf.",
+          "Hulp om een rechter te vervangen."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan iemand die verstand heeft van wetten en je juridisch kan helpen.",
+        "feedback_correct": "Precies. Juridische bijstand betekent dat je hulp kunt krijgen van een advocaat.",
+        "feedback_wrong": "Denk aan iemand die verstand heeft van wetten en je juridisch kan helpen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_042_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wanneer moet een verdachte een identiteitsbewijs tonen?",
+        "context": "",
+        "answers": [
+          "Altijd zodra iemand zegt dat hij verdachte is.",
+          "Wanneer de politie dit volgens de wet van hem vraagt.",
+          "Alleen wanneer de verdachte daar zelf zin in heeft."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan het verschil tussen een wettelijke plicht en iets wat iemand vrijwillig doet.",
+        "feedback_correct": "Juist. De identificatieplicht geldt wanneer de politie daar volgens de wet om mag vragen.",
+        "feedback_wrong": "Denk aan het verschil tussen een wettelijke plicht en iets wat iemand vrijwillig doet.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_042_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "topic": "Politie, OM en rechter",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wie houdt zich bezig met de vervolging van verdachten?",
+        "context": "",
+        "answers": [
+          "Het Openbaar Ministerie.",
+          "De burgemeester.",
+          "De schooldirecteur."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de organisatie die namens de overheid strafzaken behandelt.",
+        "feedback_correct": "Klopt. Het Openbaar Ministerie houdt zich bezig met de vervolging van verdachten.",
+        "feedback_wrong": "Denk aan de organisatie die namens de overheid strafzaken behandelt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_042_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Begrijpen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wie moet voldoende bewijs verzamelen voor een strafzaak?",
+        "context": "",
+        "answers": [
+          "De verdachte zelf.",
+          "Alleen de advocaat van de verdachte.",
+          "De overheid, bijvoorbeeld via politie en Openbaar Ministerie."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan de onschuldpresumptie en aan de taak van politie en OM.",
+        "feedback_correct": "Goed. Een verdachte hoeft niet zelf zijn onschuld te bewijzen.",
+        "feedback_wrong": "Denk aan de onschuldpresumptie en aan de taak van politie en OM.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_042_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Begrijpen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom is het recht om te zwijgen belangrijk?",
+        "context": "",
+        "answers": [
+          "Omdat een verdachte daarmee altijd vrijspraak krijgt.",
+          "Omdat een verdachte niet verplicht is om vragen te beantwoorden die tegen hem kunnen worden gebruikt.",
+          "Omdat de politie daardoor geen onderzoek meer mag doen."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan wat een verdachte wel en niet verplicht hoeft te verklaren.",
+        "feedback_correct": "Juist. Het zwijgrecht beschermt een verdachte tijdens het onderzoek.",
+        "feedback_wrong": "Denk aan wat een verdachte wel en niet verplicht hoeft te verklaren.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_042_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bekijk deze twee situaties.\n\nSituatie X: De politie vraagt volgens de wet om het identiteitsbewijs van een verdachte.\nSituatie Y: De verdachte vraagt om eerst met zijn advocaat te spreken.\n\nWelke combinatie klopt?",
+        "context": "",
+        "answers": [
+          "X is een plicht en Y is een recht.",
+          "X is een recht en Y is een plicht.",
+          "X en Y zijn allebei rechten."
+        ],
+        "correct_answer": 0,
+        "hint": "Bedenk welke situatie een wettelijke verplichting is en welke situatie bescherming van de verdachte biedt.",
+        "feedback_correct": "Precies. Het tonen van een identiteitsbewijs kan een wettelijke plicht zijn. Juridische bijstand is een recht.",
+        "feedback_wrong": "Bedenk welke situatie een wettelijke verplichting is en welke situatie bescherming van de verdachte biedt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_042_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politieagent vermoedt dat een automobilist onder invloed van alcohol rijdt. De wet verplicht de automobilist in deze situatie om mee te werken aan een alcoholtest.\n\nWat moet de automobilist doen?",
+        "context": "",
+        "answers": [
+          "De test altijd weigeren omdat hij verdachte is.",
+          "Alleen meewerken als hij zelf vindt dat het onderzoek nodig is.",
+          "Meewerken aan de test omdat dit in deze situatie een wettelijke plicht is."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan het verschil tussen het zwijgrecht en een onderzoek waaraan de wet iemand verplicht kan laten meewerken.",
+        "feedback_correct": "Juist. Verdachten hebben rechten, maar in bepaalde situaties ook wettelijke plichten.",
+        "feedback_wrong": "Denk aan het verschil tussen het zwijgrecht en een onderzoek waaraan de wet iemand verplicht kan laten meewerken.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Samenvatting",
+      "text": "Een verdachte is iemand die op basis van feiten of omstandigheden wordt verdacht van een strafbaar feit.\n\nEen verdachte is niet automatisch schuldig.\n\nBelangrijke rechten zijn:\n• weten waarvan je wordt verdacht;\n• juridische bijstand;\n• zwijgrecht.\n\nBelangrijke plichten zijn bijvoorbeeld:\n• een identiteitsbewijs tonen wanneer de politie dit volgens de wet vraagt;\n• in bepaalde situaties meewerken aan een wettelijk verplicht onderzoek.\n\nDe politie onderzoekt strafbare feiten. Het Openbaar Ministerie houdt zich bezig met de vervolging. Als een zaak aan de rechter wordt voorgelegd, beoordeelt de onafhankelijke rechter het bewijs.\n\nOnthoud: verdacht zijn is niet hetzelfde als schuldig zijn."
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "id": "mk_025",
+  "subject": "maatschappij",
+  "title": "Les 25 – Media en politiek",
+  "goal": "Je leert welke rol de media spelen in de politiek en hoe nieuws en sociale media invloed kunnen hebben op wat mensen weten en bespreken. Je leert de drie functies van media in een democratie: de informatiefunctie, de waakhondfunctie en de agendafunctie. Ook leer je hoe politici media gebruiken en hoe je mediaberichten kritisch kunt bekijken.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Media en politiek",
+      "text": "Elke dag kom je media tegen. Je ziet bijvoorbeeld nieuws op televisie, een bericht op een nieuwssite of een video op sociale media. Media kunnen mensen informeren over wat er in de samenleving en in de politiek gebeurt. Ze kunnen ook invloed hebben op welke onderwerpen veel aandacht krijgen. Politici gebruiken media daarnaast om hun standpunten en plannen onder de aandacht te brengen. Daarom is het belangrijk om goed te kijken naar wie een bericht heeft gemaakt, wat het doel is en of de informatie betrouwbaar is."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat zijn media?",
+      "text": "Media zijn middelen waarmee informatie, nieuws, meningen en boodschappen bij veel mensen terechtkomen. Voorbeelden zijn televisie, kranten, radio, nieuwssites en sociale media.\n\nJournalistieke media worden gemaakt door journalisten. Journalisten proberen informatie te controleren, gebruiken bronnen en kunnen de politiek en andere machthebbers kritisch volgen.\n\nSociale media zijn bijvoorbeeld TikTok, Instagram en YouTube. Daar kunnen burgers, politici, organisaties en nieuwsorganisaties zelf berichten plaatsen. Een bericht op sociale media is daarom niet automatisch vooraf door een onafhankelijke journalist gecontroleerd."
+    },
+    {
+      "type": "explanation",
+      "title": "De drie functies van media",
+      "text": "In een democratie hebben media verschillende belangrijke functies.\n\n1. Informatiefunctie – Media informeren mensen over gebeurtenissen en ontwikkelingen in de samenleving en de politiek.\n\n2. Waakhondfunctie – Journalisten kunnen de overheid, politici en andere machthebbers kritisch volgen. Zij kunnen bijvoorbeeld onderzoek doen en vragen stellen over politieke besluiten.\n\n3. Agendafunctie – Media kunnen onderwerpen onder de aandacht brengen. Daardoor kunnen burgers en politici er meer over gaan praten en kan een onderwerp op de politieke agenda terechtkomen.\n\nMedia bepalen niet zelfstandig wat de politiek moet doen. De politiek maakt uiteindelijk zelf keuzes volgens de regels en procedures die daarvoor gelden."
+    },
+    {
+      "type": "explanation",
+      "title": "Hoe beïnvloeden media de politiek?",
+      "text": "De invloed werkt twee kanten op. Media kunnen aandacht vragen voor maatschappelijke problemen. Als een onderwerp veel wordt besproken, kunnen politici besluiten om het onderwerp te onderzoeken of erover te debatteren. Dit is een voorbeeld van de agendafunctie.\n\nPolitici gebruiken zelf ook media. Zij kunnen bijvoorbeeld een interview geven, een persbericht verspreiden of een video op sociale media plaatsen. Daarmee kunnen zij hun standpunten, plannen en politieke boodschappen onder de aandacht brengen. Zij proberen daarmee bijvoorbeeld kiezers te informeren, te overtuigen of steun te krijgen."
+    },
+    {
+      "type": "explanation",
+      "title": "Nieuws, mening en politieke boodschap",
+      "text": "Het is belangrijk om verschillende soorten berichten van elkaar te onderscheiden.\n\nNieuwsbericht: een journalistiek bericht waarin gebeurtenissen en feiten worden beschreven. De journalist probeert de informatie zorgvuldig te controleren.\n\nMening: wat iemand van een onderwerp vindt. Signaalwoorden zijn bijvoorbeeld 'ik vind' of duidelijke woorden zoals 'goed' en 'slecht'.\n\nPolitieke boodschap: een bericht van een politicus of politieke partij waarin een standpunt, plan of politieke keuze onder de aandacht wordt gebracht. Het doel kan bijvoorbeeld zijn om mensen te informeren, te overtuigen of steun te krijgen."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeelden",
+      "text": "Voorbeeld 1 – Agendafunctie:\nEen lokale nieuwssite maakt een bericht over gevaarlijke verkeerssituaties rond een school. Veel buurtbewoners reageren en bespreken het probleem. Daarna stellen enkele raadsleden vragen over de verkeersveiligheid. De media kunnen in deze situatie hebben bijgedragen aan de politieke aandacht voor het onderwerp.\n\nVoorbeeld 2 – Politieke boodschap:\nEen politicus plaatst een korte video op sociale media waarin hij vertelt dat hij de kosten van openbaar vervoer voor jongeren wil verlagen. Hij vraagt mensen om zijn video te delen. Dit is een politieke boodschap waarmee hij zijn standpunt onder de aandacht brengt en steun kan proberen te krijgen.\n\nVoorbeeld 3 – Bronnen vergelijken:\nOp sociale media staat een foto van een park met veel afval. Bij de foto staat: 'De gemeente haalt hier nooit meer afval op.' Een journalist zoekt de bewering verder uit. Op de officiële website van de gemeente staat het inzamelschema. Daaruit blijkt dat de afvalinzameling iedere woensdag plaatsvindt. De foto en de tekst bewijzen dus niet dat de gemeente nooit afval ophaalt."
+    },
+    {
+      "type": "strategy",
+      "title": "De checklist voor mediaberichten",
+      "text": "Gebruik deze vragen als je een bericht over politiek of de samenleving bekijkt:\n\n1. Wie heeft het gemaakt? Is het een journalist, een politieke partij, een organisatie of een onbekend account?\n2. Wat is het doel? Wil de maker informeren, een mening geven of mensen overtuigen?\n3. Wanneer is het gemaakt? Is de informatie nog actueel?\n4. Wat voor soort bericht is het? Gaat het om nieuws, een mening of een politieke boodschap?\n5. Kan ik de belangrijkste informatie vergelijken met andere betrouwbare bronnen?\n\nDoor deze vragen te stellen, kun je beter beoordelen hoe betrouwbaar en bruikbaar een mediabericht is."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_025_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.5",
+        "topic": "Media en politieke agenda",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een landelijk dagblad schrijft meerdere keren over het tekort aan leraren op vmbo-scholen. Veel mensen gaan hierover praten. Daarna kondigt de minister aan dat het probleem verder wordt onderzocht. Welke functie van de media zie je hier vooral?",
+        "context": "",
+        "answers": [
+          "De informatiefunctie.",
+          "De waakhondfunctie.",
+          "De agendafunctie."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan de functie waarbij media een onderwerp onder de aandacht brengen.",
+        "feedback_correct": "De agendafunctie betekent dat media onderwerpen onder de aandacht kunnen brengen, waardoor er meer politieke en maatschappelijke aandacht voor kan ontstaan.",
+        "feedback_wrong": "Denk aan het effect dat veel aandacht in de media kan hebben op de aandacht voor een onderwerp in de politiek.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_025_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.5",
+        "topic": "Media en politieke agenda",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politicus plaatst op zijn Instagram-account een video waarin hij zegt: 'Als je op onze partij stemt, willen wij de bioscoopkaartjes voor jongeren goedkoper maken.' Wat voor soort mediabericht is dit?",
+        "context": "",
+        "answers": [
+          "Een journalistiek nieuwsbericht.",
+          "Een politieke boodschap.",
+          "Een officieel rechtbankbericht."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk wie het bericht maakt en wat de politicus met zijn boodschap wil bereiken.",
+        "feedback_correct": "Dit is een politieke boodschap. De politicus brengt een eigen politiek plan onder de aandacht en kan daarmee steun of stemmen proberen te krijgen.",
+        "feedback_wrong": "Kijk naar de maker van het bericht en naar het doel ervan. Het gaat hier om een politiek standpunt of plan.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_025_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Kritisch beoordelen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Op TikTok verschijnt een video waarin iemand beweert dat het openbaar vervoer in heel Nederland vanaf morgen gratis wordt. Er wordt geen bron genoemd. Waarom moet je deze informatie eerst controleren?",
+        "context": "",
+        "answers": [
+          "Omdat informatie op sociale media niet automatisch vooraf door een onafhankelijke journalist wordt gecontroleerd.",
+          "Omdat informatie over openbaar vervoer alleen in een papieren krant mag staan.",
+          "Omdat video's op sociale media geen informatie over politiek of de samenleving mogen bevatten."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan het verschil tussen sociale media en journalistieke media.",
+        "feedback_correct": "Op sociale media kan iedereen informatie plaatsen. Daarom is het belangrijk om de bron en de informatie verder te controleren.",
+        "feedback_wrong": "Denk aan wie informatie op sociale media kan plaatsen en hoe journalistieke controle daarbij verschilt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_025_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Media en politieke agenda",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een nieuwssite schrijft: 'In een fictief nieuwsvoorbeeld maakt de overheid bekend dat de boete voor bumperkleven wordt verhoogd. De nieuwe boete bedraagt in dit voorbeeld 240 euro.' De schrijver beschrijft hierbij geen eigen mening. Wat voor soort bericht probeert de schrijver hier te geven?",
+        "context": "",
+        "answers": [
+          "Een nieuwsbericht over een feitelijke gebeurtenis.",
+          "Een persoonlijke mening.",
+          "Een politieke boodschap van een politieke partij."
+        ],
+        "correct_answer": 0,
+        "hint": "De schrijver beschrijft een officiële bekendmaking zonder eigen oordeel.",
+        "feedback_correct": "Dit is een nieuwsbericht waarin een officiële bekendmaking als feitelijke informatie wordt beschreven.",
+        "feedback_wrong": "Kijk of de schrijver een eigen oordeel geeft of vooral informatie over een gebeurtenis beschrijft.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_025_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Standpunten en argumenten",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Onder een nieuwsbericht over een hogere verkeersboete schrijft een lezer: 'Ik vind deze verhoging belachelijk. De overheid vraagt burgers veel te veel geld.' Wat voor soort bericht is deze reactie?",
+        "context": "",
+        "answers": [
+          "Een politieke boodschap van de minister.",
+          "Een controleerbaar feit uit de wet.",
+          "Een mening van een burger."
+        ],
+        "correct_answer": 2,
+        "hint": "Let op woorden waarmee iemand duidelijk maakt wat hij of zij ergens van vindt.",
+        "feedback_correct": "Dit is een mening. De schrijver geeft duidelijk aan wat hij van de verhoging vindt.",
+        "feedback_wrong": "Let op het verschil tussen een persoonlijke beoordeling en informatie over wat er officieel is besloten.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_025_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Bronnen beoordelen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Er is discussie over een nieuwe schoolregel voor energiedrankjes. Je wilt weten welke regels op jouw school gelden. Welke bron is daarvoor het meest geschikt?",
+        "context": "",
+        "answers": [
+          "Een anonieme reactie onder een YouTube-video.",
+          "De officiële website van de school waarop de schoolregels staan.",
+          "Een bericht op sociale media van iemand die niet op de school werkt."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek naar de bron die zelf verantwoordelijk is voor de regels waarover je informatie zoekt.",
+        "feedback_correct": "Voor de regels van een school is de officiële informatie van die school de meest passende bron.",
+        "feedback_wrong": "Denk na over welke bron rechtstreeks informatie geeft over de regels van deze school.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_025_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Media en politieke agenda",
+        "skill": "Bronnen vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Twee media berichten over een nieuwe maatregel voor plastic tasjes. Medium X schrijft vooral over minder afval en een schonere omgeving. Medium Y schrijft vooral over de extra kosten voor winkeliers. Welke conclusie past het best bij deze situatie?",
+        "context": "",
+        "answers": [
+          "Media kunnen hetzelfde onderwerp verschillend selecteren en belichten.",
+          "Het medium dat het meest positief schrijft, bepaalt automatisch wat de wet wordt.",
+          "Alle berichten over hetzelfde onderwerp moeten precies dezelfde tekst bevatten."
+        ],
+        "correct_answer": 0,
+        "hint": "Vergelijk welke kant van het onderwerp beide media vooral benadrukken.",
+        "feedback_correct": "Media kunnen verschillende aspecten van hetzelfde onderwerp benadrukken. Daarom kan het nuttig zijn om meerdere betrouwbare bronnen te vergelijken.",
+        "feedback_wrong": "Kijk naar de verschillende aspecten die de twee media benadrukken. Denk daarna na over wat dit zegt over berichtgeving.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_025_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.5",
+        "topic": "Media en politieke agenda",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een burger volgt alleen video's die politieke partijen zelf op sociale media plaatsen. Welke informatie kan deze burger daardoor mogelijk missen?",
+        "context": "",
+        "answers": [
+          "Onafhankelijke berichtgeving en kritische vragen over de plannen van politieke partijen.",
+          "Alle informatie over de verkiezingsdatum.",
+          "Alle informatie die politieke partijen zelf over hun plannen geven."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan wat journalistieke media naast de boodschappen van politieke partijen kunnen doen.",
+        "feedback_correct": "Journalistieke media kunnen naast informatie van partijen ook zelfstandig onderzoek doen, vragen stellen en politieke partijen kritisch volgen.",
+        "feedback_wrong": "Denk aan de rol van journalistieke media bij het controleren en kritisch volgen van politici en andere machthebbers.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_025_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.5",
+        "topic": "Media en politieke agenda",
+        "skill": "Gevolgen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een regering sluit alle onafhankelijke kranten en nieuwssites. Alleen berichten die door de regering zijn goedgekeurd mogen nog worden uitgezonden. Wat is een belangrijk gevolg hiervan voor de democratie?",
+        "context": "",
+        "answers": [
+          "Burgers krijgen minder toegang tot onafhankelijke informatie en de controle op de macht wordt moeilijker.",
+          "Burgers krijgen automatisch meer verschillende meningen te horen.",
+          "De media krijgen hierdoor meer vrijheid om de regering kritisch te volgen."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan wat er gebeurt als onafhankelijke informatie en kritische berichtgeving verdwijnen.",
+        "feedback_correct": "Zonder onafhankelijke media wordt het moeilijker voor burgers om zich goed te informeren en voor journalisten om de macht kritisch te volgen.",
+        "feedback_wrong": "Denk na over wat er gebeurt met onafhankelijke informatie en controle als alleen de regering bepaalt welk nieuws mag worden verspreid.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_025_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Media en politieke agenda",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een voorbeeldonderzoek onder 100 jongeren worden de volgende dagelijkse nieuwsbronnen genoemd:\n\nSociale media: 75%\nJournalistieke nieuwssites: 20%\nPapieren kranten: 5%\n\nWelke conclusie kun je rechtstreeks uit deze cijfers trekken?",
+        "context": "",
+        "answers": [
+          "Sociale media worden door de meeste jongeren in deze voorbeeldgroep genoemd als dagelijkse nieuwsbron.",
+          "Papieren kranten worden door de meeste jongeren in deze voorbeeldgroep gebruikt.",
+          "Jongeren vinden journalistieke nieuwssites minder betrouwbaar dan sociale media."
+        ],
+        "correct_answer": 0,
+        "hint": "Vergelijk de drie percentages. Welke categorie heeft het hoogste percentage?",
+        "feedback_correct": "De cijfers laten zien dat sociale media met 75% in deze voorbeeldgroep het vaakst worden genoemd als dagelijkse nieuwsbron.",
+        "feedback_wrong": "Vergelijk de drie percentages opnieuw. Kies alleen een conclusie die je daadwerkelijk uit de cijfers kunt aflezen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Dit moet je onthouden",
+      "text": "Media spelen een belangrijke rol in een democratie.\n\n• De informatiefunctie betekent dat media mensen informeren over gebeurtenissen en ontwikkelingen.\n• De waakhondfunctie betekent dat journalisten de overheid, politici en andere machthebbers kritisch kunnen volgen.\n• De agendafunctie betekent dat media onderwerpen onder de aandacht kunnen brengen, waardoor ze op de politieke agenda kunnen komen.\n• Politici gebruiken media om hun standpunten, plannen en politieke boodschappen onder de aandacht te brengen.\n• Een bericht op sociale media is niet automatisch journalistiek gecontroleerd.\n• Nieuws, een mening en een politieke boodschap zijn niet hetzelfde.\n• Gebruik bij mediaberichten een checklist: kijk naar de maker, het doel, de datum, het soort bericht en vergelijk belangrijke informatie met andere betrouwbare bronnen."
+    }
+  ]
+}

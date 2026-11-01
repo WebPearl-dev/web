@@ -1,0 +1,320 @@
+{
+  "id": "bio_010",
+  "subject": "biologie",
+  "title": "Les 10 - De bouw van een plant (Wortels, stengels en vaten)",
+  "goal": "Je kunt de hoofdonderdelen van een zaadplant benoemen en uitleggen hoe wortels, stengels en transportvaten samenwerken om de plant in leven te houden.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "De onderdelen van een plant",
+      "text": "Een gewone zaadplant bestaat uit een aantal vaste basisonderdelen. De belangrijkste vier onderdelen die je voor het examen moet kennen zijn de wortels, de stengels, de bladeren en de bloemen. Elk onderdeel heeft een eigen, onmisbare taak in de biologie.",
+      "image": "les_010_intro_plant.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De drie functies van wortels",
+      "text": "De wortels bevinden zich onder de grond en hebben drie belangrijke biologische functies:\n1. Water en mineralen opnemen: De wortels zuigen water met opgeloste voedingsstoffen (mineralen) op uit de bodem.\n2. Stevigheid / vastzetten: Ze zorgen ervoor dat de plant stevig in de grond verankerd staat, zodat de wind de plant niet zomaar wegblaast.\n3. Reservevoedsel opslaan: Veel planten bewaren een voorraad eten (zoals zetmeel) in hun wortels om de winter te overleven (denk aan een wortel of een biet).",
+      "image": "les_010_wortel_functies.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Stengels en het stoftransport",
+      "text": "De stengel draagt de bladeren en bloemen en houdt de plant rechtop. Binnenin de stengel lopen lange, dunne buisjes die we transportvaten noemen. Er zijn twee soorten vaten:\n* Houtvaten: Deze vaten vervoeren water en mineralen vanuit de wortels OMHOOG naar de bladeren. Onthoud: Hout gaat Omhoog!\n* Bastvaten: Deze vaten vervoeren het gemaakte voedsel (suikers/glucose) vanuit de bladeren OMLAAG naar de rest van de plant (zoals de wortels). Onthoud: Bast stroomt Omlaag!",
+      "image": "les_010_transport_vaten.png"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees de examenvragen over planten altijd heel rustig. Vraagt men naar transport omhoog (water/mineralen)? Kies dan direct voor houtvaten. Vraagt men naar transport omlaag (voedsel/suikers/glucose)? Kies dan direct voor bastvaten. Let bij wortels goed op welke van de drie functies wordt omschreven."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "De vier onderdelen = wortel, stengel, blad, bloem.\nWortelfuncties = water opnemen, plant vastzetten, reservevoedsel bewaren.\nHoutvaten = water en mineralen ➡️ OMHOOG.\nBastvaten = glucose (voedsel) ➡️ OMLAAG."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_010_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk basisonderdeel van een zaadplant bevindt zich normaal gesproken onder de grond en neemt water op?",
+      "answers": [
+        "Het blad",
+        "De bloem",
+        "De wortel"
+      ],
+      "correct_answer": 2,
+      "hint": "Dit onderdeel houdt de plant ook stevig vast in de bodem.",
+      "feedback_correct": "Goed! De wortels groeien onder de grond en zuigen water en mineralen op.",
+      "feedback_wrong": "Bladeren en bloemen groeien boven de grond. De wortels bevinden zich onder de grond om water op te nemen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_010"
+    },
+    {
+      "id": "bio_010_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wanneer er een harde storm over een weiland raast, blijven de meeste planten netjes overeind staan zonder weg te waaien. Welke biologische functie van de wortels zorgt hiervoor?",
+      "answers": [
+        "Het maken van nieuwe bloemblaadjes via celdeling.",
+        "Het stevig vastzetten en verankeren van de plant in de grond.",
+        "Het verdampen van overtollig slootwater."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan de functie die te maken heeft met grip en stevigheid in de bodem.",
+      "feedback_correct": "Uitstekend! De wortels werken als een anker and zetten de plant stevig vast in de grond.",
+      "feedback_wrong": "Wortels maken geen bloemen and verdampen geen water. Hun mechanische taak is het vastzetten van de plant.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_010"
+    },
+    {
+      "id": "bio_010_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een suikerbiet of een stevige wortel zit in de herfst vol met opgeslagen zetmeel. Welke biologische functie van een wortel is hier aan de gang?",
+      "answers": [
+        "Het beschermen van de plant tegen insectenplagen.",
+        "Het tijdelijk opslaan van reservevoedsel om de winter te overleven.",
+        "Het opvangen van zonlicht voor de actieve fotosynthese."
+      ],
+      "correct_answer": 1,
+      "hint": "Zetmeel is een belangrijke voedingsstof die de plant bewaart voor een latere periode.",
+      "feedback_correct": "Perfect! Veel planten gebruiken hun wortels als opslagplaats voor reservevoedsel (zoals zetmeel).",
+      "feedback_wrong": "Wortels liggen onder de grond en vangen geen licht. Ze dienen hier voor de opslag van reservevoedsel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_010"
+    },
+    {
+      "id": "bio_010_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Hoe heten de lange, dunne transportbuisjes die binnenin de stengels en wortels lopen om sappen door de plant te vervoeren?",
+      "answers": [
+        "Darmkanalen",
+        "Tracheeën",
+        "Transportvaten"
+      ],
+      "correct_answer": 2,
+      "hint": "Het biologische woord herinnert aan vaten of buisjes die stoffen transporteren.",
+      "feedback_correct": "Juist! Buisjes die sappen en stoffen door de plant vervoeren noemen we transportvaten.",
+      "feedback_wrong": "Darmen horen bij mensen en tracheeën bij insecten. Buisjes in planten zijn transportvaten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_010"
+    },
+    {
+      "id": "bio_010_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Via welke specifieke transportvaten worden water en mineralen vanuit de ondergrondse wortels OMHOOG vervoerd naar de bladeren?",
+      "answers": [
+        "Bastvaten",
+        "Houtvaten",
+        "Talgvaten"
+      ],
+      "correct_answer": 1,
+      "hint": "Gebruik het handige biologische ezelsbruggetje: Hout gaat Omhoog!",
+      "feedback_correct": "Heel goed! Houtvaten vervoeren water en mineralen vanuit de wortels omhoog.",
+      "feedback_wrong": "Bastvaten vervoeren voedsel omlaag. Het water dat omhoog stroomt loopt altijd door de houtvaten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_010"
+    },
+    {
+      "id": "bio_010_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In de groene bladeren maakt de plant overdag glucose (voedsel). Via welke transportvaten wordt deze geproduceerde glucose OMLAAG vervoerd naar de rest van de plant?",
+      "answers": [
+        "Bastvaten",
+        "Houtvaten",
+        "Luchtvaten"
+      ],
+      "correct_answer": 0,
+      "hint": "Gebruik het handige biologische ezelsbruggetje: Bast stroomt Omlaag!",
+      "feedback_correct": "Top! Bastvaten vervoeren de gemaakte suikers (glucose) vanuit de bladeren omlaag.",
+      "feedback_wrong": "Houtvaten gaan omhoog. Het transport van glucose/voedsel naar beneden gebeurt via de bastvaten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_010"
+    },
+    {
+      "id": "bio_010_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk onderdeel van de zaadplant houdt de plant rechtop en draagt de bladeren en de bloemen?",
+      "answers": [
+        "De stengel",
+        "De wortel",
+        "Het zaadbeginsel"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit buisvormige onderdeel vormt de verbinding tussen de ondergrondse wortels en de bladeren in de lucht.",
+      "feedback_correct": "Juist! De stengel zorgt voor stevigheid en draagt de bladeren en bloemen.",
+      "feedback_wrong": "De wortel zit onder de grond. Het onderdeel dat de bladeren draagt en rechtop houdt is de stengel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_010"
+    },
+    {
+      "id": "bio_010_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Als we houtvaten vergelijken met bastvaten, wat is dan het belangrijkste functionele verschil in wat ze vervoeren?",
+      "answers": [
+        "Houtvaten vervoeren water en mineralen; bastvaten vervoeren glucose (voedsel).",
+        "Houtvaten vervoeren uitsluitend zuurstofgas; bastvaten vervoeren urine.",
+        "Er is geen verschil: ze vervoeren allebei exact dezelfde stoffen omhoog."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de bron waar de stoffen vandaan komen: water komt uit de grond, glucose uit de bladeren.",
+      "feedback_correct": "Heel goed! Houtvaten transporteren het grondwater met mineralen, bastvaten transporteren de gemaakte glucose.",
+      "feedback_wrong": "Planten maken geen urine. Houtvaten vervoeren grondwater omhoog en bastvaten vervoeren suikers omlaag.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_010"
+    },
+    {
+      "id": "bio_010_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "conclusie_trekken_uit_gegevens",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een schimmel tast de stengels van een passiebloem aan, waardoor de stengels gaan rotten. Welke conclusie over de gevolgen voor de plant is biologisch juist?",
+      "answers": [
+        "De bladeren zullen direct extra bloemen gaan maken.",
+        "Het transport van water en voedsel raakt verstoord, waardoor de bladeren kunnen uitdrogen.",
+        "De wortels gaan hierdoor veel sneller mineralen opnemen."
+      ],
+      "correct_answer": 1,
+      "hint": "In de stengel liggen de transportvaten (hout- en bastvaten) die geblokkeerd raken door de rotting.",
+      "feedback_correct": "Perfect! Omdat de vaten in de stengel rotten, stopt het stoftransport en droogt de plant uit.",
+      "feedback_wrong": "Rotting van de stengel blokkeert de vaten. De bladeren krijgen geen water meer and de plant sterft.",
+      "source_reference": "Examen VMBO-BB 2023 Tijdvak 1",
+      "source": "Omgebouwde examenvraag conform syllabus-eisen",
+      "les_id": "bio_010"
+    },
+    {
+      "id": "bio_010_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk specifiek onderdeel van de plant is hoofdzakelijk groen en plat van vorm en is speciaal gemaakt om overdag zonlicht op te vangen?",
+      "answers": [
+        "Het blad",
+        "De wortel",
+        "De wortelhaar"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit onderdeel zit vast aan de stengel and doet intensief aan fotosynthese.",
+      "feedback_correct": "Klopt! Het blad is plat en groen om optimaal licht op te vangen voor de fotosynthese.",
+      "feedback_wrong": "Wortels zitten in het donker onder de grond. Het platte, groene onderdeel dat licht vangt is het blad.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_010"
+    },
+    {
+      "id": "bio_010_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In de herfst verliest een treurwilg al zijn bladeren. Welk gevolg heeft dit voor de stroomrichting in de houtvaten van deze boom?",
+      "answers": [
+        "De houtvaten gaan plotseling urine vervoeren.",
+        "Er stroomt vrijwel geen water meer omhoog, omdat er geen bladeren zijn die water kunnen verdampen.",
+        "De stroomrichting in de houtvaten klapt om and gaat keihard naar beneden stromen."
+      ],
+      "correct_answer": 1,
+      "hint": "Water stroomt hoofdzakelijk omhoog doordat de bladeren aan de bovenkant water verdampen, wat het water omhoog zuigt.",
+      "feedback_correct": "Uitstekend! Zonder bladeren is er geen verdamping, dus stopt de opwaartse waterstroom in de houtvaten grotendeels.",
+      "feedback_wrong": "Houtvaten stromen niet naar beneden en bevatten geen urine. Zonder bladeren valt de opwaartse zuigkracht weg.",
+      "source_reference": "Examen VMBO-BB 2018 Tijdvak 1",
+      "source": "Omgebouwde examenvraag conform syllabus-eisen",
+      "les_id": "bio_010"
+    },
+    {
+      "id": "bio_010_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "plantenbouw_en_functie",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Naast het opnemen van water en reservevoedsel, wat is de derde officiële biologische basistaak van de wortels voor een plant?",
+      "answers": [
+        "Het maken van stuifmeelkorrels.",
+        "De plant stevig vastzetten and verankeren in de bodem.",
+        "Het lokken van honingbijen met felle kleuren."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan de mechanische grip van de plant in de losse grond.",
+      "feedback_correct": "Helemaal goed! De drie wortelfuncties zijn: water opnemen, reservevoedsel opslaan and de plant vastzetten in de grond.",
+      "feedback_wrong": "Bloemen maken stuifmeel en lokken bijen. De wortel zorgt voor het vastzetten van de plant.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_010"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 4.0",
+    "notitie": "Les-id en vraagnummers volledig gecorrigeerd naar bio_010. Fotosynthesestofwisseling verplaatst naar de juiste module, focus hier puur op de anatomie en transportvaten van de plant.",
+    "wijzigingen": "Set uitgebreid naar 12 kwalitatieve, dekkende vragen over de wortelfuncties, stengels en transportrichtingen van hout- en bastvaten conform de nieuwe CE 2027-eisen."
+  }
+}

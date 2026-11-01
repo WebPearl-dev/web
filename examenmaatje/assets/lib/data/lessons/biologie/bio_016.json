@@ -1,0 +1,336 @@
+{
+  "id": "bio_016",
+  "subject": "biologie",
+  "title": "Les 16 - Je gebit en de organen van het verteringsstelsel",
+  "goal": "Je kunt de onderdelen van tanden en kiezen benoemen, uitleggen hoe tandbederf ontstaat en de functies van speeksel en maagzuur beschrijven.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "De spijsvertering verwerkt je eten zodat cellen de voedingsstoffen kunnen opnemen. Dit proces begint al direct in je mond! Tanden en kiezen snijden en malen het voedsel kleiner. Je leert hoe een tand is opgebouwd, hoe tandbederf ontstaat en hoe speeksel en maagzuur je lichaam helpen.",
+      "image": "les_016_intro_gebit.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De bouw van tanden en kiezen",
+      "text": "Een tand of kies bestaat uit vaste, verplichte onderdelen:\n1. Kroon: Het harde deel van de tand dat je boven het tandvlees ziet.\n2. Wortel: Het deel waarmee de tand stevig vastzit in de kaak.\n3. Tandglazuur: De flinterdunne, ijzersterke beschermlaag aan de buitenkant van de kroon.\n4. Tandbeen: De harde laag die direct onder het glazuur ligt en de vorm van de tand bepaalt.\n5. Tandmerg: De zachte holte in het midden van de tand, vol met zenuwen en bloedvaten.\n6. Tandcement: Een stevig laagje rondom de wortel dat helpt de tand te verankeren.",
+      "image": "les_016_anatomie_tand.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Hoe ontstaat tandbederf?",
+      "text": "In je mondholte leven miljarden bacteriën. Wanneer je suikers eet of drinkt, breken bacteriën deze suikers af and maken er zuren van. Dit zuur tast de harde buitenlaag (het tandglazuur) aan. Als je te vaak zoetigheid eet of drinkt, krijgt het glazuur geen tijd om te herstellen en ontstaat er een gaatje (tandbederf). Goed poetsen met fluoridetandpasta verwijdert de bacteriën (plak) en versterkt het glazuur."
+    },
+    {
+      "type": "explanation",
+      "title": "De eerste sappen: Speeksel en maagzuur",
+      "text": "Tijdens het kauwen mengen de speekselklieren je eten met speeksel. Speeksel maakt het voedsel vochtig en glad, waardoor je het makkelijk kunt doorslikken via de slokdarm. Daarnaast helpt speeksel om zuren in de mond te neutraliseren.\n\nAls het eten in de maag komt, wordt het gemengd met zuur maagzuur. De zure omgeving in de maag heeft een belangrijke beschermende functie: het kan veel schadelijke ziekteverwekkers (bacteriën) in je voedsel beschadigen of doden."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees de vraag aandachtig door. Let goed op of er gevraagd wordt naar de buitenste laag van de tand (glazuur), de laag daaronder (tandbeen) of de holte met zenuwen (tandmerg). Onthoud dat bacteriën zuur maken uit suikers."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "De kroon zit boven het tandvlees. Glazuur beschermt het tandbeen. Tandmerg bevat bloedvaten en zenuwen. Tandcement omgeeft de wortel. Suikers worden door bacteriën omgezet in tandglaazuur-aantastende zuren. Speeksel glijdt; maagzuur doodt bacteriën."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_016_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk deel van een tand of kies steekt er normaal gesproken boven het tandvlees uit en is direct zichtbaar in de mond?",
+      "answers": [
+        "De wortel",
+        "De kroon",
+        "Het tandcement",
+        "Het tandmerg"
+      ],
+      "correct_answer": 1,
+      "hint": "De wortel zit ondergronds in de kaak verankerd. Welk deel poets je met je tandenborstel?",
+      "feedback_correct": "Goed gedaan! De kroon is het zichtbare, bovenste deel van de tand.",
+      "feedback_wrong": "De kroon bevindt zich boven het tandvlees. De wortel zit dieper verborgen in de kaak.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_016"
+    },
+    {
+      "id": "bio_016_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke keiharde structuur vormt de beschermende buitenlaag van de kroon van een tand?",
+      "answers": [
+        "Het tandmerg",
+        "Het tandbeen",
+        "Het tandglazuur",
+        "Het tandcement"
+      ],
+      "correct_answer": 2,
+      "hint": "Dit is de hardste substantie in het menselijk lichaam die beschadiging van binnenliggende delen voorkomt.",
+      "feedback_correct": "Klopt! Tandglazuur vormt de glanzende, harde buitenlaag van de kroon.",
+      "feedback_wrong": "Tandglazuur ligt aan de buitenkant. Tandbeen is de laag die daar direct onder ligt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_016"
+    },
+    {
+      "id": "bio_016_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom kan het regelmatig eten of drinken van suikerrijke producten leiden tot het ontstaan van gaatjes?",
+      "answers": [
+        "Omdat suiker het tandglazuur direct dikker maakt.",
+        "Omdat suiker de aanmaak van speeksel volledig stillegt.",
+        "Omdat suiker tanden meteen verandert in zacht weefsel.",
+        "Omdat bacteriën suikers omzetten in zuren die het glazuur aantasten."
+      ],
+      "correct_answer": 3,
+      "hint": "Denk aan de biologische activiteit van de bacteriën in de mondholte wanneer er suikers achterblijven.",
+      "feedback_correct": "Perfect! Bacteriën maken zuren van de suikers, en die zuren lossen het tandglazuur langzaam op.",
+      "feedback_wrong": "Het zijn de schadelijke zuren, gemaakt door bacteriën uit suikers, die het glazuur aantasten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_016"
+    },
+    {
+      "id": "bio_016_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke dagelijkse gewoonte helpt het allerbest om tandbederf (gaatjes) effectief te voorkomen?",
+      "answers": [
+        "Regelmatig tandenpoetsen met fluoridetandpasta",
+        "Gedurende de hele dag kleine beetjes snoep eten",
+        "Tandenpoetsen vervangen door alleen slagen koud water drinken",
+        "Pas poetsen op het moment dat je hevige tandpijn voelt"
+      ],
+      "correct_answer": 0,
+      "hint": "Kies de methode waarmee je tandplak (bacteriën) weghaalt en de buitenste laag van je tanden versterkt.",
+      "feedback_correct": "Juist! Poetsen verwijdert etensresten en bacteriën, en fluoride versterkt het glazuur.",
+      "feedback_wrong": "Alleen poetsen bij pijn is te laat. Regelmatig poetsen met fluoride beschermt je tanden dagelijks.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_016"
+    },
+    {
+      "id": "bio_016_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is een belangrijke mechanische functie van het speeksel tijdens het verteringsproces?",
+      "answers": [
+        "Het maakt voedsel vochtig en glad zodat je het makkelijk kunt doorslikken.",
+        "Het pompt bruikbare zuurstof rechtstreeks naar de actieve spieren.",
+        "Het maakt groen gal aan om vetten af te breken.",
+        "Het vervoert vloeibare afvalstoffen naar de urineblaas."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan wat er in je mond gebeurt met een droge cracker als je er flink op kauwt.",
+      "feedback_correct": "Heel goed! Speeksel smeert de voedselbrij, wat het transport door de slokdarm vergemakkelijkt.",
+      "feedback_wrong": "Speeksel bevindt zich in de mondholte om voedsel vochtig te maken, het transporteert geen zuurstof of gal.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_016"
+    },
+    {
+      "id": "bio_016_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Op welke manier levert het sterke maagzuur in je maag een bijdrage aan de bescherming van je gezondheid?",
+      "answers": [
+        "Het zorgt ervoor dat alle voedingsstoffen direct in het bloed springen.",
+        "Het maakt de luchtwegen and longblaasjes van binnen schoon.",
+        "De extreem zure omgeving kan veel binnengedrongen ziekteverwekkers doden.",
+        "Het garandeert dat je nooit meer ergens een infectie kunt oplopen."
+      ],
+      "correct_answer": 2,
+      "hint": "Zuren zijn agressief voor kleine organismen zoals bacteriën die stiekem op je eten meeliften.",
+      "feedback_correct": "Top! Het maagzuur ontsmet het voedsel door bacteriën en andere micro-organismen onschadelijk te maken.",
+      "feedback_wrong": "Maagzuur biedt een barrière tegen veel bacteriën, maar geeft geen 100% garantie tegen alle infecties.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_016"
+    },
+    {
+      "id": "bio_016_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom is een ernstige beschadiging of slijtage van het tandglazuur een ongunstige biologische situatie?",
+      "answers": [
+        "Omdat het glazuur dan direct verandert in een nieuwe plantenwortel.",
+        "Omdat de harde, beschermende buitenlaag van het onderliggende tandbeen weg is.",
+        "Omdat de kies daardoor direct stopt met de aanmaak van speeksel.",
+        "Omdat de zenuwen in het tandmerg dan meteen verdwijnen."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan de schild-functie van het glazuur. Wat ligt er onbeschermd open als het schild kapot is?",
+      "feedback_correct": "Juist! Zonder glazuur ligt het zachtere tandbeen bloot en kunnen bacteriën makkelijker dieper binnendringen.",
+      "feedback_wrong": "Tandglazuur beschermt het tandbeen. Slijtage maakt de tand kwetsbaar voor bacteriën en zuren.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_016"
+    },
+    {
+      "id": "bio_016_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Karel drinkt gedurende de hele middag steeds kleine slokjes cola. Waarom vergroot deze specifieke gewoonte het risico op gaatjes?",
+      "answers": [
+        "Omdat het tandglazuur door de suikers juist te dik and zwaar gebouwd wordt.",
+        "Omdat de vloeistof de wortels van de tanden oplost in de kaak.",
+        "Omdat bacteriën zo telkens opnieuw zuren kunnen maken die het glazuur aanvallen.",
+        "Omdat speeksel hierdoor voor de rest van de dag volledig opdroogt."
+      ],
+      "correct_answer": 2,
+      "hint": "Elke keer dat Karel een slok neemt, krijgen de bacteriën in de mondholte een nieuwe lading brandstof voor zuurproductie.",
+      "feedback_correct": "Uitstekend! Door constant zoet te drinken, blijft de mondholte zuur en krijgt het glazuur geen kans om te herstellen.",
+      "feedback_wrong": "Constant suikers aanvoeren zorgt voor een permanente zuuraanval door bacteriën op het glazuur.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_016"
+    },
+    {
+      "id": "bio_016_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke stevige, harde laag vormt de hoofdmoot van de tand en bevindt zich direct onder het tandglazuur?",
+      "answers": [
+        "Het tandbeen",
+        "Het tandvlees",
+        "Het tandmerg",
+        "De speekselklier"
+      ],
+      "correct_answer": 0,
+      "hint": "Het omringt de centrale holte met bloedvaten en wordt aan de bovenkant beschermd door het glazuur.",
+      "feedback_correct": "Klopt! Onder het glazuur bevindt zich het tandbeen (ook wel dentine genoemd).",
+      "feedback_wrong": "Het tandbeen ligt direct onder het tandglazuur. Het tandmerg ligt nog dieper in het centrum.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_016"
+    },
+    {
+      "id": "bio_016_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Noor wil haar gebit optimaal beschermen tegen tandbederf. Welke gecombineerde aanpak helpt volgens biologen het best?",
+      "answers": [
+        "Alleen poetsen als ze pijn voelt en verder heel veel energiedrankjes drinken.",
+        "Heel vaak snoepen en daarna direct een flinke slok koud water nemen.",
+        "Tandenpoetsen helemaal vervangen door het kauwen op suikervrije kauwgom.",
+        "Regelmatig poetsen met fluoridetandpasta en het aantal suppermomenten per dag beperken."
+      ],
+      "correct_answer": 3,
+      "hint": "Kies de optie die zowel de mechanische reiniging, de chemische versterking, als de beperking van zuuraanvallen bevat.",
+      "feedback_correct": "Perfect! Hiermee beperk je de zuuraanvallen en geef je het glazuur de kans om te herstellen met behulp van fluoride.",
+      "feedback_wrong": "Kauwgom of water vervangt poetsen niet. De combinatie van fluoride en weinig suikermomenten is de juiste biologische aanpak.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_016"
+    },
+    {
+      "id": "bio_016_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk specifiek onderdeel bevindt zich rondom de wortel van een tand of kies en zorgt ervoor dat de tand stevig in de kaak verankerd blijft?",
+      "answers": [
+        "Het tandcement",
+        "Het tandglazuur",
+        "Het kroonblad",
+        "Het cytoplasma"
+      ],
+      "correct_answer": 0,
+      "hint": "Glazuur zit om de kroon heen. Welke harde, cementachtige laag beschermt en verankert de wortel onder het tandvlees?",
+      "feedback_correct": "Uitstekend! Het tandcement omgeeft de wortel en zorgt voor de verankering in het kaakbot.",
+      "feedback_wrong": "Tandglazuur zit alleen om de kroon heen. Rondom de wortel bevindt zich het tandcement.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_016"
+    },
+    {
+      "id": "bio_016_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "vertering",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In het binnenste centrum van een gezonde levende kies bevindt zich het tandmerg. Welke belangrijke structuren tref je in dit tandmerg aan?",
+      "answers": [
+        "Zenuwen en bloedvaten",
+        "Houtvaten en bastvaten",
+        "Huidmondjes en vacuolen"
+      ],
+      "correct_answer": 0,
+      "hint": "Hierdoor kan een tand warm of koud voelen (pijn) en krijgt de levende tand voedingsstoffen aangevoerd via het bloed.",
+      "feedback_correct": "Helemaal goed! Het tandmerg bevat de bloedvaten (voor voeding) en zenuwen (voor waarneming/pijn).",
+      "feedback_wrong": "Houtvaten, bastvaten en huidmondjes zijn onderdelen van planten, die komen nooit voor in een menselijk gebit.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_016",
+      "image": "les_016_q12_tandmerg.png"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.0",
+    "notitie": "Les-id en alle onderliggende id's definitief omgezet naar bio_016 conform ons goedgekeurde 30-lessen masterplan v1.0. Structuur volledig vlakgetrokken.",
+    "wijziging": "Vragen-array opgeschoond van nestings, codes gecorrigeerd naar topic vertering, en twee vragen over cement en tandmerg toegevoegd."
+  }
+}

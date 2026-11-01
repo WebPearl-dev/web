@@ -1,0 +1,335 @@
+{
+  "id": "bio_024",
+  "subject": "biologie",
+  "title": "Les 24 - De huid: bouw, bescherming en voelen",
+  "goal": "Je kunt de belangrijkste onderdelen van de huid herkennen en uitleggen hoe deze onderdelen beschermen en helpen bij het voelen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Je huid beschermt je lichaam",
+      "text": "Je huid vormt de buitenkant van je lichaam. De huid beschermt je tegen beschadigingen, uitdroging en ziekteverwekkers. Met zintuigen in de huid kun je prikkels waarnemen, zoals aanraking, druk, warmte en kou. De verschillende onderdelen van de huid hebben elk hun eigen functie.",
+      "image": "les_024_intro_huid.png"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Let eerst op waar de vraag over gaat: een huidlaag, een onderdeel of een functie. Zoek daarna welk onderdeel bij die functie hoort. Onthoud vooral de verschillen tussen de opperhuid, de lederhuid en het onderhuids bindweefsel."
+    },
+    {
+      "type": "explanation",
+      "title": "De opperhuid",
+      "text": "De opperhuid is de buitenste laag van de huid. De hoornlaag ligt helemaal aan de buitenkant en bestaat uit dode cellen. Deze laag helpt beschermen tegen beschadiging, uitdroging en infecties. Onder de hoornlaag ligt de kiemlaag, waarin continu nieuwe huidcellen worden gevormd door celdeling. Pigment in de kiemlaag helpt de huid te beschermen tegen schadelijke ultraviolette straling (uv-straling) van de zon.",
+      "image": "les_024_opperhuid_detail.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De lederhuid",
+      "text": "Onder de opperhuid ligt de lederhuid. Hierin zitten de levende en actieve onderdelen van de huid: bloedvaten, haarzakjes, talgklieren, haarspiertjes, zweetklieren en zintuigcellen. Zweetklieren maken zweet. Talgklieren maken talg, een vettige stof die helpt de huid en haren soepel en waterafstotend te houden. De zintuigcellen in de lederhuid reageren op prikkels zoals aanraking, druk, warmte en kou.",
+      "image": "les_024_lederhuid_detail.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Haren en het onderhuids bindweefsel",
+      "text": "Haren groeien vanuit haarzakjes in de lederhuid. Bij elk haarzakje zit een klein haarspiertje. Als je het koud krijgt, trekt dit spiertje samen waardoor de haar rechtop gaat staan (kippenvel). Onder de huid ligt het onderhuids bindweefsel. Dit weefsel zit vol met vetcellen. Dit opgeslagen vet helpt om lichaamswarmte vast te houden en vormt een beschermende laag tegen stoten."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Opperhuid = hoornlaag (dood, bescherming) + kiemlaag (levend, deling, pigment). Lederhuid = bloedvaten, klieren (zweet en talg), haren en zintuigen (voelen). Onderhuids bindweefsel = vetcellen (warmte vasthouden en bescherming tegen stoten)."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_024_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke complete huidlaag ligt aan de uiterste buitenkant van je lichaam en kun je van buitenaf direct aanraken?",
+      "answers": [
+        "De lederhuid",
+        "Het onderhuids bindweefsel",
+        "De opperhuid",
+        "De spierlaag"
+      ],
+      "correct_answer": 2,
+      "hint": "Deze laag bestaat uit de hoornlaag aan de buitenkant en de kiemlaag daaronder.",
+      "feedback_correct": "Goed! De opperhuid is de buitenste laag van de huid.",
+      "feedback_wrong": "De opperhuid ligt aan de buitenkant. De lederhuid en het onderhuids bindweefsel liggen dieper.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_024"
+    },
+    {
+      "id": "bio_024_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is een heel belangrijke mechanische functie van de hoornlaag die uit dode, verhoornde cellen bestaat?",
+      "answers": [
+        "Het pompen van zuurstofrijk bloed door het lichaam.",
+        "Het helpen beschermen tegen uitdroging, beschadiging en infecties.",
+        "Het verteren van binnengekomen voedingsstoffen.",
+        "Het maken van nieuwe, harde botcellen."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan het nut van een stevige, droge barrière aan de buitenkant van een gebouw of lichaam.",
+      "feedback_correct": "Goed! De hoornlaag helpt de huid te beschermen tegen uitdroging, beschadiging en infecties.",
+      "feedback_wrong": "De hoornlaag vormt een dode beschermende barrière tegen slijtage en houdt vocht binnen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_024"
+    },
+    {
+      "id": "bio_024_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In welk specifiek onderdeel of laag van de opperhuid worden door celdeling continu nieuwe huidcellen gevormd?",
+      "answers": [
+        "In de hoornlaag",
+        "In het onderhuids bindweefsel",
+        "In de lederhuid",
+        "In de kiemlaag"
+      ],
+      "correct_answer": 3,
+      "hint": "De naam geeft aan dat hier de 'kiem' of basis ligt voor de groei van nieuwe cellen die naar boven schuiven.",
+      "feedback_correct": "Goed! In de kiemlaag worden door celdeling continu nieuwe huidcellen gevormd.",
+      "feedback_wrong": "De kiemlaag bevat levende, delende cellen. De hoornlaag bestaat juist uit dode cellen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_024"
+    },
+    {
+      "id": "bio_024_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk specifiek onderdeel of klier bevindt zich in de lederhuid?",
+      "answers": [
+        "Zweetklieren",
+        "Longblaasjes",
+        "Urineleiders",
+        "Darmvlokken"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek een onderdeel dat een vloeistof produceert om af te koelen als je het warm hebt.",
+      "feedback_correct": "Goed! Zweetklieren liggen in de lederhuid and maken zweet.",
+      "feedback_wrong": "Zweetklieren liggen in de lederhuid. Longblaasjes, urineleiders en darmvlokken horen bij andere organen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_024"
+    },
+    {
+      "id": "bio_024_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke vettige stof wordt er door talgklieren gemaakt om je huid en haren soepel te houden?",
+      "answers": [
+        "Bloed",
+        "Zweet",
+        "Talg",
+        "Urine"
+      ],
+      "correct_answer": 2,
+      "hint": "De naam van de stof zit al grotendeels verstopt in de naam van de klier zelf.",
+      "feedback_correct": "Goed! Talgklieren maken talg, een vettige stof die helpt de huid en haren soepel te houden.",
+      "feedback_wrong": "Talgklieren produceren talg. Zweet wordt gemaakt door de zweetklieren.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_024"
+    },
+    {
+      "id": "bio_024_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke taak hebben de diverse zintuigcellen die verspreid liggen in de lederhuid?",
+      "answers": [
+        "Ze maken energierijke voedingsstoffen aan uit zonlicht.",
+        "Ze helpen prikkels zoals aanraking, druk, warmte en kou waarnemen.",
+        "Ze transporteren urine van de nieren naar de blaas.",
+        "Ze produceren rode bloedcellen voor de aorta."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan de functies waardoor je voelt of een voorwerp glad, scherp, warm of ijskoud is.",
+      "feedback_correct": "Goed! Zintuigen in de huid helpen prikkels zoals aanraking, druk, warmte and kou op te vangen.",
+      "feedback_wrong": "Zintuigen registreren prikkels uit de omgeving en sturen impulsen naar het centrale zenuwstelsel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_024"
+    },
+    {
+      "id": "bio_024_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waar bevindt zich anatomisch gezien de laag die we het onderhuids bindweefsel noemen?",
+      "answers": [
+        "Direct boven op de dode hoornlaag.",
+        "Binnenin de buis van de luchtpijp.",
+        "Direct onder de huid (onder de lederhuid).",
+        "Aan de binnenwand van de urineblaas."
+      ],
+      "correct_answer": 2,
+      "hint": "De naam verraadt de locatie al: 'onder-huid-s'.",
+      "feedback_correct": "Goed! Het onderhuids bindweefsel ligt direct onder de huidlagen.",
+      "feedback_wrong": "Het onderhuids bindweefsel vormt de verbindings- en opslaglaag direct onder de lederhuid.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_024"
+    },
+    {
+      "id": "bio_024_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke belangrijke dubbele functie hebben de vetcellen die in het onderhuids bindweefsel liggen opgeslagen?",
+      "answers": [
+        "Het helpt lichaamswarmte vast te houden en beschermt tegen stoten.",
+        "Het produceert gasvormig zuurstof voor de longen.",
+        "Het kneedt en verteert plantaardig voedsel.",
+        "Het transporteert urine naar buiten."
+      ],
+      "correct_answer": 0,
+      "hint": "Vet werkt als een isolatielaag (zoals een jas) and als een stootkussen voor onderliggende organen.",
+      "feedback_correct": "Goed! Vet onder de huid houdt warmte vast en vormt een beschermende laag tegen stoten.",
+      "feedback_wrong": "Vetcellen isoleren het lichaam tegen kou en dienen als dempend kussen tegen mechanische schokken.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_024"
+    },
+    {
+      "id": "bio_024_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke beschermende functie heeft de donkere kleurstof pigment die in de kiemlaag wordt aangemaakt?",
+      "answers": [
+        "Het helpt de huid te beschermen tegen schadelijke ultraviolette straling van de zon.",
+        "Het maakt zweetvloeistof aan in de winter.",
+        "Het pompt zuurstofarm bloed terug naar de rechterboezem.",
+        "Het maakt gloednieuwe haren aan in het haarzakje."
+      ],
+      "correct_answer": 0,
+      "hint": "Pigment zorgt ervoor dat je huid bruin kleurt in de zon om dieperliggende cellen te beschermen.",
+      "feedback_correct": "Goed! Pigment in de kiemlaag absorbeert schadelijke uv-straling van de zon.",
+      "feedback_wrong": "Pigment beschermt de levende cellen van de kiemlaag tegen gevaarlijke uv-stralen van het zonlicht.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_024"
+    },
+    {
+      "id": "bio_024_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke combinatie van een huidonderdeel en de bijbehorende functie is biologisch juist?",
+      "answers": [
+        "De hoornlaag — helpt beschermen tegen uitdroging en beschadiging",
+        "De zweetklier — produceert soepele talg",
+        "De talgklier — scheidt vloeibare urine uit",
+        "Het onderhuids bindweefsel — neemt koolstofdioxide op uit de lucht"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de combinatie waarbij de buitenste laag een schild vormt tegen verdamping en krassen.",
+      "feedback_correct": "Goed! De hoornlaag beschermt de huid tegen uitdroging en beschadiging.",
+      "feedback_wrong": "Zweetklieren maken zweet en talgklieren maken talg. Combinatie A is de enige juiste.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_024"
+    },
+    {
+      "id": "bio_024_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Bij elk haarzakje in je huid zit een minuscuul haarspiertje. Wat gebeurt er met je haren als deze spiertjes samentrekken door kou?",
+      "answers": [
+        "De haren gaan rechtop staan en er ontstaat kippenvel.",
+        "De haren vallen er onmiddellijk allemaal uit.",
+        "De haren veranderen direct in harde kraakbeenringen."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de bobbeltjes die op je armen ontstaan als je rilt van de kou.",
+      "feedback_correct": "Uitstekend! Het samentrekken trekt de haren rechtop, wat bij zoogdieren helpt om een warme luchtlaag vast te houden.",
+      "feedback_wrong": "Haarspiertjes trekken de haren rechtop (kippenvel), ze laten de haren niet uitvallen of veranderen in kraakbeen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_024"
+    },
+    {
+      "id": "bio_024_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "7",
+      "topic": "huid_en_temperatuur",
+      "skill": "oorzaak_gevolg_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Als je door slijtage of een schram continu dode hoorncellen verliest aan de buitenkant, waarom raakt je opperhuid dan normaal gesproken nooit helemaal op?",
+      "answers": [
+        "Omdat de kiemlaag daaronder continu nieuwe cellen maakt die naar boven schuiven.",
+        "Omdat de zweetklieren de gaten opvullen met vloeibaar zweet.",
+        "Omdat het onderhuids bindweefsel de buitenkant insmeert met vet."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de celdeling in de onderste laag van de opperhuid die de slijtage van bovenaf constant repareert.",
+      "feedback_correct": "Perfect! De kiemlaag vult het verlies aan de bovenkant constant aan door nieuwe cellen te produceren.",
+      "feedback_wrong": "Zweet of vet maakt geen nieuwe cellen. De constante celvernieuwing is de taak van de kiemlaag.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_024"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 3.0",
+    "notitie": "Les-id en alle onderliggende id's definitief omgezet naar bio_024 conform ons goedgekeurde masterplan v1.0. Structuur volledig vlakgetrokken.",
+    "wijzigingen": "Vragen-array opgeschoond van nestings, codes gecontroleerd tegen topic huid_en_temperatuur, en twee vragen over haarspiertjes and celvernieuwing toegevoegd."
+  }
+}

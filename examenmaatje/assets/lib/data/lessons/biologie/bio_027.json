@@ -1,0 +1,330 @@
+{
+  "id": "bio_027",
+  "subject": "biologie",
+  "title": "Les 27 - Groei en ontwikkeling",
+  "goal": "Je kunt uitleggen wat lichamelijke en geestelijke ontwikkeling is en verschillende fasen van het leven herkennen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Je verandert tijdens je leven",
+      "text": "Menge veranderen vanaf hun geboorte continu. Ze worden groter, hun lichaam verandert en ze leren nieuwe dingen. Ook gevoelens, het logisch denken en gedrag veranderen voortdurend. Al deze biologische veranderingen horen bij groei en ontwikkeling.",
+      "image": "les_027_intro_groei.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Het verschil tussen groei en ontwikkeling",
+      "text": "Hoewel ze vaak samenwerken, betekenen ze biologisch iets anders:\n* Groei: Dit betekent puur dat je lichaam groter en zwaarder wordt, bijvoorbeeld doordat je cellen groter worden of doordat je langer wordt in centimeters.\n* Ontwikkeling: Dit betekent dat er veranderingen optreden in de bouw van je lichaam (lichamelijke ontwikkeling, zoals het krijgen van de baard in de keel) of in wat je kunt, voelt en begrijpt (geestelijke ontwikkeling, zoals praten of keuzes maken)."
+    },
+    {
+      "type": "explanation",
+      "title": "De acht fasen van het menselijk leven",
+      "text": "Een mens doorloopt tijdens de levenscyclus een aantal vaste fasen van jong naar oud:\n1. Baby (0 tot 1 jaar)\n2. Peuter (1 tot 3 jaar)\n3. Kleuter (3 tot 6 jaar)\n4. Schoolkind (6 tot 12 jaar)\n5. Puber (12 tot 16 jaar)\n6. Adolescent (16 tot 21 jaar)\n7. Volwassene (21 t/m 65 jaar)\n8. Oudere (boven de 65 jaar)\nDe snelheid waarmee iemand deze fasen doorloopt verschilt per persoon, omdat niemand in exact hetzelfde tempo groeit.",
+      "image": "les_027_levensfasen_overzicht.png"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Kijk goed naar wat er in de vraag verandert. Als het puur gaat om centimeters of gewicht (groter worden), kies dan voor groei. Als het gaat om een nieuwe vaardigheid (leren) of vormverandering, kies dan voor ontwikkeling. Zet de levensfasen altijd chronologisch van jong naar oud."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Groei = groter en zwaarder worden in maat of lengte. Lichamelijke ontwikkeling = verandering in de bouw van het lichaam. Geestelijke ontwikkeling = verandering in denken, emoties en vaardigheden. De levensfasen lopen in een vaste volgorde van baby tot oudere."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_027_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is in de biologie de juiste omschrijving van het begrip groei bij de mens?",
+      "answers": [
+        "Dat iemand uitsluitend nieuwe vaardigheden en talen leert.",
+        "Dat het lichaam groter en zwaarder wordt.",
+        "Dat iemand ouder wordt zonder dat er cellen veranderen.",
+        "Dat de emoties en gevoelens altijd exact hetzelfde blijven."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan veranderingen die je rechtstreeks kunt meten met een weegschaal of een meetlint.",
+      "feedback_correct": "Heel goed! Groei betekent dat het lichaam groter en zwaarder wordt in lengte of gewicht.",
+      "feedback_wrong": "Groei slaat puur op de toename van lengte of gewicht. Veranderingen in wat je kunt of hoe je gebouwd bent vallen onder ontwikkeling.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_027"
+    },
+    {
+      "id": "bio_027_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een jong kind oefent elke dag en leert na een week zelfstandig en vloeiend fietsen zonder zijwieltjes. Bij welk biologisch proces past dit voorbeeld het best?",
+      "answers": [
+        "Geestelijke en lichamelijke ontwikkeling",
+        "Uitsluitend pure groei in lengte",
+        "Er is biologisch gezien sprake van stilstand",
+        "Uitsluitend het onbewust aanmaken van maagsap"
+      ],
+      "correct_answer": 0,
+      "hint": "Het kind leert een nieuwe vaardigheid (denken/balans) en stemt de spierbewegingen op elkaar af.",
+      "feedback_correct": "Perfect! Het leren van een nieuwe vaardigheid en het coördineren van je bewegingen hoort bij ontwikkeling.",
+      "feedback_wrong": "Fietsen leren is een vaardigheid, dit is ontwikkeling. Groei gaat puur om groter worden in centimeters.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_027"
+    },
+    {
+      "id": "bio_027_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke van de onderstaande biologische veranderingen is een duidelijk voorbeeld van lichamelijke ontwikkeling?",
+      "answers": [
+        "Leren hoe je het beste kunt omgaan met een teleurstelling.",
+        "Het vormen van een eigen bewuste mening over popmuziek.",
+        "Het veranderen van de lichaamsbouw en stem tijdens de puberteit.",
+        "Het maken van een schoolplanning voor je huiswerk."
+      ],
+      "correct_answer": 2,
+      "hint": "Zoek de verandering die te maken heeft met de biologische vorm en bouw van het lichaam zelf.",
+      "feedback_correct": "Juist! Vormveranderingen aan het lichaam (zoals de puberteitskenmerken) vallen onder lichamelijke ontwikkeling.",
+      "feedback_wrong": "Lichamelijke ontwikkeling gaat over de bouw van het lichaam. Nadenken, meningen en planningen horen bij geestelijke ontwikkeling.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_027"
+    },
+    {
+      "id": "bio_027_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke verandering in het menselijk leven past het beste bij het begrip geestelijke ontwikkeling?",
+      "answers": [
+        "Je voeten worden twee schoenmaten groter.",
+        "Je wordt in een jaar tijd tien centimeter langer.",
+        "Je krijgt door de geslachtshormonen meer lichaamsbeharing.",
+        "Je leert beter nadenken over de gevolgen van je keuzes."
+      ],
+      "correct_answer": 3,
+      "hint": "Geestelijke ontwikkeling heeft te maken met je hersenen: nadenken, emoties, praten en gedrag.",
+      "feedback_correct": "Heel goed! Leren nadenken en keuzes wegen is een mentale stap en hoort bij geestelijke ontwikkeling.",
+      "feedback_wrong": "Grotere voeten of lengte is groei. Beharing is lichamelijke ontwikkeling. Nadenken over keuzes is geestelijke ontwikkeling.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_027"
+    },
+    {
+      "id": "bio_027_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In welke specifieke levensfase van de mens vindt de biologische puberteit (de overgang naar volwassenheid) plaats?",
+      "answers": [
+        "Tijdens de babytijd.",
+        "Tijdens de puberfase (tussen schoolkind en adolescent).",
+        "Uitsluitend op oudere leeftijd boven de 65 jaar.",
+        "Volledig vóór de geboorte in de baarmoeder."
+      ],
+      "correct_answer": 1,
+      "hint": "Dit is de fase waarin de geslachtshormonen actief worden en je secundaire kenmerken krijgt.",
+      "feedback_correct": "Klopt! De puberfase is de periode waarin je lichaam en gedrag veranderen richting volwassenheid.",
+      "feedback_wrong": "De puberteit vindt plaats tijdens de puberfase (meestal tussen de 12 and 16 jaar) en niet als baby of oudere.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_027"
+    },
+    {
+      "id": "bio_027_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een jonge baby leert eerst stevig rechtop te zitten en een paar maanden later zelfstandig te kruipen en lopen. Wat laten deze stappen zien?",
+      "answers": [
+        "Uitsclusief geestelijke ontwikkeling zonder spierwerking.",
+        "Dat de biologische ontwikkeling direct stopt na de geboorte.",
+        "Lichamelijke ontwikkeling en het stapsgewijs leren van vaardigheden.",
+        "Dat de begrippen groei en ontwikkeling exact hetzelfde betekenen."
+      ],
+      "correct_answer": 2,
+      "hint": "De spieren en kleine hersenen van de baby veranderen, waardoor hij steeds complexere bewegingen kan maken.",
+      "feedback_correct": "Juist! Leren zitten, kruipen en lopen zijn klassieke voorbeelden van motorische en lichamelijke ontwikkeling.",
+      "feedback_wrong": "Dit is een combinatie van lichamelijke groei en het trainen van vaardigheden (ontwikkeling). Het stopt niet na de geboorte.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_027"
+    },
+    {
+      "id": "bio_027_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke rij laat de biologisch juiste volgorde zien van de opeenvolgende levensfasen van een mens?",
+      "answers": [
+        "Volwassene ➡️ baby ➡️ puber ➡️ schoolkind",
+        "Puber ➡️ baby ➡️ oudere ➡️ kleuter",
+        "Oudere ➡️ volwassene ➡️ baby ➡️ peuter",
+        "Baby ➡️ kleuter ➡️ schoolkind ➡️ puber"
+      ],
+      "correct_answer": 3,
+      "hint": "Start chronologisch bij de jongst mogelijke fase direct na de geboorte en ga stap voor stap richting ouder worden.",
+      "feedback_correct": "Heel goed! De juiste volgorde van jong naar ouder is: baby, kleuter, schoolkind en daarna puber.",
+      "feedback_wrong": "Je start altijd bij de babyfase. Route D zet de fasen netjes in de juiste chronologische volgorde.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_027"
+    },
+    {
+      "id": "bio_027_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke biologische uitspraak over het verloop van de menselijke ontwikkeling is juist?",
+      "answers": [
+        "Ontwikkeling vindt uitsluitend plaats in het eerste levensjaar van een baby.",
+        "Ontwikkeling kan zowel lichamelijke vormveranderingen als mentale/geestelijke stappen omvatten.",
+        "Ontwikkeling betekent exact hetzelfde als puur langer worden in centimeters.",
+        "Elke vorm van ontwikkeling stopt direct zodra je de volwassen leeftijd bereikt."
+      ],
+      "correct_answer": 1,
+      "hint": "Ontwikkeling is een heel breed begrip dat je hele leven doorgaat, zowel in je lichaam als in je brein.",
+      "feedback_correct": "Top! Ontwikkeling omvat alle veranderingen in bouw, gedrag en denken gedurende het hele leven.",
+      "feedback_wrong": "Ontwikkeling gaat het hele leven door (ook bij volwassenen of ouderen) and omvat zowel lichaam als geest.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_027"
+    },
+    {
+      "id": "bio_027_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Jasmijn merkt dat ze dit jaar een flink stuk langer is geworden en dat haar oude kleding te klein is. Bij welk biologisch begrip past dit het best?",
+      "answers": [
+        "Geestelijke ontwikkeling",
+        "Zintuiglijke waarneming",
+        "Groei",
+        "Uitscheiding via de nieren"
+      ],
+      "correct_answer": 2,
+      "hint": "Het gaat hier puur om de toename van de lengte (centimeters) van haar skelet.",
+      "feedback_correct": "Klopt! Langer of zwaarder worden is de definitie van biologische groei.",
+      "feedback_wrong": "Langer worden in centimeters is pure groei. Ontwikkeling gaat over het leren van dingen of vormveranderingen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_027"
+    },
+    {
+      "id": "bio_027_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom kunnen de exacte grenzen en leeftijden tussen verschillende levensfasen per individu verschillen?",
+      "answers": [
+        "Omdat elk mens zich op aarde exact op dezelfde dag en leeftijd ontwikkelt.",
+        "Omdat de levensfasen biologisch gezien niks te maken hebben met ontwikkeling.",
+        "Omdat mensen na hun twintigste verjaardag helemaal niet meer ouder worden.",
+        "Omdat mensen zich niet allemaal in exact hetzelfde tempo en op dezelfde manier ontwikkelen."
+      ],
+      "correct_answer": 3,
+      "hint": "Ieder mens heeft een eigen biologische klok; de ene puber krijgt zijn groeispurt bijvoorbeeld eerder dan de andere.",
+      "feedback_correct": "Uitstekend! Mensen verschillen in genetische aanleg en tempo, waardoor levensfasen flexibele grenzen hebben.",
+      "feedback_wrong": "Ieder mens ontwikkelt zich in een eigen tempo. Daarom zijn leeftijdsgrenzen van fasen gemiddelden en geen wetten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_027"
+    },
+    {
+      "id": "bio_027_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wanneer een kind de basisschool verlaat en naar de middelbare school gaat (rond de 12 jaar), welke overgang van levensfase maakt het kind dan biologisch gezien mee?",
+      "answers": [
+        "Van de fase van het schoolkind naar de fase van de puber.",
+        "Van de fase van de peuter rechtstreeks naar de volwassenheid.",
+        "Van de oudere-fase terug naar de babyfase."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de namen van de fasen rondom de basisschoolleeftijd (6-12 jaar) en de middelbare schoolleeftijd (vanaf 12 jaar).",
+      "feedback_correct": "Perfect! Rond het twaalfde levensjaar ga je biologisch en sociaal over van schoolkind naar puber.",
+      "feedback_wrong": "Je kunt geen fasen overslaan of achteruit reizen. De overgang rond 12 jaar is van schoolkind naar puber.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_027"
+    },
+    {
+      "id": "bio_027_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "1",
+      "topic": "groei_en_ontwikkeling",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wanneer een mens de oudere-fase bereikt (boven de 65 jaar), welke biologische verandering treedt er dan vaak op aan het skelet en de zintuigen?",
+      "answers": [
+        "De botten kunnen brozer worden en het gezichtsvermogen of gehoor kan achteruitgaan.",
+        "De botten veranderen spontaan in zachte, groene bladgroenkorrels.",
+        "De zintuigen stoppen volledig met het maken van schadelijk maagzuur."
+      ],
+      "correct_answer": 0,
+      "hint": "Bij ouderen treedt er vaak biologische slijtage op aan weefsels en organen, wat we ouderdomskwalen noemen.",
+      "feedback_correct": "Heel goed! In de oudere-fase nemen sommige functies van weefsels (zoals botten) en zintuigen door slijtage langzaam af.",
+      "feedback_wrong": "Ouderdom brengt milde achteruitgang in weefselsterkte met zich mee. Botten worden geen bladgroenkorrels.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_027",
+      "image": "les_027_q12_ouderdom.png"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.0",
+    "notitie": "Les-id en alle onderliggende id's definitief behouden op bio_027 conform het goedgekeurde 30-lessen masterplan v1.0. Structuur volledig vlakgetrokken.",
+    "wijzigingen": "Vragen-array opgeschoond van nestings, codes gecorrigeerd naar topic groei_en_ontwikkeling, en twee vragen over de puberteitsovergang en ouderdom toegevoegd."
+  }
+}

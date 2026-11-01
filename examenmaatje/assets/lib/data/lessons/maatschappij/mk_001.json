@@ -1,0 +1,408 @@
+{
+  "id": "mk_001",
+  "subject": "maatschappij",
+  "title": "Les 1 – Vind de informatie",
+  "goal": "Je leert hoe je in een tekst of overzicht de informatie vindt die je nodig hebt om een vraag te beantwoorden.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Les 1 – Vind de informatie",
+      "text": "In deze les leer je hoe je informatie uit een tekst of overzicht kunt vinden. Je leert ook hoe je belangrijke informatie herkent en gebruikt om een vraag te beantwoorden."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je een vraag aan",
+      "text": "Lees de vraag → bepaal wat je moet zoeken → zoek de informatie → controleer je antwoord."
+    },
+    {
+      "type": "explanation",
+      "title": "1. IK DOE HET VOOR",
+      "text": "Eerst doen we samen een voorbeeld. Ik lees eerst de vraag: waarom heeft de gemeente de nieuwe verkeersregel ingevoerd? Daarna zoek ik in de tekst naar de reden. In de tekst staat dat de fietspaden hierdoor veiliger worden voor fietsers. Dat is dus het antwoord."
+    },
+    {
+      "type": "question",
+      "title": "Nieuwe verkeersregels",
+      "question": {
+        "id": "mk_001_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Leervaardigheden",
+        "skill": "Informatie uit een tekst halen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom heeft de gemeente Larenveen de nieuwe verkeersregel ingevoerd?",
+        "context": "In de gemeente Larenveen zijn nieuwe verkeersregels ingevoerd. Bromfietsers moeten daar vanaf volgend jaar op de rijbaan rijden. Volgens de gemeente is de belangrijkste reden dat de fietspaden hierdoor veiliger worden voor fietsers.",
+        "answers": [
+          "Omdat bromfietsers sneller kunnen rijden.",
+          "Omdat de fietspaden veiliger worden voor fietsers.",
+          "Omdat bromfietsers geen helm meer hoeven te dragen.",
+          "Omdat er meer bromfietsers in de gemeente komen."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek in de tekst naar de zin waarin staat waarom de gemeente de regel heeft ingevoerd.",
+        "feedback_correct": "Goed gevonden! Het antwoord staat in de bron. Je hebt eerst goed gekeken naar wat de vraag precies vroeg.",
+        "feedback_wrong": "Nog niet. Lees de vraag en de tekst nog eens rustig door en zoek naar de reden die in de tekst wordt genoemd.",
+        "source": {
+          "type": "self_written",
+          "title": "Oefentekst – Nieuwe verkeersregels",
+          "year": 2027,
+          "section": "Oefenbron",
+          "page": null,
+          "url": null
+        },
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "explanation",
+      "title": "2. SAMEN PROBEREN",
+      "text": "Nu proberen we het samen. Lees de tekst rustig en zoek naar het antwoord in de bron."
+    },
+    {
+      "type": "question",
+      "title": "Hulp bij schulden",
+      "question": {
+        "id": "mk_001_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Leervaardigheden",
+        "skill": "Informatie uit een tekst halen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wie kan iemand helpen als die moeite heeft om de rekeningen te betalen?",
+        "context": "Sommige mensen hebben moeite om hun rekeningen op tijd te betalen. Ze kunnen dan hulp krijgen van een schuldhulpverlener. Deze helpt om overzicht te krijgen over de inkomsten, uitgaven en openstaande rekeningen. Samen wordt gekeken naar een oplossing voor de schulden.",
+        "answers": [
+          "politieagent",
+          "schuldhulpverlener",
+          "sportcoach",
+          "verkeersregelaar"
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek in de tekst naar de persoon die mensen helpt bij hun schulden.",
+        "feedback_correct": "Goed gedaan! Je hebt de juiste informatie uit de tekst gehaald.",
+        "feedback_wrong": "Nog niet. Lees de tekst nog eens rustig en zoek naar de persoon die wordt genoemd als hulp bij schulden.",
+        "source": {
+          "type": "self_written",
+          "title": "Oefentekst – Hulp bij schulden",
+          "year": 2027,
+          "section": "Oefenbron",
+          "page": null,
+          "url": null
+        },
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Sporten in de buurt",
+      "question": {
+        "id": "mk_001_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Leervaardigheden",
+        "skill": "Relevante informatie selecteren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Hoeveel kost een lidmaatschap van de sportclub per maand?",
+        "context": "In de wijk De Venen is een nieuwe sportclub geopend. De club biedt voetbal, basketbal en volleybal aan. Er zijn trainingen op maandag, woensdag en vrijdag. Een lidmaatschap kost €15 per maand. De club heeft 120 leden en heeft ook een kleine kantine.\n\nSam wil weten wat een lidmaatschap per maand kost.",
+        "answers": [
+          "€15 per maand",
+          "€120 per maand",
+          "3 sporten per maand",
+          "€15 per week"
+        ],
+        "correct_answer": 0,
+        "hint": "Zoek in de tekst naar de informatie over de prijs van een lidmaatschap.",
+        "feedback_correct": "Goed gekeken! Je hebt de informatie gebruikt die nodig is om de vraag te beantwoorden.",
+        "feedback_wrong": "Nog niet. Lees de tekst nog eens en zoek naar het bedrag dat bij een lidmaatschap hoort.",
+        "source": {
+          "type": "self_written",
+          "title": "Oefentekst – Sporten in de buurt",
+          "year": 2027,
+          "section": "Oefenbron",
+          "page": null,
+          "url": null
+        },
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "explanation",
+      "title": "3. JIJ PROBEERT",
+      "text": "Nu ga je steeds meer zelf doen. Lees eerst de vraag en bedenk wat je precies moet zoeken."
+    },
+    {
+      "type": "question",
+      "title": "Winkeldiefstal",
+      "question": {
+        "id": "mk_001_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Leervaardigheden",
+        "skill": "Informatie in de juiste volgorde herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat gebeurt er direct nadat de medewerker de persoon heeft aangesproken?",
+        "context": "Een medewerker van een winkel ziet dat iemand een product meeneemt zonder te betalen. De medewerker spreekt de persoon aan en vraagt hem om mee te komen naar een aparte ruimte. Daarna wordt de politie gebeld. De winkelier vertelt de politie wat er is gebeurd. De politie onderzoekt vervolgens de situatie.",
+        "answers": [
+          "De politie onderzoekt meteen de situatie.",
+          "De winkelier vertelt de politie wat er is gebeurd.",
+          "De persoon rekent het product alsnog af.",
+          "De medewerker vraagt de persoon om mee te komen naar een aparte ruimte."
+        ],
+        "correct_answer": 3,
+        "hint": "Kijk naar de gebeurtenis die direct na het aanspreken wordt genoemd.",
+        "feedback_correct": "Goed gevonden! Je hebt goed gekeken naar de volgorde van de gebeurtenissen.",
+        "feedback_wrong": "Nog niet. Lees het begin van de tekst nog eens en let goed op de volgorde van de gebeurtenissen.",
+        "source": {
+          "type": "self_written",
+          "title": "Oefentekst – Winkeldiefstal",
+          "year": 2027,
+          "section": "Oefenbron",
+          "page": null,
+          "url": null
+        },
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Een nieuw jongerencentrum",
+      "question": {
+        "id": "mk_001_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Leervaardigheden",
+        "skill": "Informatie uit verschillende zinnen combineren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom denkt de gemeente dat het nieuwe jongerencentrum kan helpen tegen de overlast?",
+        "context": "In een wijk komt een nieuw jongerencentrum. In de wijk hebben bewoners regelmatig last van jongeren die 's avonds op straat rondhangen. Ook ligt er na het weekend vaak afval op straat. Het jongerencentrum krijgt een ruimte waar jongeren elkaar kunnen ontmoeten en activiteiten kunnen doen. De gemeente hoopt hiermee de overlast in de wijk te verminderen.",
+        "answers": [
+          "Omdat jongeren dan meer afval kunnen opruimen.",
+          "Omdat jongeren daar elkaar kunnen ontmoeten en activiteiten kunnen doen.",
+          "Omdat bewoners dan minder vaak thuis zijn.",
+          "Omdat het jongerencentrum alleen in het weekend open is."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek in de tekst wat jongeren in het nieuwe jongerencentrum kunnen doen. Kijk daarna waarom de gemeente dit belangrijk vindt.",
+        "feedback_correct": "Goed gedaan! Je hebt twee stukjes informatie met elkaar verbonden.",
+        "feedback_wrong": "Nog niet. Lees de tekst nog eens en kijk naar wat jongeren daar kunnen doen en wat de gemeente daarmee wil bereiken.",
+        "source": {
+          "type": "self_written",
+          "title": "Oefentekst – Een nieuw jongerencentrum",
+          "year": 2027,
+          "section": "Oefenbron",
+          "page": null,
+          "url": null
+        },
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "De schoolkantine",
+      "question": {
+        "id": "mk_001_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Leervaardigheden",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom besluit de school om meer gezonde producten te verkopen?",
+        "context": "Een school heeft onderzocht wat leerlingen in de pauze graag eten en drinken. Uit de vragenlijst (enquête) blijkt dat veel leerlingen vaak frisdrank en snoep kiezen. De school wil leerlingen meer gezonde keuzes geven en besluit daarom om meer gezonde producten in de kantine te verkopen.",
+        "answers": [
+          "Omdat de school minder leerlingen wil hebben.",
+          "Omdat de school leerlingen meer gezonde keuzes wil geven.",
+          "Omdat de kantine groter moet worden.",
+          "Omdat leerlingen geen frisdrank meer mogen drinken."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek in de tekst naar de reden waarom de school besluit om meer gezonde producten te verkopen.",
+        "feedback_correct": "Goed gedaan! Je hebt de informatie uit de vragenlijst gebruikt om de reden van de beslissing te vinden.",
+        "feedback_wrong": "Nog niet. Lees de tekst nog eens en zoek naar de reden die de school zelf voor de beslissing geeft.",
+        "source": {
+          "type": "self_written",
+          "title": "Oefentekst – De schoolkantine",
+          "year": 2027,
+          "section": "Oefenbron",
+          "page": null,
+          "url": null
+        },
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "De speeltuin",
+      "question": {
+        "id": "mk_001_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Leervaardigheden",
+        "skill": "Conclusies trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke conclusie kun je uit de reacties van de bewoners trekken?",
+        "context": "De gemeente wil een oude speeltuin in de wijk opknappen. De gemeente heeft bewoners gevraagd wat zij van het plan vinden.\n\nBewoner A: “Mijn kinderen spelen hier vaak. Ik vind het fijn als de speeltuin veiliger wordt.”\n\nBewoner B: “Ik vind een speeltuin belangrijk, maar er is al genoeg speelruimte in onze wijk.”\n\nBewoner C: “De speeltuin is nu verouderd. Ik vind het goed als er nieuwe speeltoestellen komen.”\n\nDe gemeente gebruikt de reacties van de bewoners om te beslissen wat er met de speeltuin gebeurt.",
+        "answers": [
+          "Alle bewoners vinden dat de speeltuin moet verdwijnen.",
+          "Alle bewoners vinden de speeltuin precies goed zoals hij is.",
+          "Niet alle bewoners denken hetzelfde over het opknappen van de speeltuin.",
+          "Geen van de bewoners gebruikt de speeltuin."
+        ],
+        "correct_answer": 2,
+        "hint": "Lees de drie reacties goed. Denken de bewoners allemaal hetzelfde over het opknappen van de speeltuin?",
+        "feedback_correct": "Goed gedaan! De bewoners hebben verschillende meningen. Je hebt informatie uit meerdere reacties gebruikt om een conclusie te trekken.",
+        "feedback_wrong": "Nog niet. Lees de drie reacties nog eens en vergelijk wat de bewoners over het opknappen van de speeltuin zeggen.",
+        "source": {
+          "type": "self_written",
+          "title": "Oefentekst – De speeltuin",
+          "year": 2027,
+          "section": "Oefenbron",
+          "page": null,
+          "url": null
+        },
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "De app KijkMee",
+      "question": {
+        "id": "mk_001_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Leervaardigheden",
+        "skill": "Doel van informatie herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom laat KijkMee vaker video's zien die bij de interesses van een gebruiker passen?",
+        "context": "De app KijkMee laat gebruikers korte video's bekijken. Het programma kijkt naar welke video's iemand interessant vindt. Daarna laat de app vaker video's zien die bij deze interesses passen.\n\nDe makers van KijkMee willen graag dat gebruikers de app regelmatig blijven gebruiken.",
+        "answers": [
+          "Omdat de video's daardoor langer worden.",
+          "Omdat gebruikers daardoor sneller hun telefoon uitzetten.",
+          "Omdat de makers willen dat gebruikers de app regelmatig blijven gebruiken.",
+          "Omdat alle gebruikers dezelfde video's moeten bekijken."
+        ],
+        "correct_answer": 2,
+        "hint": "Zoek in de tekst naar wat de makers van KijkMee willen bereiken.",
+        "feedback_correct": "Goed gevonden! Je hebt gekeken naar het doel van de makers en dat gekoppeld aan de informatie ervoor.",
+        "feedback_wrong": "Nog niet. Lees de laatste twee zinnen nog eens en kijk goed naar het doel dat de makers noemen.",
+        "source": {
+          "type": "self_written",
+          "title": "Oefentekst – De app KijkMee",
+          "year": 2027,
+          "section": "Oefenbron",
+          "page": null,
+          "url": null
+        },
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "explanation",
+      "title": "4. MINI-EXAMEN",
+      "text": "Nu krijg je twee vragen die meer lijken op een examenvraag. Lees goed, kijk naar de informatie en bepaal zelf wat je nodig hebt."
+    },
+    {
+      "type": "question",
+      "title": "Afval scheiden",
+      "question": {
+        "id": "mk_001_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Leervaardigheden",
+        "skill": "Gegevens uit een overzicht gebruiken en vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Van welke afvalsoort wordt het afval in deze wijk het minst goed gescheiden?",
+        "context": "De gemeente wil dat inwoners afval beter scheiden. Daarom krijgen inwoners informatie over wat er met verschillende soorten afval moet gebeuren.\n\nIn een wijk wordt onderzocht hoeveel huishoudens hun afval goed scheiden.\n\nAfval | Goed gescheiden\nPapier | 80%\nGlas | 70%\nPlastic | 50%\nGFT | 30%",
+        "table_headers": ["Afvalsoort", "Goed gescheiden"],
+        "table_rows": [
+          ["Papier", "80%"],
+          ["Glas", "70%"],
+          ["Plastic", "50%"],
+          ["GFT", "30%"]
+        ],
+
+        "answers": [
+          "Papier",
+          "Glas",
+          "Plastic",
+          "GFT"
+        ],
+        "correct_answer": 3,
+        "hint": "Kijk naar de percentages in het overzicht. Welk percentage is het laagst?",
+        "feedback_correct": "Goed gevonden! Je hebt de informatie uit het overzicht goed gebruikt. 30% is het laagste percentage.",
+        "feedback_wrong": "Nog niet. Vergelijk de percentages in het overzicht en zoek naar het laagste percentage.",
+        "source": {
+          "type": "self_written",
+          "title": "Oefenoverzicht – Afval scheiden",
+          "year": 2027,
+          "section": "Oefenbron",
+          "page": null,
+          "url": null
+        },
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Wat vinden leerlingen?",
+      "question": {
+        "id": "mk_001_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Leervaardigheden",
+        "skill": "Gegevens vergelijken en een conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke conclusie past het best bij de antwoorden van de leerlingen?",
+        "context": "Een school heeft aan 100 leerlingen gevraagd wat zij vinden van het nieuwe schoolplein.\n\nAntwoord | Aantal leerlingen\nIk vind het een verbetering | 70\nIk vind het te druk | 10\nIk heb geen mening | 20\n\nDe school wil weten hoe de leerlingen over het nieuwe schoolplein denken.",
+        "table_headers": ["Antwoord", "Aantal leerlingen"],
+        "table_rows": [
+          ["Ik vind het een verbetering", "70"],
+          ["Ik vind het te druk", "10"],
+          ["Ik heb geen mening", "20"]
+        ],
+
+        "answers": [
+          "De meeste leerlingen vinden het nieuwe schoolplein een verbetering.",
+          "De meeste leerlingen vinden het nieuwe schoolplein te druk.",
+          "De meeste leerlingen hebben geen mening over het schoolplein.",
+          "Alle leerlingen vinden het nieuwe schoolplein een verbetering."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk eerst naar hoeveel leerlingen elk antwoord hebben gegeven. Welk antwoord komt het vaakst voor?",
+        "feedback_correct": "Heel goed! 70 van de 100 ondervraagde leerlingen vinden het nieuwe schoolplein een verbetering. Dat is de grootste groep.",
+        "feedback_wrong": "Nog niet. Vergelijk de aantallen in het overzicht en kijk welk antwoord het vaakst voorkomt.",
+        "source": {
+          "type": "self_written",
+          "title": "Oefenoverzicht – Wat vinden leerlingen?",
+          "year": 2027,
+          "section": "Oefenbron",
+          "page": null,
+          "url": null
+        },
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Les afgerond!",
+      "text": "Goed gedaan! Je hebt geleerd hoe je informatie uit een tekst of overzicht kunt vinden en gebruiken om een vraag te beantwoorden.\n\nOnthoud de vier stappen:\n\nLees de vraag → bepaal wat je moet zoeken → zoek de informatie → controleer je antwoord."
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "id": "bio_022",
+  "subject": "biologie",
+  "title": "Les 22 - Het zenuwstelsel, de hersenen en reflexen",
+  "goal": "Je kunt belangrijke delen van het centrale zenuwstelsel herkennen, hun functies beschrijven en uitleggen wat een reflex is.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Het zenuwstelsel",
+      "text": "Je lichaam krijgt via je zintuigen voortdurend informatie binnen over de wereld om je heen. Je zenuwstelsel verwerkt al deze informatie razendsnel en helpt je lichaam om daarop te reageren. In deze les leer je de belangrijkste onderdelen van het centrale zenuwstelsel kennen en ontdek je hoe een reflex werkt.",
+      "image": "les_022_intro_zenuwstelsel.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De grote en kleine hersenen",
+      "text": "Je hersenen liggen goed beschermd in je schedel. Ze bestaan uit verschillende delen met elk een eigen taak:\n* Grote hersenen: Spelen een centrale rol bij het bewustzijn, het nadenken, het onthouden en het bewust waarnemen van informatie uit je zintuigen. Ook sturen ze je bewuste bewegingen aan (zoals praten of zwaaien).\n* Kleine hersenen: Helpen bij het coördineren van al je bewegingen. Ze zorgen ervoor dat je bewegingen soepel verlopen en goed op elkaar zijn afgestemd, bijvoorbeeld wanneer je fietst, loopt of een bal vangt."
+    },
+    {
+      "type": "explanation",
+      "title": "De hersenstam en het ruggenmerg",
+      "text": "* Hersenstam: Vormt de verbinding tussen je grote hersenen en het ruggenmerg. De hersenstam stuurt ook reflexen in het hoofd- en halsgebied aan (zoals knipperen met je ogen of slikken).\n* Ruggenmerg: Een lange dikke zenuwkabel die goed beschermd in je wervelkolom ligt. Het vormt de verbindingsweg voor signalen tussen je organen en je hersenen. Daarnaast speelt het ruggenmerg een grote rol bij reflexen van je romp en je ledematen (armen en benen).",
+      "image": "les_022_anatomie_centraal.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De zenuwcel",
+      "text": "Je zenuwstelsel bestaat uit miljarden zenuwcellen. Een zenuwcel is een speciale cel die is gebouwd om signalen te vervoeren. Hij bestaat uit:\n1. Cellichaam: Het centrale deel van de cel waarin de celkern ligt.\n2. Uitlopers: Lange, dunne draden die vanuit het cellichaam vertrekken. Via deze uitlopers kan de zenuwcel signalen over grote afstanden in je lichaam ontvangen of doorgeven aan andere cellen."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een reflex?",
+      "text": "Een reflex is een vaste, snelle en onbewuste reactie van je lichaam op een bepaalde prikkel. Bij een reflex denk je niet eerst na. De signalen stromen vanaf je zintuig rechtstreeks naar het ruggenmerg of de hersenstam, en direct door naar je spieren. De grote hersenen worden overgeslagen! Een reflex beschermt je lichaam tegen onverwachte beschadigingen, bijvoorbeeld als je per ongeluk een gloeiend hete pan aanraakt."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees de vraag goed door. Bepaal eerst of de situatie gaat over een actie waar je bewust over nadenkt (grote hersenen) of een automatische coördinatie (kleine hersenen). Let bij vragen over reflexen op de kenmerken: razendsnel, vast en onbewust."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Grote hersenen = bewustzijn, zintuigen en bewuste bewegingen. Kleine hersenen = coördinatie van bewegingen. Hersenstam = verbinding en hoofdreflexen. Ruggenmerg = verbindingskabel en romp/ledemaatreflexen. Een reflex is een vaste, snelle en onbewuste reactie om je lichaam te beschermen."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_022_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk specifiek onderdeel van de hersenen speelt een centrale rol bij het menselijk bewustzijn, het logisch nadenken en het aansturen van al je bewuste bewegingen?",
+      "answers": [
+        "De grote hersenen",
+        "De kleine hersenen",
+        "Het ruggenmerg",
+        "De huid"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit is het grootste deel van de hersenen, waarmee je ook informatie uit je zintuigen bewust waarneemt.",
+      "feedback_correct": "Heel goed! De grote hersenen regelen je bewustzijn, het denken en je bewuste acties.",
+      "feedback_wrong": "De grote hersenen spelen een rol bij het bewustzijn, zintuiglijke waarneming en bewuste bewegingen. De kleine hersenen coördineren.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_022"
+    },
+    {
+      "id": "bio_022_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk deel van de hersenen zorgt ervoor dat al je spierbewegingen vloeiend verlopen en nauwkeurig op elkaar worden afgestemd, bijvoorbeeld tijdens het fietsen of het vangen van een bal?",
+      "answers": [
+        "De grote hersenen",
+        "De kleine hersenen",
+        "De hersenstam",
+        "Het ruggenmerg"
+      ],
+      "correct_answer": 1,
+      "hint": "Dit onderdeel bevindt zich aan de achterkant, onder de grote hersenen, en is de coördinator van je motoriek.",
+      "feedback_correct": "Klopt! De kleine hersenen hebben als hoofdtaak het coördineren en afstemmen van je bewegingen.",
+      "feedback_wrong": "De kleine hersenen helpen je bewegingen te coördineren. De grote hersenen bedenken de beweging alleen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_022"
+    },
+    {
+      "id": "bio_022_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk onderdeel van de hersenen vormt de directe overgang en verbinding tussen de grote hersenen en de lange zenuwkabel van het ruggenmerg?",
+      "answers": [
+        "De kleine hersenen",
+        "De hersenstam",
+        "De huid",
+        "Een skeletspier"
+      ],
+      "correct_answer": 1,
+      "hint": "Dit onderste deel stuurt ook automatische processen aan en regelt reflexen in het gezicht, zoals knipperen.",
+      "feedback_correct": "Juist! De hersenstam vormt de centrale verbindingsweg tussen de hersenen en het ruggenmerg.",
+      "feedback_wrong": "De hersenstam vormt de verbinding tussen de grote hersenen en het ruggenmerg, en regelt reflexen in je hoofd.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_022"
+    },
+    {
+      "id": "bio_022_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke belangrijke dubbele functie heeft het ruggenmerg dat goed beschermd in je wervelkolom ligt?",
+      "answers": [
+        "Het maakt uitsluitend hormonen aan voor de vertering.",
+        "Het vormt een verbindingsweg voor signalen tussen organen en de hersenen, en regelt reflexen van romp en ledematen.",
+        "Het breekt giftige stoffen in het bloed af via maagsap.",
+        "Het neemt rechtstreeks zuurstof op uit de ingeademde lucht."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan de positie: het is de grote biologische kabelbaan die informatie van je romp naar je hersenen leidt.",
+      "feedback_correct": "Perfect! Het ruggenmerg geleidt signalen door je lichaam en regelt snelle romp- en ledemaatreflexen.",
+      "feedback_wrong": "Het ruggenmerg vormt een verbindingskabel tussen organen en hersenen, en stuurt reflexen onder je hals aan.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_022"
+    },
+    {
+      "id": "bio_022_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is de juiste biologische definitie van een reflex in het menselijk lichaam?",
+      "answers": [
+        "Een bewuste beweging waar je eerst heel lang over gaat nadenken.",
+        "Een vaste, snelle en onbewuste reactie op een bepaalde prikkel.",
+        "Een chemische beschermende stof die door de lever wordt gemaakt.",
+        "Een spier die door vermoeidheid helemaal niet meer kan bewegen."
+      ],
+      "correct_answer": 1,
+      "hint": "Bij een reflex reageert je lichaam automatisch om schade te voorkomen, nog vóórdat je hersenen de pijn registreren.",
+      "feedback_correct": "Heel goed! Een reflex verloopt altijd onbewust, razendsnel and volgens een vaste route.",
+      "feedback_wrong": "Een reflex is een vaste, snelle en onbewuste reactie. Je denkt er dus nooit vooraf over na.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_022"
+    },
+    {
+      "id": "bio_022_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom is het een groot voordeel dat het terugtrekken van je hand van een hete pan een reflex is en geen bewuste reactie?",
+      "answers": [
+        "Omdat de reactie hierdoor veel sneller verloopt, wat ernstig letsel of brandwonden helpt voorkomen.",
+        "Omdat je spieren door een reflex permanent worden uitgeschakeld.",
+        "Omdat je daardoor in de toekomst nooit meer pijn kunt voelen.",
+        "Omdat je lichaam zo alle zenuwcellen in je arm direct opruimt."
+      ],
+      "correct_answer": 0,
+      "hint": "Nadenken kost tijd. Wat gebeurt er met je huid als je kostbare seconden verliest met nadenken bij een hete pan?",
+      "feedback_correct": "Top! Doordat de grote hersenen worden overgeslagen, reageer je direct en beperk je de schade.",
+      "feedback_wrong": "Een reflex beschermt je lichaam door direct en onbewust te reageren, waardoor letsel wordt beperkt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_022"
+    },
+    {
+      "id": "bio_022_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Jasmijn zit aan haar bureau en besluit heel bewust om haar blauwe pen op te pakken om te gaan schrijven. Welk specifiek deel van haar centrale zenuwstelsel speelt bij dit bewuste besluit de hoofdrol?",
+      "answers": [
+        "De grote hersenen",
+        "De kleine hersenen alleen",
+        "De huidmondjes",
+        "De maagwand"
+      ],
+      "correct_answer": 0,
+      "hint": "Alle acties en bewegingen waar je zelf bewust voor kiest, starten in de buitenste actieve laag van je brein.",
+      "feedback_correct": "Juist! Bewuste besluiten en bewegingen worden altijd aangestuurd door de grote hersenen.",
+      "feedback_wrong": "Zodra je iets 'bewust besluit', zijn altijd de grote hersenen actief. Kleine hersenen coördineren de spieren daarna.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_022"
+    },
+    {
+      "id": "bio_022_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is een kenmerkend biologisch verschil tussen een gewone bewuste reactie en een automatische reflex?",
+      "answers": [
+        "Bij een bewuste reactie denk je eerst na; bij een reflex reageert je lichaam direct en onbewust.",
+        "Een reflex is een hormoon dat door de hormoonklieren in het bloed wordt gestort.",
+        "Een reflex vindt uitsluitend plaats wanneer je diep in slaap bent.",
+        "Er is helemaal geen verschil, ze verlopen via exact dezelfde bewuste route."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de factor tijd en nadenken. Welke van de twee acties slaat de grote hersenen over?",
+      "feedback_correct": "Uitstekend! De reflex omzeilt het denkproces in de grote hersenen, wat tijd bespaart.",
+      "feedback_wrong": "Bij een reflex denk je niet na, de reactie is onbewust. Bij een bewuste reactie kies je zelf.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_022"
+    },
+    {
+      "id": "bio_022_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "functie_beschetlen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een zenuwcel heeft lange, dunne uitlopers die vanuit het cellichaam vertrekken. Wat is de belangrijkste taak van deze uitlopers?",
+      "answers": [
+        "Ze maken de botten van het skelet harder.",
+        "Ze helpen elektrische signalen (impulsen) over grote afstanden te ontvangen of door te geven.",
+        "Ze verteren onverteerbare voedingsvezels in de darm.",
+        "Ze slaan vetten op als een stevige reservestof."
+      ],
+      "correct_answer": 1,
+      "hint": "Zenuwcellen werken als de elektriciteitskabels van je lichaam. Waarvoor dienen de draden in een kabel?",
+      "feedback_correct": "Klopt! De uitlopers zijn de draden waarmee zenuwcellen signalen door het hele lichaam transporteren.",
+      "feedback_wrong": "Uitlopers vervoeren signalen door het lichaam. Ze hebben niks te maken met botten, vet of vertering.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_022"
+    },
+    {
+      "id": "bio_022_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke combinatie van een onderdeel van het centrale zenuwstelsel en de bijbehorende functie is biologisch juist?",
+      "answers": [
+        "Kleine hersenen — coördineren en vloeiend afstemmen van bewegingen",
+        "Grote hersenen — verteren van binnengekomen voedsel via maagsap",
+        "Ruggenmerg — maken van vrouwelijke en mannelijke geslachtshormonen",
+        "Hersenstam — opnemen van zuurstofgas uit de buitenlucht"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de combinatie waarbij het orgaandeel gekoppeld is aan spierbeheersing en motoriek.",
+      "feedback_correct": "Perfect! De kleine hersenen zorgen voor de vloeiende coördinatie van je spieren.",
+      "feedback_wrong": "De grote hersenen verteren geen voedsel en het ruggenmerg maakt geen hormonen. Combinatie A is de juiste.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_022"
+    },
+    {
+      "id": "bio_022_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Hoe noemen biologen het centrale deel van een zenuwcel waarin zich ook de celkern bevindt die de cel in leven houdt?",
+      "answers": [
+        "Het cellichaam",
+        "De uitloper",
+        "Het tandmerg",
+        "Het cytoplasma-vlies"
+      ],
+      "correct_answer": 0,
+      "hint": "Hier omheen vertakken de uitlopers zich. Het is de 'buik' of basis van de zenuwcel.",
+      "feedback_correct": "Uitstekend! Het cellichaam bevat de kern en vormt de basis van elke zenuwcel.",
+      "feedback_wrong": "De uitlopers zijn de lange draden. Het deel met de celkern erin heet het cellichaam.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_022"
+    },
+    {
+      "id": "bio_022_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/11",
+      "syllabus_section": "1",
+      "topic": "zenuwstelsel_en_reflexen",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wanneer je met je voet in een scherpe punaise trapt, trek je je been onmiddellijk terug via een reflex. Welke kortere route leggen de signalen hierbij af?",
+      "answers": [
+        "Voet (zintuig) ➡️ ruggenmerg ➡️ beenspieren (de grote hersenen worden overgeslagen)",
+        "Voet (zintuig) ➡️ grote hersenen ➡️ kleine hersenen ➡️ beenspieren",
+        "Grote hersenen ➡️ hersenstam ➡️ maagwand ➡️ voet"
+      ],
+      "correct_answer": 0,
+      "hint": "Onthoud dat een reflex bij je ledematen (armen/benen) razendsnel moet verlopen via de kortste weg in je rug.",
+      "feedback_correct": "Klopt helemaal! Het signaal schiet naar het ruggenmerg and direct terug naar de spier, zodat je direct reageert.",
+      "feedback_wrong": "Als het signaal eerst naar de grote hersenen moet, is het een bewuste reactie en duurt het te lang. Route A is de reflexroute.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_022",
+      "image": "les_022_q12_reflexboog.png"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.0",
+    "notitie": "Les-id en alle onderliggende id's definitief omgezet naar bio_022 conform het goedgekeurde 30-lessen masterplan v1.0. Structuur volledig vlakgetrokken.",
+    "wijziging": "Vragen-array opgeschoond van nestings, codes gecorrigeerd naar topic zenuwstelsel_en_reflexen en twee vragen over het cellichaam and de reflexroute toegevoegd."
+  }
+}

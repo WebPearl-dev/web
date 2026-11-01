@@ -1,0 +1,326 @@
+{
+  "id": "bio_030",
+  "subject": "biologie",
+  "title": "Les 30 - Voorbehoedsmiddelen",
+  "goal": "Je kunt uitleggen hoe verschillende voorbehoedmiddelen werken en herkennen hoe ze helpen om een zwangerschap of soa te voorkomen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat zijn voorbehoedmiddelen?",
+      "text": "Wanneer een man en een vrouw geslachtsgemeenschap hebben en geen kinderwens hebben, kunnen ze voorbehoedmiddelen (anticonceptie) gebruiken. Deze middelen voorkomen dat een eicel en een zaadcel met elkaar kunnen versmelten. In deze les leer je de werking van de belangrijkste middelen voor het examen.",
+      "image": "les_030_intro_anticonceptie.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Barrière-middelen: Het condoom en pessarium",
+      "text": "Barrière-middelen sluiten de voortplantingswegen mechanisch af:\n* Condoom: Een dun rubberen hoesje dat om de penis wordt geschoven. Het vangt het sperma op tijdens een zaadlozing, zodat zaadcellen niet in de vagina komen. Het condoom is het ENIGE voorbehoedmiddel dat ook beschermt tegen soa's (seksueel overdraagbare aandoeningen).\n* Pessarium: Een rubberen koepeltje dat de vrouw over haar baarmoedermond plaatst, waardoor zaadcellen de baarmoeder niet in kunnen.",
+      "image": "les_030_barriere_middelen.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Hormonale en baarmoodermiddelen: De pil en het spiraaltje",
+      "text": "Deze middelen grijpen in op de cyclus of de innesteling:\n* De anticonceptiepil: Bevat speciale hormonen die de vrouw elke dag slik. Deze hormonen zorgen ervoor dat er geen ovulatie (eisprong) plaatsvindt. Zonder eicel is bevruchting onmogelijk.\n* Spiraaltje: Een klein ankertje dat door de arts in de baarmoeder wordt geplaatst. Het zorgt ervoor dat een bevruchte eicel zich niet kan innestelen in het baarmoederslijmvlies.",
+      "image": "les_030_pil_spiraal.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Definitieve bescherming: Sterilisatie",
+      "text": "Sterilisatie is een kleine operatie in het ziekenhuis die zorgt voor een definitieve onvruchtbaarheid:\n* Bij de man worden de twee zaadleiders doorgeknipt en dichtgebonden, waardoor er geen zaadcellen meer in het sperma zitten.\n* Bij de vrouw worden de twee eileiders doorgeknipt of dichtgeklemd, waardoor de eicel nooit meer zaadcellen kan tegenkomen."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees de vraag goed door. Bepaal of het middel werkt door cellen tegen te houden (condoom, pessarium, sterilisatie), de eisprong te remmen (de pil) of de innesteling te blokkeren (spiraaltje). Let op de unieke eigenschap van het condoom bij soa-bescherming."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Condoom = houdt zaadcellen tegen + beschermt tegen soa's. De pil = remt de ovulatie via hormonen. Spiraaltje = voorkomt de innesteling in de baarmoeder. Pessarium = sluit de baarmoedermond af. Sterilisatie = zaadleiders of eileiders doorknippen (bevruchting voorkomen)."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_030_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Hoe helpt een rubberen condoom een zwangerschap te voorkomen tijdens geslachtsgemeenschap?",
+      "answers": [
+        "Het stopt de maandelijkse menstruatiebloeding volledig.",
+        "Het vormt een barrière die zaadcellen tegenhoudt, zodat ze niet in de vagina komen.",
+        "Het zorgt ervoor dat er in de eierstokken geen eicellen meer rijpen.",
+        "Het laat het opgebouwde baarmoederslijmvlies direct verdwijnen."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan de mechanische barrière-werking van het hoesje om de penis.",
+      "feedback_correct": "Goed! Een condoom vangt het sperma op and houdt zaadcellen tegen. Het heeft geen invloed op de hormonen of de menstruatie.",
+      "feedback_wrong": "Een condoom vormt een mechanische barrière die zaadcellen tegenhoudt. Het beïnvloedt de eirijping of menstruatie niet.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_030"
+    },
+    {
+      "id": "bio_030_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke biologische werking heeft de anticonceptiepil in het lichaam van de vrouw?",
+      "answers": [
+        "De pil doodt direct alle binnengestroomde zaadcellen.",
+        "De pil sluit de twee eileiders mechanisch af.",
+        "De pil bevat hormonen die de ovulatie (eisprong) remmen.",
+        "De pil zorgt ervoor dat de baarmoederwand geen bloedvaten meer heeft."
+      ],
+      "correct_answer": 2,
+      "hint": "De pil neem je dagelijks via de mond in en bevat chemische regelstoffen.",
+      "feedback_correct": "Uitstekend! De hormonen in de pil voorkomen dat er maandelijks een eicel vrijkomt uit de eierstokken.",
+      "feedback_wrong": "De pil werkt chemisch via hormonen and remt de ovulatie (eisprong). Het sluit geen buisjes fysiek af.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_030"
+    },
+    {
+      "id": "bio_030_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat doet een pessarium als barrière-middel bij de vrouw?",
+      "answers": [
+        "Het sluit de baarmoedermond mechanisch af.",
+        "Het maakt extra eicellen aan in de eileider.",
+        "Het vervoert zaadcellen sneller naar de eierstok.",
+        "Het zorgt ervoor dat de ovulatie direct begint."
+      ],
+      "correct_answer": 0,
+      "hint": "Dit rubberen kapje wordt door de vrouw zelf voor de ingang van de baarmoeder geplaatst.",
+      "feedback_correct": "Juist! Het pessarium blokkeert de baarmoedermond, zodat zaadcellen de baarmoeder niet in kunnen.",
+      "feedback_wrong": "Een pessarium dekt de baarmoedermond af. Het maakt geen cellen and stimuleert de eisprong niet.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_030"
+    },
+    {
+      "id": "bio_030_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk specifiek voorbehoedmiddel wordt door een arts rechtstreeks binnenin de baarmoeder geplaatst?",
+      "answers": [
+        "Een condoom",
+        "Een pessarium",
+        "De anticonceptiepil",
+        "Een spiraaltje"
+      ],
+      "correct_answer": 3,
+      "hint": "Dit kleine ankertje kan meerdere jaren blijven zitten and voorkomt dat een embryo zich kan vasthechten.",
+      "feedback_correct": "Perfect! Een spiraaltje zit in de baarmoeder en voorkomt de innesteling.",
+      "feedback_wrong": "Het spiraaltje hoort thuis in de baarmoeder. Condooms en pessaria zijn tijdelijke barreerders buiten of voor de baarmoeder.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_030"
+    },
+    {
+      "id": "bio_030_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is het belangrijkste doel van een sterilisatie bij een man of een vrouw?",
+      "answers": [
+        "De menstruatiecyclus elke maand versnellen.",
+        "De geslachtscellen groter en zwaarder maken.",
+        "Voortplantingswegen (zaadleiders of eileiders) onderbreken of afsluiten, zodat bevruchting onmogelijk wordt.",
+        "De baarmoeder tijdelijk groter maken voor de opname van urine."
+      ],
+      "correct_answer": 2,
+      "hint": "Dit is een operatieve ingreep die bedoeld is als een definitieve beslissing om onvruchtbaar te worden.",
+      "feedback_correct": "Heel goed! Door het doorknippen van de leiders kunnen eicel en zaadcel elkaar nooit meer ontmoeten.",
+      "feedback_wrong": "Sterilisatie onderbreekt de zaadleiders of eileiders om bevruchting definitief te voorkomen. Het verandert de cyclus niet.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_030"
+    },
+    {
+      "id": "bio_030_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Naast het voorkomen van een zwangerschap, welk voorbehoedmiddel beschermt als ENIGE ook effectief tegen soa's?",
+      "answers": [
+        "Het mannen- of vrouwencondoom",
+        "De anticonceptiepil",
+        "Het koper- of hormoonspiraaltje",
+        "Een operatieve sterilisatie"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit middel voorkomt dat er rechtstreeks contact is tussen de slijmvliezen en lichaamsvloeistoffen van de partners.",
+      "feedback_correct": "Top! Alleen het condoom houdt ook bacteriën en virussen tegen die soa's veroorzaken. Hormonen of spiraaltjes doen dit niet.",
+      "feedback_wrong": "Alleen condooms beschermen tegen soa's. De pil, het spiraaltje en sterilisatie beschermen uitsluitend tegen zwangerschap.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_030"
+    },
+    {
+      "id": "bio_030_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Bij de sterilisatie van de man (vasectomie) wordt er een ingreep gedaan in zijn voortplantingsstelsel. Welke buisjes worden er dan afgesloten?",
+      "answers": [
+        "De twee zaadleiders",
+        "De twee urineleiders",
+        "De grote aorta-slagader"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de buisjes die de zaadcellen vanaf de bijballen naar de prostaat vervoeren.",
+      "feedback_correct": "Juist! Door de zaadleiders door te knippen, kunnen er geen zaadcellen meer in het sperma terechtkomen.",
+      "feedback_wrong": "Bij de man worden de zaadleiders onderbroken. Urineleiders horen bij het urinewegstelsel (nieren) en worden nooit doorgeknipt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_030"
+    },
+    {
+      "id": "bio_030_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Bij de sterilisatie van de vrouw worden er specifieke transportwegen afgesloten. Welke onderdelen zijn dit?",
+      "answers": [
+        "De twee eileiders",
+        "De urinebuis",
+        "De bronchiën"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de buisjes waarin normaal gesproken de eicel reist en de zaadcellen tegenkomt.",
+      "feedback_correct": "Perfect! Door de eileiders af te sluiten, kunnen zaadcellen de eicel nooit meer bereiken voor een bevruchting.",
+      "feedback_wrong": "Bij de vrouw worden de eileiders afgesloten. De urinebuis en bronchiën (longen) hebben niks met voortplanting te maken.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_030"
+    },
+    {
+      "id": "bio_030_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een vrouw gebruikt een spiraaltje als anticonceptie. Er vindt toch per ongeluk een bevruchting plaats in haar eileider. Wat doet het spiraaltje nu?",
+      "answers": [
+        "Het spiraaltje zorgt ervoor dat het klompje cellen zich niet kan innestelen in de baarmoeder.",
+        "Het spiraaltje vernietigt direct de eierstokken.",
+        "Het spiraaltje dwingt de vrouw direct te gaan menstrueren."
+      ],
+      "correct_answer": 0,
+      "hint": "Het spiraaltje verandert de binnenwand van de baarmoeder, waardoor vasthechten onmogelijk wordt.",
+      "feedback_correct": "Klopt! Een spiraaltje werkt hoofdzakelijk door de innesteling in het baarmoederslijmvlies te blokkeren.",
+      "feedback_wrong": "Het spiraaltje voorkomt de innesteling. Het vernietigt geen organen en start niet direct een menstruatie.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_030"
+    },
+    {
+      "id": "bio_030_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een man heeft een sterilisatie ondergaan en de operatie is volledig geslaagd. Kan deze man tijdens geslachtsgemeenschap nog steeds een zaadlozing (orgasme) krijgen?",
+      "answers": [
+        "Ja, hij heeft gewoon een zaadlozing met vocht, maar er zitten geen zaadcellen meer in.",
+        "Nee, na sterilisatie kan een man nooit meer sperma of vocht verliezen.",
+        "Ja, and zijn sperma bevat nu juist extra veel eicellen."
+      ],
+      "correct_answer": 0,
+      "hint": "De prostaat en zaadblaasjes maken nog gewoon vocht aan. Alleen de aanvoer van zaadcellen uit de testikels is onderbroken.",
+      "feedback_correct": "Geweldig! De zaadlozing blijft hetzelfde aanvoelen en bevat prostaatvocht, maar is door het ontbreken van zaadcellen onvruchtbaar.",
+      "feedback_wrong": "De prostaat en zaadblaasjes blijven gewoon vocht produceren. Er zitten alleen geen zaadcellen meer in.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_030"
+    },
+    {
+      "id": "bio_030_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Als we het condoom vergelijken met de anticonceptiepil, wat is dan het belangrijkste biologische verschil in hoe ze zwangerschap voorkomen?",
+      "answers": [
+        "Het condoom houdt zaadcellen mechanisch tegen; de pil remt de eisprong via hormonen.",
+        "Het condoom remt de eisprong; de pil houdt zaadcellen mechanisch tegen.",
+        "Er is geen enkel verschil, ze werken via exact hetzelfde mechanisme."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan barrière (fysiek tegenhouden) tegenover chemische regeling (eisprong voorkomen).",
+      "feedback_correct": "Uitstekend! Het condoom is een fysieke barrière, terwijl de pil een chemische/hormonale werking heeft op de cyclus.",
+      "feedback_wrong": "Het condoom is een barrière-middel (tegenhouden), de pil is een hormonaal middel (ovulatie remmen).",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_030"
+    },
+    {
+      "id": "bio_030_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "5",
+      "topic": "voorbehoedmiddelen",
+      "skill": "oorzaak_gevolg_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is het directe gevolg voor de betrouwbaarheid van de anticonceptiepil als een vrouw de pil een dag vergeet in te nemen of hevig moet overgeven?",
+      "answers": [
+        "De betrouwbaarheid neemt direct af, waardoor de kans op een zwangerschap groter wordt.",
+        "De betrouwbaarheid stijgt onmiddellijk naar 100%.",
+        "Het heeft totaal geen invloed op de werking van de hormonen."
+      ],
+      "correct_answer": 0,
+      "hint": "Hormonen moeten constant in een vaste hoeveelheid in het bloed zitten om de ovulatie te kunnen onderdrukken.",
+      "feedback_correct": "Klopt helemaal! Bij overgeven of vergeten dalen de hormoonwaarden in het bloed, waardoor er alsnog een eisprong kan plaatsvinden.",
+      "feedback_wrong": "Het vergeten of uitspugen van de pil verlaagt de hormoonspiegel, waardoor de betrouwbaarheid direct zakt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_030",
+      "image": "les_030_q12_pil_vergeten.png"
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "id": "mk_028",
+  "subject": "maatschappij",
+  "title": "Les 28 – Hoe kunnen burgers invloed uitoefenen?",
+  "goal": "Je leert op welke manieren burgers invloed kunnen uitoefenen op politieke beslissingen, tijdens en tussen verkiezingen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Burgers kunnen invloed uitoefenen",
+      "text": "In een democratie kunnen burgers op verschillende manieren invloed uitoefenen op politieke beslissingen. Een bekende manier is stemmen bij verkiezingen. Wie 18 jaar of ouder is en aan de wettelijke voorwaarden voldoet, heeft actief kiesrecht. Dat betekent dat je mag stemmen. Er is ook passief kiesrecht. Dat betekent dat je je verkiesbaar mag stellen. Je kunt dan kandidaat zijn voor een volksvertegenwoordiging, zoals de gemeenteraad of de Tweede Kamer. Ook hiervoor gelden wettelijke voorwaarden. Maar je hoeft niet alleen tijdens verkiezingen invloed uit te oefenen. Ook tussen verkiezingen zijn er verschillende mogelijkheden."
+    },
+    {
+      "type": "explanation",
+      "title": "Lid worden van een politieke partij",
+      "text": "Je kunt lid worden van een politieke partij. Leden kunnen bijvoorbeeld meepraten over plannen van de partij, deelnemen aan activiteiten of helpen tijdens verkiezingen. Sommige mensen worden zelf kandidaat voor een politieke partij en proberen zo gekozen te worden."
+    },
+    {
+      "type": "explanation",
+      "title": "Een belangengroep of pressiegroep",
+      "text": "Een belangengroep is een groep mensen die opkomt voor een bepaald belang en probeert invloed uit te oefenen op de politiek. Een pressiegroep probeert daarbij druk uit te oefenen op politieke besluitvorming. Dat kan bijvoorbeeld door politici te benaderen, informatie te geven of aandacht te vragen voor een onderwerp. Een manier waarop een belangengroep of pressiegroep invloed kan uitoefenen is lobbyen. Bij lobbyen probeert een groep politici of andere mensen die bij politieke besluiten betrokken zijn te overtuigen van een bepaald standpunt. Een belangengroep of pressiegroep doet niet mee aan verkiezingen zoals een politieke partij."
+    },
+    {
+      "type": "explanation",
+      "title": "Een petitie",
+      "text": "Een petitie is een verzoek of oproep van burgers aan bijvoorbeeld de gemeenteraad of het college van B en W. Bijvoorbeeld: jongeren vinden dat er in hun dorp geen goede plek is om te sporten. Zij starten een petitie voor een skatebaan en verzamelen handtekeningen. De petitie kan ervoor zorgen dat politici aandacht krijgen voor het onderwerp. Een petitie betekent niet dat het voorstel automatisch wordt uitgevoerd."
+    },
+    {
+      "type": "explanation",
+      "title": "Demonstreren en andere openbare acties",
+      "text": "Burgers kunnen ook openbaar actievoeren, bijvoorbeeld door een demonstratie te organiseren. Met een demonstratie laten mensen zien dat zij het ergens wel of niet mee eens zijn. Ook andere openbare acties kunnen aandacht vragen voor een onderwerp. Daarbij moeten de wettelijke regels worden gevolgd."
+    },
+    {
+      "type": "explanation",
+      "title": "Contact opnemen met politici",
+      "text": "Burgers kunnen rechtstreeks contact opnemen met politici. Bijvoorbeeld door een brief, e-mail of bericht te sturen naar een gemeenteraadslid, Kamerlid of andere volksvertegenwoordiger. Je kunt daarin uitleggen wat je belangrijk vindt en waarom. Een politicus hoeft het voorstel niet over te nemen, maar het contact kan wel helpen om een onderwerp onder de aandacht te brengen."
+    },
+    {
+      "type": "explanation",
+      "title": "Inspreken bij de gemeente",
+      "text": "Bij sommige gemeentelijke vergaderingen kunnen inwoners gebruikmaken van inspraak. Inspreken betekent dat je tijdens een officieel moment van de gemeente je mening over een onderwerp naar voren brengt. Bijvoorbeeld: de gemeente bespreekt plannen voor een nieuwe jongerenvoorziening. Een groep jongeren maakt gebruik van de mogelijkheid om tijdens een gemeentelijke vergadering uit te leggen wat zij belangrijk vinden. Inspraak geeft burgers de mogelijkheid om hun mening rechtstreeks onder de aandacht van bestuurders en volksvertegenwoordigers te brengen."
+    },
+    {
+      "type": "explanation",
+      "title": "Media en sociale media",
+      "text": "Burgers kunnen ook gebruikmaken van media, zoals nieuwswebsites, kranten, radio, televisie en sociale media. Bijvoorbeeld: een groep leerlingen maakt een video over een gevaarlijke situatie op een fietspad. De video krijgt veel aandacht. Daardoor krijgen ook politici en andere inwoners het onderwerp onder ogen. Media-aandacht kan ervoor zorgen dat een onderwerp meer politieke aandacht krijgt. Het betekent niet automatisch dat politici het onderwerp op de politieke agenda zetten of dat er een besluit wordt genomen."
+    },
+    {
+      "type": "explanation",
+      "title": "Je krijgt niet altijd je zin",
+      "text": "Invloed uitoefenen betekent niet dat je altijd krijgt wat je wilt. Politieke beslissingen worden genomen volgens democratische en wettelijke regels. Daarbij kunnen verschillende belangen en standpunten tegenover elkaar staan. Een actie, petitie, demonstratie of gesprek met een politicus kan dus invloed hebben zonder dat het gewenste besluit wordt genomen. Dat betekent niet dat de actie nutteloos was. Het onderwerp kan bijvoorbeeld meer aandacht krijgen of onderdeel worden van een politieke discussie."
+    },
+    {
+      "type": "strategy",
+      "title": "Handige onthoudhulp",
+      "text": "Tijdens verkiezingen kun je stemmen met actief kiesrecht, je verkiesbaar stellen met passief kiesrecht en lid worden van een politieke partij. Ook tussen verkiezingen kun je invloed uitoefenen, bijvoorbeeld door mee te doen aan een belangengroep of pressiegroep, te lobbyen, een petitie te starten, te demonstreren, contact op te nemen met politici, gebruik te maken van inspraak of media en sociale media te gebruiken. Zo kunnen burgers ervoor zorgen dat hun wens politieke aandacht krijgt en op de politieke agenda komt (fase 1).",
+      "steps": [
+        "1. Bedenk of de situatie over stemmen, jezelf verkiesbaar stellen of deelname aan een politieke partij gaat.",
+        "2. Kijk bij andere acties welke manier van invloed uitoefenen wordt gebruikt.",
+        "3. Onthoud dat invloed uitoefenen niet betekent dat het gewenste besluit automatisch wordt genomen."
+      ]
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_028_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.3.1",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Lisa wil bij de gemeenteraadsverkiezingen haar stem uitbrengen. Welk begrip past hierbij?",
+        "context": "",
+        "answers": [
+          "Passief kiesrecht",
+          "Actief kiesrecht",
+          "Inspraak"
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan het verschil tussen zelf stemmen en jezelf verkiesbaar stellen.",
+        "feedback_correct": "Goed. Je gebruikt actief kiesrecht wanneer je bij een verkiezing mag stemmen.",
+        "feedback_wrong": "Nog niet. Lees de situatie nog eens en vergelijk de opties met de uitleg in de les. Probeer het nog een keer.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_028_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.3.4",
+        "topic": "Invloed van burgers",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een groep inwoners wil dat er een nieuw speelveld komt. Ze verzamelen handtekeningen en sturen hun verzoek naar de gemeenteraad. Welke manier van invloed uitoefenen gebruiken zij?",
+        "context": "",
+        "answers": [
+          "Een petitie",
+          "Passief kiesrecht",
+          "Lobbyen"
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan een verzoek waarbij meerdere mensen hun steun laten zien.",
+        "feedback_correct": "Goed. Een petitie is een verzoek of oproep van burgers waarmee zij een onderwerp onder de aandacht kunnen brengen.",
+        "feedback_wrong": "Nog niet. Lees alle drie de opties rustig door en bedenk welke bij de situatie past.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_028_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.3.4",
+        "topic": "Invloed van burgers",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een groep jongeren is het niet eens met een plan van de gemeente. Ze lopen met borden door het centrum en roepen leuzen om hun mening duidelijk te maken. Welke manier van invloed uitoefenen gebruiken zij?",
+        "context": "",
+        "answers": [
+          "Inspraak",
+          "Openbaar actievoeren",
+          "Passief kiesrecht"
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar de manier waarop de jongeren hun mening zichtbaar maken.",
+        "feedback_correct": "Goed. Bij een openbare actie laten mensen op een openbare manier zien wat zij van een onderwerp vinden.",
+        "feedback_wrong": "Nog niet. Kijk nog eens goed naar wat de jongeren in deze situatie doen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_028_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.3.4",
+        "topic": "Invloed van burgers",
+        "skill": "Beschrijven",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Noa is 16 jaar. Ze wil invloed uitoefenen op een plan van haar gemeente. Welke mogelijkheid kan zij gebruiken?",
+        "context": "",
+        "answers": [
+          "Een petitie starten",
+          "Stemmen bij de gemeenteraadsverkiezingen",
+          "Zelf Kamerlid worden zonder gekozen te worden"
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan manieren om invloed uit te oefenen die niet afhankelijk zijn van stemmen bij verkiezingen.",
+        "feedback_correct": "Goed. Burgers kunnen ook buiten verkiezingen op verschillende manieren proberen invloed uit te oefenen.",
+        "feedback_wrong": "Nog niet. Kijk goed naar de leeftijd van Noa en vergelijk de drie mogelijkheden met wat je in de les hebt geleerd.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_028_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.3.4",
+        "topic": "Invloed van burgers",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een inwoner vindt dat een gemeentelijk plan anders moet worden uitgevoerd. Hij stuurt een e-mail naar een gemeenteraadslid om zijn argumenten uit te leggen. Welke manier van invloed uitoefenen gebruikt hij?",
+        "context": "",
+        "answers": [
+          "Een demonstratie",
+          "Een petitie",
+          "Contact opnemen met een politicus"
+        ],
+        "correct_answer": 2,
+        "hint": "Let op wie de inwoner rechtstreeks benadert.",
+        "feedback_correct": "Goed. Burgers kunnen rechtstreeks contact opnemen met politici om hun mening en argumenten onder de aandacht te brengen.",
+        "feedback_wrong": "Nog niet. Kijk goed naar wie de inwoner benadert en hoe hij zijn mening naar voren brengt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_028_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.3",
+        "topic": "Invloed van burgers",
+        "skill": "Beschrijven",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een groep inwoners voert actie tegen een plan van de gemeente. De gemeenteraad besluit uiteindelijk toch om het plan door te zetten. Wat laat deze situatie zien?",
+        "context": "",
+        "answers": [
+          "Burgers kunnen invloed uitoefenen zonder dat hun voorstel wordt overgenomen.",
+          "Als burgers actievoeren, verandert een politieke beslissing meestal meteen.",
+          "Politieke beslissingen worden alleen tijdens verkiezingen genomen."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan het verschil tussen invloed proberen uit te oefenen en het uiteindelijke besluit.",
+        "feedback_correct": "Goed. Burgers kunnen proberen invloed uit te oefenen, terwijl de uiteindelijke politieke beslissing anders kan uitvallen.",
+        "feedback_wrong": "Nog niet. Controleer bij elke optie of de situatie deze uitspraak echt ondersteunt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_028_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.3.2",
+        "topic": "Invloed van burgers",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een groep ouders maakt zich zorgen over de verkeersveiligheid rond een basisschool. Ze richten samen een groep op die opkomt voor de verkeersveiligheid rond de school. Ze proberen de gemeente ervan te overtuigen maatregelen te nemen. Welke mogelijkheid gebruiken de ouders?",
+        "context": "",
+        "answers": [
+          "Een belangengroep vormen",
+          "Actief kiesrecht gebruiken",
+          "Een politieke partij kiezen"
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar het gezamenlijke belang waarvoor de ouders opkomen.",
+        "feedback_correct": "Goed. Mensen kunnen samenwerken rond een bepaald belang en zo proberen invloed uit te oefenen op politieke besluitvorming.",
+        "feedback_wrong": "Nog niet. Kijk naar het gezamenlijke belang van de ouders en de manier waarop zij daarvoor opkomen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_028_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.3.4",
+        "topic": "Invloed van burgers",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeenteraad bespreekt een plan voor een nieuw jongerengebouw. Jongeren krijgen tijdens de raadsvergadering vijf minuten om te vertellen wat zij van het plan vinden. Welke manier van invloed uitoefenen is dit?",
+        "context": "",
+        "answers": [
+          "Lobbyen",
+          "Inspraak",
+          "Passief kiesrecht"
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan een officiële mogelijkheid om tijdens een besluitvormingsproces je mening te geven.",
+        "feedback_correct": "Goed. Bij inspraak krijgen burgers een officiële mogelijkheid om hun mening over een onderwerp naar voren te brengen.",
+        "feedback_wrong": "Nog niet. Lees de situatie nog eens rustig door en vergelijk deze met de drie begrippen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_028_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.3.1",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "Kennen en herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Milan wil zelf kandidaat worden bij verkiezingen. Hij wil proberen gekozen te worden in een volksvertegenwoordiging. Welk begrip past hierbij?",
+        "context": "",
+        "answers": [
+          "Actief kiesrecht",
+          "Passief kiesrecht",
+          "Lobbyen"
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan het verschil tussen zelf stemmen en jezelf verkiesbaar stellen.",
+        "feedback_correct": "Goed. Passief kiesrecht betekent dat je je verkiesbaar kunt stellen en kandidaat kunt zijn voor een volksvertegenwoordiging, als je aan de wettelijke voorwaarden voldoet.",
+        "feedback_wrong": "Nog niet. Let op het verschil tussen zelf stemmen en jezelf verkiesbaar stellen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_028_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Invloed van burgers",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente onderzoekt op welke manier inwoners een onderwerp onder de aandacht hebben gebracht.",
+        "context": "Manier | Aantal deelnemers\nPetitie | 1.200\nDemonstratie | 350\nInspraak | 80",
+        "answers": [
+          "De petitie had zeker de meeste politieke invloed.",
+          "De demonstratie was volgens de gemeente het belangrijkste middel.",
+          "Aan de petitie deden de meeste mensen mee."
+        ],
+        "correct_answer": 2,
+        "hint": "Kijk alleen naar de aantallen in de tabel.",
+        "feedback_correct": "Goed. De tabel geeft informatie over het aantal deelnemers aan de verschillende activiteiten.",
+        "feedback_wrong": "Nog niet. Controleer bij elke optie of de tabel dit echt laat zien.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Wat moet je onthouden?",
+      "text": "Burgers kunnen op verschillende manieren invloed uitoefenen op politieke besluitvorming. Tijdens verkiezingen kunnen zij bijvoorbeeld stemmen of zich verkiesbaar stellen. Ook tussen verkiezingen zijn er mogelijkheden, zoals lid worden van een politieke partij, meedoen aan een belangengroep of pressiegroep, lobbyen, een petitie starten, demonstreren, contact opnemen met politici, inspraak gebruiken en media inzetten. Invloed uitoefenen betekent niet dat je altijd je zin krijgt. Je kunt er wel voor zorgen dat een onderwerp meer aandacht krijgt en onderdeel wordt van de politieke discussie."
+    }
+  ]
+}

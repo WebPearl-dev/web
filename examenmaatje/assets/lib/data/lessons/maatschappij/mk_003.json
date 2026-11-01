@@ -1,0 +1,302 @@
+{
+  "id": "mk_003",
+  "subject": "maatschappij",
+  "title": "Les 3 – Feit en mening onderscheiden",
+  "goal": "Je leert het verschil tussen een feit en een mening herkennen. Je leert ook dat een mening niet altijd herkenbaar is aan woorden zoals 'ik vind'.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Feit of mening?",
+      "text": "In de vorige lessen heb je geleerd hoe je informatie kunt vinden en hoe je een tekst goed kunt begrijpen. In maatschappij­kunde kom je vaak teksten, nieuwsberichten en uitspraken tegen. Dan is het belangrijk om te weten of iets een feit is of een mening."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een feit?",
+      "text": "Een feit is een uitspraak die je kunt controleren. Je kunt bijvoorbeeld opzoeken of de uitspraak klopt of niet.\n\nEen feit kan dus waar of niet waar zijn.\n\nVoorbeeld:\nNederland heeft twaalf provincies.\n\nDit kun je controleren. Daarom is het een feit."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een mening?",
+      "text": "Een mening is wat iemand vindt, denkt of wil.\n\nVoorbeeld:\nTwaalf provincies zijn veel te veel.\n\nDit is een mening. Niet iedereen hoeft hier hetzelfde over te denken."
+    },
+    {
+      "type": "explanation",
+      "title": "Let op signaalwoorden",
+      "text": "Bij een mening staan soms woorden die laten zien dat iemand iets vindt.\n\nVoorbeelden zijn:\n- ik vind\n- volgens mij\n- goed\n- slecht\n- belangrijk\n- mooi\n- lelijk\n- geweldig\n- belachelijk\n\nMaar let op: niet iedere mening heeft zulke woorden.\n\nBijvoorbeeld:\nGemeenten moeten meer geld uitgeven aan jongerenwerk.\n\nHier staat niet 'ik vind', maar het is wel een mening. Iemand zegt namelijk wat gemeenten volgens hem of haar zouden moeten doen."
+    },
+    {
+      "type": "explanation",
+      "title": "Een feit over een mening",
+      "text": "Soms gaat een feit juist over wat mensen vinden.\n\nBijvoorbeeld:\nUit een onderzoek blijkt dat 70% van de inwoners tegen de nieuwe regel is.\n\nDat mensen tegen de regel zijn, is hier een mening. Maar het onderzoek en het percentage zijn controleerbare informatie. Daarom is de uitspraak over het onderzoek een feit."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeldsituatie",
+      "text": "De gemeente Tilburg heeft besloten om drie nieuwe camera's te plaatsen in een druk uitgaansgebied.\n\nDe politie zegt dat camera's kunnen helpen om zakkenrollers sneller op te sporen.\n\nEen inwoner zegt: \"Ik vind die camera's verschrikkelijk, want mijn privacy verdwijnt zo helemaal.\"\n\nWelke uitspraak is duidelijk een mening?\n\nA. De gemeente heeft besloten drie camera's te plaatsen.\nB. De politie zegt dat camera's kunnen helpen om zakkenrollers sneller op te sporen.\nC. De inwoner vindt de camera's verschrikkelijk.\n\nHet juiste antwoord is C. De inwoner gebruikt het woord 'verschrikkelijk'. Dit is een oordeel en dus een mening. Uitspraak A en B zijn feiten die je kunt controleren."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_003_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Feit en mening",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak is een feit?",
+        "context": "Sinds 2025 mogen leerlingen op veel scholen hun mobiele telefoon tijdens de les niet gebruiken.",
+        "answers": [
+          "Ik vind een telefoonverbod op school een slecht idee.",
+          "Op veel scholen mogen leerlingen hun telefoon tijdens de les niet gebruiken.",
+          "Een telefoonverbod maakt school veel saaier."
+        ],
+        "correct_answer": 1,
+        "hint": "Kun je de uitspraak controleren?",
+        "feedback_correct": "Goed! Deze uitspraak kun je controleren. Daarom is het een feit.",
+        "feedback_wrong": "Kijk nog eens goed. Een feit is een uitspraak die je kunt controleren."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_003_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Feit en mening",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak is een mening?",
+        "context": "Een politicus praat over het openbaar vervoer in zijn gemeente.",
+        "answers": [
+          "Volgens mij moet de gemeente meer bussen laten rijden.",
+          "In de gemeente rijden op werkdagen bussen.",
+          "De gemeente heeft tien bushaltes."
+        ],
+        "correct_answer": 0,
+        "hint": "Welke uitspraak laat zien wat iemand vindt of wil?",
+        "feedback_correct": "Goed! De politicus geeft aan wat hij volgens hem zou moeten gebeuren. Dat is een mening.",
+        "feedback_wrong": "Lees de antwoorden nog eens. Zoek naar een uitspraak waarin iemand vertelt wat hij vindt of wil."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_003_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Feit en mening",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak is een feit?",
+        "context": "In een gemeente wonen 45 jongeren die op zoek zijn naar werk.\n\nOverzicht:\nWest: 45 jongeren\nOost: 32 jongeren\nNoord: 28 jongeren",
+        "answers": [
+          "In West wonen veel te veel jongeren zonder werk.",
+          "De situatie in West is erg slecht.",
+          "In West zijn 45 jongeren op zoek naar werk."
+        ],
+        "correct_answer": 2,
+        "hint": "Welke uitspraak kun je rechtstreeks uit het overzicht halen?",
+        "feedback_correct": "Goed! Het aantal van 45 staat in het overzicht. Dat kun je controleren.",
+        "feedback_wrong": "Kijk naar het overzicht. Zoek naar een uitspraak die rechtstreeks uit de gegeven informatie komt."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_003_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Feit en mening",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak is een mening?",
+        "context": "Een artikel gaat over het openbaar vervoer. Een reiziger zegt: \"De bus komt vaak te laat. Dat openbaar vervoer is echt waardeloos.\"",
+        "answers": [
+          "De reiziger reist met de bus.",
+          "De reiziger vindt het openbaar vervoer waardeloos.",
+          "De reiziger zegt dat de bus vaak te laat komt."
+        ],
+        "correct_answer": 1,
+        "hint": "Welke uitspraak vertelt wat de reiziger vindt?",
+        "feedback_correct": "Goed! 'Waardeloos' laat zien wat de reiziger van het openbaar vervoer vindt.",
+        "feedback_wrong": "Let op het woord 'waardeloos'. Dat zegt iets over wat de reiziger ervan vindt."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_003_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Feit en mening",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak is een mening?",
+        "context": "Een inwoner schrijft een brief aan de gemeente over een nieuw plan voor een parkeerplaats.",
+        "answers": [
+          "Ik vind het een enorme fout om hier een parkeerplaats te bouwen.",
+          "De gemeente wil een parkeerplaats aanleggen.",
+          "De parkeerplaats komt naast het sportveld."
+        ],
+        "correct_answer": 0,
+        "hint": "Welke uitspraak begint met wat iemand zelf vindt?",
+        "feedback_correct": "Goed! De schrijver zegt duidelijk wat hij of zij van het plan vindt.",
+        "feedback_wrong": "Kijk welke uitspraak vertelt wat de schrijver zelf vindt."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_003_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Feit en mening",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak is een mening, ook al staat er geen woord zoals 'ik vind' in?",
+        "answers": [
+          "Gemeenten moeten meer geld uitgeven aan jongerenwerk.",
+          "In de gemeente zijn drie jongerencentra.",
+          "Het jongerencentrum is op maandag geopend."
+        ],
+        "correct_answer": 0,
+        "hint": "Welke uitspraak zegt wat gemeenten volgens iemand zouden moeten doen?",
+        "feedback_correct": "Goed! Ook zonder 'ik vind' kan een uitspraak een mening zijn. Hier wordt gezegd wat gemeenten zouden moeten doen.",
+        "feedback_wrong": "Een mening hoeft niet altijd te beginnen met 'ik vind'. Kijk welke uitspraak zegt wat er volgens iemand zou moeten gebeuren."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_003_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Feit en mening",
+        "skill": "Feit over een mening herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak is een feit?",
+        "context": "Een onderzoek onder inwoners gaat over een nieuwe verkeersregel. Uit het onderzoek blijkt dat 70% van de inwoners tegen de nieuwe regel is.",
+        "answers": [
+          "De nieuwe verkeersregel is een slecht idee.",
+          "Uit het onderzoek blijkt dat 70% van de inwoners tegen de nieuwe regel is.",
+          "Iedereen zou tegen deze regel moeten zijn."
+        ],
+        "correct_answer": 1,
+        "hint": "Welke uitspraak gaat over een uitkomst uit het onderzoek?",
+        "feedback_correct": "Goed! Het percentage van 70% is informatie uit het onderzoek en kan worden gecontroleerd.",
+        "feedback_wrong": "Kijk welke uitspraak de uitkomst van het onderzoek weergeeft. Dat is controleerbare informatie."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_003_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Feit en mening",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak uit de tekst is een mening?",
+        "context": "In een wijk is een nieuwe speeltuin geopend. De speeltuin heeft een glijbaan, schommels en een klimrek. Een bezoeker zegt: \"Dit is de leukste speeltuin van de hele stad!\"",
+        "answers": [
+          "De speeltuin heeft een glijbaan.",
+          "De speeltuin heeft schommels.",
+          "Dit is de leukste speeltuin van de hele stad."
+        ],
+        "correct_answer": 2,
+        "hint": "Welke uitspraak zegt wat iemand van de speeltuin vindt?",
+        "feedback_correct": "Goed! 'De leukste speeltuin' is een oordeel van de bezoeker. Dat is een mening.",
+        "feedback_wrong": "De eerste twee uitspraken beschrijven wat er in de speeltuin staat. 'De leukste' is een oordeel."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_003_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Feit en mening",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke conclusie past het best bij de informatie?",
+        "context": "Op een school is aan 200 leerlingen gevraagd wat zij tijdens de pauze doen. 150 leerlingen gebruiken hun telefoon tijdens de pauze.",
+        "answers": [
+          "De meeste leerlingen gebruiken hun telefoon tijdens de pauze.",
+          "Iedereen gebruikt zijn telefoon tijdens de pauze.",
+          "Leerlingen mogen hun telefoon tijdens de pauze gebruiken."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar het aantal van 150 van de 200 leerlingen.",
+        "feedback_correct": "Goed! 150 van de 200 leerlingen is meer dan de helft. Daarom kun je zeggen dat de meeste leerlingen hun telefoon gebruiken.",
+        "feedback_wrong": "Kijk goed naar de aantallen. 150 van de 200 leerlingen is meer dan de helft."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_003_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Feit en mening",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke uitspraak is een feit?",
+        "context": "Uit een onderzoek onder 500 jongeren blijkt dat 320 jongeren iedere week sporten. Een wethouder zegt: \"Sport is belangrijk en iedereen zou eigenlijk twee keer per week moeten sporten.\"",
+        "answers": [
+          "Uit het onderzoek blijkt dat 320 van de 500 jongeren iedere week sporten.",
+          "Sport is belangrijk.",
+          "Iedereen zou twee keer per week moeten sporten."
+        ],
+        "correct_answer": 0,
+        "hint": "Welke uitspraak komt rechtstreeks uit het onderzoek?",
+        "feedback_correct": "Goed! Het aantal van 320 van de 500 jongeren komt uit het onderzoek en kan worden gecontroleerd.",
+        "feedback_wrong": "Kijk welke uitspraak rechtstreeks uit het onderzoek komt. De andere uitspraken geven aan wat iemand vindt of belangrijk vindt."
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Goed gedaan!",
+      "text": "Je hebt geleerd hoe je feiten en meningen van elkaar kunt onderscheiden.\n\nOnthoud:\n\nFeit = je kunt de uitspraak controleren.\n\nMening = iemand geeft aan wat hij of zij vindt, denkt of wil.\n\nKijk dus niet alleen naar losse woorden zoals 'ik vind'. Kijk vooral naar wat er precies wordt gezegd.\n\nJe hebt ook geleerd dat een feit over de mening van een groep kan gaan, bijvoorbeeld wanneer een onderzoek laat zien hoeveel mensen ergens voor of tegen zijn.\n\nIn de volgende les leer je meer over de betrouwbaarheid van bronnen."
+    }
+  ]
+}

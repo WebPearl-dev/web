@@ -1,0 +1,325 @@
+{
+  "id": "bio_014",
+  "subject": "biologie",
+  "title": "Les 14 - Voedselketens en energie",
+  "goal": "Je leert begrijpen dat de hoeveelheid energie in een voedselketen bij elke stap afneemt en hoe organismen energie verliezen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Wanneer een dier een ander organisme eet, krijgt hij bruikbare stoffen en energie binnen. Maar wist je dat die energie niet helemaal wordt doorgegeven aan de volgende stap? In deze les leer je waarom de energie in een voedselketen steeds minder wordt.",
+      "image": "les_014_intro_energie.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Energie in het ecosysteem",
+      "text": "Groene planten (producenten) vangen zonlicht op om energierijke suikers te maken. Als een konijn die plant eet, krijgt het konijn die energie binnen. Een voedselketen laat dus eigenlijk een energiestroom zien. Omdat voedsel energie bevat, stroomt de energie van de producent naar de consumenten."
+    },
+    {
+      "type": "explanation",
+      "title": "Waarom neemt de energie af?",
+      "text": "Slechts een heel klein deel van de energie wordt gebruikt voor de opbouw van het lichaam van een dier. Dit is het enige deel dat een volgende eter kan binnenkrijgen. Het grootste deel van de energie gaat bij elke stap verloren. Dit gebeurt op twee manieren:\n1. Verbranding: Organismen verbranden voedsel om te bewegen en warm te blijven. Deze energie verlaat het lichaam als warmte.\n2. Onverteerbare resten: Een deel van het voedsel kan niet worden verteerd (zoals botten of taaie plantenvezels). Deze energie verlaat het lichaam via de uitwerpselen (poep)."
+    },
+    {
+      "type": "explanation",
+      "title": "Minder energie aan de top",
+      "text": "Omdat er bij elke stap in een voedselketen energie verloren gaat, blijft er aan het einde van de keten steeds minder bruikbare energie over. Dit is de reden waarom een voedselketen bijna nooit heel lang is. Voor de topjagers (zoals een uil of een vos) is er simpelweg minder totale energie beschikbaar in een gebied dan voor de planteneters.",
+      "image": "les_014_energie_afname.png"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Onthoud de twee belangrijkste manieren waarop energie verdwijnt uit een keten: verbranding (warmte/actie) en uitwerpselen (onverteerbaar voedsel). Alleen de energie die in de opbouw (groei/vlees) van het dier is gaan zitten, kan worden opgegeten door de volgende stap."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "De energie in een voedselketen neemt bij elke stap af. Energie gaat verloren door verbranding (warmte) en via uitwerpselen (onverteerbare resten). Alleen energie in de opbouw van het lichaam wordt doorgegeven."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_014_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er met de totale hoeveelheid bruikbare energie bij elke stap die je verdergaat in een voedselketen?",
+      "answers": [
+        "De hoeveelheid bruikbare energie neemt bij elke stap af.",
+        "De hoeveelheid bruikbare energie neemt bij elke stap enorm toe.",
+        "De hoeveelheid energie blijft bij elke stap precies hetzelfde."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan waarom een voedselketen nooit oneindig lang kan zijn in de natuur.",
+      "feedback_correct": "Klopt! Er gaat bij elke stap energie verloren, waardoor de hoeveelheid bruikbare energie afneemt.",
+      "feedback_wrong": "Energie verdwijnt tussendoor door verbranding en afvalstoffen, dus het wordt juist minder en niet meer of gelijk.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_014"
+    },
+    {
+      "id": "bio_014_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "oorzaak_gevolg_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een konijn eet gras om aan energie te komen. Een groot deel van deze energie verlaat het lichaam als warmte. Welk proces in de cellen veroorzaakt dit energieverlies?",
+      "answers": [
+        "De verbranding",
+        "De fotosynthese",
+        "De innesteling"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek het proces waarbij glucose wordt afgebroken om energie vrij te maken voor beweging en warmte.",
+      "feedback_correct": "Juist! Bij de verbranding komt energie vrij als warmte en beweging, die daarna wegstroomt uit de keten.",
+      "feedback_wrong": "Fotosynthese maakt juist suikers aan en innesteling hoort bij zwangerschap. Verbranding kost brandstof en geeft warmte.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_014"
+    },
+    {
+      "id": "bio_014_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk deel van de energie uit het voedsel kan wél rechtstreeks worden doorgegeven aan de volgende eter in een voedselketen?",
+      "answers": [
+        "Alleen de energie die is gebruikt voor de opbouw (groei en weefsel) van het lichaam.",
+        "Alleen de energie die verloren is gegaan via de urine.",
+        "Alleen de energie die het dier heeft uitgeademd als koolstofdioxide."
+      ],
+      "correct_answer": 0,
+      "hint": "Een roofdier kan alleen de energie opeten die daadwerkelijk in het 'vlees' of weefsel van zijn prooi zit opgeslagen.",
+      "feedback_correct": "Uitstekend! Alleen energie die in de opbouw van het lichaam (vlees/groei) zit, kan worden opgegeten.",
+      "feedback_wrong": "Uitgeademde gassen of urine kunnen niet worden opgegeten door een volgend roofdier in de keten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_014"
+    },
+    {
+      "id": "bio_014_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "oorzaak_gevolg_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een rups eet een groen blad, maar kan de taaie nerven en vezels niet verteren. Via welke weg verlaat deze onverteerde energie het lichaam van de rups?",
+      "answers": [
+        "Via de uitwerpselen (poep)",
+        "Via de huidmondjes aan de onderkant",
+        "Via de meeldraden"
+      ],
+      "correct_answer": 0,
+      "hint": "Onverteerbaar voedsel verlaat het verteringsstelsel via de anus.",
+      "feedback_correct": "Klopt! Onverteerbare resten verlaten het lichaam als uitwerpselen; deze energie gaat verloren voor de keten.",
+      "feedback_wrong": "Rupsen hebben geen huidmondjes of meeldraden, dat zijn onderdelen van planten. Onverteerd voedsel wordt uitgepoept.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_014"
+    },
+    {
+      "id": "bio_014_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Kijk naar de keten: gras ➡️ sprinkhaan ➡️ kikker ➡️ reiger. Voor welke groep in deze keten is in totaal de áller-minderste hoeveelheid energie beschikbaar in een natuurgebied?",
+      "answers": [
+        "Voor de reigers (de topjagers)",
+        "Voor de grasplanten (die fotosynthese doen)",
+        "Voor de sprinkhanen (de planteneters)"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de regel dat energie bij elke stap afneemt. Waar in de keten is er dan het minste over?",
+      "feedback_correct": "Heel goed! De reiger staat helemaal aan het einde van de keten, waar de minste energie is overgebleven.",
+      "feedback_wrong": "Gras heeft als producent de meeste energie. Omdat er steeds energie verloren gaat, blijft voor de reiger het minste over.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_014",
+      "image": "les_014_q05_energiestroom.png"
+    },
+    {
+      "id": "bio_014_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke twee processen zorgen er samen voor dat er energie verloren gaat uit een voedselketen?",
+      "answers": [
+        "Verbranding (warmte) and het lozen van uitwerpselen (onverteerbare resten)",
+        "Fotosynthese en het maken van extra bloemblaadjes",
+        "Het opnemen van water en het tellen van organismen"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek naar de twee manieren waarop een dier energie verbruikt of ongebruikt kwijtraakt uit zijn lichaam.",
+      "feedback_correct": "Juist! Verbranding zet glucose om in warmte en poep bevat onverteerde energie. Beide benadrukken het energieverlies.",
+      "feedback_wrong": "Fotosynthese legt juist energie vast; water opnemen of tellen kost of verliest geen energie in de keten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_014"
+    },
+    {
+      "id": "bio_014_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "conclusie_trekken_uit_gegevens",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een vos eet een bosmuis op. Wat gebeurt er met de energie uit de muis?",
+      "answers": [
+        "Een klein deel wordt gebruikt voor de opbouw van de vos, de rest gaat verloren door verbranding en ontlasting.",
+        "Alle energie uit de muis wordt voor 100% omgezet in nieuw vossenvlees.",
+        "De vos krijgt helemaal geen energie binnen door de muis te eten."
+      ],
+      "correct_answer": 0,
+      "hint": "Geen enkel dier kan alle energie uit zijn voedsel volledig vasthouden voor groei.",
+      "feedback_correct": "Top! De vos verbruikt het grootste deel voor zijn eigen levensprocessen en verliest zo energie.",
+      "feedback_wrong": "100% omzetting is biologisch onmogelijk; de vos krijgt uiteraard wel degelijk energie binnen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_014"
+    },
+    {
+      "id": "bio_014_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom is een biologische voedselketen in de natuur bijna nooit heel erg lang (bijvoorbeeld met wel tien dieren achter elkaar)?",
+      "answers": [
+        "Omdat er na een paar stappen te weinig energie overblijft om nog grotere roofdieren in leven te houden.",
+        "Omdat de grotere roofdieren weigeren om kleine insecten op te eten.",
+        "Omdat planten na een week stoppen met groeien."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de snelle afname van bruikbare energie bij elke stap die je maakt.",
+      "feedback_correct": "Perfect! Omdat er steeds energie verloren gaat, is de energie na 4 of 5 stappen simpelweg op.",
+      "feedback_wrong": "Het heeft niks te maken met weigeren of plantengroei, maar puur met de snelle afname van de energiestroom.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_014"
+    },
+    {
+      "id": "bio_014_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Mensen eten soms planten (zoals sla of graan) en soms vlees (zoals rundvlees). Vanuit welk voedsel krijgt de mensheid als soort theoretisch de meeste energie binnen uit een natuurgebied?",
+      "answers": [
+        "Rechtstreeks door de planten op te eten (als producenten), omdat er dan nog geen energie verloren is gegaan aan een dier.",
+        "Door alleen roofdieren te eten, want die verzamelen alle energie.",
+        "Dat maakt biologisch gezien helemaal geen verschil."
+      ],
+      "correct_answer": 0,
+      "hint": "Hoe korter de weg vanaf de zon en de planten, hoe minder stappen er zijn waar energie verloren kan gaan.",
+      "feedback_correct": "Geweldig! Rechtstreeks planten eten levert de meeste energie op, omdat je de stappen van energieverlies overslaat.",
+      "feedback_wrong": "Roofdieren eten levert juist de minste energie op, omdat er in de stappen daarvoor al heel veel energie is verloren.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_014"
+    },
+    {
+      "id": "bio_014_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wanneer een vogel hard wegvliegt voor een roofdier, verbruikt hij veel energie. Wat gebeurt er met die energie?",
+      "answers": [
+        "Die energie wordt omgezet in verbrandingswarmte en verdwijnt uit de voedselketen.",
+        "Die energie wordt netjes opgeslagen in de eieren van de vogel.",
+        "Die energie stroomt automatisch terug naar de wortels van de planten."
+      ],
+      "correct_answer": 0,
+      "hint": "Actie en beweging vereisen spierarbeid. Welke biologische afvalstof/vorm ontstaat daarbij?",
+      "feedback_correct": "Klopt! Beweging kost energie die als warmte verloren gaat aan de lucht en verdwijnt uit de keten.",
+      "feedback_wrong": "Bewegingsenergie kan niet worden opgeslagen in eieren en stroomt nooit terug naar de plantenwortels.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §5",
+      "les_id": "bio_014"
+    },
+    {
+      "id": "bio_014_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom kan een uil de botten en haren van een ingeslikte muis niet gebruiken voor de opbouw van zijn eigen lichaam?",
+      "answers": [
+        "Omdat deze delen onverteerbaar zijn en het lichaam verlaten (als braakbal of uitwerpselen).",
+        "Omdat botten en haren volledig gemaakt zijn van vloeibaar water.",
+        "Omdat haren direct veranderen in groene bladgroenkorrels."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan wat er gebeurt met delen van een prooi die de maagzuren niet kunnen oplossen.",
+      "feedback_correct": "Uitstekend! Onverteerbare resten leveren geen bouw- of brandstoffen op voor de uil en gaan verloren.",
+      "feedback_wrong": "Botten zijn hard en haren zijn geen water; ze kunnen ook nooit veranderen in plantenonderdelen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_014"
+    },
+    {
+      "id": "bio_014_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "5",
+      "topic": "voedselrelaties",
+      "skill": "redenering_beoordelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Sanne beweert: 'Consumenten en reducenten hebben de energierijke stoffen uit hun voedsel alleen nodig om te groeien.' Is deze bewering biologisch juist?",
+      "answers": [
+        "Nee, ze hebben het ook heel hard nodig voor de verbranding om te kunnen bewegen en leven.",
+        "Ja, groei is de enige reden waarom organismen op aarde voedsel eten.",
+        "Nee, consumenten hebben helemaal geen energie nodig om te overleven."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan waarom een dier ook moet eten als het al volwassen is en niet meer groeit.",
+      "feedback_correct": "Juist! Energie is naast bouwstof ook continu nodig als brandstof voor alle levensprocessen.",
+      "feedback_wrong": "Groei is niet de enige reden; ook volwassen organismen moeten ademen en verbranden om in leven te blijven.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_014"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.0",
+    "notitie": "Les-id en alle onderliggende koppelingen definitief ingesteld op bio_014 conform de 30-lessenplanning v1.0.",
+    "wijziging": "Database-validatie uitgevoerd op alle topics en skills."
+  }
+}

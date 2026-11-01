@@ -1,0 +1,272 @@
+{
+  "id": "bio_006",
+  "subject": "biologie",
+  "title": "Les 6 - Van cel tot organisme",
+  "goal": "Je leert organisatieniveaus herkennen en eenvoudige verbanden tussen cellen, organen en organismen begrijpen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Een levend organisme zit heel slim in elkaar en is opgebouwd op verschillende biologische niveaus. Een cel kan deel zijn van een weefsel, dat weer deel is van een groter orgaan. In deze les leer je de volgorde van deze organisatieniveaus van klein naar groot kennen."
+    },
+    {
+      "type": "explanation",
+      "title": "Van cel naar weefsel",
+      "text": "De cel is de kleinste bouwsteen van het leven. Cellen met een vergelijkbare vorm en taak liggen in het lichaam vaak in groepen bij elkaar. Zo'n groep samenwerkende cellen noemen we een weefsel. Voorbeelden zijn spierweefsel of botweefsel.",
+      "image": "les_006_cel_weefsel.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Van orgaan naar organisme",
+      "text": "Verschillende soorten weefsels werken samen in een orgaan, zoals de maag, het hart of een long. Elk orgaan heeft een duidelijke eigen taak. Organen die intensief samenwerken aan een grotere taak (zoals je maag en darmen aan de vertering) vormen samen een orgaanstelsel. Alle orgaanstelsels samen vormen het complete levende wezen: het organisme.",
+      "image": "les_006_orgaan_stelsel.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Het grootste niveau: Het ecosysteem",
+      "text": "Als we nog groter gaan kijken dan één los organisme, komen we bij het ecosysteem. Een ecosysteem omvat een bepaald natuurgebied (zoals een bos, een vijver of een duingebied) inclusief alle levende organismen én de levenloze omgeving (zoals water, bodem, lucht en zonlicht) die daar samenhangen."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Denk bij elke vraag goed na of het genoemde voorbeeld een losse cel is, een groep cellen (weefsel), een groter onderdeel met een taak (orgaan) of de levenloze natuur erbij betreft (ecosysteem). Onthoud de vaste volgorde van klein naar groot!"
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud de vaste volgorde",
+      "text": "Stamp deze biologische keten goed in je hoofd voor het examen: \nCel ➡️ Weefsel ➡️ Orgaan ➡️ Orgaanstelsel ➡️ Organisme ➡️ Ecosysteem."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_006_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "7",
+      "topic": "biologische_basisbegrippen",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke biologische volgorde van organisatieniveaus loopt exact van klein naar groot?",
+      "answers": [
+        "Cel ➡️ weefsel ➡️ orgaan",
+        "Orgaan ➡️ cel ➡️ weefsel",
+        "Weefsel ➡️ organisme ➡️ cel"
+      ],
+      "correct_answer": 0,
+      "hint": "Begin bij de allerkleinste levende bouwsteen van een lichaam.",
+      "feedback_correct": "Juist! Een cel vormt een weefsel, en weefsels vormen samen een orgaan.",
+      "feedback_wrong": "De juiste volgorde van klein naar groot start altijd bij de cel, gevolgd door het weefsel en dan het orgaan.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_006"
+    },
+    {
+      "id": "bio_006_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "7",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is de juiste biologische omschrijving van het begrip weefsel?",
+      "answers": [
+        "Een groep cellen met dezelfde vorm en een vergelijkbare taak.",
+        "Een verzameling van verschillende losse ecosystemen.",
+        "Een volledig orgaanstelsel dat los in de buikholte ligt."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan een groep cellen van hetzelfde type, zoals spiercellen die naast elkaar liggen.",
+      "feedback_correct": "Perfect! Een weefsel is een groep cellen van hetzelfde type die samenwerken.",
+      "feedback_wrong": "Een weefsel bestaat uit cellen. Verschillende weefsels vormen samen een orgaan, dus het is kleiner dan een stelsel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_006"
+    },
+    {
+      "id": "bio_006_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "7",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "De menselijke maag bestaat uit spierweefsel, slijmvliesweefsel en zenuwweefsel om voedsel te kneden. Tot welk organisatieniveau behoort de maag?",
+      "answers": [
+        "Cel",
+        "Orgaan",
+        "Organisme"
+      ],
+      "correct_answer": 1,
+      "hint": "Het is een herkenbaar onderdeel van het lichaam dat uit meerdere samenwerkende weefsels bestaat.",
+      "feedback_correct": "Klopt! De maag is een orgaan, net als het hart, de lever en de longen.",
+      "feedback_wrong": "De maag bestaat uit weefsels, dus het is groter dan een cel. Een heel levend wezen noemen we een organisme.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_006"
+    },
+    {
+      "id": "bio_006_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "7",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke bekende biologische combinatie is een voorbeeld van een orgaanstelsel?",
+      "answers": [
+        "Het verteringsstelsel",
+        "Een enkele spiercel",
+        "Een klein stukje spierweefsel"
+      ],
+      "correct_answer": 0,
+      "hint": "Een orgaanstelsel bestaat uit een hele keten van organen die samenwerken aan een grote hoofdtaak.",
+      "feedback_correct": "Uitstekend! Het verteringsstelsel (mond, maag, darmen) is een officieel orgaanstelsel.",
+      "feedback_wrong": "Spiercellen en spierweefsel zijn veel kleinere biologische niveaus. Samenwerkende organen vormen een stelsel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_006"
+    },
+    {
+      "id": "bio_006_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "7",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Hoe noemen biologen één volledig, individueel levend wezen (zoals één losse plant, één dier of één mens)?",
+      "answers": [
+        "Een organisme",
+        "Een celkern",
+        "Een ecosysteem"
+      ],
+      "correct_answer": 0,
+      "hint": "Het is de optelsom van alle samenwerkende orgaanstelsels in één lichaam.",
+      "feedback_correct": "Heel goed! Een afzonderlijk levend wezen is een organisme.",
+      "feedback_wrong": "Een celkern is een onderdeel van een cel. Een heel levend wezen noemen we een organisme.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_006"
+    },
+    {
+      "id": "bio_006_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "7",
+      "topic": "biologische_basisbegrippen",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is het volgende, grotere organisatieniveau dat direct na het niveau van een los orgaan komt in de biologische volgorde?",
+      "answers": [
+        "Weefsel",
+        "Orgaanstelsel",
+        "Cel"
+      ],
+      "correct_answer": 1,
+      "hint": "Wanneer losse organen (zoals je hart en bloedvaten) samen gaan werken, stijg je een niveau omhoog.",
+      "feedback_correct": "Perfect! Verschillende organen vormen samen een groter orgaanstelsel.",
+      "feedback_wrong": "Cel and weefsel liggen juist onder het orgaan. Het niveau daarboven is het orgaanstelsel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_006"
+    },
+    {
+      "id": "bio_006_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "7",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke combinatie van elementen vormt samen een compleet biologisch ecosysteem?",
+      "answers": [
+        "Alle levende organismen in een gebied samen met hun levenloze omgeving (zoals water en bodem).",
+        "Uitsluitend één enkele dierlijke cel onder de microscoop.",
+        "Uitsluitend één los, functionerend buikorgaan."
+      ],
+      "correct_answer": 0,
+      "hint": "Een ecosysteem kijkt naar de hele natuur: planten, dieren, maar ook de bodem, lucht en het water.",
+      "feedback_correct": "Top! Een ecosysteem combineert alle levende wezens met hun niet-levende omgeving.",
+      "feedback_wrong": "Eén cel of één orgaan zijn veel te klein. Een ecosysteem omvat een heel natuurgebied.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_006"
+    },
+    {
+      "id": "bio_006_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "7",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Miljoenen spiercellen liggen strak tegen elkaar aan en trekken samen. Welk organisatieniveau vormen deze samenwerkende cellen direct?",
+      "answers": [
+        "Een weefsel (spierweefsel)",
+        "Een ecosysteem op zichzelf",
+        "Een losse celkern"
+      ],
+      "correct_answer": 0,
+      "hint": "Een groep cellen met dezelfde vorm en taak vormt de stap tussen cel en orgaan.",
+      "feedback_correct": "Juist! Samenwerkende cellen vormen een weefsel, in dit voorbeeld spierweefsel.",
+      "feedback_wrong": "Cellen vormen weefsels. Een ecosysteem is een heel natuurgebied, dat is veel groter.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_006"
+    },
+    {
+      "id": "bio_006_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "7",
+      "topic": "biologische_basisbegrippen",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk biologisch niveau is het allergrootst in de onderstaande reeks?",
+      "answers": [
+        "Cel",
+        "Orgaanstelsel",
+        "Organisme"
+      ],
+      "correct_answer": 2,
+      "hint": "Zoek het niveau dat alle orgaanstelsels en weefsels in één compleet lichaam omvat.",
+      "feedback_correct": "Uitstekend! Het organisme is het complete levende wezen en omvat de stelsels en cellen.",
+      "feedback_wrong": "De cel is het kleinst, daarna komt het orgaanstelsel. Het organisme is het grootst van deze drie.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_006"
+    },
+    {
+      "id": "bio_006_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "7",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een biologieleraar omschrijft een natuurlijke vijver met daarin kikkers, waterplanten, modder, vloeibaar water en lucht. Welk niveau sluit hierop aan?",
+      "answers": [
+        "Weefsel",
+        "Ecosysteem",
+        "Orgaan"
+      ],
+      "correct_answer": 1,
+      "hint": "Omdat er zowel levende organismen als de levenloze omgeving (modder, water) genoemd worden, kijk je naar het grootste niveau.",
+      "feedback_correct": "Perfect! Een vijver met al zijn bewoners and omgeving vormt een ecosysteem.",
+      "feedback_wrong": "Weefsels en organen zitten binnenin een lichaam. Een vijver met zijn omgeving is een ecosysteem.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_006"
+    }
+  ]
+}

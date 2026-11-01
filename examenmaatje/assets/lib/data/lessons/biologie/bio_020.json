@@ -1,0 +1,335 @@
+{
+  "id": "bio_020",
+  "subject": "biologie",
+  "title": "Les 20 - Ademhaling bij de mens",
+  "goal": "Je leert de organen van het ademhalingsstelsel benoemen, de functie van de longblaasjes en slijmvliezen beschrijven en uitleggen hoe gaswisseling werkt.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Waarom adem je?",
+      "text": "Je cellen hebben constant zuurstof nodig voor de verbranding (om energie te maken). Bij die verbranding ontstaat koolstofdioxide als afvalstof. Je ademhalingsstelsel zorgt ervoor dat je zuurstof opneemt uit de lucht en koolstofdioxide weer uitademt.",
+      "image": "les_020_intro_ademhaling.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De weg van de lucht",
+      "text": "Als je inademt, stroomt de lucht via je neusholte of mondholte naar je keelholte. Daarna gaat de lucht door de luchtpijp. De luchtpijp splitst zich in twee grote takken: de bronchiën. Deze bronchiën vertakken zich in steeds kleinere buisjes die uiteindelijk uitkomen bij miljoenen piepkleine blaasjes: de longblaasjes.",
+      "image": "les_020_weg_lucht.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Slijmvliezen en kraakbeenringen",
+      "text": "Je ademhalingsorganen beschermen zichzelf goed:\n1. Kraakbeenringen: De luchtpijp zit vol met hoefijzervormige kraakbeenringen. Deze ringen zorgen ervoor dat de luchtpijp altijd mooi openstaat en niet kan dichtklappen als je in- of uitademt.\n2. Slijmvlies: De binnenkant van je neus en luchtpijp is bedekt met slijmvlies. Dit slijmvlies maakt de ingeademde lucht vochtig en warm. Ook blijven stofdeeltjes en bacteriën aan het slijm plakken. Piepkleine trilharen wuiven het vuile slijm daarna rustig omhoog naar je keelholte, zodat je het kunt doorslikken of uitspugen."
+    },
+    {
+      "type": "explanation",
+      "title": "De longblaasjes en gaswisseling",
+      "text": "In de longblaasjes vindt de echte gaswisseling plaats. Om de flinterdunne wanden van de longblaasjes ligt een dicht netwerk van haarvaten (bloedvaten). \n* Zuurstof uit de ingeademde lucht stroomt door de dunne wand heen het bloed in.\n* Koolstofdioxide (de afvalstof) stroomt vanuit het bloed de longblaasjes in, zodat je het kunt uitademen.\nOmdat er miljoenen longblaasjes zijn, is het totale oppervlak voor deze gaswisseling enorm groot.",
+      "image": "les_020_longblaasjes_detail.png"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees de vraag aandachtig door. Let goed op het verschil tussen de transportbuizen (luchtpijp, bronchiën) en de plek waar de gassen daadwerkelijk wisselen (longblaasjes). Onthoud dat kraakbeenringen zorgen voor het openhouden van de buis."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Lucht gaat via de neus, luchtpijp en bronchiën naar de longblaasjes. Kraakbeenringen houden de luchtpijp open. Slijmvlies en trilharen filteren en verwarmen de lucht. In de longblaasjes vindt gaswisseling plaats via de haarvaten: zuurstof gaat het bloed in, koolstofdioxide gaat eruit."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_020_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke stevige, hoefijzervormige structuren zorgen ervoor dat de menselijke luchtpijp altijd goed openstaat en niet kan dichtklappen?",
+      "answers": [
+        "Kraakbeenringen",
+        "Huidmondjes",
+        "Kransslagaders",
+        "Pezen"
+      ],
+      "correct_answer": 0,
+      "hint": "Deze harde maar buigzame ringen zitten gestapeld in de wand van je hals en luchtpijp.",
+      "feedback_correct": "Heel goed! Kraakbeenringen houden de luchtpijp open, zodat de lucht er altijd soepel doorheen kan stromen.",
+      "feedback_wrong": "Huidmondjes horen bij planten en kransslagaders bij het hart. Kraakbeenringen houden de luchtpijp open.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_020"
+    },
+    {
+      "id": "bio_020_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "De luchtpijp splitst zich onderaan in twee grote takken die rechtstreeks naar de linker- en rechterlong lopen. Hoe heten deze twee takken?",
+      "answers": [
+        "De bronchiën",
+        "De haarvaten",
+        "De houtvaten",
+        "De boezems"
+      ],
+      "correct_answer": 0,
+      "hint": "Het woord begint met de letter 'B' en deze buizen vertakken zich later in nog kleinere buisjes.",
+      "feedback_correct": "Juist! De luchtpijp splitst zich in de twee bronchiën, die de lucht verder de longen in leiden.",
+      "feedback_wrong": "Haarvaten en boezems horen bij het bloedstelsel. De splitsing van de luchtpijp vormt de bronchiën.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_020"
+    },
+    {
+      "id": "bio_020_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "De binnenkant van de neusholte en de luchtpijp is bedekt met een laagje slijmvlies. Wat is een belangrijke beschermende functie van dit slijmvlies?",
+      "answers": [
+        "Het zorgt ervoor dat stofdeeltjes en bacteriën eraan blijven plakken, zodat ze niet diep in de longen komen.",
+        "Het koelt de ingeademde lucht heel snel af tot rond het vriespunt.",
+        "Het maakt zuurstofgas aan uit het bloed.",
+        "Het perst het voedsel met kracht door naar de maag."
+      ],
+      "correct_answer": 0,
+      "hint": "Slijm is plakkerig. Denk aan wat er gebeurt met vliegjes die tegen een vliegenvanger aan vliegen.",
+      "feedback_correct": "Perfect! Het slijmvlies filtert de lucht door vuil en ziekteverwekkers op te vangen.",
+      "feedback_wrong": "Slijmvlies verwarmt de lucht juist en maakt geen zuurstof. Het vangt stof en bacteriën op.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_020"
+    },
+    {
+      "id": "bio_020_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Op welke specifieke plek in het ademhalingsstelsel vindt de daadwerkelijke gaswisseling plaats?",
+      "answers": [
+        "In de longblaasjes",
+        "In de luchtpijp",
+        "In de bronchiën",
+        "In de neusamandelen"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de miljoenen piepkleine blaasjes aan het einde van de kleinste buisjes, waar bloedvaten omheen liggen.",
+      "feedback_correct": "Uitstekend! In de longblaasjes wisselen zuurstof en koolstofdioxide tussen de lucht en het bloed.",
+      "feedback_wrong": "De luchtpijp en bronchiën vervoeren de lucht alleen maar. De echte gaswisseling gebeurt in de longblaasjes.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_020"
+    },
+    {
+      "id": "bio_020_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er met het gas koolstofdioxide tijdens de gaswisseling in de longblaasjes?",
+      "answers": [
+        "Het stroomt vanuit het bloed de longblaasjes in, zodat je het kunt uitademen.",
+        "Het stroomt vanuit de lucht het bloed in om naar de spieren te gaan.",
+        "Het verandert onmiddellijk in vloeibaar maagzuur.",
+        "Het wordt opgeslagen in de kraakbeenringen."
+      ],
+      "correct_answer": 0,
+      "hint": "Koolstofdioxide is een afvalstof van de verbranding. Wil je dit in je lichaam houden of juist kwijtraken?",
+      "feedback_correct": "Klopt! Koolstofdioxide is een afvalgas en wordt via de longblaasjes uitgeademd.",
+      "feedback_wrong": "Zuurstof gaat het bloed in, koolstofdioxide gaat juist het bloed úít om uitgeademd te worden.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_020"
+    },
+    {
+      "id": "bio_020_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er met het gas zuurstof tijdens de gaswisseling in de longblaasjes?",
+      "answers": [
+        "Het stroomt vanuit de ingeademde lucht door de dunne wand heen het bloed in.",
+        "Het wordt door de trilharen direct terug de luchtpijp uit gewuifd.",
+        "Het verandert in de longen in energierijk zetmeel.",
+        "Het verlaat het lichaam via de uitwerpselen."
+      ],
+      "correct_answer": 0,
+      "hint": "Je cellen hebben zuurstof nodig voor energie. Hoe komt het gas vanuit de lucht bij je cellen?",
+      "feedback_correct": "Juist! Zuurstof passeert de flinterdunne wand van het longblaasje en wordt opgenomen in het bloed.",
+      "feedback_wrong": "Zuurstof stroomt het bloed ín om naar je cellen vervoerd te worden, het wordt niet weggewuifd of uitgepoept.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_020"
+    },
+    {
+      "id": "bio_020_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom is het biologisch gezien gezonder om door je neus in te ademen in plaats van door je mond?",
+      "answers": [
+        "In de neusholte wordt de lucht beter gefilterd, verwarmd and vochtig gemaakt door het slijmvlies.",
+        "Door de neus ademen zorgt ervoor dat je spieren geen zuurstof meer verbruiken.",
+        "Via de neus stroomt de lucht rechtstreeks naar de dikke darm in plaats van de longen.",
+        "Er is biologisch gezien totaal geen verschil tussen ademen via de neus of mond."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de aanwezigheid van neusharen en het grote oppervlak aan warm slijmvlies in je neus.",
+      "feedback_correct": "Heel goed! De neus heeft een sterke filter- en voorverwarmingsfunctie die de mond mist.",
+      "feedback_wrong": "De mond filtert minder goed. Neusademhaling beschermt je longen beter tegen kou en stof.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_020"
+    },
+    {
+      "id": "bio_020_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke piepkleine structuren wuiven het opgevangen vuile slijm uit de luchtpijp continu omhoog naar de keelholte?",
+      "answers": [
+        "Trilharen",
+        "Wortelharen",
+        "Houtvaten",
+        "Hartkleppen"
+      ],
+      "correct_answer": 0,
+      "hint": "Het zijn microscopisch kleine biologische 'borsteltjes' die op de cellen van je slijmvlies zitten.",
+      "feedback_correct": "Top! Trilharen transporteren het vuile slijm als een roltrap omhoog naar je keel.",
+      "feedback_wrong": "Wortelharen en houtvaten zijn van planten. De reinigende wapperende haartjes in je luchtwegen zijn trilharen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_020"
+    },
+    {
+      "id": "bio_020_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke soort bloedvaten ligt als een dicht netwerk strak om de longblaasjes heen om gassen uit te wisselen?",
+      "answers": [
+        "Haarvaten",
+        "Aorta-slagaders",
+        "Kransaders",
+        "Poortaders"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de allerkleinste bloedvaten met een flinterdunne wand waar we het in de vorige les over hadden.",
+      "feedback_correct": "Juist! Alleen de flinterdunne haarvaten laten gassen door voor de gaswisseling.",
+      "feedback_wrong": "Grote slagaders hebben te dikke wanden voor gasuitwisseling. Dat kan alleen via de dunne haarvaten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_020"
+    },
+    {
+      "id": "bio_020_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom hebben de longen miljoenen longblaasjes in plaats van één grote grote ballon?",
+      "answers": [
+        "Om het totale oppervlak voor gaswisseling enorm groot te maken, zodat er snel genoeg zuurstof kan worden opgenomen.",
+        "Om te voorkomen dat de longen te zwaar worden en naar beneden vallen.",
+        "Omdat de bronchiën anders geen ruimte hebben om maagsap te maken."
+      ],
+      "correct_answer": 0,
+      "hint": "Veel kleine bolletjes hebben samen veel meer buitenwand (oppervlak) dan één grote ronde zak.",
+      "feedback_correct": "Geweldig! Al die kleine blaasjes samen zorgen voor een gigantisch oppervlak voor een snelle gaswisseling.",
+      "feedback_wrong": "Het gaat om oppervlaktevergroting voor de gassen. Longen maken bovendien nooit maagsap.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_020"
+    },
+    {
+      "id": "bio_020_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wanneer iemand zich in een brandende ruimte bevindt en veel dikke, vuile rook inademt, welk onderdeel van de luchtwegen raakt dan als eerste overbelast bij het filteren van het grove stof?",
+      "answers": [
+        "Het slijmvlies met de trilharen",
+        "De harde kraakbeenringen",
+        "Het tandmerg in de kaak"
+      ],
+      "correct_answer": 0,
+      "hint": "Welk onderdeel heeft als taak om vuil en stofdeeltjes op te vangen en weg te werken?",
+      "feedback_correct": "Uitstekend! Het slijmvlies en de trilharen raken verstopt en beschadigd bij te veel rook en roet.",
+      "feedback_wrong": "Kraakbeenringen filteren niet, die houden alleen de buis open. Het slijmvlies doet het filterwerk.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_020"
+    },
+    {
+      "id": "bio_020_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "4",
+      "topic": "ademhaling",
+      "skill": "informatie_uit_bron_aflezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Kijk naar de samenstelling van ingeademde en uitgeademde lucht:\n* Ingeademde lucht: bevat 21% zuurstof en bijna geen koolstofdioxide.\n* Uitgeademde lucht: bevat 16% zuurstof en 4% koolstofdioxide.\nWelke conclusie kun je hieruit trekken over wat er in je longen gebeurt?",
+      "answers": [
+        "Je lichaam neemt een deel van de zuurstof op en geeft koolstofdioxide af.",
+        "Je lichaam maakt in de longen extra zuurstof aan.",
+        "Uitgeademde lucht bevat biologisch gezien meer zuurstof dan ingeademde lucht."
+      ],
+      "correct_answer": 0,
+      "hint": "Vergelijk de percentages: het zuurstofpercentage zakt (wordt dus gebruikt) and het koolstofdioxidepercentage stijgt.",
+      "feedback_correct": "Klopt helemaal! Het dalen van zuurstof en stijgen van koolstofdioxide bewijst dat er gaswisseling heeft plaatsgevonden.",
+      "feedback_wrong": "Het percentage zuurstof daalt van 21% naar 16%, er wordt dus zuurstof verbruikt door je lichaam, niet gemaakt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_020",
+      "image": "les_020_q12_luchtsamenstelling.png"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 1.0",
+    "notitie": "Compleet nieuwe, zelfstandige les gecreëerd om de ademhaling en gaswisseling zuiver te behandelen conform de database-afspraken v1.0.",
+    "wijziging": "Theorie en 12 vragen opgebouwd met exacte codes voor topic ademhaling en gereserveerde afbeeldingsvelden."
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "id": "mk_040",
+  "subject": "maatschappij",
+  "title": "Les 40 – De belangrijkste regels van het strafrecht",
+  "goal": "Je leert de belangrijkste basisregels van het strafrecht en begrijpt waarom deze regels belangrijk zijn in een rechtsstaat. Je leert het verschil tussen een verdachte en een veroordeelde en hoe een rechter beslist over schuld en straf.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "In de vorige les heb je geleerd waarom de rechtsstaat belangrijk is bij het bestrijden van criminaliteit. De overheid moet zich aan de wet houden en politie, Openbaar Ministerie en rechter hebben verschillende taken. In deze les leer je de belangrijkste regels van het strafrecht. Deze regels bepalen welk gedrag strafbaar is, wanneer iemand kan worden gestraft en welke rol de rechter heeft."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is strafrecht?",
+      "text": "Het strafrecht is het geheel van wettelijke regels over strafbare feiten en straffen. In deze regels staat welk gedrag strafbaar is en welke straffen of maatregelen volgens de wet mogelijk zijn. Het strafrecht geeft duidelijkheid over wat strafbaar is en beschermt burgers ook tegen straffen die niet volgens de wet zijn toegestaan."
+    },
+    {
+      "type": "explanation",
+      "title": "Wanneer is gedrag strafbaar?",
+      "text": "Een belangrijke regel van het strafrecht is dat gedrag alleen strafbaar kan zijn als daarvoor een wettelijke basis bestaat. De overheid mag niet achteraf een nieuwe strafregel bedenken om iemand te straffen voor gedrag dat op dat moment nog niet strafbaar was. Dit is onderdeel van het legaliteitsbeginsel."
+    },
+    {
+      "type": "explanation",
+      "title": "Strafbaar feit of ongewenst gedrag?",
+      "text": "Niet alles wat vervelend, onbeleefd of asociaal is, is strafbaar. Een strafbaar feit is gedrag dat volgens de wet strafbaar is. Voorbeelden zijn diefstal, vernieling, bedreiging en mishandeling. Andere gedragingen kunnen wel vervelend zijn, maar vallen niet automatisch onder het strafrecht.",
+      "items": [
+        "Strafbaar feit: gedrag dat volgens een wettelijke regel strafbaar is.",
+        "Ongewenst gedrag: gedrag dat vervelend of asociaal kan zijn, maar niet daarom automatisch strafbaar is.",
+        "Voorbeelden van ongewenst gedrag kunnen zijn: smakken tijdens het eten, voordringen of liegen tegen een vriend."
+      ]
+    },
+    {
+      "type": "explanation",
+      "title": "Verdachte betekent niet automatisch schuldig",
+      "text": "Als iemand door de politie wordt verdacht van een strafbaar feit, is die persoon een verdachte. Dat betekent nog niet dat de schuld vaststaat. De politie onderzoekt de zaak en verzamelt informatie en bewijs. Een verdachte wordt in een rechtsstaat als onschuldig behandeld totdat er volgens de wettelijke regels voldoende basis is voor een veroordeling."
+    },
+    {
+      "type": "explanation",
+      "title": "De rol van de rechter",
+      "text": "Als een strafzaak voor de rechter komt, beoordeelt de onafhankelijke rechter de zaak. De rechter kijkt onder andere naar het bewijs en naar de vraag of het gedrag volgens de wet strafbaar is. Als de rechter tot een veroordeling komt, bepaalt hij welke wettelijke straf of maatregel passend is.",
+      "items": [
+        "Is er voldoende bewijs voor een veroordeling?",
+        "Is het gedrag volgens de wet strafbaar?",
+        "Welke wettelijke straf of maatregel past bij de zaak?"
+      ]
+    },
+    {
+      "type": "explanation",
+      "title": "Waarom zijn deze regels belangrijk?",
+      "text": "De regels van het strafrecht beschermen burgers tegen willekeur en machtsmisbruik. De overheid mag iemand niet zomaar straffen omdat zij denkt dat die persoon iets heeft gedaan. Er moeten wettelijke regels zijn en bij een rechtszaak moet de rechter de zaak onafhankelijk beoordelen."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeldsituatie: het incident op het marktplein",
+      "text": "Er is een ruit ingegooid van een snackbar op het marktplein. Een getuige heeft een jongere met een zwarte jas zien wegrennen. Een paar straten verderop ziet de politie een scholier lopen met een zwarte jas. De politie houdt hem aan.",
+      "items": [
+        "De scholier is op dat moment een verdachte. Alleen het dragen van een zwarte jas is nog geen bewijs dat hij de ruit heeft ingegooid.",
+        "De politie onderzoekt de zaak en zoekt bijvoorbeeld naar camerabeelden en andere informatie.",
+        "De zaak komt voor de rechter. Uit de camerabeelden blijkt dat de echte dader een ander logo op de zwarte jas had dan de scholier.",
+        "Er is onvoldoende bewijs om de scholier voor de vernieling te veroordelen. De rechter spreekt hem vrij."
+      ],
+      "note": "Vrijspraak betekent dat er onvoldoende bewijs is voor een veroordeling. Het betekent niet automatisch dat de rechter zeker weet dat iemand het feit niet heeft gepleegd."
+    },
+    {
+      "type": "strategy",
+      "title": "Stappenplan voor een examenvraag",
+      "text": "Gebruik bij vragen over de regels van het strafrecht deze stappen:",
+      "items": [
+        "Stap 1: Kijk naar de status van de persoon. Is hij nog verdachte of heeft een rechter hem al veroordeeld?",
+        "Stap 2: Kijk of het gedrag volgens een wettelijke regel strafbaar is.",
+        "Stap 3: Kijk naar de taakverdeling. De politie onderzoekt en verzamelt informatie. Als een zaak voor de rechter komt, beoordeelt de onafhankelijke rechter de schuld en de straf."
+      ]
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_040_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.1",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een inwoner luistert in de bus zonder oortjes naar harde muziek. Andere passagiers vinden dit erg vervelend en er ontstaat een discussie. Hoort deze situatie automatisch thuis binnen het strafrecht?",
+        "context": "",
+        "answers": [
+          "Ja, want al het gedrag waarover mensen ruzie maken is strafbaar.",
+          "Nee, vervelend of onbeleefd gedrag is niet automatisch een strafbaar feit.",
+          "Ja, want de politie controleert verplicht de muziek van alle busreizigers."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan het verschil tussen iets vervelend vinden en iets dat volgens de wet strafbaar is.",
+        "feedback_correct": "Dat klopt. Niet alles wat vervelend of asociaal is, is ook strafbaar.",
+        "feedback_wrong": "Denk nog eens na over de vraag wanneer gedrag volgens het strafrecht strafbaar is.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_040_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.2",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Begrippen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een automobilist rijdt met hoge snelheid door een rood verkeerslicht. In de verkeersregels staat dat dit verboden is en er kan een wettelijke sanctie volgen. Waarom kan hiervoor een straf of andere wettelijke sanctie worden opgelegd?",
+        "context": "",
+        "answers": [
+          "Omdat de bestuurder volgens de wet een regel heeft overtreden.",
+          "Omdat de bestuurder waarschijnlijk lid is van een politieke partij.",
+          "Omdat autorijden in Nederland volgens de Grondwet verboden is."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar wat er in de wettelijke verkeersregels staat.",
+        "feedback_correct": "Juist. De bestuurder heeft een wettelijke verkeersregel overtreden.",
+        "feedback_wrong": "Kijk nog eens naar de reden waarom de overheid bij dit gedrag een wettelijke sanctie kan opleggen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_040_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.7",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Juridische status herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De politie krijgt een melding van een winkeldiefstal. Op basis van een signalement houden agenten een jongere aan en nemen hem mee naar het bureau voor verhoor. Wat is zijn juridische status op dat moment?",
+        "context": "",
+        "answers": [
+          "Hij is een veroordeelde.",
+          "Hij is een verdachte.",
+          "Hij is een onafhankelijke rechter."
+        ],
+        "correct_answer": 1,
+        "hint": "Er is nog geen uitspraak van een rechter geweest.",
+        "feedback_correct": "Goed. De jongere wordt verdacht van een strafbaar feit en is daarom een verdachte.",
+        "feedback_wrong": "Denk aan het verschil tussen iemand die wordt verdacht en iemand die al door een rechter is veroordeeld.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_040_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.5",
+        "topic": "Politie, OM en rechter",
+        "skill": "Taakverdeling herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politicus eist dat de politie een verdachte van vernieling direct tien jaar opsluit. De wijkagent zegt: \"Wij onderzoeken de zaak en verzamelen informatie. Wij bepalen niet zelf de schuld en de straf.\" Welke regel wordt hier uitgelegd?",
+        "context": "",
+        "answers": [
+          "De politie mag zelf bepalen wie wordt gestraft.",
+          "De politie onderzoekt de zaak, maar beslist niet zelf over de schuld en straf in een rechtszaak.",
+          "De politie moet de wensen van iedere politicus direct uitvoeren."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de taakverdeling tussen politie en rechter.",
+        "feedback_correct": "Klasse. De politie onderzoekt de zaak. Als de zaak voor de rechter komt, beoordeelt de onafhankelijke rechter de schuld en de straf.",
+        "feedback_wrong": "Denk nog eens na over welke taak bij de politie hoort en welke taak bij de rechter.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_040_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.5",
+        "topic": "Rechter en rechtspraak",
+        "skill": "Taak herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een rechtszaak over mishandeling is afgerond. De rechter heeft het bewijs bekeken, naar de betrokkenen geluisterd en beslist dat de verdachte schuldig is. Welke functionaris beslist in deze rechtszaak over schuld en een eventuele straf?",
+        "context": "",
+        "answers": [
+          "De officier van justitie.",
+          "De onafhankelijke rechter.",
+          "De korpschef van de politie."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de taak van de onafhankelijke rechter tijdens een rechtszaak.",
+        "feedback_correct": "Goed. In een rechtszaak beoordeelt de onafhankelijke rechter de schuld en legt hij, als dat volgens de wet passend is, een straf of maatregel op.",
+        "feedback_wrong": "Denk nog eens na over wie in een rechtszaak onafhankelijk over schuld en straf beslist.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_040_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.3",
+        "topic": "Straffen en maatregelen",
+        "skill": "Rechtsregel toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een rechter zegt tegen een verdachte: \"Ik vind je gedrag zo irritant dat ik je verbied om de komende tien jaar vlees te eten.\" Waarom past deze straf niet bij de regels van het strafrecht?",
+        "context": "",
+        "answers": [
+          "Omdat een rechter alleen een straf of maatregel mag opleggen die volgens de wet mogelijk is.",
+          "Omdat rechters verplicht zijn om dieven een nieuwe fiets te geven.",
+          "Omdat een advocaat altijd de hoogste baas is in een rechtszaak."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de regel dat een rechter zich bij straffen aan de wet moet houden.",
+        "feedback_correct": "Precies. Een rechter mag niet zomaar zelf een straf bedenken die niet volgens de wet mogelijk is.",
+        "feedback_wrong": "Denk aan de wettelijke grenzen waarbinnen een rechter een straf kan opleggen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_040_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.3",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Gevolg van een rechtsregel herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een burger zegt: \"Als de politie je oppakt met een gestolen tas in je handen, ben je voor mij direct een veroordeelde crimineel. Een rechtszaak is dan niet nodig.\" Wat is een belangrijk risico als we de regel dat een verdachte niet automatisch schuldig is zouden afschaffen?",
+        "context": "",
+        "answers": [
+          "Dat de overheid meer belastinggeld nodig heeft.",
+          "Dat een onschuldige burger door een fout, misverstand of valse beschuldiging kan worden gestraft zonder onafhankelijke beoordeling.",
+          "Dat de politie alle tassen in Nederland gratis moet weggeven."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan wat er kan gebeuren als een vermoeden direct als schuld wordt gezien.",
+        "feedback_correct": "Juist. De rechtsstaat beschermt burgers tegen fouten en willekeur door niet zomaar van een verdenking een schuld te maken.",
+        "feedback_wrong": "Denk aan het risico dat ontstaat wanneer een verdenking meteen als bewezen schuld wordt behandeld.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_040_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.7",
+        "topic": "Verdachten en hun rechten",
+        "skill": "Gegevens vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke juridische status hoort bij Burger X en Burger Y?",
+        "context": "Burger X wordt door de politie verhoord omdat zijn vingerafdrukken op een ingeslagen autoruit zijn gevonden. Er is nog geen rechtszaak geweest.\nBurger Y is door de rechtbank officieel schuldig bevonden aan een inbraak en heeft een taakstraf gekregen.",
+        "answers": [
+          "Burger X is een veroordeelde en Burger Y is een verdachte.",
+          "Burger X is een verdachte en Burger Y is een veroordeelde.",
+          "Beide burgers zijn onafhankelijke rechters."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk of er bij beide burgers al een uitspraak van de rechter is geweest.",
+        "feedback_correct": "Juist. X wordt nog verdacht en Y is al door de rechter veroordeeld.",
+        "feedback_wrong": "Let op of de rechter al een uitspraak heeft gedaan bij de twee burgers.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_040_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.3",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Rechtsregel herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een overheid maakt een nieuwe wet waarin staat dat het sturen van een bedreigend bericht via sociale media strafbaar is. De wet gaat vanaf vandaag gelden. Welke belangrijke regel van het strafrecht zie je hierin terug?",
+        "context": "",
+        "answers": [
+          "Gedrag kan strafbaar worden gesteld door dit vooraf in een wettelijke regel vast te leggen.",
+          "De politie mag zelf bepalen welke nieuwe strafbare feiten er zijn.",
+          "De ministers mogen alle computers van burgers vernietigen."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan het legaliteitsbeginsel: wanneer moet de wettelijke regel bestaan?",
+        "feedback_correct": "Goed. Het gedrag wordt door een wettelijke regel strafbaar gesteld voordat mensen op basis daarvan kunnen worden gestraft.",
+        "feedback_wrong": "Denk aan de regel dat strafbaarheid een wettelijke basis moet hebben.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_040_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Rechter en rechtspraak",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke conclusie kun je rechtstreeks uit deze gegevens trekken?",
+        "context": "In een voorbeeldsituatie zijn 40 strafzaken door de rechter behandeld. In 25 zaken volgde een veroordeling. In 15 zaken volgde een vrijspraak omdat er onvoldoende bewijs was voor een veroordeling.",
+        "answers": [
+          "De politie had in alle 40 zaken gelijk, omdat iedereen die wordt opgepakt automatisch schuldig is.",
+          "De rechter beoordeelde de zaken afzonderlijk en sprak in 15 zaken vrij omdat er onvoldoende bewijs was voor een veroordeling.",
+          "De gegevens bewijzen dat 15 rechters door de politie zijn ontslagen."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar wat er met de 15 zaken zonder voldoende bewijs gebeurde.",
+        "feedback_correct": "Goed. De gegevens laten zien dat niet iedere verdachte werd veroordeeld. In 15 zaken was er onvoldoende bewijs voor een veroordeling.",
+        "feedback_wrong": "Kijk nog eens naar de 15 zaken waarin geen veroordeling volgde en wat daar volgens de gegevens de reden voor was.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Wat moet je onthouden?",
+      "text": "Strafrecht is het geheel van wettelijke regels over strafbare feiten en straffen. Gedrag kan alleen strafbaar zijn als daarvoor een wettelijke basis bestaat. Een verdachte is iemand die wordt verdacht van een strafbaar feit; een verdachte is niet automatisch schuldig. Als een zaak voor de rechter komt, beoordeelt de onafhankelijke rechter het bewijs en beslist hij over een veroordeling en een eventuele wettelijke straf of maatregel. Deze regels beschermen burgers tegen willekeur en machtsmisbruik."
+    }
+  ]
+}

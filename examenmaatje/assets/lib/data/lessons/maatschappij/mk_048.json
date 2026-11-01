@@ -1,0 +1,340 @@
+{
+  "id": "mk_048",
+  "subject": "maatschappij",
+  "title": "Les 48 – Criminaliteit voorkomen: preventie en aanpak",
+  "goal": "Je leert wat preventie is, hoe criminaliteit kan worden aangepakt en welke rol de overheid, politie, justitie, reclassering en burgers daarbij kunnen hebben.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Criminaliteit voorkomen",
+      "text": "Criminaliteit kun je niet altijd voorkomen. Wel kunnen mensen en organisaties maatregelen nemen om de kans op strafbare feiten kleiner te maken. Ook na een strafbaar feit zijn er verschillende manieren om de zaak aan te pakken."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is preventie?",
+      "text": "Preventie betekent: proberen te voorkomen dat iets gebeurt. Bij criminaliteit gaat het om maatregelen die de kans op een strafbaar feit kleiner maken. Preventie gebeurt dus voordat een strafbaar feit wordt gepleegd.",
+      "examples": [
+        "goede verlichting op donkere plekken",
+        "camera's op plaatsen waar toezicht nodig is",
+        "een bewaakte fietsenstalling",
+        "goede sloten",
+        "voorlichting op school",
+        "toezicht door bijvoorbeeld een BOA"
+      ],
+      "note": "Preventie geeft geen garantie dat criminaliteit helemaal verdwijnt. Het doel is de kans op een strafbaar feit kleiner te maken."
+    },
+    {
+      "type": "explanation",
+      "title": "Hoe kun je criminaliteit voorkomen?",
+      "text": "Preventie kan op verschillende manieren. Een omgeving kan veiliger worden gemaakt, er kan meer toezicht zijn en mensen kunnen informatie krijgen over risico's. Ook burgers kunnen zelf maatregelen nemen, bijvoorbeeld door hun fiets goed op slot te zetten."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat gebeurt er na een strafbaar feit?",
+      "text": "Na een strafbaar feit kan de politie onderzoek doen. Het Openbaar Ministerie behandelt de strafzaak en kan bijvoorbeeld besluiten de zaak niet te vervolgen, een strafbeschikking uit te vaardigen of de zaak aan de rechter voor te leggen. Als de zaak bij de rechter komt, beoordeelt een onafhankelijke rechter de zaak en kan de rechter een straf of maatregel opleggen als aan de wettelijke voorwaarden is voldaan."
+    },
+    {
+      "type": "explanation",
+      "title": "De rol van de reclassering",
+      "text": "De reclassering kan in bepaalde situaties adviseren over een verdachte of veroordeelde en toezicht houden op afspraken en voorwaarden. Ook kan de reclassering iemand begeleiden om de kans op nieuwe strafbare feiten kleiner te maken. Niet iedere verdachte of veroordeelde krijgt begeleiding van de reclassering."
+    },
+    {
+      "type": "explanation",
+      "title": "Hulp inschakelen",
+      "text": "Ook burgers kunnen helpen om criminaliteit te voorkomen of om een strafbaar feit te melden. Bij een directe noodsituatie kun je de hulpdiensten inschakelen. Bij een situatie die niet direct dringend is, kun je contact opnemen met de politie via de daarvoor bestemde kanalen. Je kunt ook informatie doorgeven als je iets verdachts hebt gezien. Zo kunnen burgers helpen bij het voorkomen en opsporen van strafbare feiten."
+    },
+    {
+      "type": "example",
+      "title": "Voorbeeld: fietsdiefstal bij een station",
+      "text": "Bij een station worden regelmatig fietsen gestolen. De gemeente zorgt voor betere verlichting en meer toezicht. Ook kunnen fietsen in een bewaakte stalling worden geplaatst en kunnen fietsers hun fiets goed op slot zetten. Dit zijn voorbeelden van preventie.",
+      "follow_up": "Wordt er toch een fiets gestolen, dan kan de politie onderzoek doen. Het Openbaar Ministerie behandelt de zaak. Als de zaak bij de rechter komt, beoordeelt de rechter de zaak. In sommige situaties kan de reclassering daarna of tijdens een voorwaardelijke straf een rol hebben."
+    },
+    {
+      "type": "explanation",
+      "title": "Verschillende maatregelen",
+      "text": "Bij de aanpak van criminaliteit kunnen verschillende maatregelen naast elkaar worden gebruikt. Preventie probeert strafbare feiten te voorkomen. Na een strafbaar feit kunnen opsporing, vervolging en berechting een rol spelen. In bepaalde situaties kan ook begeleiding door de reclassering onderdeel zijn van de aanpak.",
+      "note": "Er is dus geen vaste volgorde die bij iedere zaak precies hetzelfde is."
+    },
+    {
+      "type": "strategy",
+      "title": "Handige manier om een vraag te bekijken",
+      "text": "Let bij vragen goed op wanneer een maatregel wordt genomen. Gebeurt iets voordat een strafbaar feit wordt gepleegd? Dan gaat het vaak om preventie. Gebeurt iets nadat er een strafbaar feit is gepleegd? Kijk dan of het gaat om opsporing, vervolging, berechting, een straf of begeleiding."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_048_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.11",
+        "topic": "Aanpak van criminaliteit",
+        "skill": "Herkennen van preventieve maatregelen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een donker park wordt extra verlichting geplaatst omdat er regelmatig fietsen worden gestolen. Wat is het doel van deze maatregel?",
+        "context": "",
+        "answers": [
+          "Een straf opleggen aan iemand die al veroordeeld is.",
+          "De kans op een strafbaar feit kleiner maken.",
+          "Een rechter helpen om een uitspraak te doen."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar het moment waarop de maatregel wordt genomen.",
+        "feedback_correct": "Goed! Extra verlichting is een preventieve maatregel. Het doel is de kans op een strafbaar feit kleiner te maken.",
+        "feedback_wrong": "Denk na over het doel van de verlichting en of de maatregel vóór of na een strafbaar feit wordt genomen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_048_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.11",
+        "topic": "Aanpak van criminaliteit",
+        "skill": "Herkennen van voorlichting als preventie",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De politie geeft op een school voorlichting over hoe jongeren kunnen voorkomen dat ze worden gebruikt als geldezel. Wat is het belangrijkste doel hiervan?",
+        "context": "",
+        "answers": [
+          "Een strafbaar feit dat al is onderzocht verder behandelen.",
+          "Iemand begeleiden die al een straf heeft gekregen.",
+          "Door informatie te geven proberen te voorkomen dat strafbare feiten ontstaan."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan de betekenis van preventie.",
+        "feedback_correct": "Goed! Voorlichting kan helpen om risico's te herkennen en zo strafbare feiten te voorkomen.",
+        "feedback_wrong": "Kijk of de politie hier vooral informatie geeft om problemen vooraf te voorkomen of een zaak achteraf te behandelen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_048_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.11",
+        "topic": "Aanpak van criminaliteit",
+        "skill": "Herkennen van de rol van burgers",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Sam zet zijn elektrische fiets altijd goed op slot en parkeert hem op een goed verlichte plaats. Welke rol heeft Sam hiermee?",
+        "context": "",
+        "answers": [
+          "Hij neemt zelf een preventieve maatregel.",
+          "Hij voert een opsporingsonderzoek uit.",
+          "Hij houdt namens de rechter toezicht op verdachten."
+        ],
+        "correct_answer": 0,
+        "hint": "Sam probeert zelf de kans op diefstal kleiner te maken.",
+        "feedback_correct": "Goed! Sam neemt zelf een maatregel om de kans op diefstal kleiner te maken.",
+        "feedback_wrong": "Kijk naar wat Sam zelf doet en welk doel hij daarmee heeft.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_048_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.11",
+        "topic": "Politie en opsporing",
+        "skill": "Herkennen van opsporing",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bij een winkelinbraak onderzoekt de politie camerabeelden en zoekt naar vingerafdrukken. Waar is de politie dan vooral mee bezig?",
+        "context": "",
+        "answers": [
+          "Met preventie.",
+          "Met opsporing.",
+          "Met begeleiding door de reclassering."
+        ],
+        "correct_answer": 1,
+        "hint": "De politie probeert informatie en bewijs over het strafbare feit te vinden.",
+        "feedback_correct": "Goed! De politie onderzoekt wat er is gebeurd en zoekt naar informatie en bewijs.",
+        "feedback_wrong": "Denk na over het verschil tussen iets vooraf voorkomen en onderzoek doen naar iets dat al is gebeurd.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_048_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.10",
+        "topic": "Reclassering",
+        "skill": "Herkennen van de rol van de reclassering",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een jongvolwassene krijgt een taakstraf en moet zich daarnaast aan bepaalde voorwaarden houden. De reclassering houdt toezicht op de afspraken en begeleidt hem. Wat doet de reclassering hier?",
+        "context": "",
+        "answers": [
+          "Een strafbaar feit opsporen.",
+          "Een nieuwe wet maken.",
+          "Begeleiden en toezicht houden."
+        ],
+        "correct_answer": 2,
+        "hint": "Kijk naar de twee taken die in het voorbeeld worden genoemd.",
+        "feedback_correct": "Goed! In deze situatie begeleidt de reclassering de persoon en houdt zij toezicht op de gemaakte afspraken.",
+        "feedback_wrong": "Kijk naar de werkzaamheden die in het voorbeeld staan. Gaat het om onderzoek, wetten maken of begeleiding en toezicht?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_048_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.11",
+        "topic": "Aanpak van criminaliteit",
+        "skill": "Verschil herkennen tussen preventie en aanpak na een strafbaar feit",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke situatie is een goed voorbeeld van preventie?",
+        "context": "Maatregel X: de gemeente zorgt voor betere verlichting en meer toezicht bij een winkelcentrum. Maatregel Y: na een inbraak onderzoekt de politie de camerabeelden en wordt de zaak verder behandeld.",
+        "answers": [
+          "Maatregel X is preventie en maatregel Y hoort bij de aanpak nadat een strafbaar feit is gepleegd.",
+          "Maatregel X hoort bij de aanpak nadat een strafbaar feit is gepleegd en maatregel Y is preventie.",
+          "Beide maatregelen zijn vormen van begeleiding door de reclassering."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk welke maatregel wordt genomen voordat er een strafbaar feit is gepleegd.",
+        "feedback_correct": "Goed! Maatregel X probeert problemen vooraf te voorkomen. Maatregel Y gaat over een strafbaar feit dat al is gepleegd.",
+        "feedback_wrong": "Let goed op wanneer de maatregelen worden genomen: vóór of nadat een strafbaar feit heeft plaatsgevonden.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_048_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.11",
+        "topic": "Aanpak van criminaliteit",
+        "skill": "Begrijpen van het doel en de beperking van preventie",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente plaatst camera's om diefstal op een plein te helpen voorkomen. Welke uitspraak klopt?",
+        "context": "",
+        "answers": [
+          "Camera's zijn alleen toegestaan nadat iemand is veroordeeld.",
+          "Door camera's kan er geen diefstal meer plaatsvinden.",
+          "Camera's kunnen de kans op criminaliteit kleiner maken, maar geven geen garantie."
+        ],
+        "correct_answer": 2,
+        "hint": "Preventie probeert iets te voorkomen, maar werkt niet altijd volledig.",
+        "feedback_correct": "Goed! Een preventieve maatregel kan de kans op criminaliteit verkleinen, maar voorkomt niet gegarandeerd ieder strafbaar feit.",
+        "feedback_wrong": "Denk na over wat het woord 'preventie' betekent. Het gaat om proberen te voorkomen, niet om een absolute garantie.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_048_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.11",
+        "topic": "Politie en opsporing",
+        "skill": "Herkennen van opsporingsactiviteiten",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een fiets wordt gestolen. De politie bekijkt camerabeelden en zoekt naar aanwijzingen over wat er is gebeurd. Waar is de politie vooral mee bezig?",
+        "context": "",
+        "answers": [
+          "Met opsporing.",
+          "Met preventie.",
+          "Met resocialisatie."
+        ],
+        "correct_answer": 0,
+        "hint": "De politie onderzoekt een strafbaar feit dat al heeft plaatsgevonden.",
+        "feedback_correct": "Goed! De politie onderzoekt wat er is gebeurd en zoekt naar aanwijzingen. Dat hoort bij opsporing.",
+        "feedback_wrong": "Denk na over het verschil tussen voorkomen, onderzoeken en begeleiden.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_048_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2.10 en 8.2.11",
+        "topic": "Aanpak van criminaliteit",
+        "skill": "Begrijpen waarom verschillende maatregelen kunnen worden gebruikt",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Waarom kunnen verschillende maatregelen samen worden gebruikt bij de aanpak van criminaliteit?",
+        "context": "",
+        "answers": [
+          "Omdat één maatregel altijd alle criminaliteit voorkomt.",
+          "Omdat verschillende maatregelen verschillende problemen en momenten van de aanpak kunnen ondersteunen.",
+          "Omdat burgers zelf geen verantwoordelijkheid hebben."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan het verschil tussen voorkomen, opsporen en begeleiden.",
+        "feedback_correct": "Goed! Verschillende maatregelen kunnen elkaar aanvullen, bijvoorbeeld door preventie te combineren met opsporing en in bepaalde situaties begeleiding.",
+        "feedback_wrong": "Denk aan de verschillende manieren waarop criminaliteit kan worden voorkomen of aangepakt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_048_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Aanpak van criminaliteit",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Na extra verlichting en toezicht bij een fietsenstalling worden in de volgende maand minder fietsdiefstallen gemeld. Welke conclusie kun je rechtstreeks uit deze gegevens trekken?",
+        "context": "Voor de maatregelen werden 20 fietsdiefstallen gemeld. Na de maatregelen werden 12 fietsdiefstallen gemeld.",
+        "answers": [
+          "Na de maatregelen zijn minder fietsdiefstallen gemeld.",
+          "De maatregelen hebben bewezen dat alle fietsdiefstal is voorkomen.",
+          "De politie heeft alle daders van de fietsdiefstallen gevonden."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk alleen naar wat de cijfers rechtstreeks laten zien.",
+        "feedback_correct": "Goed! De gegevens laten zien dat er na de maatregelen minder fietsdiefstallen zijn gemeld.",
+        "feedback_wrong": "Kijk alleen naar de aantallen vóór en na de maatregelen. Trek geen conclusie die niet in de gegevens staat.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Samenvatting",
+      "text": "Preventie betekent dat je probeert een strafbaar feit te voorkomen. Dat kan bijvoorbeeld met verlichting, toezicht, beveiliging en voorlichting. Na een strafbaar feit kunnen politie en Openbaar Ministerie een zaak onderzoeken en behandelen. Als een zaak bij de rechter komt, beoordeelt een onafhankelijke rechter de zaak. In bepaalde situaties kan de reclassering adviseren, begeleiden en toezicht houden. Ook burgers kunnen bijdragen aan het voorkomen en melden van strafbare feiten.",
+      "tip": "Onthoud vooral: vóór een strafbaar feit → denk aan preventie. Na een strafbaar feit → denk aan opsporing, vervolging, berechting en eventueel begeleiding."
+    }
+  ]
+}

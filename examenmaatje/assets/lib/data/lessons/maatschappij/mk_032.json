@@ -1,0 +1,328 @@
+{
+  "id": "mk_032",
+  "subject": "maatschappij",
+  "title": "Les 32 – Wat is criminaliteit?",
+  "goal": "Je leert wat criminaliteit is en wanneer gedrag officieel strafbaar is. Je leert het verschil te herkennen tussen crimineel gedrag en gedrag dat alleen maar vervelend of ongewenst is.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat is criminaliteit?",
+      "text": "We beginnen vandaag aan een heel nieuw thema in de app: Criminaliteit en rechtsstaat. Je hoort of leest er elke dag wel iets over. Een gestolen fatbike, een ingegooide ruit bij een bushokje of graffiti op een trein. Maar wat is criminaliteit nou precies? Is het ook criminaliteit als je broertje stiekem jouw favoriete trui pakt zonder het te vragen? Of als iemand in de bus heel harde muziek luistert via zijn telefoon? In deze les leer je waar de grens ligt tussen onbeleefd gedrag en strafbaar gedrag, en waarom de overheid wetten nodig heeft om dit te regelen."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is criminaliteit?",
+      "text": "Criminaliteit is al het gedrag dat door de overheid in de wet strafbaar is gesteld. Als je gedrag vertoont dat volgens de wet verboden is, pleeg je een strafbaar feit. De overheid schrijft deze regels op in wetten en wetboeken, zoals het Wetboek van Strafrecht."
+    },
+    {
+      "type": "explanation",
+      "title": "Strafbaar versus vervelend",
+      "text": "Er is een belangrijk verschil tussen gedrag dat wettelijk strafbaar is en gedrag dat we alleen maar asociaal, vervelend of ongewenst vinden. Strafbaar gedrag is gedrag dat volgens de wet verboden is. Voorbeelden zijn een telefoon stelen uit iemands jas, een ruit vernielen of iemand bedreigen met geweld. Voor zulke feiten kan de overheid een straf opleggen. Vervelend gedrag kan wel zorgen voor ruzie of problemen, maar is niet automatisch criminaliteit. Voordringen in de rij bij de supermarkt, liegen tegen je vrienden of je kamer niet opruimen zijn bijvoorbeeld niet zomaar strafbare feiten."
+    },
+    {
+      "type": "explanation",
+      "title": "Waarom bestaan wetten en regels?",
+      "text": "De overheid maakt strafwetten om de samenleving te beschermen en regels te stellen voor gedrag dat strafbaar is. Wetten helpen om orde en veiligheid te bewaren. Wetten kunnen in de loop van de tijd ook veranderen. Als er nieuwe problemen ontstaan, kan de politiek besluiten om wetten aan te passen of nieuwe regels te maken."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld 1: diefstal",
+      "text": "Een jongere loopt een elektronicawinkel binnen. Hij stopt stiekem een setje draadloze oordopjes in zijn zak en loopt zonder te betalen langs de kassa. Dit is diefstal. Diefstal is volgens de wet een strafbaar feit en hoort daarom bij criminaliteit."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld 2: onaardig gedrag",
+      "text": "Twee leerlingen krijgen op het schoolplein een felle ruzie over een voetbalwedstrijd. Een van de leerlingen roept boos: \"Ik vind jou echt een verschrikkelijke verliezer!\" Dit is onaardig en ongewenst gedrag op school, maar op zichzelf geen strafbaar feit. Het is dus geen criminaliteit."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld 3: verkeersregel",
+      "text": "Een scholier fietst 's avonds in het donker naar huis zonder dat zijn voorlicht en achterlicht werken. Een politieagent houdt hem tegen en schrijft een boete uit. Fietsen zonder licht is een overtreding van een verkeersregel en kan daarom strafbaar zijn. Ook verkeersovertredingen kunnen dus onder strafbare feiten vallen."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo herken je criminaliteit",
+      "text": "Vraag jezelf bij een situatie eerst af: is het gedrag volgens de wet strafbaar? Zo ja, dan kan het om een strafbaar feit gaan. Is het gedrag alleen vervelend, onaardig of ongewenst, maar is het niet strafbaar gesteld? Dan is het geen criminaliteit."
+    },
+    {
+      "type": "explanation",
+      "title": "Gegevens over mensen",
+      "text": "In wetten over bijvoorbeeld privacy kom je het woord persoonsgegevens tegen. Persoonsgegevens zijn gegevens die iets over een persoon vertellen, zoals een naam, adres of geboortedatum."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_032_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.1",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Begrippen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een examenboek staat de volgende definitie: \"Al het menselijk gedrag dat door de overheid officieel is opgeschreven in de wet als verboden en waarvoor je een straf kunt krijgen.\" Welk maatschappelijk begrip hoort het best bij deze definitie?",
+        "context": "",
+        "answers": [
+          "Een maatschappelijk belang.",
+          "Criminaliteit (of strafbaar gedrag).",
+          "Een politiek standpunt."
+        ],
+        "correct_answer": 1,
+        "hint": "De definitie spreekt over gedrag dat officieel verboden is in de wet en waarvoor je een straf kunt krijgen.",
+        "feedback_correct": "Dat klopt! Gedrag dat volgens de wet strafbaar is gesteld, hoort bij criminaliteit of strafbaar gedrag.",
+        "feedback_wrong": "Kijk goed naar de omschrijving. Het gaat om gedrag dat volgens de wet verboden is en waarvoor een straf kan worden opgelegd.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_032_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.1",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Strafbaar en niet-strafbaar gedrag onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een inwoner is heel erg lui en weigert om 's ochtends zijn eigen bed op te maken. Zijn ouders vinden dit gedrag ontzettend vervelend en asociaal, en er ontstaat dagelijks ruzie over in huis. Is het gedrag van deze inwoner een voorbeeld van criminaliteit?",
+        "context": "",
+        "answers": [
+          "Ja, want alles wat ouders vervelend vinden is automatisch een zware misdaad in Nederland.",
+          "Nee, want dit gedrag staat niet als strafbaar feit in de wet; het is een persoonlijk probleem en geen criminaliteit.",
+          "Ja, want de politie controleert elke ochtend de slaapkamers van burgers."
+        ],
+        "correct_answer": 1,
+        "hint": "Vraag jezelf af: is er een wet die burgers verplicht om hun bed op te maken?",
+        "feedback_correct": "Juist! Niet ieder vervelend of ongewenst gedrag is strafbaar. Je bed niet opmaken is geen strafbaar feit.",
+        "feedback_wrong": "Kijk naar het verschil tussen gedrag dat alleen vervelend is en gedrag dat volgens de wet strafbaar is.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_032_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.2",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Strafbaar gedrag herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Iemand gebruikt een spuitbus met verf om een grote tag (graffiti) op de muur van een gloednieuw winkelcentrum te spuiten. De eigenaar van het gebouw moet veel geld betalen om de muur weer schoon te maken. Wat voor soort gedrag laat de dader in deze voorbeeldsituatie zien?",
+        "context": "",
+        "answers": [
+          "Dit is alleen maar onaardig gedrag waar de wet niks over zegt.",
+          "Dit is een strafbaar feit (vernieling), want je mag andermans eigendommen volgens de wet niet beschadigen.",
+          "Dit is een politieke boodschap die verplicht is voor alle kunstenaars."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk na over de vraag of het beschadigen van andermans eigendom volgens de wet strafbaar kan zijn.",
+        "feedback_correct": "Goed gekeken! Het opzettelijk beschadigen van andermans eigendom kan een strafbaar feit zijn, zoals vernieling.",
+        "feedback_wrong": "Kijk naar de vraag of het beschadigen van andermans eigendom volgens de wet strafbaar is.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_032_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.1",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Overtredingen en misdrijven onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat is het verschil tussen een overtreding en een misdrijf?",
+        "context": "",
+        "answers": [
+          "Een misdrijf is in het algemeen een ernstiger strafbaar feit dan een overtreding.",
+          "Een overtreding is altijd strafbaar, maar een misdrijf niet.",
+          "Een misdrijf wordt alleen door jongeren gepleegd."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan het verschil tussen een verkeersovertreding, zoals fietsen zonder licht, en een ernstiger strafbaar feit, zoals diefstal.",
+        "feedback_correct": "Goed gedaan! Zowel overtredingen als misdrijven zijn strafbare feiten. Een misdrijf is in het algemeen ernstiger dan een overtreding.",
+        "feedback_wrong": "Denk eraan dat beide soorten strafbare feiten zijn. Kijk nog eens naar het verschil in ernst.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_032_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.1",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Strafbaar en niet-strafbaar gedrag onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Twee automobilisten hebben op een parkeerplaats een botsing gehad door een stuurfout. Er is blikschade aan de auto's, maar niemand is gewond en er is geen alcohol in het spel. Zij stappen uit en vullen rustig samen een schadeformulier in voor de verzekering. Is deze botsing en de schade een voorbeeld van criminaliteit?",
+        "context": "",
+        "answers": [
+          "Ja, want elk ongeluk in het verkeer is een zware opzettelijke misdaad waar je direct voor de rechter moet komen.",
+          "Nee, dit is een ongeluk en een conflict over schade dat burgers via de verzekering oplossen; in deze situatie wordt geen strafbaar feit genoemd.",
+          "Ja, want schadeformulieren invullen is volgens het Wetboek van Strafrecht verboden."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk of in de situatie een strafbaar feit wordt genoemd. Een ongeluk en schade betekenen niet automatisch dat er sprake is van criminaliteit.",
+        "feedback_correct": "Uitstekend! Niet elk probleem, ongeluk of financieel conflict is criminaliteit. In deze situatie wordt geen strafbaar feit genoemd.",
+        "feedback_wrong": "Kijk nog eens naar de situatie. Gaat het hier om een strafbaar feit, of om een ongeluk waarbij de schade via de verzekering wordt geregeld?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_032_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.2",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Regels van de rechtsstaat toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een burger zegt in een interview op straat: \"Ik vind dat de politie veel strenger moet optreden. Gisteren liep er een man in de winkel die heel erg hard stonk naar zweet. De politie had die man direct in de boeien moeten slaan en een week in de cel moeten stoppen.\" Waarom mag de politie de stinkende man niet zomaar opsluiten in een rechtsstaat?",
+        "context": "",
+        "answers": [
+          "Omdat de politie alleen mensen mag opsluiten die kleding dragen die ouder is dan tien jaar.",
+          "Omdat stinken naar zweet wel heel erg vervelend en ongewenst is, maar het staat niet als strafbaar feit in de wet. De overheid mag je dus niet zomaar straffen.",
+          "Omdat de man waarschijnlijk een politicus is van de Rijksoverheid."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk terug aan Les 15 over de rechtsstaat. De overheid mag burgers alleen straffen op basis van wetten die daarvoor bestaan.",
+        "feedback_correct": "Heel scherp! In een rechtsstaat mag de overheid niet zomaar iemand straffen voor gedrag dat niet als strafbaar feit in de wet staat.",
+        "feedback_wrong": "Denk aan het belangrijkste verschil uit deze les: iets kan heel vervelend zijn zonder dat het volgens de wet strafbaar is.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_032_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.1",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Gegevens vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar deze twee situaties. Burger X dringt brutaal voor bij de kassa van de avondwinkel en lacht de mensen achter hem uit. Burger Y loopt met een groot mes over het schoolplein en roept tegen een leerling: \"Als je niet luistert, steek ik je neer.\" Welke van deze twee burgers pleegt een handeling die onder criminaliteit valt?",
+        "context": "",
+        "answers": [
+          "Alleen Burger X, want voordringen is de zwaarste misdaad van ons land.",
+          "Alleen Burger Y, want bedreiging met geweld is strafbaar.",
+          "Beide burgers plegen een misdaad die in het Wetboek van Strafrecht staat."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan het verschil tussen gedrag dat alleen brutaal of asociaal is en gedrag waarbij iemand met geweld wordt bedreigd.",
+        "feedback_correct": "Juist! Bedreiging met geweld kan een strafbaar feit zijn. Voordringen is wel asociaal, maar op zichzelf geen strafbaar feit.",
+        "feedback_wrong": "Vergelijk de twee situaties met de hoofdregel van deze les: welk gedrag is volgens de wet strafbaar?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_032_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Standpunten en argumenten",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een inwoner schrijft in een online bericht: \"Ik vind wetten en regels tegen criminaliteit maar grote onzin. De overheid moet alle wetboeken direct verbranden, zodat iedereen gewoon helemaal zelf kan beslissen wat hij doet op straat.\" Wat is het standpunt van deze inwoner over het bestaan van wetten?",
+        "context": "",
+        "answers": [
+          "Hij vindt wetten en regels heel erg belangrijk om burgers te beschermen.",
+          "Hij heeft een negatief standpunt en wil dat alle wetboeken direct verdwijnen.",
+          "Er staat geen standpunt van de inwoner in deze tekst."
+        ],
+        "correct_answer": 1,
+        "hint": "Een standpunt is de mening van iemand. Kijk naar wat de inwoner zegt over wetten en wetboeken.",
+        "feedback_correct": "Goed nagedacht! De inwoner neemt duidelijk een negatief standpunt in over het bestaan van wetten en regels.",
+        "feedback_wrong": "Kijk goed naar de mening van de inwoner. Wat vindt hij van wetten en wat wil hij ermee doen?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_032_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Standpunten en argumenten",
+        "skill": "Argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk nog een keer naar het standpunt van de inwoner uit Vraag 8. Een andere burger gebruikt een tegenargument: \"Als je alle wetboeken verbrandt, ontstaat er direct een enorme chaos waarin sterke criminelen de baas worden over zwakke burgers, omdat er geen politie of rechter meer is om ons te beschermen.\" Wat is het argument dat deze tweede burger gebruikt om het bestaan van wetten te verdedigen?",
+        "context": "",
+        "answers": [
+          "Dat wetten ervoor zorgen dat de overheid meer geld verdient via de belastingen.",
+          "Het feit dat wetten noodzakelijk zijn om chaos te voorkomen en zwakke burgers te beschermen tegen criminelen.",
+          "Dat politieagenten veel te weinig vakantiedagen krijgen in de winter."
+        ],
+        "correct_answer": 1,
+        "hint": "Zoek naar de reden die de tweede burger noemt. Waar waarschuwt hij voor als er geen wetten meer zijn?",
+        "feedback_correct": "Goed! De burger gebruikt de bescherming van burgers en het voorkomen van chaos als argument voor het bestaan van wetten.",
+        "feedback_wrong": "Zoek naar de reden die de tweede burger geeft. Waarvoor waarschuwt hij als er geen wetten meer zijn?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_032_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.10",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Gegevens aflezen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar deze gegevens over geregistreerde strafbare feiten in een wijk over de afgelopen maand: Diefstallen (fietsen en winkels): 80 meldingen. Vernielingen (bushokjes en auto's): 35 meldingen. Bedreigingen op straat: 12 meldingen. Welke conclusie over de soorten criminaliteit in deze wijk kun je rechtstreeks aflezen uit de cijfers?",
+        "context": "",
+        "answers": [
+          "Diefstal is de grootste en meest voorkomende categorie van geregistreerde criminaliteit in deze wijk.",
+          "Bedreiging is de belangrijkste oorzaak dat de huizenprijzen in de wijk dalen.",
+          "Er is die maand helemaal geen criminaliteit gepleegd in de wijk doordat alle getallen onder de 100 staan."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar de drie aantallen. Welke categorie heeft het hoogste aantal geregistreerde meldingen?",
+        "feedback_correct": "Goed gedaan! Met 80 meldingen is diefstal de grootste categorie van geregistreerde strafbare feiten in deze gegevens.",
+        "feedback_wrong": "Kies alleen een conclusie die je rechtstreeks uit de cijfers kunt aflezen. Kijk welke categorie het hoogste aantal meldingen heeft.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Dit moet je onthouden",
+      "text": "Criminaliteit is al het gedrag dat door de overheid officieel strafbaar is gesteld in de wet. Gedrag is pas een strafbaar feit als het volgens de wet verboden is. Als iets alleen maar asociaal, onaardig of brutaal is, zoals voordringen, is het niet automatisch criminaliteit. De overheid maakt strafwetten om de samenleving te beschermen en orde en veiligheid te bewaren. Wetten kunnen veranderen als de samenleving verandert of als er nieuwe problemen ontstaan."
+    }
+  ]
+}

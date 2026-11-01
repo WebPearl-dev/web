@@ -1,0 +1,328 @@
+{
+  "id": "mk_036",
+  "subject": "maatschappij",
+  "title": "Les 36 – Gevolgen van criminaliteit",
+  "goal": "Je leert welke gevolgen criminaliteit kan hebben voor slachtoffers, hun omgeving, bedrijven en de samenleving. Je leert ook het verschil tussen materiële en immateriële schade.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Criminaliteit heeft gevolgen",
+      "text": "Criminaliteit raakt niet alleen de dader en het directe slachtoffer. Ook familieleden, omwonenden, bedrijven en de samenleving kunnen gevolgen ervaren. Sommige gevolgen gaan over geld en spullen. Andere gevolgen gaan over gevoelens, zoals angst of stress."
+    },
+    {
+      "type": "explanation",
+      "title": "Materiële en immateriële schade",
+      "text": "Materiële schade gaat over spullen of kosten. Denk aan een gestolen telefoon, een vernielde deur of de kosten van een nieuw slot.\n\nImmateriële schade gaat over gevoelens en emoties, zoals angst, stress of een gevoel van onveiligheid. Deze schade kun je niet direct zien.\n\nBij geweld kunnen slachtoffers ook lichamelijk gewond raken en medische hulp nodig hebben."
+    },
+    {
+      "type": "explanation",
+      "title": "Gevolgen voor slachtoffers",
+      "text": "Een slachtoffer kan spullen kwijtraken of kosten maken. Dat zijn materiële gevolgen.\n\nEen slachtoffer kan ook bang worden, slecht slapen of zich minder veilig voelen. Dat zijn immateriële gevolgen.\n\nSoms kan een verzekeraar de premie aanpassen. Een premie is het bedrag dat je betaalt voor een verzekering."
+    },
+    {
+      "type": "explanation",
+      "title": "Gevolgen voor de omgeving",
+      "text": "Ook mensen die niet zelf slachtoffer zijn geworden, kunnen last krijgen van criminaliteit. Omwonenden kunnen zich bijvoorbeeld onveilig voelen na een inbraak in de buurt. Zij kunnen extra sloten of verlichting plaatsen om zich veiliger te voelen.\n\nSoms voelen mensen zich onveilig, ook als ze zelf geen slachtoffer zijn geworden."
+    },
+    {
+      "type": "explanation",
+      "title": "Gevolgen voor bedrijven",
+      "text": "Bedrijven kunnen geld verliezen door diefstal of vernieling. Ook kunnen zij extra kosten maken voor beveiliging.\n\nWinkeliers kunnen prijzen verhogen om verliezen en beveiligingskosten op te vangen. Dat gebeurt niet altijd, maar het kan een gevolg zijn van extra kosten."
+    },
+    {
+      "type": "explanation",
+      "title": "Gevolgen voor de samenleving als geheel",
+      "text": "De overheid moet geld besteden aan bijvoorbeeld politie, rechtbanken, gevangenissen en het herstellen van openbare voorzieningen.\n\nDat geld komt voor een belangrijk deel uit belastingen. Geld dat aan het bestrijden van criminaliteit wordt uitgegeven, kan daardoor niet tegelijk aan andere voorzieningen worden besteed.\n\nCollectief betekent: samen als groep of samenleving.\n\nOpsporing betekent: het zoeken naar daders en het verzamelen van informatie over een misdrijf."
+    },
+    {
+      "type": "explanation",
+      "title": "Een voorbeeld",
+      "text": "Een gezin komt thuis en ontdekt dat er is ingebroken.\n\n1. De voordeur is vernield en er zijn spullen gestolen. Het gezin heeft daardoor kosten.\n2. De dochter van het gezin wordt bang en durft minder snel alleen thuis te zijn.\n3. Buren voelen zich minder veilig en besluiten extra verlichting te plaatsen.\n4. De politie doet onderzoek en besteedt tijd aan de opsporing van de dader.\n\nJe ziet hier dat één inbraak verschillende gevolgen kan hebben."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je dit soort vragen aan",
+      "text": "Stap 1: Kijk wie gevolgen ondervindt.\nStap 2: Bepaal of het gaat om spullen/geld, gevoelens of bijvoorbeeld lichamelijke schade.\nStap 3: Kijk of de vraag gaat over het slachtoffer, de omgeving, een bedrijf of de samenleving.\nStap 4: Kies daarna het antwoord dat het beste bij de situatie past."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_036_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.8",
+        "topic": "Slachtoffers en gevolgen",
+        "skill": "Gevolgen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Iemand steelt de smartphone van Sam. Sam moet daardoor een nieuwe telefoon kopen. Om welk soort schade gaat het vooral?",
+        "context": "",
+        "answers": [
+          "Materiële schade",
+          "Immateriële schade",
+          "Schade aan de politie"
+        ],
+        "correct_answer": 0,
+        "hint": "Denk na of het gevolg vooral over spullen en geld of over gevoelens gaat.",
+        "feedback_correct": "Goed! Het gaat om een gestolen voorwerp en de kosten voor vervanging.",
+        "feedback_wrong": "Kijk goed naar wat Sam in deze situatie kwijtraakt en waarvoor hij kosten maakt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_036_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.8",
+        "topic": "Slachtoffers en gevolgen",
+        "skill": "Materiële en immateriële schade herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Na een overval is Noor erg bang geworden. Ze vermijdt daarom het station waar de overval plaatsvond. Welk gevolg past hierbij?",
+        "context": "",
+        "answers": [
+          "Materiële schade",
+          "Meer winst voor de spoorwegen",
+          "Immateriële schade"
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan het gevoel en gedrag van Noor na de overval.",
+        "feedback_correct": "Goed! Angst en het vermijden van een plek zijn gevolgen die met gevoelens te maken hebben.",
+        "feedback_wrong": "Denk aan het verschil tussen schade aan spullen en gevolgen voor gevoelens of emoties.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_036_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.8",
+        "topic": "Slachtoffers en gevolgen",
+        "skill": "Gevolgen voor de omgeving herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een buurt zijn meerdere woningen ingebroken. Buren die zelf niet zijn bestolen, voelen zich toch onveilig en plaatsen extra sloten. Wat laat dit voorbeeld zien?",
+        "context": "",
+        "answers": [
+          "Alleen daders hebben gevolgen van criminaliteit",
+          "Criminaliteit kan ook gevolgen hebben voor mensen in de omgeving",
+          "Een minister moet na iedere inbraak nieuwe regels maken"
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar wat er met de buren gebeurt, ook al zijn zij niet zelf bestolen.",
+        "feedback_correct": "Goed! Ook mensen die niet direct slachtoffer zijn, kunnen gevolgen ervaren.",
+        "feedback_wrong": "Kijk goed naar de reactie van de buren in de situatie.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_036_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.8",
+        "topic": "Slachtoffers en gevolgen",
+        "skill": "Kosten herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een kledingwinkel heeft meerdere keren last gehad van diefstal. De eigenaar huurt daarom twee beveiligers in om toezicht te houden in de winkel. Wat is voor de winkel een direct gevolg?",
+        "context": "",
+        "answers": [
+          "De winkel krijgt automatisch een subsidie",
+          "De winkel hoeft geen belasting meer te betalen",
+          "De winkel maakt extra kosten voor beveiliging"
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan wat de winkel moet betalen om beveiligers in te huren.",
+        "feedback_correct": "Goed! Het inhuren van beveiligers brengt extra kosten met zich mee.",
+        "feedback_wrong": "Kijk naar de maatregel die de eigenaar neemt en wat daarvoor betaald moet worden.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_036_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.8",
+        "topic": "Slachtoffers en gevolgen",
+        "skill": "Gevolgen uit een situatie afleiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een winkel maakt door diefstal en extra beveiliging meer kosten. De eigenaar besluit de prijzen van sommige producten met 50 cent te verhogen. Wie merkt dit gevolg direct bij het kopen van een product?",
+        "context": "",
+        "answers": [
+          "Klanten die het product kopen",
+          "Alleen de dieven",
+          "Alleen de politieagenten"
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan wie de hogere prijs aan de kassa betaalt.",
+        "feedback_correct": "Goed! In deze situatie betalen klanten een hogere prijs voor het product.",
+        "feedback_wrong": "Kijk naar wie het product koopt en met de hogere prijs te maken krijgt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_036_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.8",
+        "topic": "Slachtoffers en gevolgen",
+        "skill": "Indirecte gevolgen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente moet na meerdere vernielingen verschillende bushokjes laten repareren. Wie betaalt dit uiteindelijk indirect mee?",
+        "context": "",
+        "answers": [
+          "Alleen de ministers uit hun eigen geld",
+          "De samenleving via belastinggeld",
+          "Een buitenlandse koning"
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan hoe gemeenten hun uitgaven betalen.",
+        "feedback_correct": "Goed! Gemeenten betalen zulke uitgaven voor een belangrijk deel met belastinggeld.",
+        "feedback_wrong": "Denk na over waar het geld van een gemeente vandaan komt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_036_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.8",
+        "topic": "Slachtoffers en gevolgen",
+        "skill": "Gevolgen vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Twee mensen verliezen hun fiets door diefstal.\n\nSlachtoffer 1: Baalt van het geld dat hij kwijt is, koopt direct een nieuwe fiets van zijn spaargeld en fietst de volgende dag weer naar zijn bijbaantje.\n\nSlachtoffer 2: Wordt erg bang na de diefstal en durft voorlopig niet meer alleen te fietsen.\n\nWat kun je hieruit concluderen?",
+        "context": "",
+        "answers": [
+          "Iedereen reageert na een fietsdiefstal precies hetzelfde",
+          "Slachtoffers zijn verplicht om bang te zijn na een diefstal",
+          "Mensen kunnen heel verschillend reageren op dezelfde vorm van criminaliteit"
+        ],
+        "correct_answer": 2,
+        "hint": "Vergelijk de reacties van beide slachtoffers.",
+        "feedback_correct": "Goed! Mensen kunnen verschillende gevolgen en reacties ervaren na eenzelfde gebeurtenis.",
+        "feedback_wrong": "Vergelijk de reacties van de twee slachtoffers goed met elkaar.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_036_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Aanpak van criminaliteit",
+        "skill": "Standpunt herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een burger zegt: \"De politie kost veel belastinggeld. Ik vind dat we de politie helemaal moeten opheffen en het geld ergens anders aan moeten besteden.\" Wat is het standpunt van deze burger?",
+        "context": "",
+        "answers": [
+          "De burger is tegen het besteden van geld aan de politie",
+          "De burger vindt dat de politie meer geld moet krijgen",
+          "De burger wil fietsen gratis aan inwoners geven"
+        ],
+        "correct_answer": 0,
+        "hint": "Lees opnieuw wat de burger zegt over het opheffen van de politie.",
+        "feedback_correct": "Goed! De burger vindt dat er geen geld meer aan de politie moet worden besteed.",
+        "feedback_wrong": "Let goed op wat de burger zegt over de politie en het geld.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_036_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Slachtoffers en gevolgen",
+        "skill": "Argument herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een docent zegt: \"De politie kost geld, maar heeft ook een belangrijke taak. Zonder politie en justitie zou er veel minder controle en opsporing zijn.\" Wat is de belangrijkste reden voor zijn standpunt?",
+        "context": "",
+        "answers": [
+          "De politie moet ervoor zorgen dat criminaliteit helemaal verdwijnt",
+          "De politie heeft een belangrijke taak bij controle, hulp en opsporing",
+          "De politie moet cadeaus geven aan de koning"
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk naar de taak van de politie die in het argument wordt genoemd.",
+        "feedback_correct": "Goed! Het argument gaat over de taken van de politie bij controle, hulp en opsporing.",
+        "feedback_wrong": "Lees het argument opnieuw en kijk welke taak van de politie wordt genoemd.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_036_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "topic": "Aanpak van criminaliteit",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente maakt in één jaar de volgende kosten voor de aanpak van criminaliteit:\n\n- Politie en opsporing: 500 miljoen euro\n- Rechtbanken en gevangenissen: 300 miljoen euro\n- Herstel van openbare voorzieningen: 50 miljoen euro\n\nWelke conclusie kun je rechtstreeks uit deze cijfers trekken?",
+        "context": "",
+        "answers": [
+          "Herstel van openbare voorzieningen kost het meeste",
+          "Rechtbanken en gevangenissen kosten precies evenveel als politie en opsporing",
+          "Politie en opsporing kosten in deze voorbeeldsituatie het meest"
+        ],
+        "correct_answer": 2,
+        "hint": "Vergelijk de drie bedragen met elkaar.",
+        "feedback_correct": "Goed! In deze voorbeeldsituatie is 500 miljoen euro het hoogste van de drie bedragen.",
+        "feedback_wrong": "Vergelijk de drie bedragen zorgvuldig met elkaar.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "explanation",
+      "title": "Onthouden",
+      "text": "Criminaliteit kan verschillende gevolgen hebben.\n\n• Materiële schade gaat over spullen en geld.\n• Immateriële schade gaat over gevoelens en emoties, zoals angst en stress.\n• Sommige slachtoffers kunnen ook lichamelijk gewond raken.\n• Ook mensen in de omgeving kunnen zich onveilig voelen.\n• Bedrijven kunnen kosten maken door diefstal, vernieling en beveiliging.\n• Winkeliers kunnen prijzen verhogen om extra kosten op te vangen, maar dat gebeurt niet altijd.\n• De samenleving betaalt indirect mee aan politie, justitie en het herstellen van openbare voorzieningen.\n• Mensen kunnen verschillende standpunten hebben over de manier waarop criminaliteit moet worden aangepakt."
+    },
+    {
+      "type": "finish",
+      "title": "Klaar!",
+      "text": "Je weet nu dat criminaliteit gevolgen kan hebben voor veel verschillende mensen en groepen. Denk bij een vraag steeds na over wie het gevolg merkt en of het gaat om spullen, geld, gevoelens of lichamelijke schade."
+    }
+  ]
+}

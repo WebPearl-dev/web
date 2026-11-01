@@ -1,0 +1,333 @@
+{
+  "id": "bio_011",
+  "subject": "biologie",
+  "title": "Les 11 - Bloemen, bestuiving en zaden",
+  "goal": "Je leert bloemonderdelen benoemen, de stappen van geslachtelijke voortplanting (bestuiving, bevruchting, zaadvorming) in volgorde zetten en ongeslachtelijke voortplanting herkennen.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Bloemen zijn niet alleen mooi, ze zijn de voortplantingsorganen van een zaadplant. In deze les leer je de onderdelen van een bloem, hoe bestuiving en bevruchting werken, en hoe een plant zich kan voortplanten zonder zaden.",
+      "image": "les_011_intro_bloem.png"
+    },
+    {
+      "type": "explanation",
+      "title": "De onderdelen van een bloem",
+      "text": "Een bloem heeft mannelijke en vrouwelijke delen:\n1. Meeldraad (mannelijk): Bestaat uit een helmdraad en een helmknop. De helmknop maakt stuifmeelkorrels (de mannelijke geslachtscellen).\n2. Stamper (vrouwelijk): Bestaat uit een stempel, stijl en onderaan het vruchtbeginsel. In het vruchtbeginsel zitten de zaadbeginsels met de eicellen.\n3. Kroonbladeren: Vaak groot en opvallend gekleurd om insecten te lokken.\n4. Kelkbladeren: Groene bladeren die de bloem beschermen als deze nog in de knop zit.",
+      "image": "les_011_bloem_onderdelen.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Bestuiving: Wind of insecten?",
+      "text": "Bestuiving is het overbrengen van stuifmeel van de meeldraad naar de stempel van een stamper (van dezelfde plantensoort). Dit kan op twee manieren:\n1. Insectenbestuiving: Planten met grote, opvallende kroonbladeren en nectar lokken insecten. Het stuifmeel is plakkerig en blijft aan het insect hangen.\n2. Windbestuiving: Planten met onopvallende, groene bloempjes (zoals grassen). De wind blaast het lichte stuifmeel weg. De stempels hangen vaak als grote 'veertjes' buiten de bloem om stuifmeel op te vangen.",
+      "image": "les_011_bestuiving_typen.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Bevruchting en de levenscyclus",
+      "text": "Na de bestuiving groeien de stuifmeelcellen naar beneden naar het zaadbeginsel. Daar vindt de bevruchting plaats: het samensmelten van de mannelijke geslachtscel met de vrouwelijke eicel. \n\nNa de bevruchting verandert het zaadbeginsel in een zaad (met daarin een kiempje en reservestoffen) en het vruchtbeginsel groeit uit tot een vrucht (zoals een appel of peul). De levenscyclus start daarna opnieuw: Ontkieming ➡️ Groei ➡️ Bloei ➡️ Bestuiving ➡️ Bevruchting."
+    },
+    {
+      "type": "explanation",
+      "title": "Ongeslachtelijke voortplanting",
+      "text": "Sommige planten kunnen zich ook voortplanten zonder bloemen of geslachtscellen. Dit noemen we ongeslachtelijke voortplanting. Een bekend voorbeeld zijn bollen (zoals bij de tulp) en knollen (zoals bij de aardappel). Dit zijn ondergrondse plantendelen die reservestoffen opslaan en waaruit vanzelf een complete nieuwe, identieke plant kan groei.",
+      "image": "les_011_bollen_knollen.png"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees goed of de vraag gaat over de mannelijke delen (meeldraad/stuifmeel) of vrouwelijke delen (stamper/eicel). Let bij de stappen goed op het verschil tussen bestuiving (het landen op de stempel) en bevruchting (het samensmelten van de cellen)."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Meeldraad maakt stuifmeel. Stamper bevat eicellen. Bestuiving is het landen van stuifmeel op de stempel. Bevruchting is het samensmelten van de cellen. Bollen en knollen doen aan ongeslachtelijke voortplanting."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_011_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "3",
+      "topic": "plantenbouw_en_functie",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke uitspraak over de zaden van een zaadplant is biologisch juist?",
+      "answers": [
+        "Een zaad neemt de taak van de wortelharen over.",
+        "Een zaad bestaat altijd alleen maar uit water en mineralen.",
+        "Een zaad bevat een kiempje waar een nieuwe plant uit kan groeien."
+      ],
+      "correct_answer": 2,
+      "hint": "Denk aan de functie van een zaadje wanneer het in de vochtige grond terechtkomt.",
+      "feedback_correct": "Klopt! Een zaad bevat een kiempje (de babyplant) en reservestoffen om te kunnen starten met groeien.",
+      "feedback_wrong": "Zaden nemen geen worteltaken over en bestaan uit cellen met een kiempje, niet alleen uit water.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §3",
+      "les_id": "bio_011"
+    },
+    {
+      "id": "bio_011_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "3",
+      "topic": "plantenbouw_en_functie",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk specifiek onderdeel van een bloem is mannelijk og zorgt voor de productie van het stuifmeel?",
+      "answers": [
+        "De meeldraad",
+        "Het kelkblad",
+        "Het vruchtbeginsel"
+      ],
+      "correct_answer": 0,
+      "hint": "De naam van dit onderdeel verklapt al een beetje dat het 'meel' (stuifmeel) maakt.",
+      "feedback_correct": "Juist! De meeldraad is het mannelijke voortplantingsorgaan en maakt stuifmeelkorrels.",
+      "feedback_wrong": "Kelkbladeren beschermen de knop en het vruchtbeginsel is vrouwelijk. De meeldraad maakt het stuifmeel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §3",
+      "les_id": "bio_011",
+      "image": "les_011_q02_meeldraad.png"
+    },
+    {
+      "id": "bio_011_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "6",
+      "topic": "voortplanting_bij_planten",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat gebeurt er precies tijdens de biologische bestuiving van een zaadplant?",
+      "answers": [
+        "Stuifmeelkorrels landen op de stempel van een stamper van dezelfde plantensoort.",
+        "Een zaadje in de grond begint direct te ontkiemen tot een wortel.",
+        "Een rijpe vrucht valt door de zwaartekracht van de plant af."
+      ],
+      "correct_answer": 0,
+      "hint": "Bestuiving is de allereerste stap van het transport van stuifmeel, nog vóór de cellen samensmelten.",
+      "feedback_correct": "Heel goed! Bestuiving is het overbrengen van stuifmeel naar de stempel van de stamper.",
+      "feedback_wrong": "Ontkieming en vruchtval zijn heel andere processen. Bestuiving gaat puur om het stuifmeel dat op de stempel landt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/12 §6",
+      "les_id": "bio_011"
+    },
+    {
+      "id": "bio_011_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "6",
+      "topic": "voortplanting_bij_planten",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is de juiste definitie van de bevruchting bij planten?",
+      "answers": [
+        "Het opnemen van heel veel water en mineralen door de wortelharen.",
+        "Het wijd openen van de bloemblaadjes in de vroege ochtend.",
+        "Het samensmelten van de kern van een mannelijke geslachtscel met de kern van een eicel."
+      ],
+      "correct_answer": 2,
+      "hint": "Bij bevruchting komen de mannelijke en vrouwelijke geslachtscellen definitief samen tot één nieuwe cel.",
+      "feedback_correct": "Perfect! Bevruchting betekent dat de kernen van de mannelijke en vrouwelijke geslachtscellen met elkaar versmelten.",
+      "feedback_wrong": "Het openen van bloemen of opnemen van water is geen bevruchting. Het gaat om het samensmelten van de geslachtscellen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/12 §6",
+      "les_id": "bio_011"
+    },
+    {
+      "id": "bio_011_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "3",
+      "topic": "plantenbouw_en_functie",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk vrouwelijk onderdeel van de bloem bevat onderaan het vruchtbeginsel met daarin de eicellen?",
+      "answers": [
+        "Het kroonblad",
+        "De stamper",
+        "De meeldraad"
+      ],
+      "correct_answer": 1,
+      "hint": "Dit onderdeel staat vaak centraal in het midden van de bloem en heeft een stempel aan de bovenkant.",
+      "feedback_correct": "Juist! De stamper is het vrouwelijke voortplantingsorgaan en onderin zit het vruchtbeginsel.",
+      "feedback_wrong": "Kroonbladeren lokken insecten en meeldraden zijn mannelijk. De stamper bevat het vruchtbeginsel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §3",
+      "les_id": "bio_011",
+      "image": "les_011_q05_stamper.png"
+    },
+    {
+      "id": "bio_011_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "6",
+      "topic": "voortplanting_bij_planten",
+      "skill": "oorzaak_gevolg_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat ontwikkelt zich direct uit het zaadbeginsel nadat de eicel succesvol is bevrucht?",
+      "answers": [
+        "Een zaad",
+        "Een nieuwe wortelhaar",
+        "Een nieuw huidmondjes-spleetje"
+      ],
+      "correct_answer": 0,
+      "hint": "Uit het vruchtbeginsel groeit de vrucht, en wat groeit er binnenin de vrucht?",
+      "feedback_correct": "Klopt! Na de bevruchting groeit het zaadbeginsel uit tot een zaadje met een kiempje erin.",
+      "feedback_wrong": "Wortelharen en huidmondjes ontstaan pas veel later als de plant groeit. Het zaadbeginsel wordt het zaad.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/12 §6",
+      "les_id": "bio_011"
+    },
+    {
+      "id": "bio_011_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "3",
+      "topic": "plantenbouw_en_functie",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Als je een pinda of een bonenzaadje openmaakt, wat tref je dan binnenin het zaadje aan?",
+      "answers": [
+        "Een complete volwassen plant met grote bloemen.",
+        "Alleen maar droog zand.",
+        "Een klein kiempje van een voorraad reservestoffen."
+      ],
+      "correct_answer": 2,
+      "hint": "Het zaadje heeft voedsel nodig om onder de grond te kunnen overleven zolang er nog geen zonlicht is.",
+      "feedback_correct": "Heel goed! Een zaad bevat een kiempje (het begin van de nieuwe plant) en reservestoffen (voedsel).",
+      "feedback_wrong": "Er zit geen zand of volwassen bloem in een zaadje. Er zit een kiempje en reservestoffen in.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §3",
+      "les_id": "bio_011"
+    },
+    {
+      "id": "bio_011_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "2",
+      "topic": "organismen_en_aanpassing",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een tulp heeft grote, felgekleurde kroonbladeren en maakt zoete nectar onderin de bloem. Welk type bestuiving past bij deze kenmerken?",
+      "answers": [
+        "Insectenbestuiving",
+        "Windbestuiving",
+        "Waterbestuiving"
+      ],
+      "correct_answer": 0,
+      "hint": "Kleurige bladeren en nectar dienen als een soort reclamebord om vliegende diertjes te lokken.",
+      "feedback_correct": "Top! Opvallende kleuren en nectar zijn bedoeld om insecten te lokken voor de insectenbestuiving.",
+      "feedback_wrong": "De wind let niet op mooie kleuren of nectar. Dit hoort echt bij insectenbestuiving.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Zelfgemaakte oefenvraag conform BI/K/6 §2",
+      "les_id": "bio_011"
+    },
+    {
+      "id": "bio_011_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "2",
+      "topic": "organismen_en_aanpassing",
+      "skill": "structuur_functie_koppelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Grassen hebben heel kleine, onopvallende groene bloempjes zonder geur of nectar. Hun meeldraden hangen los buiten de bloem te bungelen. Welk type bestuiving past hierbij?",
+      "answers": [
+        "Insectenbestuiving",
+        "Windbestuiving",
+        "Zelfbestuiving zonder stuifmeel"
+      ],
+      "correct_answer": 1,
+      "hint": "Als er geen kleuren of nectar zijn, worden er geen insecten gelokt. De natuur gebruikt dan een andere kracht.",
+      "feedback_correct": "Juist! Loshangende meeldraden en onopvallende bloemen passen perfect bij windbestuiving.",
+      "feedback_wrong": "Insecten komen hier niet op af omdat er geen kleuren of nectar zijn. De wind blaast het stuifmeel weg.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_011"
+    },
+    {
+      "id": "bio_011_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "3",
+      "topic": "plantenbouw_en_functie",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Voortplanten via ondergrondse bollen (zoals bij de tulp) of knollen (zoals bij de aardappel) gebeurt zonder bloemen of geslachtscellen. Hoe noemen we deze vorm van voortplanting?",
+      "answers": [
+        "Geslachtelijke voortplanting",
+        "Ongeslachtelijke voortplanting",
+        "Bestuiving via internet"
+      ],
+      "correct_answer": 1,
+      "hint": "Het is een vorm van voortplanting waarbij géén bloemen, stuifmeel of eicellen nodig zijn.",
+      "feedback_correct": "Geweldig! Voortplanten via bollen, knollen of uitlopers noemen we ongeslachtelijke voortplanting.",
+      "feedback_wrong": "Geslachtelijk vereist wel eicellen en stuifmeel. Bollen en knollen doen aan ongeslachtelijke voortplanting.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_011"
+    },
+    {
+      "id": "bio_011_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "6",
+      "topic": "voortplanting_bij_planten",
+      "skill": "proces_in_volgorde_zetten",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "What is de juiste biologische volgorde in de levenscyclus van een zaadplant vanaf het zaadje in de grond?",
+      "answers": [
+        "Ontkieming ➡️ Groei ➡️ Bloei ➡️ Bestuiving ➡️ Bevruchting",
+        "Bevruchting ➡️ Bloei ➡️ Ontkieming ➡️ Bestuiving ➡️ Groei",
+        "Bloei ➡️ Bestuiving ➡️ Groei ➡️ Ontkieming ➡️ Bevruchting"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de stappen: het zaadje komt eerst uit (ontkiemen), de plant wordt groter, krijgt bloemen, krijgt stuifmeel op de stamper en versmelt ten slotte.",
+      "feedback_correct": "Uitstekend! De cyclus begint met ontkieming, daarna groeit de plant, bloeit hij, volgt bestuiving en ten slotte bevruchting.",
+      "feedback_wrong": "Een zaadje kan niet direct bevruchten of bloeien zonder eerst te ontkiemen en te groeien. Route A is juist.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_011"
+    },
+    {
+      "id": "bio_011_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "3",
+      "topic": "plantenbouw_en_functie",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Naast voortplanting, welke belangrijke functie hebben bollen en knollen nog meer voor een plant onder de grond?",
+      "answers": [
+        "Het opvangen van extra uv-straling van de zon.",
+        "De opslag van reservestoffen om de winter te kunnen overleven.",
+        "Het maken van kalkwater om insecten te weren."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan waarom een tulp of aardappelplant in het voorjaar zo snel kan opkomen vanuit een dikke bol.",
+      "feedback_correct": "Klopt helemaal! Bollen en knollen zitten vol met opgeslagen reservestoffen (voedsel) voor het volgende jaar.",
+      "feedback_wrong": "Onder de grond is er geen zonlicht voor uv-straling en planten maken geen kalkwater. Ze slaan reservestoffen op.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_011"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "2.0",
+    "notitie": "Les-id aangepast naar bio_011 conform de herziene planning v1.0. Topics en skills gekoppeld aan de databasecodes.",
+    "wijziging": "Vraagreeks uitgebreid naar 12 stuks met toevoeging van windbestuiving, bollen/knollen en procesvolgorde voor volledige CE-dekking."
+  }
+}

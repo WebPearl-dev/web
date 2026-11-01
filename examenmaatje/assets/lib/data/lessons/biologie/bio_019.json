@@ -1,0 +1,328 @@
+{
+  "id": "bio_019",
+  "subject": "biologie",
+  "title": "Les 19 - Hartproblemen en gezond leven",
+  "goal": "Je kunt uitleggen wat er bij een hartinfarct en een hartritmestoornis gebeurt en risicofactoren herkennen die de gezondheid van het hart kunnen beïnvloeden.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Hoe houd je je hart gezond?",
+      "text": "Je hart werkt dag en nacht. Het pompt bloed door je lichaam en heeft zelf ook zuurstof nodig. Soms ontstaan er problemen met het hart of de bloedtoevoer. In deze les leer je over hartproblemen en factoren die het risico daarop kunnen beïnvloeden.",
+      "image": "les_019_intro_gezondheid.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Een hartinfarct",
+      "text": "De hartspier heeft voortdurend zuurstof nodig om te kunnen pompen. De kransslagaders voeren dit zuurstofrijke bloed naar de hartspier toe. Bij een hartinfarct krijgt een deel van de hartspier te weinig zuurstof doordat een kransslagader ernstig verstopt of helemaal afgesloten raakt. Het weefsel erachter kan hierdoor beschadigd raken. Een hartinfarct is een medisch noodgeval.",
+      "image": "les_019_infarct_schema.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Een hartritmestoornis",
+      "text": "Het hart klopt normaal gesproken in een rustig, regelmatig ritme. Bij een hartritmestoornis klopt het hart te snel, te langzaam of heel onregelmatig. Dit is een ander probleem dan een hartinfarct: bij een hartinfarct is er een probleem met de bloedtoevoer naar de spier, terwijl bij een hartritmestoornis de aansturing van de hartslag verstoord is."
+    },
+    {
+      "type": "explanation",
+      "title": "Risicofactoren voor hartproblemen",
+      "text": "Verschillende factoren kunnen de kans op hart- en vaatziekten vergroten. In de syllabus worden de volgende risicofactoren genoemd: roken, overgewicht, stress, erfelijke aanleg and te grote inspanning. Een risicofactor betekent dat de kans (het risico) groter is, maar het geeft geen absolute zekerheid dat iemand ook echt ziek wordt."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Lees goed welk hartprobleem wordt genoemd. Maak onderscheid tussen een probleem met de bloedtoevoer naar de hartspier (infarct) en een probleem met het ritme (ritmestoornis). Onthoud dat risicofactoren de kans vergroten, maar geen zekerheid geven."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Hartinfarct = te weinig zuurstof voor de hartspier door een afgesloten kransslagader. Hartritmestoornis = afwijkend ritme (te snel, te langzaam of onregelmatig). Risicofactoren (zoals roken, stress en overgewicht) vergroten de kans op problemen."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_019_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke beschrijving past het best bij een biologisch hartinfarct?",
+      "answers": [
+        "Een deel van de hartspier krijgt te weinig zuurstof door een ernstig probleem met de bloedtoevoer",
+        "Het hart klopt tijdelijk sneller doordat iemand een sprintje trekt",
+        "Het hart klopt onregelmatig, zonder dat dit iets zegt over de bloedtoevoer",
+        "Het bloed stroomt langzamer doordat iemand rustig op een stoel zit"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan wat er met de spiercellen van het hart gebeurt als een kransslagader volledig wordt afgesloten.",
+      "feedback_correct": "Goed gedaan! Bij een hartinfarct krijgt een deel van de hartspier te weinig zuurstof doordat de bloedtoevoer ernstig is verstoord.",
+      "feedback_wrong": "Bij een hartinfarct krijgt een deel van de hartspier te weinig zuurstof door een geblokkeerde bloedtoevoer. Een onregelmatige slag is een ritmestoornis.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_019"
+    },
+    {
+      "id": "bio_019_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Iemand merkt in rust dat zijn hart plotseling heel onregelmatig en houterig begint te kloppen. Welk probleem past hierbij?",
+      "answers": [
+        "Een hartinfarct, want daarbij klopt het hart altijd onregelmatig",
+        "Een hartritmestoornis, want het ritme van de hartslag wijkt af",
+        "Een probleem met de vertering, want voedsel wordt minder snel afgebroken",
+        "Een probleem met de urinewegen, want urine wordt minder snel afgevoerd"
+      ],
+      "correct_answer": 1,
+      "hint": "Let goed op het woord 'onregelmatig kloppen'. Dit heeft te maken met de regelmaat van de pomp.",
+      "feedback_correct": "Juist! Bij een hartritmestoornis wijkt het ritme van de hartslag af (het klopt te snel, te langzaam of onregelmatig).",
+      "feedback_wrong": "Een afwijking in de regelmaat van de hartslag is een hartritmestoornis. Een infarct gaat over zuurstofgebrek in de spier.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_019"
+    },
+    {
+      "id": "bio_019_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke uitspraak over roken en hart- en vaatziekten past het best bij de biologische betekenis van het woord risicofactor?",
+      "answers": [
+        "Roken betekent dat iemand sowieso op jonge leeftijd een hartinfarct krijgt.",
+        "Roken kan de kans op het krijgen van hart- en vaatziekten vergroten.",
+        "Roken voorkomt hartproblemen bij mensen met een slechte erfelijke aanleg.",
+        "Roken heeft uitsluitend invloed op de longen en doet niks met de bloedvaten."
+      ],
+      "correct_answer": 1,
+      "hint": "Een risicofactor verhoogt de waarschijnlijkheid van een ziekte, maar geeft geen 100% garantie.",
+      "feedback_correct": "Perfect! Roken is een risicofactor: het vergroot de kans op problemen, maar het is geen automatische zekerheid.",
+      "feedback_wrong": "Een risicofactor vergroot de kans op een aandoening. Roken beschadigt de bloedvaten en vergroot de kans op hartziekten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_019"
+    },
+    {
+      "id": "bio_019_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke uitspraak over de risicofactor overgewicht en de gezondheid van het hart is juist?",
+      "answers": [
+        "Overgewicht is een officiële risicofactor voor het ontstaan van hartproblemen.",
+        "Overgewicht betekent dat een dier of mens gegarandeerd een hartinfarct krijgt.",
+        "Overgewicht beschermt de hartspier juist tegen ritmestoornissen.",
+        "Overgewicht heeft biologisch gezien nooit invloed op het transportstelsel."
+      ],
+      "correct_answer": 0,
+      "hint": "Overgewicht zorgt ervoor dat het hart constant harder moet pompen om het bloed rond te krijgen.",
+      "feedback_correct": "Klopt! Overgewicht verhoogt de belasting op je hart en bloedvaten en is een risicofactor.",
+      "feedback_wrong": "Overgewicht wordt genoemd als risicofactor omdat het de kans op ziektes vergroot, al geeft het geen absolute zekerheid.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_019"
+    },
+    {
+      "id": "bio_019_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke mentale of psychische factor wordt in de syllabus expliciet genoemd als risicofactor voor hartproblemen?",
+      "answers": [
+        "Stress",
+        "Tandenpoetsen",
+        "Boeken lezen",
+        "Water drinken"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek een toestand waarin het lichaam constant onder spanning staat en de hartslag verhoogd is.",
+      "feedback_correct": "Heel goed! Langdurige stress verhoogt de bloeddruk en is een risicofactor voor je hart.",
+      "feedback_wrong": "Stress is een risicofactor. Tandenpoetsen, lezen and water drinken zijn juist gezonde of neutrale bezigheden.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_019"
+    },
+    {
+      "id": "bio_019_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat betekent erfelijke aanleg als we het hebben over een risicofactor voor hartproblemen?",
+      "answers": [
+        "Dat je sowieso exact hetzelfde hartprobleem krijgt als je biologische ouders.",
+        "Dat eigenschappen die je erft van je ouders de kans op bepaalde hartproblemen kunnen beïnvloeden.",
+        "Dat hartproblemen uitsluitend kunnen ontstaan door heel zware sportprestaties.",
+        "Dat een gezonde leefstijl vanaf nu totaal geen invloed meer kan hebben op je lichaam."
+      ],
+      "correct_answer": 1,
+      "hint": "Aanleg zit in je genen ingebouwd, maar je leefstijl bepaalt mede of een ziekte ook echt doorbreekt.",
+      "feedback_correct": "Juist! Erfelijke aanleg betekent dat het risico in de familie zit, maar het geeft geen absolute zekerheid.",
+      "feedback_wrong": "Erfelijke aanleg verhoogt het basisrisico. Dit betekent niet dat je gegarandeerd ziek wordt; leefstijl blijft belangrijk.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_019"
+    },
+    {
+      "id": "bio_019_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Bij iemand met een onontdekt hartprobleem kunnen plotseling klachten ontstaan tijdens een extreme sportprestatie. Welke factor uit de syllabus past hierbij?",
+      "answers": [
+        "Te grote inspanning",
+        "Erfelijke aanleg",
+        "Roken",
+        "Overgewicht"
+      ],
+      "correct_answer": 0,
+      "hint": "Kijk goed naar de omschrijving in de vraag: 'extreme sportprestatie'. Welke term past daar direct bij?",
+      "feedback_correct": "Top! Een te grote of plotselinge inspanning kan een overbelasting vormen voor een kwetsbaar hart.",
+      "feedback_wrong": "Een extreme sportprestatie valt onder te grote inspanning. Dit kan een acute risicofactor zijn bij bestaande problemen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_019"
+    },
+    {
+      "id": "bio_019_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke combinatie bestaat uit twee leefstijlfactoren die in de syllabus worden genoemd als risicofactoren voor hartproblemen?",
+      "answers": [
+        "Roken and overgewicht",
+        "Tandenpoetsen en handen wassen",
+        "Boeken lezen en brieven schrijven",
+        "Water drinken en groente eten"
+      ],
+      "correct_answer": 0,
+      "hint": "Kies de twee gewoonten die een negatieve invloed kunnen hebben op de conditie van je bloedvaten.",
+      "feedback_correct": "Uitstekend! Roken en overgewicht zijn twee belangrijke risicofactoren voor aandoeningen aan het transportstelsel.",
+      "feedback_wrong": "Roken en overgewicht verhogen het risico. De andere opties zijn hygiënische of gezonde gewoonten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_019"
+    },
+    {
+      "id": "bio_019_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Sam rookt al jaren en ervaart daarnaast veel stress op zijn werk. Wat kun je op basis van de biologische theorie concluderen?",
+      "answers": [
+        "Sam krijgt gegarandeerd binnen een week een zwaar hartinfarct.",
+        "Sam kan onmogelijk hartproblemen krijgen zolang hij nog jong is.",
+        "Sam heeft twee risicofactoren, waardoor zijn kans groter is, maar je kunt niet zeker voorspellen of hij ziek wordt.",
+        "Sam heeft alleen een verhoogd risico als zijn ouders ook roken."
+      ],
+      "correct_answer": 2,
+      "hint": "Onthoud dat het stapelen van risicofactoren de kans vergroot, maar dat leefstijl en geluk altijd een rol spelen.",
+      "feedback_correct": "Klopt helemaal! Risicofactoren voorspellen een kans, geen absolute zekerheid voor een individu.",
+      "feedback_wrong": "Risicofactoren verhogen de kans. Je kunt echter nooit met 100% zekerheid voorspellen of en wanneer iemand ziek wordt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_019"
+    },
+    {
+      "id": "bio_019_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Bij patiënt A krijgt de hartspier te weinig zuurstof door een verstopte kransslagader. Bij patiënt B klopt het hart heel chaotisch en onregelmatig. Welke combinatie is juist?",
+      "answers": [
+        "A: hartritmestoornis; B: hartinfarct",
+        "A: hartinfarct; B: hartritmestoornis",
+        "A en B: allebei een acuut hartinfarct",
+        "A en B: allebei een zware hartritmestoornis"
+      ],
+      "correct_answer": 1,
+      "hint": "Koppel 'verstopte slagader/zuurstofgebrek' aan het ene probleem en 'chaotisch ritme' aan het andere probleem.",
+      "feedback_correct": "Perfect! Patiënt A heeft een probleem met de bloedtoevoer (infarct) and patiënt B heeft een probleem met de regelmaat (ritmestoornis).",
+      "feedback_wrong": "Zuurstofgebrek in de spier door een verstopping is een hartinfarct. Een afwijkend ritme van de slag is een hartritmestoornis.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_019"
+    },
+    {
+      "id": "bio_019_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Als een kransslagader rondom het hart door een probleem verstopt raakt, waarom leidt dit dan specifiek tot een hartinfarct?",
+      "answers": [
+        "Omdat de hartspiercellen achter de verstopping geen zuurstof meer krijgen en beschadigd raken.",
+        "Omdat het bloed in de aorta daardoor direct verandert in maagzuur.",
+        "Omdat de hartkleppen daardoor direct uit het hart vallen."
+      ],
+      "correct_answer": 0,
+      "hint": "Kransslagaders brengen zuurstof en voedsel naar de spiercellen van het hart zelf. Wat gebeurt er als de toevoer stopt?",
+      "feedback_correct": "Uitstekend! Zonder zuurstof kunnen spiercellen niet werken en sterft er een deel van het weefsel af.",
+      "feedback_wrong": "Een verstopping blokkeert de zuurstoftoevoer naar de spiercellen. Het verandert bloed niet in maagzuur.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_019"
+    },
+    {
+      "id": "bio_019_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "5",
+      "topic": "transport_en_bloed",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Iemand besluit te stoppen met roken, gezonder te eten om af te vallen en stress te vermijden. Wat is hiervan het biologische gevolg voor het transportstelsel?",
+      "answers": [
+        "De kans op het krijgen van hart- en vaatziekten wordt hiermee kleiner.",
+        "Het hart stopt onmiddellijk met pompen omdat er geen stress meer is.",
+        "De erfelijke aanleg in het DNA wordt door deze actie volledig gewist."
+      ],
+      "correct_answer": 0,
+      "hint": "Door risicofactoren weg te halen, verander je de kans of waarschijnlijkheid dat je bloedvaten dichtslibben.",
+      "feedback_correct": "Klopt helemaal! Het weghalen van leefstijl-risicofactoren verlaagt de kans op hartproblemen aanzienlijk.",
+      "feedback_wrong": "Gezond leven verlaagt de kans op ziektes. Het wist je erfelijke aanleg niet en laat je hart uiteraard niet stoppen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_019"
+    }
+  ]
+}

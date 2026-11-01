@@ -1,0 +1,404 @@
+{
+  "id": "bio_005",
+  "subject": "biologie",
+  "title": "Les 5 - Wanneer is iets levend?",
+  "goal": "Je leert levende, dode en levenloze dingen onderscheiden met behulp van levenskenmerken.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Biologen gebruiken vaste kenmerken om te onderzoeken of iets leeft, geleefd heeft of nooit heeft geleefd. Je leert de zeven levenskenmerken noemen."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je het aan",
+      "text": "Kijk naar de kenmerken die in de situatie worden genoemd. Trek niet alleen op basis van beweging een conclusie. Controleer altijd of er biologische levensprocessen plaatsvinden."
+    },
+    {
+      "type": "explanation",
+      "title": "Levenskenmerken",
+      "text": "Levende organismen vertonen levenskenmerken. Dit zijn biologische processen zoals: ademhaling, voeding, uitscheiding, groei en ontwikkeling, voortplanting en reageren op prikkels (beweging). Niet elk kenmerk is op elk moment direct met het blote oog zichtbaar."
+    },
+    {
+      "type": "explanation",
+      "title": "Levend, dood en levenloos",
+      "text": "Er is een belangrijk verschil tussen deze drie groepen:\n1. Levend: Het organisme vertoont nu levenskenmerken.\n2. Dood: Het organisme heeft vroeger geleefd, maar voert de levensprocessen nu niet meer uit.\n3. Levenloos: Het voorwerp heeft nog nooit van zijn leven geleefd."
+    },
+    {
+      "type": "explanation",
+      "title": "Bijzondere situaties",
+      "text": "Een zaadje van een plant kan leven, ook als je nog geen groei ziet. De levensprocessen staan dan in een soort ruststand. Een auto beweegt wel en gebruikt benzine, maar is toch levenloos. Een auto voert namelijk geen biologische levensprocessen uit, zoals groeien of voortplanten."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Levend = leeft nu; dood = heeft geleefd; levenloos = heeft nooit geleefd. De zeven levenskenmerken horen bij biologische organismen. Beweging alleen is niet genoeg om te bepalen of iets leeft."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_005_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welkie situatie is een duidelijk voorbeeld van het levenskenmerk groei?",
+      "answers": [
+        "Een steen wordt nat in de regen.",
+        "Een jonge plant wordt groter.",
+        "Een speelgoedauto rijdt."
+      ],
+      "correct_answer": 1,
+      "hint": "Groei betekent dat een organisme groter wordt of zich ontwikkelt.",
+      "feedback_correct": "Een plant die groter wordt, vertoont het levenskenmerk groei.",
+      "feedback_wrong": "Nat worden is geen groei van een organisme; speelgoed beweegt niet door eigen levensprocessen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    },
+    {
+      "id": "bio_005_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke van deze dingen is levenloos?",
+      "answers": [
+        "Een levende slak",
+        "Een droge tak die van een boom is gevallen",
+        "Een glazen knikker"
+      ],
+      "correct_answer": 2,
+      "hint": "Vraag je af of het voorwerp ooit een levend onderdeel van een organisme is geweest.",
+      "feedback_correct": "Een glazen knikker is gemaakt van glas en heeft nog nooit geleefd.",
+      "feedback_wrong": "Een slak leeft; een gevallen tak was onderdeel van een boom en is dus dood materiaal.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    },
+    {
+      "id": "bio_005_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een gevallen blad is bruin en droog. Wat past het best bij dit blad?",
+      "answers": [
+        "Het blad is dood materiaal.",
+        "Het blad is een levenloos voorwerp.",
+        "Het blad leeft zeker nog."
+      ],
+      "correct_answer": 0,
+      "hint": "Het blad was vroeger onderdeel van een levende boom.",
+      "feedback_correct": "Een gevallen blad heeft bij de boom gehoord en is nu dus dood materiaal.",
+      "feedback_wrong": "Het blad heeft wel geleefd; daarom mag je het niet levenloos noemen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    },
+    {
+      "id": "bio_005_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een hond eet, groeit en reageert op geluid. Wat laten deze drie kenmerken samen zien?",
+      "answers": [
+        "Dat de hond een machine is",
+        "Dat de hond levenskenmerken vertoont",
+        "Dat de hond levenloos is"
+      ],
+      "correct_answer": 1,
+      "hint": "Kijk naar de processen die specifiek bij een levend organisme horen.",
+      "feedback_correct": "Eten, groeien en reageren zijn officiële levenskenmerken.",
+      "feedback_wrong": "Deze biologische processen horen bij leven en passen nooit bij een levenloos voorwerp.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    },
+    {
+      "id": "bio_005_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "redenering_beoordelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een speelgoedrobot loopt op batterijen door de kamer. Waarom is deze robot niet levend?",
+      "answers": [
+        "Omdat hij niet uit zichzelf kan bewegen.",
+        "Omdat hij gemaakt is van plastic en metaal en geen biologische levensprocessen uitvoert.",
+        "Omdat hij energie gebruikt uit de batterijen."
+      ],
+      "correct_answer": 1,
+      "hint": "Bewegen alleen is niet voldoende om te bepalen of iets echt leeft.",
+      "feedback_correct": "De robot beweegt door techniek, niet door biologische levenskenmerken.",
+      "feedback_wrong": "De robot kan wel bewegen, maar dat maakt hem nog geen biologisch organisme.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    },
+    {
+      "id": "bio_005_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke waarneming is een voorbeeld van reageren op de omgeving?",
+      "answers": [
+        "Een plant groeit in de richting van het licht.",
+        "Een zware steen ligt stil op de grond.",
+        "Een glas breekt in stukken als het valt."
+      ],
+      "correct_answer": 0,
+      "hint": "Reageren betekent dat een levend organisme iets doet als reactie op een prikkel.",
+      "feedback_correct": "Klopt! De plant reageert op de prikkel 'licht' uit zijn omgeving.",
+      "feedback_wrong": "Stenen en glazen voeren geen actieve biologische reacties uit op prikkels.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    },
+    {
+      "id": "bio_005_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een dode muis ademt en groeit niet meer. Welke uitspraak over deze muis is juist?",
+      "answers": [
+        "De muis heeft nog nooit geleefd.",
+        "De muis is dood.",
+        "De muis is vanaf nu levenloos."
+      ],
+      "correct_answer": 1,
+      "hint": "De muis was vroeger een levend wezen.",
+      "feedback_correct": "Een dood organisme heeft vroeger geleefd, maar nu niet meer.",
+      "feedback_wrong": "De muis heeft wel geleefd; daarom mag je hem niet levenloos noemen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    },
+    {
+      "id": "bio_005_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarom kan een zaadje in een zakje toch levend zijn, ook al zie je het nog niet groeien?",
+      "answers": [
+        "Omdat alle zaden eigenlijk stenen zijn.",
+        "Omdat de biologische levensprocessen tijdelijk in een ruststand staan.",
+        "Omdat een zaadje nooit water of lucht nodig heeft."
+      ],
+      "correct_answer": 1,
+      "hint": "Niet alle levenskenmerken hoeven op elk moment direct zichtbaar te zijn.",
+      "feedback_correct": "Het zaadje leeft in rust en kan later gaan kiemen onder de juiste omstandigheden.",
+      "feedback_wrong": "Zaden zijn biologische structuren, geen levenloze stenen, en hebben wel degelijk processen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    },
+    {
+      "id": "bio_005_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke combinatie van voorbeelden is helemaal juist?",
+      "answers": [
+        "Een houten tafel is levend; een huiskat is levenloos.",
+        "Een groeiende boom is levend; een omgevallen rotte boomstam is dood materiaal.",
+        "Een baksteen is dood; een tulp is levenloos."
+      ],
+      "correct_answer": 1,
+      "hint": "Let goed op het verschil tussen iets dat nooit leefde en iets dat geleefd heeft.",
+      "feedback_correct": "De boom leeft nu; de rotte boomstam heeft vroeger geleefd.",
+      "feedback_wrong": "Een houten tafel heeft geleefd (dood) en een baksteen heeft nooit geleefd (levenloos).",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    },
+    {
+      "id": "bio_005_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "redenering_beoordelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke conclusie is het meest zorgvuldig als je alleen ziet dat een onbekend voorwerp beweegt?",
+      "answers": [
+        "Het voorwerp is zeker biologisch levend.",
+        "Het voorwerp is zeker biologisch dood.",
+        "Beweging alleen is onvoldoende om te bepalen of iets echt leeft."
+      ],
+      "correct_answer": 2,
+      "hint": "Denk aan een rijdende auto of de wind; die bewegen ook zonder biologisch te leven.",
+      "feedback_correct": "Klopt, je hebt altijd meer informatie over andere levenskenmerken nodig.",
+      "feedback_wrong": "Beweging kan ook mechanisch of door natuurkrachten veroorzaakt worden.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    },
+    {
+      "id": "bio_005_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een vogel legt eieren waar later jonge vogeltjes uitkomen. Welke naam hoort bij dit levenskenmerk?",
+      "answers": [
+        "Uitscheiding",
+        "Voortplanting",
+        "Stofwisseling"
+      ],
+      "correct_answer": 1,
+      "hint": "Kies de term die hoort bij het krijgen van nakomelingen.",
+      "feedback_correct": "Juist! Het krijgen van nakomelingen of jonge diertjes heet voortplanting.",
+      "feedback_wrong": "Uitscheiding is het kwijtraken van afvalstoffen; stofwisseling is het omzetten van stoffen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "Aanvullende exameneis vraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    },
+    {
+      "id": "bio_005_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/4",
+      "syllabus_section": "1",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een dier plast en raakt hierdoor overtollige en schadelijke afvalstoffen kwijt. Welke naam hoort bij dit specifieke levenskenmerk?",
+      "answers": [
+        "Uitscheiding",
+        "Voeding",
+        "Ademhaling"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek de officiële term voor het verwijderen van afvalstoffen uit het lichaam.",
+      "feedback_correct": "Heel goed! Het verwijderen van afvalstoffen uit het lichaam noem je uitscheiding.",
+      "feedback_wrong": "Voeding is het opnemen van stoffen; ademhaling is gaswisseling voor energie.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "Aanvullende exameneis vraag",
+        "year": 2027,
+        "section": "BI/K/4, sub 1",
+        "page": 9,
+        "url": null
+      },
+      "les_id": "bio_005"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.0",
+    "notitie": "Topics en skills volledig strak getrokken conform koppeltabel v1.0. Topic ingesteld op biologische_basisbegrippen.",
+    "wijziging": "Vragen aangevuld naar 12 stuks om de specifieke BB-eindtermen rondom uitscheiding en voortplanting expliciet te toetsen."
+  }
+}

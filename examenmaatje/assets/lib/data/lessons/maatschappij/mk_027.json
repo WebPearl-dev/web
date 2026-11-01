@@ -1,0 +1,389 @@
+{
+  "id": "mk_027",
+  "subject": "maatschappij",
+  "title": "Les 27 – Hoe wordt beleid gemaakt en uitgevoerd?",
+  "goal": "Je leert hoe overheidsbeleid tot stand komt. Je leert vooral het verschil tussen beleidsbepaling en beleidsuitvoering en wat terugkoppeling betekent. Ook leer je welke rol ambtenaren en het dagelijks bestuur hebben bij de uitvoering.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Van besluit naar uitvoering",
+      "text": "In de vorige lessen heb je geleerd hoe een maatschappelijk vraagstuk politieke aandacht krijgt en hoe politieke besluiten worden genomen. Daarna moet een besluit in de praktijk worden uitgevoerd. De overheid maakt daarvoor beleid en zorgt dat afspraken en maatregelen worden uitgevoerd. Ook wordt later bekeken wat er met het beleid is gebeurd. In deze les leer je vooral over beleidsbepaling, beleidsuitvoering en terugkoppeling."
+    },
+    {
+      "type": "explanation",
+      "title": "Van maatschappelijk vraagstuk naar beleid",
+      "text": "Bij politieke besluitvorming kun je vier fasen onderscheiden. Eerst krijgt een maatschappelijk vraagstuk politieke aandacht. Daarna wordt onderzocht welke aanpak mogelijk is en wordt het beleid voorbereid. Vervolgens worden keuzes gemaakt. Dit noemen we beleidsbepaling. Daarna wordt het beleid uitgevoerd. Tijdens en na de uitvoering kan informatie terugkomen bij de overheid. Dat noemen we terugkoppeling.",
+      "points": [
+        "Fase 1: agendavorming – een maatschappelijk vraagstuk krijgt politieke aandacht.",
+        "Fase 2: beleidsvoorbereiding – mogelijke oplossingen en nieuw beleid worden voorbereid.",
+        "Fase 3: beleidsbepaling – er wordt een beslissing genomen over het beleid.",
+        "Fase 4: beleidsuitvoering – het beleid wordt in de praktijk uitgevoerd.",
+        "Terugkoppeling: er komen reacties en informatie terug over genomen besluiten en de uitvoering. De politieke besluitvorming kan daardoor opnieuw beginnen."
+      ]
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is beleid?",
+      "text": "Beleid is de manier waarop de overheid een maatschappelijk vraagstuk probeert aan te pakken. Daarbij worden keuzes gemaakt over wat de overheid wil bereiken en welke maatregelen daarvoor worden gebruikt.",
+      "points": [
+        "Een doel beschrijft wat de overheid wil bereiken.",
+        "Een maatregel is een actie, regel of andere aanpak die wordt ingezet om het doel te bereiken.",
+        "Het model probleem – doel – maatregelen is een handig hulpmiddel om beleid te herkennen, maar het is niet hetzelfde als de officiële fasen van politieke besluitvorming."
+      ]
+    },
+    {
+      "type": "explanation",
+      "title": "Fase 3 – beleidsbepaling",
+      "text": "In fase 3 wordt beslist welk beleid er komt. Eerst neemt het dagelijks bestuur een voorlopige beslissing. Vervolgens besluit de volksvertegenwoordiging of het nieuwe beleid of de nieuwe wetgeving wordt aangenomen. De fase is afgerond als de volksvertegenwoordiging de uiteindelijke beslissing heeft genomen."
+    },
+    {
+      "type": "explanation",
+      "title": "Fase 4 – beleidsuitvoering",
+      "text": "Na de beleidsbepaling moet het beleid in de praktijk worden uitgevoerd. Ambtenaren voeren wetten en maatregelen uit onder de politieke verantwoordelijkheid van het dagelijks bestuur. Bij een gemeente is dat bijvoorbeeld het college van burgemeester en wethouders. Bij de rijksoverheid zijn ministers politiek verantwoordelijk voor het beleid van hun ministerie.",
+      "points": [
+        "Bij een gemeente kan het college van burgemeester en wethouders verantwoordelijk zijn voor de uitvoering.",
+        "Bij de rijksoverheid zijn ministers politiek verantwoordelijk voor het beleid van hun ministerie.",
+        "Ambtenaren kunnen zorgen voor de praktische uitvoering van beleid.",
+        "Andere organisaties of bedrijven kunnen soms werkzaamheden uitvoeren in opdracht van de overheid."
+      ]
+    },
+    {
+      "type": "explanation",
+      "title": "Terugkoppeling",
+      "text": "Ook tijdens en na de uitvoering kunnen reacties vanuit de samenleving terugkomen bij de overheid. Bijvoorbeeld informatie over wat er is uitgevoerd, welke resultaten zijn bereikt en welke problemen zich voordoen. Deze reacties en informatie noemen we terugkoppeling. De politieke besluitvorming kan hierdoor opnieuw beginnen.",
+      "example": "Een gemeente voert maatregelen in om zwerfafval te verminderen. Na een tijdje komen er reacties van inwoners en informatie over problemen bij de uitvoering. De gemeente kan deze informatie gebruiken om opnieuw naar het beleid te kijken."
+    },
+    {
+      "type": "explanation",
+      "title": "Besluit, uitvoering en controle zijn niet hetzelfde",
+      "text": "Let goed op het verschil tussen verschillende rollen.",
+      "points": [
+        "Bij beleidsbepaling worden beslissingen genomen over het beleid.",
+        "Bij beleidsuitvoering wordt het gekozen beleid in de praktijk uitgevoerd.",
+        "De Tweede Kamer en gemeenteraad hebben daarnaast een controlerende taak. Zij kunnen de regering of het college van burgemeester en wethouders controleren.",
+        "Terugkoppeling bestaat uit reacties en informatie die terugkomen nadat politieke besluiten zijn genomen."
+      ]
+    },
+    {
+      "type": "chart",
+      "title": "Het proces in één overzicht",
+      "text": "Gebruik dit overzicht om de volgorde te onthouden.",
+      "data": [
+        {
+          "label": "Fase 1",
+          "value": "Agendavorming"
+        },
+        {
+          "label": "Fase 2",
+          "value": "Beleidsvoorbereiding"
+        },
+        {
+          "label": "Fase 3",
+          "value": "Beleidsbepaling"
+        },
+        {
+          "label": "Fase 4",
+          "value": "Beleidsuitvoering"
+        },
+        {
+          "label": "Daarna en tijdens de uitvoering",
+          "value": "Terugkoppeling"
+        }
+      ]
+    },
+    {
+      "type": "strategy",
+      "title": "Handige manier om een vraag te maken",
+      "text": "Vraag jezelf eerst af waar de situatie over gaat. Krijgt een probleem politieke aandacht? Dan gaat het om agendavorming. Worden mogelijke oplossingen onderzocht en voorbereid? Dan gaat het om beleidsvoorbereiding. Wordt een beslissing genomen over het beleid? Dan gaat het om beleidsbepaling. Wordt een gekozen beleid in de praktijk uitgevoerd? Dan gaat het om beleidsuitvoering. Komen er reacties terug op genomen besluiten? Dan gaat het om terugkoppeling.",
+      "steps": [
+        "1. Zoek wat er in de situatie gebeurt.",
+        "2. Kijk of het gaat om politieke aandacht, voorbereiding, een beslissing of uitvoering.",
+        "3. Let op reacties en informatie die terugkomen over genomen besluiten."
+      ]
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_027_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.6.3",
+        "topic": "Politiek en bestuur",
+        "skill": "Fasen van politieke besluitvorming herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeenteraad bespreekt verschillende manieren om verkeersproblemen rond een school aan te pakken. Daarna kiest de raad voor een bepaalde aanpak. In welke fase past deze situatie het best?",
+        "context": "",
+        "answers": [
+          "Beleidsbepaling",
+          "Beleidsuitvoering",
+          "Terugkoppeling"
+        ],
+        "correct_answer": 0,
+        "hint": "Let op wat de gemeenteraad doet. Wordt het beleid uitgevoerd of wordt er een keuze over de aanpak gemaakt?",
+        "feedback_correct": "Dat klopt. Bij beleidsbepaling wordt een beslissing genomen over het beleid.",
+        "feedback_wrong": "Kijk goed naar de handeling van de gemeenteraad. Gaat het hier om uitvoeren, informatie terugkrijgen of een beslissing nemen over het beleid?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_027_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.6.4",
+        "topic": "Politiek en bestuur",
+        "skill": "Beleidsuitvoering herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeente heeft besloten om op een drukke weg nieuwe verkeersborden te plaatsen. Een medewerker van de gemeente zorgt ervoor dat de borden worden besteld en geplaatst. Waar gaat deze situatie vooral over?",
+        "context": "",
+        "answers": [
+          "De politieke agenda",
+          "De beleidsuitvoering",
+          "De beleidsbepaling"
+        ],
+        "correct_answer": 1,
+        "hint": "Het politieke besluit is al genomen. Kijk naar wat er daarna in de praktijk gebeurt.",
+        "feedback_correct": "Juist. Bij beleidsuitvoering wordt het gekozen beleid in de praktijk uitgevoerd.",
+        "feedback_wrong": "Het besluit is in deze situatie al genomen. Kijk daarom naar wat er daarna met het gekozen beleid gebeurt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_027_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.6.4",
+        "topic": "Politiek en bestuur",
+        "skill": "Terugkoppeling herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente heeft nieuw beleid ingevoerd tegen zwerfafval. Na een half jaar ontvangt de gemeente informatie over de uitvoering en over de hoeveelheid afval in verschillende wijken. Waar is deze informatie een voorbeeld van?",
+        "context": "",
+        "answers": [
+          "Terugkoppeling",
+          "De politieke agenda",
+          "Een nieuw maatschappelijk vraagstuk"
+        ],
+        "correct_answer": 0,
+        "hint": "De informatie komt nadat het beleid is uitgevoerd en kan worden gebruikt om opnieuw naar het beleid te kijken.",
+        "feedback_correct": "Dat klopt. Reacties en informatie die terugkomen nadat politieke besluiten zijn genomen, noemen we terugkoppeling.",
+        "feedback_wrong": "Let op het moment waarop de informatie beschikbaar komt. Het gaat om informatie die terugkomt nadat het beleid is ingevoerd.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_027_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.6.4",
+        "topic": "Politiek en bestuur",
+        "skill": "Rol van ambtenaren herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente heeft besloten om een nieuw vergunningensysteem in te voeren. Ambtenaren verwerken aanvragen volgens de nieuwe regels. Wie voert het beleid hier in de praktijk uit?",
+        "context": "",
+        "answers": [
+          "De gemeenteraad die over het beleid heeft gesproken",
+          "De inwoners die een vergunning aanvragen",
+          "De ambtenaren van de gemeente"
+        ],
+        "correct_answer": 2,
+        "hint": "Kijk wie de nieuwe regels in het dagelijkse werk toepast.",
+        "feedback_correct": "Goed. Ambtenaren kunnen beleid in de praktijk uitvoeren onder politieke verantwoordelijkheid van het dagelijks bestuur.",
+        "feedback_wrong": "Kijk naar wie de nieuwe regels daadwerkelijk toepast in het dagelijkse werk. De vraag gaat over de uitvoering.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_027_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.6.3",
+        "topic": "Politiek en bestuur",
+        "skill": "Fasen van politieke besluitvorming onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De Tweede Kamer bespreekt verschillende voorstellen om het lerarentekort aan te pakken en kiest uiteindelijk voor een bepaalde aanpak. Welke fase herken je?",
+        "context": "",
+        "answers": [
+          "Terugkoppeling",
+          "Beleidsbepaling",
+          "Beleidsuitvoering"
+        ],
+        "correct_answer": 1,
+        "hint": "De Tweede Kamer bespreekt mogelijkheden en maakt een politieke keuze.",
+        "feedback_correct": "Juist. Het nemen van een beslissing over het beleid hoort bij de fase van beleidsbepaling.",
+        "feedback_wrong": "De aanpak wordt hier nog gekozen. Er wordt dus nog niet beschreven wat er later in de praktijk met het beleid gebeurt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_027_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.6.4",
+        "topic": "Politiek en bestuur",
+        "skill": "Rollen bij beleidsuitvoering onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een ministerie voert nieuw beleid uit. Ambtenaren werken aan de uitvoering van de afspraken. Wie draagt de politieke verantwoordelijkheid voor het beleid van het ministerie?",
+        "context": "",
+        "answers": [
+          "De minister",
+          "Elke ambtenaar persoonlijk",
+          "De inwoners die gebruikmaken van het beleid"
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de ministeriële verantwoordelijkheid voor het beleid van een ministerie.",
+        "feedback_correct": "Dat klopt. De minister is politiek verantwoordelijk voor het beleid van het ministerie, terwijl ambtenaren veel van de praktische uitvoering kunnen verzorgen.",
+        "feedback_wrong": "Let op het verschil tussen praktische uitvoering en politieke verantwoordelijkheid. Het gaat hier om degene die politiek verantwoordelijk is.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_027_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.6",
+        "topic": "Politieke controle en verantwoordelijkheid",
+        "skill": "Beleidsuitvoering en controle onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeenteraad vraagt het college van burgemeester en wethouders om uit te leggen waarom een afgesproken maatregel nog niet is uitgevoerd. Welke taak van de gemeenteraad zie je hier?",
+        "context": "",
+        "answers": [
+          "De uitvoerende taak",
+          "De controlerende taak",
+          "De rechterlijke taak"
+        ],
+        "correct_answer": 1,
+        "hint": "De gemeenteraad voert de maatregel hier niet zelf uit. De raad vraagt het bestuur om uitleg.",
+        "feedback_correct": "Goed. De gemeenteraad heeft een controlerende taak en kan het college om informatie en uitleg vragen.",
+        "feedback_wrong": "Kijk naar wat de gemeenteraad zelf doet. De raad voert de maatregel niet uit, maar vraagt het bestuur om uitleg.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_027_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.6.3",
+        "topic": "Politiek en bestuur",
+        "skill": "Doel en maatregel onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente wil het aantal ongelukken rond een basisschool verminderen. Daarom legt de gemeente een verkeersdrempel aan en plaatst zij extra waarschuwingsborden. Wat zijn de verkeersdrempel en de waarschuwingsborden?",
+        "context": "",
+        "answers": [
+          "Maatregelen",
+          "Maatschappelijke vraagstukken",
+          "Politieke agenda's"
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar wat de gemeente daadwerkelijk inzet om het gewenste doel te bereiken.",
+        "feedback_correct": "Juist. De verkeersdrempel en borden zijn concrete maatregelen die worden ingezet om het doel te bereiken.",
+        "feedback_wrong": "Denk aan het verschil tussen wat de overheid wil bereiken en wat zij daarvoor inzet. Zoek naar de concrete aanpak.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_027_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.6.4",
+        "topic": "Politiek en bestuur",
+        "skill": "Informatie uit de uitvoering interpreteren",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente heeft beleid ingevoerd om wachttijden bij een gemeentelijke dienst te verminderen. Na enkele maanden meldt de dienst dat de wachttijd op sommige dagen nog steeds lang is. Wat kan de gemeente met deze informatie doen?",
+        "context": "",
+        "answers": [
+          "De informatie gebruiken om het beleid opnieuw te bekijken",
+          "De informatie negeren omdat het beleid al is vastgesteld",
+          "De gemeenteraad vervangen door de ambtenaren van de dienst"
+        ],
+        "correct_answer": 0,
+        "hint": "De informatie komt uit de uitvoering. Bedenk waarvoor zulke informatie later gebruikt kan worden.",
+        "feedback_correct": "Dat klopt. Informatie en reacties uit de uitvoering kunnen aanleiding zijn om de politieke besluitvorming opnieuw te starten.",
+        "feedback_wrong": "Denk na over de betekenis van informatie uit de uitvoering. Waarom is het nuttig om te weten wat er in de praktijk gebeurt?",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_027_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2.6.4",
+        "topic": "Politiek en bestuur",
+        "skill": "Fasen van politieke besluitvorming herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een provincie heeft beleid gemaakt om de bereikbaarheid van een dorp te verbeteren. Na de invoering meldt de uitvoerende organisatie welke maatregelen zijn uitgevoerd en welke problemen daarbij zijn ontstaan. Welke fase of stap past het best bij deze informatie?",
+        "context": "",
+        "answers": [
+          "De politieke agenda",
+          "Beleidsbepaling",
+          "Terugkoppeling"
+        ],
+        "correct_answer": 2,
+        "hint": "De informatie komt nadat het beleid in de praktijk is uitgevoerd. Kijk welke term hoort bij informatie die terugkomt naar de overheid.",
+        "feedback_correct": "Goed. Reacties en informatie die terugkomen nadat politieke besluiten zijn genomen, zijn een voorbeeld van terugkoppeling.",
+        "feedback_wrong": "Let op het moment waarop deze informatie beschikbaar komt. Het beleid is al ingevoerd en er komt informatie terug over de uitvoering.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Wat moet je onthouden?",
+      "text": "Onthoud vooral deze volgorde: eerst krijgt een maatschappelijk vraagstuk politieke aandacht. Daarna wordt het beleid voorbereid. In fase 3 vindt beleidsbepaling plaats: er wordt een beslissing genomen over het beleid. In fase 4 wordt het beleid uitgevoerd. Ambtenaren kunnen daarbij een belangrijke rol hebben en werken onder de politieke verantwoordelijkheid van het dagelijks bestuur. Ook tijdens en na de uitvoering kunnen reacties terugkomen. Dat noemen we terugkoppeling. De politieke besluitvorming kan daardoor opnieuw beginnen. De Tweede Kamer en de gemeenteraad hebben daarnaast een controlerende taak.",
+      "summary": [
+        "Fase 1 = agendavorming: een maatschappelijk vraagstuk krijgt politieke aandacht.",
+        "Fase 2 = beleidsvoorbereiding: mogelijke oplossingen en nieuw beleid worden voorbereid.",
+        "Fase 3 = beleidsbepaling: er wordt een beslissing genomen over het beleid.",
+        "Fase 4 = beleidsuitvoering: het gekozen beleid wordt in de praktijk uitgevoerd.",
+        "Ambtenaren voeren veel beleid uit onder politieke verantwoordelijkheid van het dagelijks bestuur.",
+        "Terugkoppeling = reacties en informatie die terugkomen nadat politieke besluiten zijn genomen.",
+        "De Tweede Kamer en gemeenteraad kunnen het bestuur controleren."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "id": "bio_028",
+  "subject": "biologie",
+  "title": "Les 28 - De voortplantingsstelsels",
+  "goal": "Je kunt belangrijke delen van de vrouwelijke en mannelijke voortplantingsstelsels benoemen og uitleggen wat hun functies zijn.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "De voortplantingsstelsels",
+      "text": "Mensen hebben een voortplantingsstelsel om kinderen te kunnen krijgen. In deze les leer je de belangrijkste onderdelen van het vrouwelijke en mannelijke voortplantingsstelsel kennen. Je leert niet alleen de namen, maar ook welke specifieke functie deze onderdelen in het lichaam hebben.",
+      "image": "les_028_intro_stelsels.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Het vrouwelijke voortplantingsstelsel",
+      "text": "Het vrouwelijke stelsel bestaat uit de volgende belangrijke onderdelen:\n* Eierstokken: Hierin liggen de eicellen (vrouwelijke geslachtscellen) opgeslagen.\n* Eileiders: Twee dunne buisjes die de eicellen opvangen en vervoeren in de richting van de baarmoeder.\n* Baarmoeder: Een gespaveerd hol orgaan waarin een bevruchte eicel zich kan innestelen en uitgroeien tot een baby.\n* Schede (vagina): De gespaveerde buis die de baarmoeder verbindt met de buitenkant van het lichaam.\n* Grote en kleine schaamlippen: Beschermen de ingang van de schede en de urinebuis.\n* Kittelaar (clitoris): Een knopje aan de bovenkant dat heel gevoelig is voor aanraking.",
+      "image": "les_028_anatomie_vrouw.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Het mannelijke voortplantingsstelsel",
+      "text": "Het mannelijke stelsel bestaat uit de volgende belangrijke onderdelen:\n* Teelballen (zaadballen): Maken miljarden zaadcellen (mannelijke geslachtscellen) aan.\n* Balzak: Een huidzakje buiten de buikholte waar de teelballen in liggen, omdat de temperatuur daar lager is.\n* Bijballen: Liggen tegen de teelballen aan; hierin worden de geproduceerde zaadcellen tijdelijk opgeslagen en rijpen ze verder.\n* Zaadleiders: Twee lange buizen die de rijpe zaadcellen vervoeren richting de penis.\n* Zaadblaasjes en prostaat: Voegen speciaal vocht met voedingsstoffen toe aan de langsreizende zaadcellen. De mix van zaadcellen en vocht heet sperma.\n* Penis en urinebuis: De urinebuis loopt door de penis heen. Bij een man voert de urinebuis zowel urine (van de blaas) af, als sperma tijdens een zaadlozing.",
+      "image": "les_028_anatomie_man.png"
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je de vragen aan",
+      "text": "Let goed op het verschil tussen onderdelen die op elkaar lijken, zoals de eileider (vervoert eicellen bij de vrouw) and de zaadleider (vervoert zaadcellen bij de man). Onthoud dat de urinebuis bij de man een dubbelfunctie heeft, terwijl de vrouw twee aparte openingen heeft."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Vrouw: eierstokken (bevatten eicellen) ➡️ eileiders (vervoer) ➡️ baarmoeder (groei baby). Man: teelballen (maken zaadcellen) ➡️ bijballen (rijpen/opslag) ➡️ zaadleiders (vervoer) ➡️ prostaat/zaadblaasjes (voegen vocht toe) ➡️ urinebuis (lozing sperma of urine)."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_028_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In welk specifiek vrouwelijk orgaan liggen de eicellen vanaf de geboorte opgeslagen?",
+      "answers": [
+        "In de baarmoeder",
+        "In de eierstokken",
+        "In de schede",
+        "In de schaamlippen"
+      ],
+      "correct_answer": 1,
+      "hint": "Dit zijn de twee organen die links en rechts in de onderbuik liggen en ook de vrouwelijke hormonen maken.",
+      "feedback_correct": "Goed gedaan! Eicellen bevinden zich in de eierstokken.",
+      "feedback_wrong": "Eicellen liggen opgeslagen in de eierstokken. In de baarmoeder groeit een baby pas na de bevruchting.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_028"
+    },
+    {
+      "id": "bio_028_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke belangrijke transporttaak heeft de eileider in het vrouwelijke lichaam?",
+      "answers": [
+        "Het maken van miljoenen actieve zaadcellen.",
+        "Het vervoeren van urine van de blaas naar buiten.",
+        "Het opvangen en vervoeren van een eicel in de richting van de baarmoeder.",
+        "Het beschermen van de ingang van de schede."
+      ],
+      "correct_answer": 2,
+      "hint": "Dit dunne buisje vormt de verbindingsweg tussen de eierstok en de baarmoeder.",
+      "feedback_correct": "Juist! De eileider transporteert de eicel richting de baarmoeder. Hier vindt vaak ook de bevruchting plaats.",
+      "feedback_wrong": "De eileider vervoert een eicel in de richting van de baarmoeder, het vervoert nooit urine of zaadcellen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_028"
+    },
+    {
+      "id": "bio_028_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In welk gespierd, hol orgaan kan een bevruchte eicel zich innestelen om zich verder te ontwikkelen tot een baby?",
+      "answers": [
+        "In de baarmoeder",
+        "In de urinebuis",
+        "In de eierstok",
+        "In de clitoris"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit orgaan kan tijdens een zwangerschap enorm uitzetten om ruimte te maken voor de groeiende foetus.",
+      "feedback_correct": "Perfect! De baarmoeder is het orgaan waarin een bevruchte eicel zich nestelt en uitgroeit tot een kind.",
+      "feedback_wrong": "De baarmoeder beschermt en voedt het groeiende kind. In de eierstokken rijpen alleen de cellen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_028"
+    },
+    {
+      "id": "bio_028_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Wat is de medische en biologische naam voor het onderdeel dat we in de volksmond ook wel de schede noemen?",
+      "answers": [
+        "De eileider",
+        "De baarmoeder",
+        "De eierstok",
+        "De vagina"
+      ],
+      "correct_answer": 3,
+      "hint": "Dit is de gespierde buis waar de penis in komt bij geslachtsgemeenschap en waar een baby door geboren wordt.",
+      "feedback_correct": "Heel goed! De schede en de vagina zijn twee namen voor exact hetzelfde onderdeel.",
+      "feedback_wrong": "De schede wordt in de biologie de vagina genoemd. Baarmoeder en eileiders liggen veel dieper in de buik.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_028"
+    },
+    {
+      "id": "bio_028_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waar worden de mannelijke geslachtscellen (de zaadcellen) geproduceerd?",
+      "answers": [
+        "In de prostaat",
+        "In de teelballen",
+        "In de urinebuis",
+        "In de zaadblaasjes"
+      ],
+      "correct_answer": 1,
+      "hint": "Deze twee ovale organen worden ook wel de zaadballen genoemd en hangen buiten de buikholte.",
+      "feedback_correct": "Top! De teelballen (zaadballen) maken onder invloed van hormonen miljarden zaadcellen aan.",
+      "feedback_wrong": "Zaadcellen worden gemaakt in de teelballen. De prostaat en zaadblaasjes voegen later pas vocht toe.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_028"
+    },
+    {
+      "id": "bio_028_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In welk specifiek onderdeel rijpen de zaadcellen rustig verder nadat ze in de teelballen zijn gemaakt?",
+      "answers": [
+        "In de bijballen",
+        "In de urineblaas",
+        "In de penis",
+        "In de prostaatklier"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit langwerpige onderdeel ligt als een soort kapje strak tegen de achterkant van elke teelbal aan.",
+      "feedback_correct": "Uitstekend! In de bijballen worden zaadcellen opgeslagen and rijpen ze totdat er een zaadlozing plaatsvindt.",
+      "feedback_wrong": "Na de productie stromen de zaadcellen direct door naar de bijballen voor verdere rijping en opslag.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_028"
+    },
+    {
+      "id": "bio_028_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke vloeistof of stof voegen de zaadblaasjes en de prostaatklier toe aan de zaadcellen om sperma te maken?",
+      "answers": [
+        "Eicellen",
+        "Urine",
+        "Voedend vocht",
+        "Zuur maagsap"
+      ],
+      "correct_answer": 2,
+      "hint": "Dit vloeibare bestanddeel zorgt ervoor dat zaadcellen kunnen zwemmen en onderweg voldoende energie hebben.",
+      "feedback_correct": "Klopt! De zaadblaasjes en de prostaat maken vocht aan, wat samen met de zaadcellen sperma vormt.",
+      "feedback_wrong": "Ze voegen voedend vocht toe. Urine komt uit de blaas en hoort hier niet bij.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_028"
+    },
+    {
+      "id": "bio_028_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke belangrijke dubbelfunctie heeft de urinebuis die door de penis van een man heen loopt?",
+      "answers": [
+        "Het vervoeren van eicellen en het aanmaken van geslachtshormonen.",
+        "Het afvoeren van urine én het naar buiten geleiden van sperma tijdens een zaadlozing.",
+        "Het produceren van zaadcellen en het laten rijpen van de bijballen.",
+        "Het filteren van het bloed en het opslaan van overtollige zouten."
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan de twee verschillende vloeistoffen die op heel andere momenten door de penis naar buiten stromen.",
+      "feedback_correct": "Juist! Bij de man is de urinebuis de gezamenlijke afvoerweg voor zowel urine als sperma.",
+      "feedback_wrong": "De urinebuis vervoert urine en sperma (niet tegelijkertijd). Zaadcellen maken doet de teelbal.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_028"
+    },
+    {
+      "id": "bio_028_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke combinatie van een voortplantingsonderdeel en de bijbehorende functie is biologisch juist?",
+      "answers": [
+        "Eileider — het produceren van miljarden actieve zaadcellen",
+        "Teelballen — het bewaren van rijpe vrouwelijke eicellen",
+        "Baarmoeder — het tijdelijk verzamelen en opslaan van vloeibare urine",
+        "Zaadleider — het transporteren van zaadcellen richting de penis"
+      ],
+      "correct_answer": 3,
+      "hint": "Zoek de buis die de zaadcellen vanaf de bijballen met een flinke ruk omhoog leidt richting de prostaat.",
+      "feedback_correct": "Uitstekend! De zaadleiders zijn de transportbuisjes voor de zaadcellen bij de man.",
+      "feedback_wrong": "Eileiders en baarmoeder zijn vrouwelijk. Urine opslaan doet de blaas. Alleen optie D is juist.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_028"
+    },
+    {
+      "id": "bio_028_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke van de onderstaande biologische uitspraken over de voortplantingsorganen is feitelijk correct?",
+      "answers": [
+        "De eierstokken produceren dagelijks miljarden nieuwe zaadcellen.",
+        "De baarmoeder is de hoofdafvoerbuis van overtollige urine.",
+        "De balzak bevat de teelballen en houdt ze op de juiste temperatuur.",
+        "De eileiders vervoeren sperma rechtstreeks naar de urineblaas."
+      ],
+      "correct_answer": 2,
+      "hint": "Dit huidzakje hangt buiten de buikholte omdat zaadcellen niet goed tegen de warme 37 graden van de romp kunnen.",
+      "feedback_correct": "Perfect! De balzak (het scrotum) beschermt de teelballen en regelt de koelere temperatuur.",
+      "feedback_wrong": "Eierstokken maken eicellen. De balzak is het zakje dat de teelballen buiten het lichaam beschermt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_028"
+    },
+    {
+      "id": "bio_028_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Als je kijkt naar een medische overzichtskaart van het vrouwelijke voortplantingsstelsel, welk onderdeel bevindt zich dan als een gespierde buis direct onder de baarmoedermond?",
+      "answers": [
+        "De schede (vagina)",
+        "De eierstok",
+        "De eileider"
+      ],
+      "correct_answer": 0,
+      "hint": "Het is de toegangsweg vanaf de buitenkant van het lichaam die leidt naar de baarmoeder toe.",
+      "feedback_correct": "Top! De schede of vagina sluit direct aan op de onderkant van de baarmoeder.",
+      "feedback_wrong": "Eierstokken en eileiders liggen aan de bovenkant links en rechts van de baarmoeder, niet eronder.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_028",
+      "image": "les_028_q11_vrouw_kaart.png"
+    },
+    {
+      "id": "bio_028_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/12",
+      "syllabus_section": "2",
+      "topic": "menselijke_voortplanting",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Op een schematische tekening van het mannelijke voortplantingsstelsel zie je een klier liggen die als een ring om de urinebuis heen zit, vlak onder de urineblaas. Welke klier is dit?",
+      "answers": [
+        "De prostaatklier",
+        "De bijbal",
+        "Het zaadblaasje"
+      ],
+      "correct_answer": 0,
+      "hint": "Deze klier kan op oudere leeftijd groter worden and de urinebuis een beetje dichtknijpen, waardoor plassen lastiger wordt.",
+      "feedback_correct": "Klopt helemaal! Dit is de prostaat. Hij ligt direct onder de blaas and omringt de urinebuis.",
+      "feedback_wrong": "De bijbal ligt tegen de teelbal aan. De klier die om de urinebuis heen zit onder de blaas is de prostaat.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_028",
+      "image": "les_028_q12_man_kaart.png"
+    }
+  ]
+}

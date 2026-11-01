@@ -1,0 +1,324 @@
+{
+  "id": "bio_008",
+  "subject": "biologie",
+  "title": "Les 8 - Organismen herkennen, indelen en determineren",
+  "goal": "Je leert uiterlijke kenmerken van organismen waarnemen en een determineersleutel of zoekkaart gebruiken om de juiste naam te vinden.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Er zijn miljoenen verschillende organismen op aarde. Je kunt levende wezens herkennen aan uiterlijke kenmerken die je direct kunt zien, zoals het aantal poten, de vorm van een snavel of de rand van een blad. Met een determineersleutel of zoekkaart kun je stap voor stap de naam van een organisme vinden.",
+      "image": "les_008_intro_determineren.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Kenmerken waarnemen",
+      "text": "Een organisme is een levend wezen, zoals een plant, dier of schimmel. Je kunt organismen indelen en herkennen door goed te kijken naar uiterlijke kenmerken. Denk bijvoorbeeld aan het aantal poten, de aanwezigheid van vleugels, de vorm van een snavel of de rand van een blad. Kies altijd duidelijke kenmerken die je echt aan de buitenkant kunt vaststellen.",
+      "image": "les_008_uiterlijke_kenmerken.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Een determineersleutel gebruiken",
+      "text": "Een determineersleutel of zoekkaart helpt je om een organisme op te zoeken. Bij iedere stap lees je twee beschrijvingen en kies je degene die past bij het organisme dat je onderzoekt. Daarna volg je de pijl of de verwijzing naar de volgende stap. Je gebruikt dus niet zomaar je voorkennis: je volgt de stappen in de sleutel heel zorgvuldig.",
+      "image": "les_008_determineer_uitleg.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Van kenmerken naar een naam",
+      "text": "Stel dat een zoektabel eerst onderscheid maakt tussen dieren met zes poten en dieren met acht poten. Daarna maakt de tabel binnen die groep een nieuw onderscheid, bijvoorbeeld tussen dieren met vleugels and dieren zonder vleugels. Je volgt alle stappen totdat je bij een definitieve naam uitkomt. De naam is alleen juist als je de stappen correct hebt gevolgd."
+    },
+    {
+      "type": "explanation",
+      "title": "Controleer je uitkomst",
+      "text": "Heb je een naam gevonden? Lees de kenmerken van die naam nog eens door. Passen ze bij het organisme dat je voor je ziet? Als het niet klopt, ga je terug naar de stap waar je mogelijk een verkeerde keuze hebt gemaakt. Een determineertabel of zoekkaart werkt volgens exact hetzelfde principe."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo pak je het aan",
+      "text": "Bekijk eerst het organisme and let op kenmerken die je direct kunt zien. Lees daarna rustig de eerste stap van de sleutel. Kies de omschrijving die klopt en volg de verwijzing. Sla nooit stappen over en ga niet gokken op basis van de vorm alleen."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Dieren en planten breng je op naam met een determineersleutel. Je volgt de uiterlijke kenmerken stap voor stap. Maak je een fout op een splitsing? Dan kom je bij een verkeerde naam uit. Controleer je antwoord daarom altijd achteraf!"
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_008_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Begripskennis en organisatieniveaus",
+      "topic": "biologische_basisbegrippen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welk van de onderstaande voorbeelden is in de biologie een levend organisme?",
+      "answers": [
+        "Een eikenboom",
+        "Een grote, harde steen",
+        "Schoon kraanwater"
+      ],
+      "correct_answer": 0,
+      "hint": "Kies het voorbeeld dat groeit, ademhaalt, zich voedt en biologisch leeft.",
+      "feedback_correct": "Goed! Een eikenboom is een plant en dus een levend organisme.",
+      "feedback_wrong": "Een organisme is een levend wezen. Een steen en water zijn levenloos en dus geen organismen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aangepast op basis van de syllabus-eisen",
+      "les_id": "bio_008"
+    },
+    {
+      "id": "bio_008_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "informatie_uit_bron_aflezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Je wilt twee onbekende planten met elkaar vergelijken om ze in te delen. Welk kenmerk kun je rechtstreeks met je eigen ogen aan de buitenkant waarnemen?",
+      "answers": [
+        "De vorm en rand van de groene bladeren",
+        "De precieze erfelijke informatie die diep in de cellen zit",
+        "De volledige geschiedenis van de groei van de afgelopen jaren"
+      ],
+      "correct_answer": 0,
+      "hint": "Zoek het kenmerk dat je direct kunt bekijken zonder microscoop of ingewikkeld DNA-onderzoek.",
+      "feedback_correct": "Juist! De vorm van de bladeren is een uiterlijk kenmerk dat je direct kunt waarnemen.",
+      "feedback_wrong": "Bij waarnemen gebruik je kenmerken die je direct kunt zien. Erfelijke informatie zit onzichtbaar weggestopt in de celkern.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aangepast op basis van de syllabus-eisen",
+      "les_id": "bio_008"
+    },
+    {
+      "id": "bio_008_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "organisme_determineren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Gebruik deze eenvoudige determineersleutel:\n\nStap 1:\nA. Het dier heeft zes poten ➡️ ga naar stap 2.\nB. Het dier heeft acht poten ➡️ naam: spin.\n\nStap 2:\nA. Het dier heeft vleugels ➡️ naam: gevleugeld insect.\nB. Het dier heeft geen vleugels ➡️ naam: vleugelloos insect.\n\nJe onderzoekt een dier met zes poten en geen vleugels. Welke biologische naam volgt er uit deze sleutel?",
+      "answers": [
+        "Spin",
+        "Gevleugeld insect",
+        "Vleugelloos insect"
+      ],
+      "correct_answer": 2,
+      "hint": "Begin altijd bij stap 1. Welke route moet je volgen op basis van de zes poten?",
+      "feedback_correct": "Goed gedaan! Zes poten brengt je naar stap 2. Omdat het dier geen vleugels heeft, is de uitkomst vleugelloos insect.",
+      "feedback_wrong": "Volg de stappen nauwkeurig. Zes poten stuurt je door naar stap 2, and daar kies je de optie 'geen vleugels'.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aangepast op basis van de syllabus-eisen",
+      "les_id": "bio_008"
+    },
+    {
+      "id": "bio_008_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "organisme_determineren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Gebruik dezelfde determineersleutel:\n\nStap 1:\nA. Het dier heeft zes poten ➡️ ga naar stap 2.\nB. Het dier heeft acht poten ➡️ naam: spin.\n\nStap 2:\nA. Het dier heeft vleugels ➡️ naam: gevleugeld insect.\nB. Het dier heeft geen vleugels ➡️ naam: vleugelloos insect.\n\nJe bekijkt nu een dier met acht poten. Welke stap of uitkomst hoort daar volgens deze sleutel bij?",
+      "answers": [
+        "Je moet direct doorgaan naar stap 2.",
+        "De directe biologische uitkomst is spin.",
+        "De directe biologische uitkomst is gevleugeld insect."
+      ],
+      "correct_answer": 1,
+      "hint": "Kijk goed wat er direct achter optie 1B staat geschreven.",
+      "feedback_correct": "Klopt! De sleutel geeft bij acht poten direct de naam spin. Je hoeft dan niet meer door naar stap 2.",
+      "feedback_wrong": "Lees stap 1B goed door. Welke naam staat er direct achter de omschrijving 'acht poten'?",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aangepast op basis van de syllabus-eisen",
+      "les_id": "bio_008"
+    },
+    {
+      "id": "bio_008_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "organisme_determineren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een klein insect heeft zes poten en duidelijke vleugels op zijn rug. Je gebruikt de determineersleutel uit deze les. Wat is de juiste naam van dit dier?",
+      "answers": [
+        "Spin",
+        "Vleugelloos insect",
+        "Gevleugeld insect"
+      ],
+      "correct_answer": 2,
+      "hint": "Gebruik eerst stap 1. Welke keuze brengt je naar stap 2, and wat kies je daar?",
+      "feedback_correct": "Uitstekend! Bij zes poten ga je naar stap 2. Omdat het dier vleugels heeft, kom je uit bij gevleugeld insect.",
+      "feedback_wrong": "Begin bij stap 1. Ga bij zes poten naar stap 2 and kijk welk kenmerk daar past bij de aanwezige vleugels.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aangepast op basis van de syllabus-eisen",
+      "les_id": "bio_008"
+    },
+    {
+      "id": "bio_008_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "Hulpmiddelen/practicum/onderzoek/verslag/ICT",
+      "topic": "onderzoek_en_practicum",
+      "skill": "redenering_beoordelen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een leerling gebruikt een determineertabel en kiest bij de allereerste splitsing per ongeluk de verkeerde omschrijving. Wat is hiervan het directe gevolg?",
+      "answers": [
+        "De leerling volgt vanaf dat moment een verkeerde transportroute en vindt een onjuiste naam.",
+        "De zoekkaart past zichzelf in de app automatisch aan naar het goede antwoord.",
+        "De uiteindelijke naam blijft altijd correct, welke keuzes je onderweg ook maakt."
+      ],
+      "correct_answer": 0,
+      "hint": "Vergelijk het met het inslaan van een verkeerde afslag op een snelweg.",
+      "feedback_correct": "Juist! Als je een verkeerde keuze maakt, kom je op een verkeerde route uit and klopt de eindnaam niet meer.",
+      "feedback_wrong": "Een determineersleutel werkt alleen correct als je bij iedere stap heel nauwkeurig de juiste route volgt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aangepast op basis van de syllabus-eisen",
+      "les_id": "bio_008"
+    },
+    {
+      "id": "bio_008_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "conclusie_trekken_uit_gegevens",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Je ziet in de tuin een dier lopen met acht poten. Je gebruikt de determineersleutel uit deze les. Welke conclusie is feitelijk juist op basis van stap 1?",
+      "answers": [
+        "Het dier komt direct bij de uitkomst spin uit.",
+        "Het dier is met 100% zekerheid een gevleugeld insect.",
+        "Het dier is een groene plant met houtvaten."
+      ],
+      "correct_answer": 0,
+      "hint": "Kijk bij stap 1 welke naam er gekoppeld staat aan de optie 'acht poten'.",
+      "feedback_correct": "Perfect! Bij acht poten verwijst stap 1 direct naar de naam spin. Je trekt dus de juiste conclusie.",
+      "feedback_wrong": "Kijk goed naar de tekst van de sleutel. Bij acht poten (stap 1B) staat direct de naam spin vermeld.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aangepast op basis van de syllabus-eisen",
+      "les_id": "bio_008"
+    },
+    {
+      "id": "bio_008_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "verband_leggen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Twee verschillende insecten hebben allebei zes poten, maar het ene dier heeft wel vleugels and het andere niet. Waarom helpt het extra kenmerk 'vleugels' bij het determineren?",
+      "answers": [
+        "Omdat je hiermee organismen binnen dezelfde hoofdgroep verder van elkaar kunt onderscheiden.",
+        "Omdat alle dieren met zes poten automatisch precies tot dezelfde soort behoren.",
+        "Omdat het aantal poten daardoor helemaal niet meer belangrijk is om te tellen."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan het nut van een extra splitsing in een zoekkaart om dichter bij de specifieke naam te komen.",
+      "feedback_correct": "Heel goed! Een extra kenmerk helpt om organismen die veel op elkaar lijken stap voor stap uit elkaar te houden.",
+      "feedback_wrong": "Determineersleutels gebruiken juist extra uiterlijke kenmerken om groepen nauwkeurig te splitsen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aangepast op basis van de syllabus-eisen",
+      "les_id": "bio_008"
+    },
+    {
+      "id": "bio_008_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "onderdeel_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een eend zwemt in het water en zoekt naar voedsel. Welk uiterlijk kenmerk aan de kop van de vogel wordt gebruikt om het voedsel te pakken en te filteren?",
+      "answers": [
+        "De snavel",
+        "De staart",
+        "De vleugel"
+      ],
+      "correct_answer": 0,
+      "hint": "Dit harde, hoornachtige onderdeel zit aan de voorkant van de vogelkop.",
+      "feedback_correct": "Juist! Vogels gebruiken hun snavel om voedsel mee te pakken and te eten.",
+      "feedback_wrong": "Staarten en vleugels zitten aan de achterkant of zijkant van het lichaam, niet aan de voorkant van de kop.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aangepast op basis van de syllabus-eisen",
+      "les_id": "bio_008"
+    },
+    {
+      "id": "bio_008_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "organisme_determineren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Je gebruikt de determineersleutel uit de les. Het dier dat je onderzoekt heeft zes poten. Wat moet je nu doen om de juiste naam te achterhalen?",
+      "answers": [
+        "Het dier direct invullen als een spin.",
+        "Het dier goed bekijken om te controleren of het vleugels heeft and doorgaan naar stap 2.",
+        "Stoppen met de sleutel, omdat de tabel bij zes poten direct ophoudt."
+      ],
+      "correct_answer": 1,
+      "hint": "Kijk welke vervolgopdracht er bij stap 1A achter 'zes poten' geschreven staat.",
+      "feedback_correct": "Top! Zes poten geeft nog geen naam, maar stuurt je door naar stap 2, waar je let op het kenmerk vleugels.",
+      "feedback_wrong": "Zes poten geeft bij stap 1 nog geen definitieve naam. Je wordt doorgestuurd naar de volgende stap.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aangepast op basis van de syllabus-eisen",
+      "les_id": "bio_008"
+    },
+    {
+      "id": "bio_008_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "organisme_determineren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Gebruik deze planten-zoekkaart:\n\nStap 1:\nA. De bladrand heeft scherpe tanden ➡️ ga naar stap 2.\nB. De bladrand is glad en heeft geen tanden ➡️ naam: beuk.\n\nStap 2:\nA. Het blad is handvormig gelobd ➡️ naam: esdoorn.\nB. Het blad is eivormig ➡️ naam: braam.\n\nJe vindt in het bos een blad met een gladde bladrand zonder tanden. Welke plantennaam hoort hierbij?",
+      "answers": [
+        "Beuk",
+        "Esdoorn",
+        "Braam"
+      ],
+      "correct_answer": 0,
+      "hint": "Kijk heel nauwkeurig naar de keuzes bij stap 1 van deze planten-zoekkaart.",
+      "feedback_correct": "Klopt helemaal! Een gladde bladrand zonder tanden geeft in stap 1B direct de naam beuk.",
+      "feedback_wrong": "Lees stap 1B goed door. Daar staat geschreven welke boom hoort bij een gladde bladrand zonder tanden.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_008"
+    },
+    {
+      "id": "bio_008_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/6",
+      "syllabus_section": "1",
+      "topic": "organismen_en_aanpassing",
+      "skill": "organisme_determineren",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Gebruik dezelfde planten-zoekkaart uit de vorige vraag. Je onderzoekt een ander blad. De bladrand heeft scherpe tanden and het blad is handvormig gelobd. Wat is de juiste naam van deze plant?",
+      "answers": [
+        "Beuk",
+        "Esdoorn",
+        "Braam"
+      ],
+      "correct_answer": 1,
+      "hint": "Start bij stap 1. Scherpe tanden stuurt je door naar stap 2. Kijk wat je daar kiest.",
+      "feedback_correct": "Uitstekend! Scherpe tanden brengt je naar stap 2, and 'handvormig gelobd' geeft de boomnaam esdoorn.",
+      "feedback_wrong": "Scherpe tanden stuurt je door naar stap 2. Kijk welke plantennaam daar hoort bij het kenmerk 'handvormig gelobd'.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende oefenvraag conform syllabus-eisen",
+      "les_id": "bio_008"
+    }
+  ]
+}

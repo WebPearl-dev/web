@@ -1,0 +1,318 @@
+{
+  "id": "bio_015",
+  "subject": "biologie",
+  "title": "Les 15 - Voeding, voedingsstoffen en de Schijf van Vijf",
+  "goal": "Je leert voedingsmiddelen en voedingsstoffen onderscheiden, de vier hoofdfuncties van voedingsstoffen benoemen, de rol van de Schijf van Vijf en voedingsvezels uitleggen en informatie uit een voedingstabel gebruiken.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Je lichaam heeft elke dag voedsel nodig. Voedingsmiddelen bevatten voedingsstoffen die je lichaam gebruikt als brandstof, bouwstof, reservestof of beschermende stof. In deze les leer je hoe je gezond kiest met de Schijf van Vijf en hoe je een voedingstabel afleest.",
+      "image": "les_015_intro_voeding.png"
+    },
+    {
+      "type": "explanation",
+      "title": "Voedingsmiddelen en voedingsstoffen",
+      "text": "Een voedingsmiddel is iets wat je eet of drinkt, zoals brood, melk, kaas of een appel. In voedingsmiddelen zitten de bruikbare bestanddelen: voedingsstoffen. Er zijn zes groepen voedingsstoffen: eiwitten, koolhydraten (zoals suikers en zetmeel), vetten, water, mineralen (voedingszouten) en vitaminen."
+    },
+    {
+      "type": "explanation",
+      "title": "De vier functies van voedingsstoffen",
+      "text": "Je lichaam gebruikt voedingsstoffen op vier manieren:\n1. Brandstoffen: Leveren energie om te bewegen en warm te blijven (vooral koolhydraten en vetten).\n2. Bouwstoffen: Nodig voor groei, herstel en het maken van nieuwe cellen (vooral eiwitten, mineralen en water).\n3. Reservestoffen: Worden opgeslagen voor later (vooral vetten).\n4. Beschermende stoffen: Zorgen dat je niet ziek wordt en je lichaam goed werkt (vitaminen en mineralen)."
+    },
+    {
+      "type": "explanation",
+      "title": "Voedingsvezels en de Schijf van Vijf",
+      "text": "Voedingsvezels zijn onverteerbare plantenresten in je voedsel (zoals in volkorenbrood en groenten). Ze leveren geen energie, maar vullen de darmen. Hierdoor stimuleren ze de darmperistaltiek: het actieve knijpen en ontspannen van de darmen om het voedsel soepel voort te duwen. Om gezond en gevarieerd te eten gebruik je de Schijf van Vijf, die helpt om van alle stoffen voldoende binnen te krijgen."
+    },
+    {
+      "type": "explanation",
+      "title": "Informatie uit een voedingstabel",
+      "text": "Op een verpakking of in een tabel kun je lezen hoeveel gram van een voedingsstof in een product zit. Let er altijd goed op of de getallen gelden per 100 gram of per portie, zodat je betrouwbaar kunt vergelijken.",
+      "image": "les_015_voedingstabel_uitleg.png"
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Voedingsmiddelen eet je; voedingsstoffen zitten erin. Koolhydraten en vetten zijn brandstoffen; eiwitten zijn bouwstoffen. Vitaminen en mineralen beschermen je lichaam. Voedingsvezels houden je darmen actief via de darmperistaltiek."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_015_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "What is een voedingsmiddel?",
+      "answers": [
+        "Een stof die alleen in het bloed voorkomt",
+        "Iets wat je eet of drinkt, zoals brood",
+        "Een orgaan dat voedsel verteert"
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan iets dat je kunt eten of drinken.",
+      "feedback_correct": "Brood is een voedingsmiddel: iets wat je eet.",
+      "feedback_wrong": "Een voedingsmiddel is iets wat je eet of drinkt. Een voedingsstof is een stof die in een voedingsmiddel kan zitten.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_015"
+    },
+    {
+      "id": "bio_015_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke van deze voorbeelden is een voedingsstof?",
+      "answers": [
+        "Een bord",
+        "Een boterham",
+        "Een eiwit"
+      ],
+      "correct_answer": 2,
+      "hint": "Een voedingsstof zit in voedingsmiddelen.",
+      "feedback_correct": "Eiwitten zijn voedingsstoffen die in voedingsmiddelen kunnen zitten.",
+      "feedback_wrong": "Een boterham is een voedingsmiddel. Eiwitten zijn voedingsstoffen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_015"
+    },
+    {
+      "id": "bio_015_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke voedingsstoffen hebben in je lichaam vooral de functie van brandstof om energie te leveren?",
+      "answers": [
+        "Koolhydraten en vetten",
+        "Alleen water en mineralen",
+        "Alleen vitaminen en water"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de belangrijkste leveranciers van energie voor beweging en warmte.",
+      "feedback_correct": "Klopt! Koolhydraten en vetten leveren energie en dienen als brandstof. Eiwitten kunnen dit ook, maar zijn vooral bouwstoffen.",
+      "feedback_wrong": "Koolhydraten and vetten leveren energie. Water, vitaminen en mineralen leveren zelf geen energie.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_015"
+    },
+    {
+      "id": "bio_015_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Waarvoor zijn eiwitten in ons voedsel hoofdzakelijk nodig als bouwstof?",
+      "answers": [
+        "Om voedsel in de maag te bewaren",
+        "Voor groei en herstel van het lichaam",
+        "Om zuurstof in de lucht te maken"
+      ],
+      "correct_answer": 1,
+      "hint": "Denk aan het opbouwen en herstellen van lichaamsdelen en cellen.",
+      "feedback_correct": "Eiwitten zijn onder andere nodig voor groei en herstel van het lichaam.",
+      "feedback_wrong": "Eiwitten helpen bij de opbouw en het herstel van het lichaam. Ze maken geen gas in de lucht.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_015"
+    },
+    {
+      "id": "bio_015_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "functie_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Je lichaam heeft veel verschillende stoffen nodig. Welke van de onderstaande stoffen levert zelf géén energie?",
+      "answers": [
+        "Vet",
+        "Koolhydraten",
+        "Water"
+      ],
+      "correct_answer": 2,
+      "hint": "Je lichaam heeft deze vloeistof wel heel hard nodig, maar gebruikt haar niet als brandstof.",
+      "feedback_correct": "Water is belangrijk voor het lichaam, maar levert zelf geen energie. Ook vitaminen en mineralen leveren geen energie.",
+      "feedback_wrong": "Water, vitaminen en mineralen leveren zelf geen energie. Koolhydraten en vetten kunnen dat wel.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_015"
+    },
+    {
+      "id": "bio_015_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "informatie_uit_bron_aflezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Bekijk de voedingstabel. Hoeveel eiwit bevat product B per 100 gram?\n\nProduct A: 8 gram eiwit per 100 gram\nProduct B: 12 gram eiwit per 100 gram\nProduct C: 5 gram eiwit per 100 gram",
+      "answers": [
+        "5 gram",
+        "8 gram",
+        "12 gram"
+      ],
+      "correct_answer": 2,
+      "hint": "Zoek eerst de rij van product B en lees daarna de hoeveelheid eiwit af.",
+      "feedback_correct": "Product B bevat 12 gram eiwit per 100 gram. Je hebt de gegevens bij het juiste product afgelezen.",
+      "feedback_wrong": "Kijk nog eens naar product B in de tekst. Daar staat 12 gram eiwit per 100 gram.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag met oefengegevens",
+      "les_id": "bio_015"
+    },
+    {
+      "id": "bio_015_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "informatie_vergelijken",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Product A bevat per 100 gram 4 gram vet. Product B bevat per 100 gram 9 gram vet. Welk product bevat per 100 gram meer vet?",
+      "answers": [
+        "Product A",
+        "Product B",
+        "Beide bevatten evenveel vet"
+      ],
+      "correct_answer": 1,
+      "hint": "Vergelijk de twee getallen met elkaar.",
+      "feedback_correct": "Product B bevat 9 gram vet per 100 gram and product A 4 gram. Negen gram is meer dan vier gram.",
+      "feedback_wrong": "Vergelijk 4 gram met 9 gram. Negen gram is meer dan vier gram, dus product B bevat meer vet per 100 gram.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag met oefengegevens",
+      "les_id": "bio_015"
+    },
+    {
+      "id": "bio_015_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Jasmijn eet een gevarieerde maaltijd met brood, kaas en groente. Waarom adviseert de Schijf van Vijf om afwisselend te eten?",
+      "answers": [
+        "Omdat elk voedingsmiddel precies dezelfde stoffen bevat",
+        "Omdat verschillende voedingsmiddelen verschillende voedingsstoffen leveren",
+        "Omdat groente alle andere groepen overbodig maakt"
+      ],
+      "correct_answer": 1,
+      "hint": "Denk eraan dat voedingsmiddelen niet allemaal dezelfde biologische samenstelling hebben.",
+      "feedback_correct": "Verschillende voedingsmiddelen leveren verschillende typen voedingsstoffen, wat nodig is voor een gezond lichaam.",
+      "feedback_wrong": "Voedingsmiddelen verschillen sterk in samenstelling. Afwisselend eten zorgt dat je alle stoffen binnenkrijgt.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_015"
+    },
+    {
+      "id": "bio_015_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Welke uitspraak over voedingsmiddelen en voedingsstoffen is biologisch juist?",
+      "answers": [
+        "Een voedingsmiddel bevat nooit meer dan één voedingsstof",
+        "Voedingsstoffen en voedingsmiddelen betekenen precies hetzelfde",
+        "Een voedingsmiddel kan meerdere voedingsstoffen bevatten"
+      ],
+      "correct_answer": 2,
+      "hint": "Denk aan de verschillende stoffen die tegelijkertijd in melk of brood kunnen zitten.",
+      "feedback_correct": "Klopt! Eén voedingsmiddel kan meerdere soorten voedingsstoffen bevatten.",
+      "feedback_wrong": "Voedingsmiddelen zijn de producten die je eet. Daarin zitten de voedingsstoffen als bestanddelen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag op basis van de syllabus",
+      "les_id": "bio_015"
+    },
+    {
+      "id": "bio_015_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "informatie_uit_bron_aflezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Bekijk de voedingstabel. Welk product bevat per portie de meeste eiwitten?\n\nProduct A: 12 gram koolhydraten en 5 gram eiwit per portie\nProduct B: 8 gram koolhydraten en 7 gram eiwit per portie\nProduct C: 15 gram koolhydraten en 4 gram eiwit per portie",
+      "answers": [
+        "Product A",
+        "Product B",
+        "Product C"
+      ],
+      "correct_answer": 1,
+      "hint": "Vergelijk alleen de hoeveelheden eiwit per portie. Let niet op de koolhydraten.",
+      "feedback_correct": "Product B bevat 7 gram eiwit per portie. Dat is meer dan de 5 gram van product A en de 4 gram van product C.",
+      "feedback_wrong": "Kijk naar het eiwit: A bevat 5 gram, B 7 gram en C 4 gram per portie. Product B heeft dus het meeste eiwit.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Oefenvraag met oefengegevens",
+      "les_id": "bio_015"
+    },
+    {
+      "id": "bio_015_q11",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Voedingsvezels leveren je lichaam geen energie. Welke belangrijke functie hebben vezels wél in je spijsverteringskanaal?",
+      "answers": [
+        "Ze prikkelen de spieren in de darmwand, wat belangrijk is voor de darmperistaltiek.",
+        "Ze veranderen direct in rode bloedcellen.",
+        "Ze zorgen ervoor dat de darmen volledig stoppen met knijpen."
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan de knijpende beweging van de darmwand om voedsel voort te duwen.",
+      "feedback_correct": "Heel goed! Vezels zorgen dat de darmen actief blijven knijpen en ontspannen (darmperistaltiek).",
+      "feedback_wrong": "Vezels kunnen geen bloedcellen maken en stoppen de darmwerking niet; ze stimuleren juist de peristaltiek.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_015"
+    },
+    {
+      "id": "bio_015_q12",
+      "subject": "biologie",
+      "syllabus": "BI/K/9",
+      "syllabus_section": "3",
+      "topic": "voeding_en_voedingsstoffen",
+      "skill": "kennis_toepassen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Iemand eet fruit en groenten om te zorgen dat de organen goed blijven werken en om te voorkomen dat hij snel ziek wordt. Welke functie van voedingsstoffen sluit hierbij aan?",
+      "answers": [
+        "De functie van beschermende stoffen",
+        "De functie van pure reservestoffen",
+        "De functie van zware brandstoffen"
+      ],
+      "correct_answer": 0,
+      "hint": "Kijk goed naar de woorden 'goed werken' en 'voorkomen dat je ziek wordt'.",
+      "feedback_correct": "Perfect! Vitaminen en mineralen in groente en fruit functioneren als beschermende stoffen.",
+      "feedback_wrong": "Reservestoffen (vetten) slaan energie op en brandstoffen leveren direct energie. Dit zijn beschermende stoffen.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": "Aanvullende exameneis vraag",
+      "les_id": "bio_015"
+    }
+  ]
+}

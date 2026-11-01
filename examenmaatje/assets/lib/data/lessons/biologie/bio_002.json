@@ -1,0 +1,346 @@
+{
+  "id": "bio_002",
+  "subject": "biologie",
+  "title": "Les 2 - Tabellen, tekeningen en diagrammen",
+  "goal": "Je leert informatie uit tabellen, tekeningen en diagrammen nauwkeurig aflezen en gebruiken om een biologische vraag te beantwoorden.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Wat ga je leren?",
+      "text": "Bij biologie krijg je niet alleen teksten. Informatie kan ook staan in een tabel, een tekening, een schema of een diagram. Je leert in deze les precies waar je moet kijken en hoe je deze bronnen gebruikt."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo lees je een bron",
+      "text": "1. Lees eerst de vraag goed.\n2. Bekijk de titel van de tabel, tekening of het diagram.\n3. Lees de namen bij de assen en de kopjes van de kolommen.\n4. Zoek de juiste rij, kolom of balk op.\n5. Lees de waarde nauwkeurig af."
+    },
+    {
+      "type": "explanation",
+      "title": "Informatie uit een tabel",
+      "text": "Een tabel zet gegevens overzichtelijk in rijen en kolommen. De titel vertelt waar de tabel over gaat. De kopjes vertellen wat je in een rij of kolom vindt. Zoek eerst het juiste kopje en volg daarna de rij en kolom tot het vakje met de gevraagde informatie."
+    },
+    {
+      "type": "explanation",
+      "title": "Informatie uit een tekening",
+      "text": "Een biologische tekening laat bijvoorbeeld een plant, dier of cel zien. Bij een tekening kunnen namen, pijlen of cijfers staan. Kijk goed waar een pijl precies naartoe wijst. Gebruik de labels in de afbeelding; raad niet alleen af op de vorm."
+    },
+    {
+      "type": "explanation",
+      "title": "Informatie uit een diagram",
+      "text": "Een diagram laat gegevens vaak met balken of lijnen zien. Lees de titel en de namen bij de assen. Kijk ook naar de getallen en de eenheid. Bij een staafdiagram vergelijk je de hoogte van balken. Bij een lijndiagram kun je zien hoe een waarde verandert."
+    },
+    {
+      "type": "finish",
+      "title": "Onthoud dit",
+      "text": "Lees altijd eerst de vraag. Controleer de titel, kopjes, labels, assen en eenheden. Zoek daarna de juiste informatie en raad nooit zomaar op basis van een plaatje."
+    }
+  ],
+  "questions": [
+    {
+      "id": "bio_002_q01",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "2",
+      "topic": "biologische_informatie",
+      "skill": "informatie_uit_bron_aflezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In een tabel staat: maandag 4 kiemplantjes, dinsdag 7 kiemplantjes. Hoeveel kiemplantjes staan er bij dinsdag?",
+      "answers": [
+        "4",
+        "7",
+        "11"
+      ],
+      "correct_answer": 1,
+      "hint": "Zoek de rij met dinsdag en lees het getal af.",
+      "feedback_correct": "Bij dinsdag staat 7 kiemplantjes.",
+      "feedback_wrong": "Kijk opnieuw naar de rij met dinsdag. Daar staat het aantal voor die dag.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3, onderdeel 2",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_002"
+    },
+    {
+      "id": "bio_002_q02",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "2",
+      "topic": "biologische_informatie",
+      "skill": "begrip_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een tabel heeft de titel ‘Lengte van bonenplanten na twee weken’. Welke informatie past het best bij deze titel?",
+      "answers": [
+        "De lengte van bonenplanten na twee weken",
+        "Het aantal blaadjes van alle planten in een year",
+        "De kleur van de bloempot"
+      ],
+      "correct_answer": 0,
+      "hint": "De titel vertelt welke gegevens in de tabel staan.",
+      "feedback_correct": "De titel gaat over de lengte van bonenplanten na twee weken.",
+      "feedback_wrong": "Gebruik de titel om te bepalen waar de tabel over gaat; de andere antwoorden noemen andere gegevens.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3, onderdeel 2",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_002"
+    },
+    {
+      "id": "bio_002_q03",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "2",
+      "topic": "biologische_informatie",
+      "skill": "overeenkomst_verschil_herkennen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In een tabel staat bij plant A: 8 cm en bij plant B: 5 cm. Welke plant is volgens de tabel het langst?",
+      "answers": [
+        "Plant B",
+        "Beide planten zijn even lang",
+        "Plant A"
+      ],
+      "correct_answer": 2,
+      "hint": "Vergelijk de twee lengtes in centimeters.",
+      "feedback_correct": "8 cm is meer dan 5 cm, dus plant A is het langst.",
+      "feedback_wrong": "Vergelijk 8 cm met 5 cm. De grootste lengte hoort bij de langste plant.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3, onderdeel 2",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_002"
+    },
+    {
+      "id": "bio_002_q04",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "2",
+      "topic": "biologische_informatie",
+      "skill": "onderdeel_aanwijzen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Op een tekening van een plant wijst een pijl naar het deel dat water uit de bodem opneemt. Welk deel is dat?",
+      "answers": [
+        "De wortel",
+        "De bloem",
+        "De vrucht"
+      ],
+      "correct_answer": 0,
+      "hint": "Denk aan het plantendeel dat in de bodem zit.",
+      "feedback_correct": "Wortels nemen water en mineralen uit de bodem op.",
+      "feedback_wrong": "De wortels nemen water uit de bodem op. Bloemen zijn betrokken bij voortplanting en vruchten bevatten zaden.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3, onderdeel 2; inhoudelijke context BI/K/6, onderdeel 3",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_002"
+    },
+    {
+      "id": "bio_002_q05",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "2",
+      "topic": "biologische_informatie",
+      "skill": "informatie_uit_bron_aflezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een staafdiagram laat zien hoeveel zaden vier planten hebben. Plant A heeft 3 zaden, B heeft 6, C heeft 2 en D heeft 5. Welke plant heeft de meeste zaden?",
+      "answers": [
+        "Plant C",
+        "Plant B",
+        "Plant A"
+      ],
+      "correct_answer": 1,
+      "hint": "Zoek de hoogste balk of vergelijk de vier aantallen.",
+      "feedback_correct": "Plant B heeft met 6 zaden het hoogste aantal.",
+      "feedback_wrong": "Vergelijk de aantallen: A heeft 3, B heeft 6, C heeft 2 en D heeft 5 zaden.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3, onderdeel 2",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_002"
+    },
+    {
+      "id": "bio_002_q06",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "2",
+      "topic": "biologische_informatie",
+      "skill": "begrip_benoemen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een diagram heeft op de verticale as ‘Temperatuur (°C)’. Wat betekent °C?",
+      "answers": [
+        "Centimeter",
+        "Aantal dieren",
+        "Graden Celsius"
+      ],
+      "correct_answer": 2,
+      "hint": "Dit is de eenheid die bij temperatuur hoort.",
+      "feedback_correct": "°C betekent graden Celsius en geeft de eenheid van temperatuur aan.",
+      "feedback_wrong": "Let op de eenheid bij de as: °C staat voor graden Celsius.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3, onderdeel 2; eenheden BI/K/3, onderdeel 5",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_002"
+    },
+    {
+      "id": "bio_002_q07",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "2",
+      "topic": "biologische_informatie",
+      "skill": "werking_beschrijven",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een lijndiagram laat zien dat een plant op dag 1 2 cm hoog is, op dag 2 3 cm en op dag 3 5 cm. Wat gebeurt er met de lengte?",
+      "answers": [
+        "De plant wordt steeds korter",
+        "De plant wordt steeds langer",
+        "De lengte blijft gelijk"
+      ],
+      "correct_answer": 1,
+      "hint": "Volg de waarden van dag 1 naar dag 3.",
+      "feedback_correct": "De lengte neemt toe van 2 cm naar 5 cm.",
+      "feedback_wrong": "De gemeten lengte stijgt van 2 naar 3 en daarna naar 5 cm.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3, onderdeel 2",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_002"
+    },
+    {
+      "id": "bio_002_q08",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "2",
+      "topic": "biologische_informatie",
+      "skill": "informatie_uit_bron_aflezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een tabel vermeldt dat een slak op maandag 2 cm en op dinsdag 3 cm verplaatste. Welke uitspraak past bij de gegevens?",
+      "answers": [
+        "Op dinsdag verplaatste de slak 3 cm",
+        "De slak verplaatst altijd 3 cm per dag",
+        "Dinsdag was de beste dag voor de slak"
+      ],
+      "correct_answer": 0,
+      "hint": "Kies alleen wat je uit de tabel kunt aflezen.",
+      "feedback_correct": "De tabel geeft voor dinsdag 3 cm aan.",
+      "feedback_wrong": "De tabel zegt alleen iets over de genoemde metingen. Je kunt daaruit niet afleiden wat de slak altijd doet of welke dag het beste was.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3, onderdeel 2",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_002"
+    },
+    {
+      "id": "bio_002_q09",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "2",
+      "topic": "biologische_informatie",
+      "skill": "informatie_uit_bron_aflezen",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "Een tabel geeft het aantal waargenomen vlinders: maandag 4, dinsdag 4, woensdag 7. Op welke dag zijn de meeste vlinders geteld?",
+      "answers": [
+        "Maandag",
+        "Woensdag",
+        "Dinsdag"
+      ],
+      "correct_answer": 1,
+      "hint": "Vergelijk de drie aantallen.",
+      "feedback_correct": "Woensdag zijn 7 vlinders geteld; dat is het hoogste aantal.",
+      "feedback_wrong": "Maandag en dinsdag hebben allebei 4 vlinders. Woensdag heeft er 7.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3, onderdeel 2",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_002"
+    },
+    {
+      "id": "bio_002_q10",
+      "subject": "biologie",
+      "syllabus": "BI/K/3",
+      "syllabus_section": "2",
+      "topic": "biologische_informatie",
+      "skill": "conclusie_trekken_uit_gegevens",
+      "level": "BB",
+      "type": "multiple_choice",
+      "question": "In een diagram staat dat plant A 6 cm groeide en plant B 6 cm groeide. Welke conclusie past bij deze gegevens?",
+      "answers": [
+        "Plant A groeide zeker sneller",
+        "Plant B groeide zeker sneller",
+        "Beide planten groeiden evenveel in de gemeten periode"
+      ],
+      "correct_answer": 2,
+      "hint": "Vergelijk de twee gemeten waarden en blijf bij wat de gegevens laten zien.",
+      "feedback_correct": "Beide planten groeiden 6 cm in de gemeten periode.",
+      "feedback_wrong": "De gemeten groei is bij beide planten 6 cm. De gegevens geven geen reden om te zeggen dat één plant sneller groeide.",
+      "source_reference": "Syllabus Biologie vmbo 2027",
+      "source": {
+        "type": "self_written",
+        "title": "Zelfgemaakte oefenvraag",
+        "year": 2027,
+        "section": "BI/K/3, onderdeel 2",
+        "page": 7,
+        "url": null
+      },
+      "les_id": "bio_002"
+    }
+  ],
+  "_meta": {
+    "status": "definitief",
+    "versie": "Versie 2.1",
+    "notitie": "Alle codes aangescherpt en rechtgetrokken op basis van de definitieve koppeltabel v1.0. Rekenonderdelen volledig verplaatst naar de nieuwe Les 3.",
+    "wijziging": "Topics en skills vervangen door de exacte strings uit het databasedocument."
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "id": "mk_011",
+  "subject": "maatschappij",
+  "title": "Les 11 – Wat is politiek?",
+  "goal": "Je leert wat politiek en beleid betekenen. Je leert hoe maatschappelijke vraagstukken en verschillende belangen kunnen leiden tot politieke keuzes en hoe de overheid beleid maakt.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Van leervaardigheden naar politiek",
+      "text": "In de vorige lessen heb je verschillende leervaardigheden geoefend. Vanaf deze les gaan we die vaardigheden gebruiken voor de inhoud van maatschappijkunde.\n\nWe beginnen met een belangrijk onderwerp van het vak: politiek. Misschien denk je bij politiek aan vergaderingen, mensen in de Tweede Kamer of regels en wetten. Maar politiek heeft ook te maken met jouw dagelijks leven. Fietspaden, verkeersregels, schoolgebouwen en veiligheid in je buurt kunnen allemaal te maken hebben met beslissingen van de overheid."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een maatschappelijk vraagstuk?",
+      "text": "Bij een maatschappelijk vraagstuk gaat het om een situatie die veel mensen onwenselijk vinden. Mensen kunnen verschillende meningen hebben over de oplossing. Het vraagstuk kan aandacht krijgen in de media. Ook kan het door gezamenlijke actie van mensen of door de overheid worden aangepakt.\n\nNiet ieder probleem is dus automatisch een maatschappelijk vraagstuk. Het gaat om een situatie die voor veel mensen belangrijk is en waarover in de samenleving verschillende ideeën kunnen bestaan."
+    },
+    {
+      "type": "explanation",
+      "title": "Wanneer wordt een vraagstuk politiek?",
+      "text": "Sommige maatschappelijke vraagstukken krijgen aandacht van de politiek. Dat gebeurt bijvoorbeeld wanneer mensen, organisaties of de media aandacht vragen voor een probleem en willen dat de overheid iets doet.\n\nAls een maatschappelijk vraagstuk op de politieke agenda komt, gaat de politiek bespreken of en hoe de overheid het vraagstuk moet aanpakken. Dan wordt het een politiek vraagstuk."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een belang?",
+      "text": "Ieder mens en iedere groep kan verschillende belangen hebben. Een belang is iets wat iemand belangrijk vindt of waar iemand voordeel van wil hebben.\n\nJouw belang als leerling kan bijvoorbeeld zijn dat er goede schoolboeken zijn en dat je genoeg vrije tijd hebt. Het belang van een winkelier kan zijn dat er veel klanten komen en dat zijn winkel veilig is.\n\nOmdat mensen en groepen verschillende belangen kunnen hebben, kunnen belangen ook botsen. Wat voor de één belangrijk of voordelig is, kan voor een ander minder belangrijk of juist nadelig zijn."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is politiek?",
+      "text": "Omdat mensen verschillende wensen en belangen hebben, moeten er soms keuzes worden gemaakt. Politiek gaat over het maken van keuzes en het nemen van beslissingen voor de samenleving.\n\nDe overheid heeft niet onbeperkt geld en tijd. Er moeten daarom keuzes worden gemaakt over welke problemen aandacht krijgen en welke oplossingen worden gekozen."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is beleid?",
+      "text": "Beleid is het plan van de overheid om een maatschappelijk vraagstuk aan te pakken.\n\nBij beleid horen vaak verschillende maatregelen. Een maatregel is een concrete actie of regel die wordt gebruikt om het doel van het beleid te bereiken.\n\nBijvoorbeeld: een gemeente wil de verkeersveiligheid verbeteren. Het beleid kan gericht zijn op veiligere straten. Maatregelen kunnen dan bijvoorbeeld zijn het aanleggen van een fietspad of het aanpassen van een kruispunt."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld: een vraagstuk in de buurt",
+      "text": "In een gemeente zijn na schooltijd veel jongeren op straat. In de buurt zijn weinig plekken waar jongeren elkaar kunnen ontmoeten. Sommige buurtbewoners ervaren geluidsoverlast en vinden dat er iets moet gebeuren. De meeste jongeren veroorzaken geen overlast, maar er zijn wel verschillende ideeën over wat een goede oplossing is.\n\nEen groep inwoners wil dat de gemeente een leegstaand gebouw ombouwt tot een jongerencentrum. Andere inwoners vinden dat het geld beter kan worden gebruikt voor extra lantaarnpalen in de straten.\n\nWat zien we in deze situatie?\n\n• Het maatschappelijke vraagstuk: er zijn weinig ontmoetingsplekken voor jongeren en sommige buurtbewoners ervaren overlast.\n• Verschillende belangen: jongeren kunnen een plek willen om elkaar te ontmoeten. Buurtbewoners kunnen rust belangrijk vinden. Andere inwoners kunnen vooral veiligheid belangrijk vinden.\n• De politieke keuze: de gemeente moet kiezen waar het beschikbare geld aan wordt besteed.\n• Het beleid: de gemeente kan bijvoorbeeld kiezen voor beleid dat gericht is op meer veiligheid in de buurt. Een maatregel kan dan het plaatsen van extra lantaarnpalen zijn."
+    },
+    {
+      "type": "explanation",
+      "title": "Stappenplan",
+      "text": "Als je een tekst of situatie leest over politiek, gebruik dan dit vaste stappenplan:\n\nStap 1: Wat is het maatschappelijke vraagstuk? Wat vinden veel mensen onwenselijk?\n\nStap 2: Welke groepen hebben ermee te maken en welke belangen hebben zij?\n\nStap 3: Welke verschillende oplossingen zijn er?\n\nStap 4: Welke politieke keuze of beslissing moet worden gemaakt?\n\nStap 5: Welk beleid en welke maatregelen kunnen bij de gekozen oplossing horen?"
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_011_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Kenmerken van een maatschappelijk vraagstuk herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een wijk is veel overlast door afval. Veel bewoners vinden de situatie onwenselijk. Er wordt in de media over gesproken en bewoners vragen de gemeente om iets te doen. Waarom past deze situatie bij een maatschappelijk vraagstuk?",
+        "answers": [
+          "Omdat alleen de gemeente last heeft van het afval.",
+          "Omdat veel mensen de situatie onwenselijk vinden en er aandacht en actie voor is.",
+          "Omdat afvalproblemen altijd vanzelf door bewoners worden opgelost.",
+          "Omdat er maar één oplossing voor het probleem is."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk welke informatie in de situatie iets zegt over de kenmerken van een maatschappelijk vraagstuk.",
+        "feedback_correct": "Goed! In de situatie zijn meerdere kenmerken van een maatschappelijk vraagstuk aanwezig.",
+        "feedback_wrong": "Lees de situatie nog eens en let op wie de situatie onwenselijk vindt en wat er met het vraagstuk gebeurt."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_011_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Politiek en bestuur",
+        "skill": "Een politieke beslissing herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente verlaagt de maximumsnelheid op een drukke weg om de verkeersveiligheid te verbeteren. Wat is de beste omschrijving van deze actie?",
+        "answers": [
+          "Het is een persoonlijk belang van de burgemeester.",
+          "Het is een politieke beslissing over hoe een probleem wordt aangepakt.",
+          "Het is het maatschappelijke probleem zelf.",
+          "Het is alleen een mening van de inwoners."
+        ],
+        "correct_answer": 1,
+        "hint": "Kijk wie de beslissing neemt en wat de beslissing betekent voor de samenleving.",
+        "feedback_correct": "Juist. Er wordt een beslissing genomen over de aanpak van een probleem in de samenleving.",
+        "feedback_wrong": "Bepaal eerst of de uitspraak gaat over een probleem, een belang of een beslissing."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_011_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Politiek en bestuur",
+        "skill": "Beleid herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente wil het gebruik van de fiets stimuleren. De gemeente maakt een plan om meerdere veilige fietspaden aan te leggen en past daarvoor verschillende kruispunten aan. Wat is in deze situatie het beleid?",
+        "answers": [
+          "Het plan om fietsen aantrekkelijker en veiliger te maken.",
+          "Het feit dat sommige inwoners liever met de auto reizen.",
+          "Een fietspad dat al eerder is aangelegd.",
+          "De mening van één inwoner over fietsen."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk welke keuze het plan van de gemeente beschrijft.",
+        "feedback_correct": "Goed. Het plan van de gemeente om fietsen veiliger en aantrekkelijker te maken is het beleid.",
+        "feedback_wrong": "Zoek naar het plan waarmee de gemeente het vraagstuk wil aanpakken."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_011_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Belang herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Op een school wordt besproken of vette snacks in de kantine moeten verdwijnen. De leerlingenraad wil de snacks behouden omdat samen snacken gezellig is. De sportleraren vinden gezondheid en goede prestaties tijdens de gymles belangrijk. Welk belang hebben de sportleraren?",
+        "answers": [
+          "Gezondheid en goede prestaties tijdens de gymles.",
+          "Meer omzet voor de kantine.",
+          "Gezellig samen snacken tijdens de pauze.",
+          "Minder lessen tijdens de schooldag."
+        ],
+        "correct_answer": 0,
+        "hint": "Zoek in de situatie naar wat de sportleraren belangrijk vinden.",
+        "feedback_correct": "Dat klopt. De sportleraren vinden gezondheid en goede prestaties belangrijk.",
+        "feedback_wrong": "Kijk alleen naar de uitspraak van de sportleraren. Wat vinden zij belangrijk?"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_011_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Maatschappelijke vraagstukken en belangen",
+        "skill": "Botsende belangen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Op een school wordt besproken of vette snacks in de kantine moeten verdwijnen. De leerlingenraad wil de snacks behouden omdat samen snacken gezellig is. De sportleraren vinden gezondheid en goede prestaties tijdens de gymles belangrijk. Waarom kunnen de belangen van deze twee groepen botsen?",
+        "answers": [
+          "Omdat beide groepen precies hetzelfde belangrijk vinden.",
+          "Omdat de leerlingen vooral naar gezelligheid kijken en de sportleraren naar gezondheid.",
+          "Omdat de sportleraren willen dat leerlingen helemaal niet meer pauzeren.",
+          "Omdat beide groepen geen belang hebben bij de kantine."
+        ],
+        "correct_answer": 1,
+        "hint": "Vergelijk wat de twee groepen volgens de tekst belangrijk vinden.",
+        "feedback_correct": "Goed! De twee groepen kijken vanuit verschillende belangen naar dezelfde situatie.",
+        "feedback_wrong": "Vergelijk de belangen van de leerlingenraad en de sportleraren."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_011_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Politiek en bestuur",
+        "skill": "Een maatregel herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente wil de hoeveelheid zwerfafval verminderen. Daarom plaatst de gemeente extra prullenbakken. Wat is het plaatsen van extra prullenbakken in deze situatie?",
+        "answers": [
+          "Een maatregel.",
+          "Het maatschappelijke vraagstuk.",
+          "Een belang van de inwoners.",
+          "Een mening van de gemeente."
+        ],
+        "correct_answer": 0,
+        "hint": "Kijk naar wat de gemeente concreet gaat doen om het doel te bereiken.",
+        "feedback_correct": "Goed. Het plaatsen van extra prullenbakken is een concrete actie en dus een maatregel.",
+        "feedback_wrong": "Zoek naar de concrete actie die wordt uitgevoerd."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_011_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Politiek en bestuur",
+        "skill": "De gevolgen van een overheidsbesluit herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een drukke winkelstraat gebeuren regelmatig ongelukken tussen fietsers en voetgangers. De gemeente besluit dat fietsers daar overdag niet mogen rijden. Na 18.00 uur mogen fietsers de straat weer gebruiken. Wat betekent dit besluit voor fietsers?",
+        "answers": [
+          "Ze mogen de straat helemaal niet meer gebruiken.",
+          "Ze mogen de straat overdag gebruiken, maar niet na 18.00 uur.",
+          "Ze moeten overdag een andere route kiezen en kunnen er na 18.00 uur weer fietsen.",
+          "Ze mogen alleen vóór 12.00 uur door de straat fietsen."
+        ],
+        "correct_answer": 2,
+        "hint": "Lees precies wanneer het besluit geldt en wanneer fietsers de straat weer mogen gebruiken.",
+        "feedback_correct": "Juist. Het besluit geldt overdag. Na 18.00 uur mogen fietsers de straat weer gebruiken.",
+        "feedback_wrong": "Let goed op het tijdstip waarop het besluit geldt en wanneer fietsers weer welkom zijn."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_011_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Feit en mening",
+        "skill": "Feit en mening onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een nieuwe regel over honden wordt besproken. De regel zou betekenen dat hondenbezitters een cursus moeten volgen. Een hondenbezitter zegt: \"Ik vind dit een belachelijk idee, want mijn hond luistert al goed.\" Welke uitspraak is een mening?",
+        "answers": [
+          "De regel zou betekenen dat hondenbezitters een cursus moeten volgen.",
+          "Mijn hond luistert al goed.",
+          "Ik vind dit een belachelijk idee.",
+          "Hondenbezitters moeten een cursus volgen."
+        ],
+        "correct_answer": 2,
+        "hint": "Zoek naar de uitspraak waarin iemand duidelijk laat merken wat hij of zij ervan vindt.",
+        "feedback_correct": "Goed gezien. In deze uitspraak geeft iemand een oordeel over de regel.",
+        "feedback_wrong": "Kijk welke uitspraak een oordeel of beoordeling bevat."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_011_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.1.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Herkennen waarom de overheid keuzes moet maken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Het kabinet wil geld beschikbaar stellen voor nieuwe, betaalbare huurwoningen voor jongeren. Het kabinet legt dit voorstel voor aan de Tweede Kamer. De Tweede Kamer moet hierover stemmen. Waarom moet er een politieke keuze worden gemaakt?",
+        "answers": [
+          "Omdat de overheid onbeperkt geld heeft en alle plannen tegelijk kan uitvoeren.",
+          "Omdat er gekozen moet worden waar beperkt geld aan wordt besteed, bijvoorbeeld aan huurwoningen of aan een ander doel.",
+          "Omdat alleen jongeren mogen beslissen waar het geld van de overheid naartoe gaat.",
+          "Omdat de overheid geen geld mag gebruiken voor huurwoningen."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan het feit dat de overheid keuzes moet maken over beschikbare middelen.",
+        "feedback_correct": "Goed. De overheid heeft beperkte middelen en moet daarom keuzes maken over waar geld aan wordt besteed.",
+        "feedback_wrong": "Denk na over waarom niet alle mogelijke plannen tegelijk kunnen worden betaald."
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_011_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/3",
+        "syllabus_section": "2.1",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027",
+        "topic": "Bronnen en informatievaardigheden",
+        "skill": "Conclusie trekken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een gemeente plaatst een gratis fitnesstoestel in het park. Na één maand is het toestel 80 keer gebruikt door jongeren van 12 t/m 17 jaar, 15 keer door volwassenen van 18 t/m 59 jaar en 5 keer door mensen van 60 jaar en ouder. Welke conclusie mag je NIET trekken uit deze gegevens?",
+        "answers": [
+          "Jongeren hebben het fitnesstoestel het vaakst gebruikt.",
+          "Mensen van 60 jaar en ouder hebben het toestel het minst gebruikt.",
+          "Mensen van 60 jaar en ouder vinden fitnesstoestellen gevaarlijk.",
+          "Volwassenen van 18 t/m 59 jaar hebben het toestel vaker gebruikt dan mensen van 60 jaar en ouder."
+        ],
+        "correct_answer": 2,
+        "hint": "Bedenk welke uitspraken rechtstreeks uit de aantallen volgen en welke uitspraak een extra verklaring geeft.",
+        "feedback_correct": "Goed. De aantallen laten zien hoe vaak de groepen het toestel gebruikten, maar niet waarom zij het meer of minder gebruikten.",
+        "feedback_wrong": "Kijk of de gegevens ook echt informatie geven over de reden achter het gebruik."
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Samenvatting",
+      "text": "Dit moet je onthouden:\n\n• Bij een maatschappelijk vraagstuk vinden veel mensen een situatie onwenselijk. Er kunnen verschillende meningen over de oplossing zijn. Het vraagstuk kan aandacht krijgen in de media en kan door gezamenlijke actie of door de overheid worden aangepakt.\n• Als een maatschappelijk vraagstuk op de politieke agenda komt, kan de politiek bespreken of en hoe de overheid het moet aanpakken.\n• Politiek gaat over het maken van keuzes en beslissingen voor de samenleving.\n• Mensen en groepen kunnen verschillende belangen hebben. Deze belangen kunnen botsen.\n• Beleid is het plan van de overheid om een maatschappelijk vraagstuk aan te pakken.\n• Maatregelen zijn concrete acties of regels die onderdeel zijn van het beleid."
+    }
+  ]
+}

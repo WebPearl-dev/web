@@ -1,0 +1,544 @@
+{
+  "id": "mk_056",
+  "subject": "maatschappij",
+  "content_type": "practice_test",
+  "title": "Oefentoets – geïnspireerd op examen 2026-1",
+  "goal": "Je oefent met nieuwe examengerichte vragen over onderwerpen uit het examen maatschappijkunde vmbo-BB 2026-1.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Oefentoets examen 2026-1",
+      "text": "Dit zijn nieuwe oefenvragen, geïnspireerd op onderwerpen uit het examen maatschappijkunde vmbo-BB 2026-1. Lees elke vraag rustig en kies het antwoord dat het best past."
+    },
+    {
+      "type": "strategy",
+      "title": "Examentip",
+      "text": "Lees eerst de vraag, markeer belangrijke woorden en gebruik de informatie in de situatie. Denk na over welke instelling, taak, stroming of fase wordt bedoeld."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1 – Democratie en dictatuur",
+      "question": {
+        "id": "mk_056_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Democratie en dictatuur",
+        "skill": "Democratische kenmerken herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bij verkiezingen in een land is de uitslag vooraf vrijwel zeker en kunnen tegenstanders nauwelijks campagne voeren. Wat zegt dit vooral over het land?",
+        "answers": [
+          "Het land heeft automatisch een parlementaire democratie.",
+          "De verkiezingen zijn niet volledig vrij en eerlijk.",
+          "Alle inwoners hebben evenveel politieke invloed."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan eerlijke concurrentie tussen kandidaten.",
+        "feedback_correct": "Goed! Vrije verkiezingen vereisen dat tegenstanders eerlijk kunnen meedoen.",
+        "feedback_wrong": "Kijk nog eens naar de vraag: als tegenstanders nauwelijks campagne mogen voeren, zijn verkiezingen niet echt vrij. Een parlementaire democratie of gelijke invloed volgt daar niet uit.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2 – Wetgeving",
+      "question": {
+        "id": "mk_056_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "wetgeving",
+        "skill": "fasen van wetgeving herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een minister werkt een idee uit tot een voorstel voor een nieuwe landelijke wet. Welke stap is dit?",
+        "answers": [
+          "Het beoordelen van een vonnis",
+          "Het uitvoeren van de wet door de politie",
+          "Het voorbereiden van een wetsvoorstel"
+        ],
+        "correct_answer": 2,
+        "hint": "Dit gebeurt voordat het parlement over het voorstel stemt.",
+        "feedback_correct": "Goed! Een wetsvoorstel wordt voorbereid voordat het parlement het behandelt.",
+        "feedback_wrong": "Een minister werkt een idee uit tot een wetsvoorstel voordat het parlement erover stemt. De politie voert wetten uit en rechters beoordelen zaken.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3 – Parlement",
+      "question": {
+        "id": "mk_056_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Parlement",
+        "skill": "rollen van Eerste en Tweede Kamer onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke taak hoort bij de Tweede Kamer?",
+        "answers": [
+          "Een wetsvoorstel alleen goedkeuren of afwijzen.",
+          "Burgemeesters benoemen.",
+          "Wetsvoorstellen behandelen en de regering controleren."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan wat de gekozen volksvertegenwoordigers op landelijk niveau doen.",
+        "feedback_correct": "Goed! De Tweede Kamer behandelt wetsvoorstellen en controleert de regering. De Eerste Kamer stemt over wetsvoorstellen die de Tweede Kamer al heeft aangenomen.",
+        "feedback_wrong": "De Tweede Kamer behandelt wetsvoorstellen en controleert de regering. Het benoemen van burgemeesters of alleen stemmen over een wetsvoorstel beschrijft deze taak niet goed.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4 – Politieke invloed",
+      "question": {
+        "id": "mk_056_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "politieke invloed",
+        "skill": "mogelijkheden van maatschappelijke organisaties herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een groep wil voorkomen dat er een nieuwe regel komt. Een medewerker spreekt met Kamerleden en legt uit waarom de groep tegen de regel is. Welke manier van invloed gebruiken zij?",
+        "answers": [
+          "Lobbyen: politici persoonlijk proberen te overtuigen.",
+          "Een rechter vervangen.",
+          "Zelf een wet aannemen."
+        ],
+        "correct_answer": 0,
+        "hint": "De medewerker probeert politici met argumenten te overtuigen.",
+        "feedback_correct": "Goed! Bij lobbyen proberen mensen of organisaties politici met gesprekken en argumenten te overtuigen. Ze kunnen niet zelf een wet aannemen.",
+        "feedback_wrong": "De groep probeert politici met argumenten te overtuigen. Een groep kan niet zelf een wet aannemen of een rechter vervangen.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5 – Volksvertegenwoordiging",
+      "question": {
+        "id": "mk_056_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Parlement",
+        "skill": "volksvertegenwoordigers herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wie is een volksvertegenwoordiger?",
+        "answers": [
+          "Een burgemeester",
+          "Een gemeenteraadslid",
+          "Een wethouder"
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan iemand die gekozen is om inwoners te vertegenwoordigen.",
+        "feedback_correct": "Goed! Gemeenteraadsleden worden gekozen door inwoners en vertegenwoordigen hen.",
+        "feedback_wrong": "Een gemeenteraadslid wordt door inwoners gekozen en vertegenwoordigt hen. Een burgemeester en wethouder worden niet op dezelfde manier rechtstreeks door inwoners gekozen.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6 – Europese Unie",
+      "question": {
+        "id": "mk_056_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Europese Unie",
+        "skill": "EU-instellingen onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Ministers van EU-landen bespreken een Europese natuurwet en stemmen erover. Welke instelling is hierbij betrokken?",
+        "answers": [
+          "De Raad voor de Rechtspraak",
+          "De Nederlandse gemeenteraad",
+          "De Raad van de Europese Unie"
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan ministers uit de lidstaten.",
+        "feedback_correct": "Goed! In de Raad van de EU komen ministers uit de lidstaten bijeen.",
+        "feedback_wrong": "In de Raad van de Europese Unie overleggen ministers uit de EU-landen. Een Nederlandse gemeenteraad en de Raad voor de Rechtspraak hebben andere taken.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7 – Politieke stromingen",
+      "question": {
+        "id": "mk_056_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "liberale uitgangspunten herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een politieke partij vindt dat de overheid zich zo weinig mogelijk moet bemoeien met de keuzes die mensen in hun eigen leven maken. Welke stroming past hierbij?",
+        "answers": [
+          "Milieustroming (groene stroming)",
+          "Liberale stroming",
+          "Sociaaldemocratische stroming"
+        ],
+        "correct_answer": 1,
+        "hint": "Denk na over hoeveel vrijheid mensen volgens deze partij zelf moeten krijgen.",
+        "feedback_correct": "Goed! Het liberalisme legt veel nadruk op persoonlijke vrijheid en eigen verantwoordelijkheid.",
+        "feedback_wrong": "De liberale stroming benadrukt persoonlijke vrijheid en eigen verantwoordelijkheid. De milieustroming legt vooral nadruk op natuur en milieu; de sociaaldemocratische stroming op solidariteit en het verkleinen van verschillen.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8 – Verkiezingen",
+      "question": {
+        "id": "mk_056_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Verkiezingen en kiesstelsel",
+        "skill": "stemwijzers en politieke voorkeur begrijpen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een kiezer twijfelt tussen verschillende politieke partijen. Hoe kan een stemwijzer helpen?",
+        "answers": [
+          "Door vooraf de verkiezingsuitslag te bepalen.",
+          "Door antwoorden van de kiezer te vergelijken met standpunten van partijen.",
+          "Door namens de kiezer een stem uit te brengen."
+        ],
+        "correct_answer": 1,
+        "hint": "De kiezer krijgt informatie, maar maakt zelf de keuze.",
+        "feedback_correct": "Goed! Een stemwijzer vergelijkt jouw antwoorden met de standpunten van partijen. Je kiest daarna zelf op wie je stemt.",
+        "feedback_wrong": "Een stemwijzer vergelijkt jouw antwoorden met partijstandpunten. De stemwijzer brengt niet zelf je stem uit en bepaalt de verkiezingsuitslag niet.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9 – Belangengroepen",
+      "question": {
+        "id": "mk_056_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Belangengroepen",
+        "skill": "Belangengroepen herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een organisatie van patiënten vraagt de overheid om betere toegankelijkheid van ziekenhuizen. Wat is het belangrijkste doel van de organisatie?",
+        "answers": [
+          "Opkomen voor de belangen van patiënten.",
+          "Verkiezingen organiseren.",
+          "Rechters benoemen."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de groep voor wie de organisatie opkomt.",
+        "feedback_correct": "Goed! De organisatie komt op voor de belangen van patiënten en vraagt om betere zorg.",
+        "feedback_wrong": "De organisatie komt op voor patiënten en vraagt aandacht voor hun belangen. Rechters benoemen en verkiezingen organiseren zijn geen taken van deze belangengroep.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10 – Regering",
+      "question": {
+        "id": "mk_056_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Regering en kabinet",
+        "skill": "Troonrede en Prinsjesdag begrijpen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke rol heeft de koning op Prinsjesdag bij de plannen van de regering?",
+        "answers": [
+          "De koning vervangt de minister-president bij het maken van regeringsplannen.",
+          "De koning spreekt de Troonrede uit namens de regering.",
+          "De koning stelt zelfstandig het beleid van het kabinet vast."
+        ],
+        "correct_answer": 1,
+        "hint": "Maak onderscheid tussen het voorlezen van de plannen en het maken van het beleid.",
+        "feedback_correct": "Goed! De koning spreekt de Troonrede uit namens de regering. De regering is verantwoordelijk voor het beleid en de plannen.",
+        "feedback_wrong": "De koning leest de Troonrede voor, maar maakt niet zelfstandig het kabinetsbeleid. De gemeenteraad maakt plannen voor de gemeente, niet voor het hele land.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 11 – Gemeente",
+      "question": {
+        "id": "mk_056_q11",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Bestuur en overheid",
+        "skill": "gemeentelijke taken herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeente maakt plannen voor nieuwe woningen en past daarvoor het omgevingsplan aan. Over welke taak gaat dit?",
+        "answers": [
+          "Het leiden van de landelijke rechtspraak.",
+          "Ruimtelijke ordening (plannen maken voor het gebruik van de grond).",
+          "Het vaststellen van Europese verdragen."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan hoe grond en ruimte in de gemeente worden gebruikt.",
+        "feedback_correct": "Goed! Ruimtelijke ordening gaat over plannen maken voor het gebruik van grond en ruimte, bijvoorbeeld waar woningen komen.",
+        "feedback_wrong": "Ruimtelijke ordening gaat over plannen voor het gebruik van grond en ruimte. Europese verdragen en landelijke rechtspraak zijn andere taken.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 12 – Politieke besluitvorming",
+      "question": {
+        "id": "mk_056_q12",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Democratische besluitvorming",
+        "skill": "politieke besluitvorming herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "De gemeente wil weten waarom er vaak ongelukken gebeuren bij een kruispunt. Medewerkers bekijken cijfers en spreken met bewoners voordat er een maatregel wordt gekozen. Welke stap in de besluitvorming is dit?",
+        "answers": [
+          "Probleem herkennen en onderzoeken.",
+          "De resultaten achteraf evalueren.",
+          "Het beleid uitvoeren."
+        ],
+        "correct_answer": 0,
+        "hint": "De gemeente verzamelt eerst informatie om te begrijpen wat er aan de hand is.",
+        "feedback_correct": "Goed! De gemeente onderzoekt eerst wat er aan de hand is. Pas daarna kan zij een passende maatregel kiezen.",
+        "feedback_wrong": "De gemeente verzamelt informatie om te begrijpen waarom het probleem ontstaat. Uitvoeren gebeurt nadat beleid is gekozen; evalueren gebeurt achteraf.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 13 – Democratie",
+      "question": {
+        "id": "mk_056_q13",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "democratie",
+        "skill": "vrijheid van oppositie herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "In een democratie mogen partijen kritiek geven op de regering en deelnemen aan verkiezingen. Waarom is dat belangrijk?",
+        "answers": [
+          "De regering hoeft zich niet te verantwoorden.",
+          "Alle besluiten worden door rechters genomen.",
+          "Kiezers kunnen verschillende ideeën vergelijken."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan politieke keuzevrijheid.",
+        "feedback_correct": "Goed! Een democratie biedt ruimte aan verschillende partijen en standpunten.",
+        "feedback_wrong": "In een democratie kunnen kiezers verschillende ideeën vergelijken en kiezen. De regering moet zich wel verantwoorden en rechters nemen niet alle politieke besluiten.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 14 – Media",
+      "question": {
+        "id": "mk_056_q14",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "media",
+        "skill": "Mediafuncties herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een krant onderzoekt of de gemeente het geld voor een nieuw buurthuis volgens de gemaakte afspraken heeft besteed. Welke functie van de media staat centraal?",
+        "answers": [
+          "De ontspanningsfunctie",
+          "De verkoopfunctie",
+          "De controlerende functie"
+        ],
+        "correct_answer": 2,
+        "hint": "De journalist onderzoekt kritisch of het gemeentebestuur zich aan de afspraken houdt.",
+        "feedback_correct": "Goed! De controlerende functie betekent dat journalisten onderzoeken of machthebbers hun werk goed doen en zich aan gemaakte afspraken houden.",
+        "feedback_wrong": "De controlerende functie gaat over het kritisch controleren van machthebbers, bijvoorbeeld of een gemeentebestuur geld volgens de afspraken besteedt. De ontspanningsfunctie is bedoeld om mensen te vermaken. De verkoopfunctie is gericht op het verkopen van producten.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 15 – Politieke partijen",
+      "question": {
+        "id": "mk_056_q15",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Politieke partijen en stromingen",
+        "skill": "Standpunten vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Partij A wil meer steun voor mensen met lage inkomens. Partij B wil vooral belastingen verlagen en burgers meer zelf laten regelen. Wat laten deze standpunten zien?",
+        "answers": [
+          "Alle politieke partijen willen hetzelfde beleid.",
+          "Partijen kunnen verschillende politieke uitgangspunten hebben.",
+          "Partijen voeren rechterlijke uitspraken uit."
+        ],
+        "correct_answer": 1,
+        "hint": "Vergelijk de verschillende keuzes van de partijen.",
+        "feedback_correct": "Goed! Partijen verschillen in hun ideeën over de rol van de overheid.",
+        "feedback_wrong": "Partijen kunnen verschillende ideeën hebben over wat de overheid moet doen. Niet alle partijen willen hetzelfde en partijen voeren niet zelf rechterlijke uitspraken uit.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 16 – Rechten en vrijheden",
+      "question": {
+        "id": "mk_056_q16",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Rechtsstaat en rechten",
+        "skill": "Demonstratierecht toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Inwoners houden een vreedzame demonstratie tegen een plan van de gemeente. Welk grondrecht speelt hierbij?",
+        "answers": [
+          "Vrijheid van vergadering en betoging",
+          "Recht op een uitkering",
+          "Recht op onderwijs"
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan het recht om gezamenlijk protest te laten horen.",
+        "feedback_correct": "Goed! Het demonstratierecht is een grondrecht, binnen de wettelijke voorwaarden.",
+        "feedback_wrong": "Bij een vreedzame demonstratie gaat het om vrijheid van vergadering en betoging. Onderwijs en een uitkering zijn andere rechten.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 17 – Politieke besluitvorming",
+      "question": {
+        "id": "mk_056_q17",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Democratische besluitvorming",
+        "skill": "Belangengroepen invloed laten uitoefenen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een buurtgroep verzamelt handtekeningen onder een verzoek om een gevaarlijke weg veiliger te maken. Welke manier om invloed uit te oefenen gebruikt de groep?",
+        "answers": [
+          "Een geheime stemming in het parlement houden.",
+          "Een rechterlijke uitspraak doen.",
+          "Een petitie aanbieden."
+        ],
+        "correct_answer": 2,
+        "hint": "De groep verzamelt handtekeningen om een verzoek kracht bij te zetten.",
+        "feedback_correct": "Goed! Bij een petitie verzamelen mensen handtekeningen om te laten zien dat veel mensen een verzoek steunen.",
+        "feedback_wrong": "Een petitie is een verzoek waarbij mensen vaak handtekeningen verzamelen. Een rechterlijke uitspraak komt van een rechter en een parlementaire stemming is een besluit van het parlement.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 18 – Europese Unie",
+      "question": {
+        "id": "mk_056_q18",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Europese Unie",
+        "skill": "EU-besluitvorming herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Welke EU-instelling wordt rechtstreeks gekozen door inwoners van de EU-landen en bespreekt Europese wetsvoorstellen?",
+        "answers": [
+          "Het Europees Parlement.",
+          "De Europese Commissie.",
+          "De Raad van de Europese Unie."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan de EU-instelling die de inwoners van de lidstaten vertegenwoordigt.",
+        "feedback_correct": "Goed! Het Europees Parlement wordt rechtstreeks gekozen door inwoners van EU-landen en bespreekt Europese wetsvoorstellen samen met de Raad van de Europese Unie.",
+        "feedback_wrong": "Het Europees Parlement vertegenwoordigt de inwoners van EU-landen en wordt rechtstreeks gekozen. De Europese Commissie doet meestal wetsvoorstellen; de Raad van de Europese Unie vertegenwoordigt de regeringen van de lidstaten.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 19 – Politieke begrippen",
+      "question": {
+        "id": "mk_056_q19",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "politieke begrippen",
+        "skill": "politieke standpunten herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een partij zegt dat er meer geld naar openbaar vervoer moet gaan. Wat is dit?",
+        "answers": [
+          "Een politiek standpunt",
+          "Een verkiezingsuitslag",
+          "Een rechterlijk vonnis"
+        ],
+        "correct_answer": 0,
+        "hint": "Het gaat om wat een partij wil.",
+        "feedback_correct": "Goed! Een politiek standpunt laat zien welk plan of welke oplossing een partij kiest.",
+        "feedback_wrong": "Een politiek standpunt laat zien welk plan of welke oplossing een partij kiest. Een rechterlijk vonnis is een uitspraak van een rechter; een verkiezingsuitslag laat zien hoe er is gestemd.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 20 – Bestuurslagen",
+      "question": {
+        "id": "mk_056_q20",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/4",
+        "syllabus_section": "4.2",
+        "topic": "Bestuur en overheid",
+        "skill": "gemeente en provincie onderscheiden",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een besluit gaat over busverbindingen tussen verschillende gemeenten en over wegen die meerdere gemeenten verbinden. Welke bestuurslaag past daar het best bij?",
+        "answers": [
+          "De gemeente.",
+          "Het Rijk.",
+          "De provincie."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan een bestuurslaag die zich bezighoudt met onderwerpen die meerdere gemeenten raken.",
+        "feedback_correct": "Goed! De provincie houdt zich onder meer bezig met regionale busverbindingen en provinciale wegen.",
+        "feedback_wrong": "De provincie houdt zich onder meer bezig met regionale verbindingen en provinciale wegen. Een gemeente regelt vooral zaken binnen de eigen gemeente; het Rijk maakt landelijk beleid.",
+        "source": "Zelf geformuleerde oefenvraag, geïnspireerd op examen 2026-1",
+        "source_reference": "Examen maatschappijkunde vmbo-BB 2026-1"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Klaar met oefenen",
+      "text": "Goed gewerkt! Bekijk bij fouten de feedback en oefen daarna eventueel opnieuw."
+    }
+  ]
+}

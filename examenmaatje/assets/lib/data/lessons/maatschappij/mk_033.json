@@ -1,0 +1,371 @@
+{
+  "id": "mk_033",
+  "subject": "maatschappij",
+  "title": "Les 33 – Misdrijven en overtredingen",
+  "goal": "Je leert het verschil tussen een misdrijf en een overtreding. Je leert voorbeelden van beide soorten strafbare feiten herkennen in het dagelijks leven.",
+  "steps": [
+    {
+      "type": "intro",
+      "title": "Misdrijven en overtredingen",
+      "text": "In de vorige les heb je geleerd wat criminaliteit is: gedrag dat volgens de wet strafbaar is. Niet ieder strafbaar feit is hetzelfde. Het is bijvoorbeeld iets anders als je een verkeersregel overtreedt dan wanneer je een fiets steelt of iemand mishandelt. De wet verdeelt strafbare feiten in twee groepen: overtredingen en misdrijven. In deze les leer je hoe je voorbeelden van beide groepen kunt herkennen."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een overtreding?",
+      "text": "Een overtreding is een categorie van strafbare feiten die in het algemeen minder ernstig zijn dan misdrijven. Voorbeelden zijn bepaalde verkeersovertredingen en overtredingen van regels voor de openbare ruimte. Een overtreding kan bijvoorbeeld worden bestraft met een geldboete.",
+      "terms": [
+        {
+          "term": "overtreding",
+          "meaning": "een categorie van strafbare feiten die in het algemeen minder ernstig zijn dan misdrijven"
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeelden van overtredingen",
+      "text": "Voorbeelden zijn wildplassen, openbare dronkenschap en burenoverlast. Ook bepaalde verkeersovertredingen kunnen onder deze categorie vallen. Welke categorie juridisch van toepassing is, wordt bepaald door de wet."
+    },
+    {
+      "type": "explanation",
+      "title": "Wat is een misdrijf?",
+      "text": "Een misdrijf is een categorie van strafbare feiten die in het algemeen ernstiger zijn dan overtredingen. Voorbeelden zijn diefstal, mishandeling, inbraak en vernieling. Voor een misdrijf kan een geldboete, taakstraf of gevangenisstraf gelden. De mogelijke straf hangt af van het strafbare feit en de omstandigheden.",
+      "terms": [
+        {
+          "term": "misdrijf",
+          "meaning": "een categorie van strafbare feiten die in het algemeen ernstiger zijn dan overtredingen"
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "title": "Wie bepaalt het verschil?",
+      "text": "De wet bepaalt of een strafbaar feit een overtreding of een misdrijf is. Je kunt dus niet alleen op basis van je eigen gevoel bepalen in welke categorie een feit valt. De wet legt vast welk gedrag strafbaar is en of het om een overtreding of een misdrijf gaat."
+    },
+    {
+      "type": "chart",
+      "title": "Overtreding en misdrijf vergelijken",
+      "headers": [
+        "Kenmerk",
+        "Overtreding",
+        "Misdrijf"
+      ],
+      "rows": [
+        [
+          "Categorie",
+          "In het algemeen minder ernstig.",
+          "In het algemeen ernstiger."
+        ],
+        [
+          "Voorbeelden",
+          "Wildplassen, openbare dronkenschap of burenoverlast.",
+          "Diefstal, mishandeling, inbraak of vernieling."
+        ],
+        [
+          "Mogelijke straf",
+          "Bijvoorbeeld een geldboete.",
+          "Bijvoorbeeld een geldboete, taakstraf of gevangenisstraf."
+        ],
+        [
+          "Belangrijk om te weten",
+          "De wet bepaalt of het feit een overtreding is.",
+          "De wet bepaalt of het feit een misdrijf is."
+        ]
+      ]
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld 1: wildplassen",
+      "text": "Iemand plast tegen de muur van een winkel op een plek waar wildplassen verboden is. Dit kan een overtreding zijn. Wildplassen is een voorbeeld van een overtreding dat in de syllabus wordt genoemd."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld 2: diefstal",
+      "text": "Iemand breekt de berging van de buren open en steelt een elektrische fiets. Diefstal is een misdrijf. Voor dit strafbare feit kan een straf volgen. Welke straf passend is, hangt onder andere af van de omstandigheden en de wet."
+    },
+    {
+      "type": "explanation",
+      "title": "Voorbeeld 3: vernieling",
+      "text": "Een groep jongeren trapt opzettelijk de ruiten van een bushokje in. Het opzettelijk vernielen van andermans spullen kan strafbaar zijn. Vernieling is een voorbeeld van een misdrijf."
+    },
+    {
+      "type": "strategy",
+      "title": "Zo houd je ze uit elkaar",
+      "text": "Gebruik deze stappen: 1. Lees wat iemand heeft gedaan. 2. Bedenk of het gedrag strafbaar is. 3. Herken het voorbeeld: wildplassen kan een overtreding zijn; diefstal, mishandeling en vernieling zijn voorbeelden van misdrijven. 4. Onthoud dat de wet uiteindelijk bepaalt in welke categorie het feit valt."
+    },
+    {
+      "type": "question",
+      "title": "Vraag 1",
+      "question": {
+        "id": "mk_033_q01",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.1",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Overeenkomst herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wat is de overeenkomst tussen een overtreding en een misdrijf?",
+        "context": "",
+        "answers": [
+          "Het zijn allebei strafbare feiten.",
+          "Je krijgt bij allebei altijd een gevangenisstraf.",
+          "Een overtreding is niet strafbaar."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk aan wat beide soorten feiten met de wet te maken hebben.",
+        "feedback_correct": "Goed gedaan! Zowel een overtreding als een misdrijf is een strafbaar feit.",
+        "feedback_wrong": "Denk aan de belangrijkste overeenkomst: beide soorten feiten zijn volgens de wet strafbaar.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 2",
+      "question": {
+        "id": "mk_033_q02",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.2",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Overtreding herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Iemand plast op straat tegen de muur van een winkel op een plek waar wildplassen verboden is. Welke categorie past bij dit voorbeeld?",
+        "context": "",
+        "answers": [
+          "Een misdrijf.",
+          "Een overtreding.",
+          "Een grondrecht."
+        ],
+        "correct_answer": 1,
+        "hint": "Wildplassen wordt in de syllabus genoemd als voorbeeld van een overtreding.",
+        "feedback_correct": "Juist! Wildplassen kan een overtreding zijn.",
+        "feedback_wrong": "Kijk nog eens naar de voorbeelden van overtredingen. Wildplassen is er daar één van.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 3",
+      "question": {
+        "id": "mk_033_q03",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.2",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Misdrijf herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een man slaat tijdens een ruzie een winkelier. De winkelier raakt gewond. Hoe noemen we mishandeling in de wet?",
+        "context": "",
+        "answers": [
+          "Een overtreding.",
+          "Een misdrijf.",
+          "Een verkeersregel."
+        ],
+        "correct_answer": 1,
+        "hint": "Mishandeling wordt in de syllabus genoemd als voorbeeld van een misdrijf.",
+        "feedback_correct": "Goed gezien! Mishandeling is een voorbeeld van een misdrijf.",
+        "feedback_wrong": "Denk aan de voorbeelden van misdrijven uit de uitleg. Mishandeling hoort daarbij.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 4",
+      "question": {
+        "id": "mk_033_q04",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.2",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Twee situaties vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Bekijk de twee situaties. Situatie 1: iemand plast op straat op een plek waar wildplassen verboden is. Situatie 2: iemand vernielt opzettelijk het bushokje bij een bushalte. Welke indeling past bij deze voorbeelden?",
+        "context": "",
+        "answers": [
+          "Situatie 1 is een misdrijf en situatie 2 is een overtreding.",
+          "Situatie 1 is een overtreding en situatie 2 is een misdrijf.",
+          "Beide situaties zijn altijd misdrijven."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan de voorbeelden van overtredingen en misdrijven uit de uitleg.",
+        "feedback_correct": "Goed gedaan! Wildplassen kan een overtreding zijn. Opzettelijke vernieling is een voorbeeld van een misdrijf.",
+        "feedback_wrong": "Kijk nog eens naar de voorbeelden in de les. Wildplassen kan een overtreding zijn en vernieling is een voorbeeld van een misdrijf.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 5",
+      "question": {
+        "id": "mk_033_q05",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.1",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Rol van de wet herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Wie of wat bepaalt officieel of een strafbaar feit een overtreding of een misdrijf is?",
+        "context": "",
+        "answers": [
+          "De reacties van mensen op sociale media.",
+          "De wet.",
+          "De persoon die het strafbare feit pleegt."
+        ],
+        "correct_answer": 1,
+        "hint": "Denk aan waar officieel is vastgelegd welk gedrag strafbaar is.",
+        "feedback_correct": "Uitstekend! De wet deelt strafbare feiten in als overtredingen of misdrijven.",
+        "feedback_wrong": "Denk aan de uitleg: de indeling staat in de wet, niet in de mening van mensen.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 6",
+      "question": {
+        "id": "mk_033_q06",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.3",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Voorbeeld uit de Wegenverkeerswet herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een bromfietser rijdt zonder helm. Welke categorie past volgens het voorbeeld uit de syllabus bij dit gedrag?",
+        "context": "",
+        "answers": [
+          "Een misdrijf.",
+          "Een overtreding.",
+          "Een grondrecht."
+        ],
+        "correct_answer": 1,
+        "hint": "De syllabus noemt rijden zonder helm op een bromfiets als voorbeeld van een verkeersovertreding.",
+        "feedback_correct": "Juist! Rijden zonder helm op een bromfiets wordt in de syllabus genoemd als voorbeeld van een overtreding.",
+        "feedback_wrong": "Kijk naar het voorbeeld uit de Wegenverkeerswet. Rijden zonder helm op een bromfiets is een voorbeeld van een overtreding.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 7",
+      "question": {
+        "id": "mk_033_q07",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.2",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Twee situaties vergelijken",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Kijk naar twee situaties. Persoon X plast op een plek waar wildplassen verboden is. Persoon Y steelt een telefoon uit de tas van een ander. Welke indeling past bij deze voorbeelden?",
+        "context": "",
+        "answers": [
+          "Persoon X pleegt een misdrijf en persoon Y een overtreding.",
+          "Persoon X pleegt een overtreding en persoon Y een misdrijf.",
+          "Beide personen overtreden alleen een verkeersregel."
+        ],
+        "correct_answer": 1,
+        "hint": "Wildplassen en diefstal worden in de syllabus bij verschillende categorieën genoemd.",
+        "feedback_correct": "Juist! Wildplassen kan een overtreding zijn; diefstal is een voorbeeld van een misdrijf.",
+        "feedback_wrong": "Denk aan de voorbeelden uit de syllabus: wildplassen is een voorbeeld van een overtreding en diefstal van een misdrijf.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 8",
+      "question": {
+        "id": "mk_033_q08",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.1",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Een onjuiste redenering herkennen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Sam zegt: \"Ik vind foutparkeren heel erg. Daarom moet foutparkeren volgens de wet een misdrijf zijn.\" Welke reactie is het beste?",
+        "context": "",
+        "answers": [
+          "Sam heeft gelijk, want iedereen bepaalt zelf of iets een misdrijf is.",
+          "Sam heeft gelijk als veel mensen het met hem eens zijn.",
+          "Sam heeft geen gelijk, want de wet bepaalt of een strafbaar feit een overtreding of een misdrijf is."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan het verschil tussen je eigen mening en wat in de wet staat.",
+        "feedback_correct": "Precies! Je eigen mening bepaalt niet de juridische categorie. De wet bepaalt of een strafbaar feit een overtreding of een misdrijf is.",
+        "feedback_wrong": "Denk aan de uitleg over de rol van de wet. De indeling hangt niet af van wat iemand persoonlijk ernstig vindt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 9",
+      "question": {
+        "id": "mk_033_q09",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.2",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Een voorbeeld indelen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een leerling deelt twee voorbeelden in: diefstal is volgens hem een misdrijf en wildplassen is volgens hem een overtreding. Hoe heeft de leerling deze voorbeelden ingedeeld?",
+        "context": "",
+        "answers": [
+          "Hij heeft beide voorbeelden bij de juiste categorie gezet.",
+          "Hij heeft beide voorbeelden bij de verkeerde categorie gezet.",
+          "Hij heeft diefstal goed ingedeeld, maar wildplassen niet."
+        ],
+        "correct_answer": 0,
+        "hint": "Denk terug aan de voorbeelden van diefstal en wildplassen in de les.",
+        "feedback_correct": "Goed gedaan! Diefstal is een voorbeeld van een misdrijf en wildplassen kan een overtreding zijn.",
+        "feedback_wrong": "Kijk nog eens naar de voorbeelden in de les. Diefstal is een misdrijf en wildplassen kan een overtreding zijn.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "question",
+      "title": "Vraag 10",
+      "question": {
+        "id": "mk_033_q10",
+        "subject": "maatschappij",
+        "syllabus": "ML2/K/8",
+        "syllabus_section": "8.1.1",
+        "topic": "Misdrijven en overtredingen",
+        "skill": "Uitleg toepassen",
+        "level": "BB",
+        "type": "multiple_choice",
+        "question": "Een leerling zegt: \"Als ik iets heel erg vind, dan is het volgens de wet automatisch een misdrijf.\" Welke reactie is het beste?",
+        "context": "",
+        "answers": [
+          "Dat klopt, want iedereen bepaalt zelf wat juridisch een misdrijf is.",
+          "Dat klopt alleen als er veel mensen boos over zijn.",
+          "Dat klopt niet. De wet bepaalt of een strafbaar feit een overtreding of een misdrijf is."
+        ],
+        "correct_answer": 2,
+        "hint": "Denk aan het verschil tussen je eigen mening en wat officieel in de wet staat.",
+        "feedback_correct": "Precies! Je eigen mening bepaalt niet de juridische categorie. De wet deelt strafbare feiten in als overtredingen of misdrijven.",
+        "feedback_wrong": "Denk aan de uitleg over de rol van de wet. De indeling hangt niet af van wat iemand persoonlijk ernstig vindt.",
+        "source": "Eigen voorbeeld",
+        "source_reference": "Syllabus Maatschappijkunde vmbo 2027"
+      }
+    },
+    {
+      "type": "finish",
+      "title": "Dit moet je onthouden",
+      "text": "Overtredingen en misdrijven zijn allebei strafbare feiten. De wet verdeelt strafbare feiten in deze twee categorieën. Voorbeelden van overtredingen zijn wildplassen, openbare dronkenschap en burenoverlast. Voorbeelden van misdrijven zijn diefstal, mishandeling, inbraak en vernieling. De mogelijke straf hangt af van het strafbare feit en de omstandigheden."
+    }
+  ]
+}
