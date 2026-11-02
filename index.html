@@ -3,62 +3,174 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Klaske haar Kookworkshops - De App</title>
+    <title>WebPe@rl App Portfolio</title>
+
     <style>
         :root {
             --bg-light: #FFFDF9;
             --panel-white: #ffffff;
             --orange-accent: #FF9800;
+            --green-accent: #4CAF50;
             --text-dark: #333333;
             --text-muted: #666666;
         }
-        body { font-family: 'Segoe UI', system-ui, sans-serif; margin: 0; padding: 0; background-color: var(--bg-light); color: var(--text-dark); line-height: 1.6; }
-        .container { max-width: 900px; margin: 0 auto; padding: 20px; }
-        header { background: linear-gradient(180deg, #FFE0B2 0%, var(--bg-light) 100%); padding: 60px 20px; text-align: center; border-radius: 0 0 30px 30px; }
-        .back-btn { display: inline-block; color: var(--orange-accent); text-decoration: none; font-weight: bold; margin: 20px; }
-        .btn-group { margin-top: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; }
-        .download-btn { display: inline-block; background: var(--orange-accent); color: white; padding: 16px 40px; text-decoration: none; border-radius: 50px; font-weight: bold; box-shadow: 0 4px 15px rgba(255,152,0,0.3); }
-        .app-preview-btn { display: inline-block; background: #4CAF50; color: white; padding: 16px 40px; text-decoration: none; border-radius: 50px; font-weight: bold; box-shadow: 0 4px 15px rgba(76,175,80,0.3); }
-        .policy-box { margin-top: 60px; padding: 30px; background-color: #fff; border-radius: 20px; border: 1px solid #eee; }
-        h1 { font-size: 2.5rem; margin-bottom: 10px; }
-        h2 { color: var(--orange-accent); }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: var(--bg-light);
+            color: var(--text-dark);
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 20px;
+            background: linear-gradient(180deg, #FFE0B2 0%, var(--bg-light) 100%);
+        }
+
+        header h1 {
+            margin-bottom: 10px;
+        }
+
+        header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+
+        .apps-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+        }
+
+        .app-card {
+            background: var(--panel-white);
+            border-radius: 24px;
+            padding: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+
+        .app-card h2 {
+            margin-top: 0;
+            color: var(--orange-accent);
+        }
+
+        .app-card p {
+            color: var(--text-muted);
+        }
+
+        .btn-group {
+            margin-top: 25px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .download-btn,
+        .preview-btn {
+            text-decoration: none;
+            color: white;
+            padding: 14px 24px;
+            border-radius: 50px;
+            font-weight: bold;
+            transition: transform 0.2s ease;
+        }
+
+        .download-btn:hover,
+        .preview-btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .download-btn {
+            background: var(--orange-accent);
+        }
+
+        .preview-btn {
+            background: var(--green-accent);
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: #999;
+        }
     </style>
 </head>
 <body>
 
-    <a href="index.html" class="back-btn">&larr; Terug naar overzicht</a>
-
     <header>
-        <div class="container">
-            <h1>Klaske haar Kookworkshops</h1>
-            <p style="font-size: 1.2rem; color: var(--text-muted);">Met een beetje liefde, geduld en creativiteit kan ieder kind leren koken!</p>
-            
-            <div class="btn-group">
-                <a href="https://play.google.com/store/apps/details?id=nl.webpearl.klaske" class="download-btn">Download in Play Store</a>
-                <a href="klaske/index.html" class="app-preview-btn">Start Web Preview</a>
-            </div>
-        </div>
+        <h1>WebPe@rl Apps</h1>
+        <p>Download onze apps of bekijk direct de web previews.</p>
     </header>
 
     <main class="container">
-        <h2>Over de App</h2>
-        <p>Ontdek de vrolijke wereld van Klaske's Kookworkshops! Bekijk recepten, kookvideo's en boek een workshop direct vanuit de app. Deze preview versie is bedoeld om een indruk te krijgen van de functies en het design.</p>
-        
-        <div class="policy-box">
-            <h2>Privacy Policy</h2>
-            <p><strong>Laatst bijgewerkt: 06-09-2026</strong></p>
-            <p>Klaske haar Kookworkshops ("de App") is ontwikkeld door <strong>WebPe@rl</strong>. Wij waarderen uw privacy en de App is ontworpen met het oog op dataminimalisatie.</p>
-            <h3>1. Gegevens</h3>
-            <p>Wij verzamelen geen direct identificeerbare privégegevens op onze servers. Favorieten worden uitsluitend lokaal op uw apparaat opgeslagen.</p>
-            <h3>2. Diensten van Derden</h3>
-            <p>De app toont live recepten via een beveiligde verbinding met de website van Klaske. Bij het bekijken van recepten gelden de privacy-instellingen van de website zelf.</p>
-            <h3>3. Contact</h3>
-            <p>Vragen? Neem contact op via <strong>webpearl@proton.me</strong></p>
+
+        <div class="apps-grid">
+
+            <!-- KLASKE -->
+            <div class="app-card">
+                <h2>Klaske haar Kookworkshops</h2>
+
+                <p>
+                    Met een beetje liefde, geduld en creativiteit kan ieder kind leren koken.
+                    Ontdek recepten, video’s en workshops van Klaske.
+                </p>
+
+                <div class="btn-group">
+                    <a href="https://play.google.com/store/apps/details?id=nl.webpearl.klaske"
+                       class="download-btn"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Download in Play Store
+                    </a>
+
+                    <a href="klaske/index.html"
+                       class="preview-btn">
+                        Start Web Preview
+                    </a>
+                </div>
+            </div>
+
+            <!-- EXAMEN MAATJE -->
+            <div class="app-card">
+                <h2>Examen Maatje</h2>
+
+                <p>
+                    Bereid je slim voor op toetsen en examens. Oefen, leer en vergroot
+                    je slagingskansen met Examen Maatje.
+                </p>
+
+                <div class="btn-group">
+                    <a href="https://play.google.com/store/apps/details?id=nl.webpearl.maatschappijmaatje"
+                       class="download-btn"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Download in Play Store
+                    </a>
+
+                    <a href="examenmaatje/index.html"
+                       class="preview-btn">
+                        Start Web Preview
+                    </a>
+                </div>
+            </div>
+
         </div>
+
     </main>
 
-    <footer style="text-align: center; padding: 40px; color: #999; font-size: 0.9rem;">
-        &copy; 2026 Klaske haar Kookworkshops | Ontwikkeld door WebPe@rl
+    <footer>
+        &copy; 2026 WebPe@rl - Alle rechten voorbehouden.
     </footer>
 
 </body>
